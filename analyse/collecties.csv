@@ -1,0 +1,16 @@
+id;titel;handle;type;regels;producten;beschrijving_woorden;aanspreekvorm;meta_titel;meta_description;afbeelding;sortering;template;bijgewerkt
+672047202643;Adviezen;adviezen;handmatig;handmatig;1;0;-;nee;nee;nee;BEST_SELLING;;2026-03-30
+686448640339;Amsterdam;amsterdam;automatisch;TITLE CONTAINS 'Amsterdam';4;78;u;nee;nee;nee;BEST_SELLING;;2026-06-07
+649166618963;Bestsellers;bestsellers;automatisch;VARIANT_PRICE GREATER_THAN '490' EN VARIANT_PRICE LESS_THAN '3000';31;3;-;nee;nee;nee;BEST_SELLING;;2026-08-12
+686445134163;Bow;boog;automatisch;TITLE CONTAINS 'Boog' EN TITLE NOT_CONTAINS 'Regen' EN TITLE NOT_CONTAINS 'Bow';2;53;-;nee;nee;nee;BEST_SELLING;;2026-06-07
+686450016595;Breeze;breeze;automatisch;TITLE CONTAINS 'Breeze';4;97;u;nee;nee;nee;BEST_SELLING;;2026-08-12
+686444413267;Cloud;cloud;automatisch;TITLE CONTAINS 'Cloud' OF TITLE CONTAINS 'wolk';9;104;u;nee;nee;nee;BEST_SELLING;;2026-06-07
+686449721683;EDO;edo;automatisch;TITLE CONTAINS 'EDO';2;76;u;nee;nee;nee;BEST_SELLING;;2026-06-07
+686444937555;Egg;eier;automatisch;TITLE CONTAINS 'eier' OF TITLE CONTAINS 'egg';3;78;u;nee;nee;nee;BEST_SELLING;;2026-08-12
+648939962707;Homepage;frontpage;handmatig;handmatig;1;0;-;nee;nee;nee;BEST_SELLING;;2026-03-30
+686448902483;Kathmandu;kathmandu;automatisch;TITLE CONTAINS 'Kathmandu';4;81;u;nee;nee;nee;BEST_SELLING;;2026-06-07
+686448345427;Luna;luna;automatisch;TITLE CONTAINS 'Luna' OF TITLE CONTAINS 'maan';3;73;-;nee;nee;nee;BEST_SELLING;;2026-08-12
+686448935251;Panda;panda;automatisch;TITLE CONTAINS 'Panda';6;131;u;nee;nee;nee;BEST_SELLING;;2026-06-07
+686445330771;Rainbow;rainbow;automatisch;TITLE CONTAINS 'Regenboog' OF TITLE CONTAINS 'rainbow';4;48;-;nee;nee;nee;BEST_SELLING;;2026-06-07
+686449131859;rocking;rocking;automatisch;TITLE CONTAINS 'Schommel' OF TITLE CONTAINS 'Rock';5;54;u;nee;nee;nee;BEST_SELLING;;2026-06-07
+686443102547;Whale;whale;automatisch;TITLE CONTAINS 'Whale' OF TITLE CONTAINS 'walvis';3;42;-;nee;nee;nee;BEST_SELLING;;2026-06-07

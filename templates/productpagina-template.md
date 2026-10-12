@@ -1,6 +1,6 @@
 # Template productpagina · Inhuys
 
-Versie 0.1 · voorstel uit fase 2, nog niet in gebruik
+Versie 1.0 · voorstel uit fase 2, nog niet in gebruik
 
 Gebruik dit bestand als invulformulier per product. Vul elk veld in, lever het als concept op, en zet het pas na akkoord in Shopify. Fabrikantinformatie is een bron voor de feiten in de specificaties; geen enkele zin wordt overgenomen.
 
@@ -22,7 +22,7 @@ Gebruik dit bestand als invulformulier per product. Vul elk veld in, lever het a
 
 ## Titel (H1)
 
-Patroon: `{Productnaam} · {materiaal} {productsoort}`
+Patroon: `{Model} {productsoort} {onderscheidend kenmerk}`, bijvoorbeeld "Breeze eetkamerstoel in boucle (set van 2)". Kleur niet in de titel maar als variant.
 
 > 
 
@@ -100,10 +100,10 @@ Drie tot vijf vragen, antwoord van maximaal drie zinnen.
 
 | Veld | Waarde | Controle |
 |---|---|---|
-| Meta-titel | | 50 tot 60 tekens, zoekterm vooraan |
+| Meta-titel | | 50 tot 60 tekens, zoekterm vooraan, eindigt op "| InHuys"; geen generieke toevoeging als "design stoel" |
 | Meta-description | | 120 tot 155 tekens |
-| Handle (nieuw) | | `{productsoort}-{materiaal}-{naam}`; redirect vanaf oude handle |
-| Alt-tekst beeld 1 (sfeer) | | `{naam}, {materiaal} {soort}, {wat het beeld toont}` |
+| Handle (nieuw) | | `{productsoort}-{model}-{kenmerk}`; redirect vanaf oude handle |
+| Alt-tekst beeld 1 (sfeer) | | `{model} {soort}, {kleur/materiaal}, {wat het beeld toont}`; elk beeld een andere alt-tekst |
 | Alt-tekst beeld 2 (vrijstaand) | | |
 | Alt-tekst beeld 3 (detail) | | |
 | Alt-tekst overige beelden | | |

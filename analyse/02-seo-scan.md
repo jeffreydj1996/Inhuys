@@ -1,10 +1,10 @@
 # SEO-scan · fase 1
 
-Versie 0.1 · 12 oktober 2026
+Versie 1.0 · 12 oktober 2026
 
-**Reikwijdte.** Eerste scan op basis van wat zoekmachines van www.in-huys.nl laten zien. De winkel zelf en de Shopify Admin waren niet bereikbaar (zie README). Technische metingen (laadsnelheid, Core Web Vitals, gestructureerde data, canonicals, sitemap) staan daarom als *te verifiëren*. De bevindingen over indexatie, paginatitels en sitestructuur zijn wel hard.
+**Reikwijdte.** Gebaseerd op de Shopify Admin API (producten, collecties, pagina's, blogs, menu's, verkoopkanalen, alle thema-bestanden van het live thema Minimog 5.7.0) en op wat zoekmachines van www.in-huys.nl laten zien. Drie controles kunnen alleen in een browser of in Google-tools en staan in sectie 4.
 
-**Legenda:** ✅ geverifieerd · ⚠️ aanname · ❌ te verifiëren zodra toegang beschikbaar is
+**Legenda:** ✅ geverifieerd · ⚠️ voorstel · ❌ alleen in de browser te controleren
 
 ---
 
@@ -12,121 +12,141 @@ Versie 0.1 · 12 oktober 2026
 
 | Punt | Toelichting |
 |---|---|
-| ✅ Shopify als basis | Standaard goed: HTTPS, mobiel, automatische sitemap, canonical-tags, snelle hosting. De technische basis hoeft niet gebouwd te worden, alleen gecontroleerd. |
-| ✅ Schone URL-structuur | `/collections/...`, `/products/...`, `/pages/...` zonder parameters of codes. |
-| ✅ De juiste pijlers bestaan al | Interieuradvies en Inspiratie staan in het menu. Dat zijn precies de twee pijlers waarmee een bureau autoriteit opbouwt. Ze zijn nu alleen nog leeg. |
-| ✅ Een gezicht achter het merk | "Ik ben Sylvana" is een echt vertrouwenssignaal. Google beloont aantoonbare expertise (ervaring, deskundigheid, autoriteit, betrouwbaarheid) steeds zwaarder. |
-| ✅ Producten met materiaal-zoekintentie | Travertin, marmer, mangohout: mensen zoeken op materiaal, en die zoektermen zijn minder concurrerend dan "vaas". |
-| ✅ Een categorie die niemand anders heeft | Maatwerk meubels is niet vergelijkbaar en sluit aan bij verbouwingen. |
+| ✅ Shopify op een premium thema | Minimog 5.7.0 is een volwassen thema: canonical-tag, Open Graph- en Twitter-tags, breadcrumb, lazy loading en Product-markup (JSON-LD met naam, url, beeld, beschrijving, sku, merk en een Offer per variant met prijs en beschikbaarheid) zitten erin. |
+| ✅ Titelpatroon in het thema | `<title>` = paginatitel, aangevuld met " – InHuys" als de merknaam er nog niet in staat. Meta-description wordt uit het SEO-veld gehaald. De basis klopt; alleen de inhoud van de velden moet beter. |
+| ✅ Schone URL-structuur | `/collections/…`, `/products/…`, `/pages/…`, Nederlandse handles. Eén redirect al goed ingezet (`/products/vaas-1`). |
+| ✅ Meta-velden overal gevuld | 176 van 177 producten hebben een meta-titel (31 tot 59 tekens, nooit te lang) en een meta-description (154 tot 155 tekens). Het invulwerk is gedaan; het herschrijfwerk niet. |
+| ✅ Alt-teksten overal aanwezig | 969 van 970 productafbeeldingen hebben een alt-tekst. Ze zijn alleen per product identiek. |
+| ✅ Shopify-productcategorie overal gevuld | Alle 177 producten hebben een taxonomiecategorie (nodig voor Google Shopping en de Facebook-feed). Een paar staan fout. |
+| ✅ De juiste pijlers bestaan | Interieuradvies met twee concrete diensten, een Inspiratie-pagina, een blog met twee artikelen en een gezicht achter het merk. |
+| ✅ Verkoopkanalen gekoppeld | Facebook & Instagram en Pinterest zijn als kanaal actief; de productfeed kan daar direct van profiteren zodra de content klopt. |
 
 ---
 
 ## 2. Grootste kansen, op volgorde van impact
 
-### Kans 1 · Indexatie: product- en collectiepagina's zijn onzichtbaar (✅)
+### Kans 1 · Categoriecollecties bestaan niet (✅)
 
-In de geraadpleegde zoekindex staan precies drie pagina's van in-huys.nl: de homepage, `/pages/inspiratie` en `/collections/all`. Geen enkele productpagina, geen categoriecollectie (vazen, stoelen, windlichten), geen interieuradvies-pagina.
+Doel van de eigenaar is scoren op producten én productgroepen. Er is geen enkele collectie per productgroep: geen Stoelen, Banken, Vazen, Windlichten, Tafels, Verlichting of Maatwerk. De acht categorietegels op de homepage zijn niet aan een collectie gekoppeld. De 15 bestaande collecties zijn twaalf modelcollecties (2 tot 9 producten), een prijsfilter dat "Bestsellers" heet, en twee hulpcollecties. Geen enkele collectie heeft meta-titel, meta-description of beeld.
 
-Mogelijke oorzaken, in volgorde van waarschijnlijkheid:
-1. De winkel is jong of recent live, en Google heeft de diepere pagina's nog niet opgepikt.
-2. De sitemap is niet aangemeld in Google Search Console.
-3. Collecties en producten zijn wel aangemaakt maar niet gepubliceerd op het Online Store-kanaal.
-4. Een `noindex` op productpagina's door een app of thema-instelling.
+**Richting.** Een categoriestructuur van circa tien collecties, elk met eigen inleiding (150 tot 300 woorden), meta-velden, beeld en interne links. Dit is de eerste stap van fase 3.
 
-**Actie (fase 2, week 1):** Google Search Console openen of aanmaken, sitemap `https://www.in-huys.nl/sitemap.xml` indienen, rapport *Pagina's* controleren, en per producttype de publicatiestatus nalopen. Zonder indexatie heeft alle andere SEO-inspanning geen effect.
+### Kans 2 · Productcontent is gegenereerd sjabloonwerk met ingeplakte fabrikantzinnen (✅)
 
-### Kans 2 · Paginatitels bevatten geen zoektermen (✅)
+Alle 177 beschrijvingen volgen één sjabloon, 173 bevatten een letterlijk ingeplakte leverancierszin, 164 hebben geen afmetingen, en bij 119 is de tekst identiek aan die van een ander product (kleurvarianten als losse producten). Meta-descriptions zijn allemaal "Ontdek {titel}. …" en afgekapt met "…". Alt-teksten zijn "{titel} {kleur} InHuys" op elke afbeelding.
 
-| Pagina | Huidige titel | Probleem |
-|---|---|---|
-| Homepage | "InHuys" | Zegt niets over interieurstyling of woonaccessoires. Google kan het merk niet onderscheiden van de drie naamgenoten. |
-| `/collections/all` | "Producten" | Generiek. |
-| `/pages/inspiratie` | "Inspiratie" | Generiek. |
+**Gevolg.** Google heeft geen reden om een InHuys-pagina boven die van een grotere winkel met dezelfde Pole To Pole-stoel te zetten. Details in `01-productoverzicht.md`; aanpak in het template van fase 2.
 
-**Richting:** een vast titelpatroon per paginatype.
-- Homepage: `Inhuys · Interieurstyling en maatwerk voor verbouwingen`
-- Collectie: `{Categorie} van {materiaal/stijl} · Inhuys` (bijvoorbeeld `Travertin en marmeren vazen · Inhuys`)
-- Product: `{Productnaam} · {materiaal} {productsoort} · Inhuys`
-- Dienst: `Interieuradvies bij verbouwing · werkwijze en tarieven · Inhuys`
+### Kans 3 · Indexatie: product- en collectiepagina's zijn onzichtbaar in de zoekindex (✅ voor de geraadpleegde index, ❌ Google zelf)
 
-### Kans 3 · Collectiepagina's zijn geen landingspagina's (⚠️)
+In de zoekindex die beschikbaar was, staan drie pagina's van in-huys.nl: de homepage, `/pages/inspiratie` en `/collections/all`. Geen productpagina, geen Interieuradvies-pagina. De 30 live producten zijn wél gepubliceerd op het webshopkanaal en hebben een online-store-URL, dus de oorzaak zit niet in de publicatiestatus.
 
-Voor "hoog scoren op productgroepen" zijn de collectiepagina's het belangrijkste wapen. Ze moeten elk hebben: een eigen H1, een inleidende tekst van 150 tot 300 woorden die de categorie uitlegt (materialen, maten, waar het past), een meta-titel en meta-description, een subcategorie-navigatie en interne links naar adviesartikelen. Nu lijken het kale productrasters.
+**Actie (fase 2, week 1):** Google Search Console openen of aanmaken, sitemap indienen, rapport *Pagina's* lezen. Pas dan is zeker wat Google wel en niet heeft.
 
-### Kans 4 · Productpagina's zonder eigen inhoud verliezen altijd (⚠️)
+### Kans 4 · Engels thema-restant en placeholders staan live (✅)
 
-Producten van Jesper Home en MOOISA staan ook bij grotere winkels. Met dezelfde leverancierstekst kiest Google de grootste partij. Inhuys wint alleen met eigen tekst, eigen beeld, specificaties die anderen niet geven, en een adviescontext ("zo combineer je deze stoel met een eiken tafel"). Dit is de kern van het fase 2-template.
+| Plek | Tekst |
+|---|---|
+| Aankondigingsbalk | "Free shipping for all orders from $60+" (twee keer) |
+| Topbalk | "Open Doors To A World Of Fashion \| Discover More" (link naar "#") |
+| Homepage-slider | "New Arrivals · Geïnspireerd door de laatste trends · Shop Now", "Creative Together · Interieur Advies", "Op Maat Interieur · Shop Now". Geen van de knoppen heeft een link. |
+| Homepage-tegels | "Accesiores" (typefout), "Extra", niet gekoppeld |
+| Productpagina | "Estimated Delivery", "Free Shipping & Returns: On all orders over $75", "Guarantee safe & secure checkout", variantlabel "Size", "Backordered", "Why Minimog?" met "100 Days Return", "Lifetime Warranty", "Customers Services" (tekst over activewear), "Recently Viewed Products" |
+| Footer | "Let's get in touch", "Sign up for our newsletter and receive 10% off your first order", "Quick link" en "Company" (beide het hoofdmenu), "Our store" |
+| Collecties-pagina (gepubliceerd) | Vier tegels "Example collection title" |
+| Contactpagina | "We would love to hear from you. If you've got great products your making…" |
+| Social links | Placeholders naar facebook.com/, instagram.com/, twitter.com/ met labels "300k Followers" en "100k Followers"; de Twitter-placeholder zorgt voor een lege `twitter:site`-tag |
+| Inspiratie-pagina | "Elke vind je hier nieuwe tips" (woord ontbreekt), knop "View More" |
 
-### Kans 5 · Merknaam is niet te onderscheiden (✅)
+Dit kost geen rankings op zich, maar het ondermijnt elk vertrouwenssignaal dat Google en bezoekers meewegen, en het conflicteert met de euro-prijzen en de Nederlandse doelgroep. Alles hiervan zit in thema-instellingen en is zonder code te corrigeren, in een thema-kopie, na akkoord.
 
-Drie andere bedrijven heten vrijwel hetzelfde, waarvan één (INHUYS stijl & wonen, Maasland) ook interieurstyling doet. Wie "inhuys" googelt, krijgt een gemengd beeld.
+### Kans 5 · Dienstpagina's zijn dun en verwijzen naar zichzelf (✅)
 
-**Richting:** één schrijfwijze; organisatie-markup met `sameAs` naar de social kanalen; een Google Bedrijfsprofiel (ook zonder winkel kan dat als dienstverlener in een regio); de merknaam altijd combineren met de dienst in titels en social-bio's.
+De Interieuradvies-pagina heeft twee dienstkaarten (3D Interieurontwerp compleet, Flitsadvies), beide "gratis", met knoppen die naar dezelfde pagina linken. Er is geen werkwijze, geen portfolio, geen Over-pagina, geen showroompagina, geen tarievenpagina. Voor de doelgroep "verbouwing, hoger segment" zijn dit de pagina's waarop gezocht en beslist wordt, en commercieel de hoogste waarde per bezoeker.
 
-### Kans 6 · De dienst heeft geen eigen vindbare pagina's (✅)
+### Kans 6 · Dubbele content door kleurvarianten (✅)
 
-"Interieuradvies" staat in het menu, maar er is geen pagina over de werkwijze, geen portfolio en geen tarievenpagina in de index. Voor de doelgroep "verbouwing, hoger segment" zijn dit de pagina's waarop gezocht wordt: interieuradvies verbouwing, interieurontwerp op maat, interieurstylist [regio]. Dit is ook commercieel de hoogste waarde per bezoeker.
+Elke kleur is een apart product met dezelfde tekst. Samenvoegen tot één product per model met kleurvarianten halveert het aantal pagina's, bundelt de autoriteit en maakt de collectiepagina's leesbaar. Redirects van de oude handles zijn dan verplicht.
 
-### Kans 7 · Inspiratie is een lege belofte (✅)
+### Kans 7 · Merknaam is niet te onderscheiden (✅)
 
-De Inspiratie-pagina kondigt woontrends en stylingtips aan, maar er zijn geen artikelen in de index. Een blog met tien goede artikelen per kwartaal bouwt de autoriteit op waarmee ook productpagina's gaan stijgen. Onderwerpen liggen voor het oprapen: travertin onderhouden, eetkamerstoelen kiezen bij een ronde tafel, windlichten als lichtplan, een verbouwing stylen in drie stappen.
+Drie andere bedrijven heten vrijwel hetzelfde, waarvan één ook interieurstyling doet. Het thema heeft geen Organization-markup en de social links zijn placeholders.
 
-### Kans 8 · Hygiëne en vertrouwen (✅)
+**Richting.** Eén schrijfwijze (InHuys), Organization-markup met `sameAs` naar echte social kanalen, Google Bedrijfsprofiel voor de showroom, en de merknaam altijd gecombineerd met de dienst.
 
-- Voorbeeldzoekterm "T-Shirt Blue Jacket" in het zoekveld is een thema-restant.
-- Categorie "Extra" betekent niets.
-- Geen reviews gevonden op Trustpilot, Kiyoh of Klantenvertellen.
-- Geen adres, telefoon of KvK zichtbaar; alleen een e-mailadres. Voor Google en voor een klant die tienduizenden euro's uitgeeft, is dat te weinig.
+### Kans 8 · Blog en inspiratie zijn vrijwel leeg (✅)
 
-### Kans 9 · Beeld-SEO (⚠️)
+Vier blogs, twee artikelen (juni 2025, april 2026), twee blogs heten "woontips". De Inspiratie-pagina toont de blogposts maar heeft geen eigen inhoud. Tien goede artikelen per kwartaal bouwen de autoriteit op waarmee ook product- en collectiepagina's stijgen.
 
-Alt-teksten, bestandsnamen en beeldformaat zijn niet gecontroleerd. In Shopify-winkels met leveranciersbeelden ontbreken alt-teksten bijna altijd of staan ze op de bestandsnaam. Google Afbeeldingen is voor interieur een relevante verkeersbron.
+### Kans 9 · Beeldkwaliteit (✅)
+
+299 van 970 productafbeeldingen zijn smaller dan 1000 px (meestal 800 × 800), 1 is 2000 px of breder. Voor Google Afbeeldingen en voor de uitstraling op grote schermen is dat te weinig. Alt-teksten zijn aanwezig maar niet beschrijvend.
+
+### Kans 10 · Gestructureerde data: goed begin, drie gaten (✅)
+
+Aanwezig: Product met Offers. Afwezig: BreadcrumbList (de breadcrumb staat wel op de pagina), Organization/LocalBusiness (showroom), en reviews (er is geen reviews-app actief, dus ook geen aggregateRating). Toevoegen kan in een thema-kopie.
 
 ---
 
-## 3. Te verifiëren zodra de winkel bereikbaar is (❌)
+## 3. Technische bevindingen uit het thema (✅)
+
+| Onderdeel | Bevinding |
+|---|---|
+| Thema | Minimog 5.7.0 (FoxEcom), live versie "minimog-5-7-0 Met foto upload mogelijkheden" met code-aanpassingen (AI-kamerpreview-knop). Vier ongepubliceerde kopieën: 5.5.0, "met aanpassingen in code", "Kopie van", "Kopie van … Backup". |
+| Title-tag | `page_title` + " – InHuys" tenzij de naam er al in staat. Productmeta-titels eindigen al op "\| InHuys", dus geen dubbele merknaam. |
+| Meta-description | Uit het SEO-veld; valt terug op de paginabeschrijving. |
+| Canonical | Aanwezig (`canonical_url`). |
+| Open Graph / Twitter | Aanwezig; `twitter:site` is leeg door de placeholder-link. |
+| Product-markup | JSON-LD Product + Offer per variant. Geen BreadcrumbList, geen Organization, geen reviews. |
+| Breadcrumb | Visueel aanwezig op product-, collectie- en pagina-templates. |
+| Robots | Geen eigen `robots.txt.liquid`; Shopify-standaard (goed). |
+| Custom code | De snippets voor eigen code in head en body zijn leeg: geen Google Analytics-, Search Console- of tagmanager-code in het thema. (Kan via Shopify-instellingen of het Google-kanaal lopen; ❌ niet via de API te zien.) |
+| Apps / snippets | Shopify Forms (adviesaanvraag), eigen AI-kamerpreview, Facebook- en Pinterest-kanaal, Judge.me- en SocialShopWave-snippets (thema-standaard, niet actief). |
+| Taal | Alleen `nl`; geen hreflang nodig. |
+| Templates | Productpagina: breadcrumb, hoofdblok, tabs (beschrijving + "Levering & retour"), aanbevelingen "Anderen Bekeken Ook", uitgeschakelde FAQ met Engelse demotekst, iconenrij "Why Minimog?" (live), recent bekeken. Collectiepagina: header met beschrijving, merkenlijst, raster met filters en productteller, recent bekeken. |
+| Collecties-pagina | Gepubliceerd met vier placeholder-tegels. |
+| Over-pagina | Template met Engelse modeteksten en fictief team bestaat; niet gekoppeld aan een pagina. |
+| Redirects | 1. |
+
+---
+
+## 4. Alleen in de browser of in Google-tools te controleren (❌)
 
 | Controle | Hoe |
 |---|---|
-| Sitemap aanwezig en volledig | `/sitemap.xml` openen, aantal producten vergelijken met Shopify |
-| Robots.txt | `/robots.txt`; geen onbedoelde `Disallow` |
-| Noindex op producten of collecties | Bron van een productpagina bekijken |
-| Canonical van `/collections/x/products/y` naar `/products/y` | Bron bekijken |
-| Gestructureerde data (Product, Offer, BreadcrumbList, Organization) | Google Rich Results Test |
-| Core Web Vitals en laadtijd | PageSpeed Insights, mobiel |
-| Apps die scripts injecteren | Thema en app-lijst nalopen |
-| Hreflang en taal | Is de winkel alleen Nederlands? Dan geen hreflang nodig, wel `lang="nl"` |
-| 404's en redirects | Search Console, rapport *Pagina's* |
-| Dubbele titels en descriptions | Export uit Shopify of crawl met Screaming Frog |
+| Werkelijke indexatie en sitemap | Google Search Console, rapport *Pagina's* en *Sitemaps* |
+| Core Web Vitals en laadtijd | PageSpeed Insights op homepage, een collectie en een product, mobiel |
+| Product-markup foutloos | Rich Results Test op `/products/travertine-agano-vaas` |
+| Analytics en tracking | Shopify-instellingen → Google-kanaal / Meta-kanaal |
 
 ---
 
-## 4. Eerste zoekwoordrichting (⚠️ volumes nog te valideren met een zoekwoordtool)
+## 5. Eerste zoekwoordrichting (⚠️ volumes te valideren in fase 2)
 
 | Cluster | Voorbeelden | Paginatype | Waarom |
 |---|---|---|---|
-| Dienst | interieuradvies verbouwing, interieurstylist [regio], interieurontwerp woonkamer, kleuradvies interieur | Dienstpagina's | Hoogste waarde per bezoeker, minste concurrentie van grote retailers |
-| Maatwerk | eettafel op maat, kast op maat, maatwerk meubels | Collectie + dienst | Uniek voor Inhuys |
-| Vazen | travertin vaas, marmeren vaas, grote vaas vloer | Collectie + product | Materiaal-intentie, kooprijp |
-| Stoelen | design eetkamerstoel, eetkamerstoel velvet, eetkamerstoel zwart goud | Collectie + product | Hoge orderwaarde |
-| Windlichten | groot windlicht, windlicht glas metaal | Collectie + product | Kerncategorie |
-| Kaarsenhouders | marmeren kaarsenhouder, kandelaar travertin | Collectie | Instap, maar ondersteunend |
-| Inspiratie | travertin onderhouden, eetkamerstoelen combineren, verbouwing stylen | Artikelen | Autoriteit en interne links |
+| Dienst | interieuradvies verbouwing, 3D interieurontwerp, interieurstylist [regio], kleuradvies interieur | Dienstpagina's | Hoogste waarde per bezoeker, minste concurrentie van grote retailers |
+| Maatwerk | eettafel op maat, kast op maat, maatwerk meubels | Collectie + dienst | Uniek voor InHuys |
+| Stoelen | design eetkamerstoel, eetkamerstoel boucle, eetkamerstoel set van 2, barkruk boucle | Collectie + product | Grootste live categorie |
+| Banken | hoekbank boucle, design bank 3 zits, bank met ottoman | Collectie + product | Hoogste orderwaarde, nu in concept |
+| Vazen en kaarsenhouders | travertin vaas, marmeren kaarsenhouder | Collectie + product | Materiaal-intentie, kooprijp |
+| Inspiratie | boucle onderhouden, eetkamerstoelen combineren met ronde tafel, verbouwing stylen | Artikelen | Autoriteit en interne links |
 
 ---
 
-## 5. Prioriteit (impact × inspanning)
+## 6. Prioriteit (impact × inspanning)
 
 | # | Actie | Impact | Inspanning |
 |---|---|---|---|
-| 1 | Search Console inrichten, sitemap indienen, indexatie oplossen | Zeer hoog | Laag |
-| 2 | Titelpatronen en meta-descriptions voor alle pagina's | Hoog | Laag |
-| 3 | Dienstpagina's: interieuradvies, werkwijze, projecten, tarieven | Zeer hoog | Middel |
-| 4 | Collectiepagina's ombouwen tot landingspagina's | Hoog | Middel |
-| 5 | Productpagina's volgens vast template, te beginnen bij de 20 duurste | Hoog | Hoog |
-| 6 | Merkconsistentie, organisatie-markup, Google Bedrijfsprofiel | Middel | Laag |
-| 7 | Reviews verzamelen en tonen | Middel | Laag |
-| 8 | Artikelen op Inspiratie, twee per maand | Hoog op termijn | Middel |
-| 9 | Hygiëne: zoekveld, categorie "Extra", schrijfwijzen | Laag | Zeer laag |
+| 1 | Search Console inrichten, sitemap indienen, indexatie vaststellen | Zeer hoog | Laag |
+| 2 | Thema-placeholders en Engelse restanten corrigeren (thema-kopie, akkoord, publiceren) | Hoog | Laag |
+| 3 | Categoriecollecties bouwen en tegels koppelen | Zeer hoog | Middel |
+| 4 | Dienstpagina's: interieuradvies, werkwijze, showroom, projecten, over | Zeer hoog | Middel |
+| 5 | Productpagina's herschrijven volgens template, per model, live eerst | Hoog | Hoog |
+| 6 | Kleurvarianten samenvoegen + redirects | Hoog | Middel |
+| 7 | Organization-, LocalBusiness- en BreadcrumbList-markup | Middel | Laag |
+| 8 | Reviews verzamelen en tonen | Middel | Laag |
+| 9 | Artikelen op Inspiratie, twee per maand; blogs opschonen | Hoog op termijn | Middel |
+| 10 | Beeld: eigen fotografie, minimaal 2000 px | Middel | Hoog |
 
 Alles in deze lijst is een voorstel. Niets wordt uitgevoerd zonder akkoord.
