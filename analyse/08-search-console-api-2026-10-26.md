@@ -62,3 +62,12 @@ Met de API-toegang kan elke controle zonder export: prestaties per zoekterm en p
 
 **URL is unknown to Google** (48): `/account/login`, `/blogs/trends`, `/blogs/woontips`, `/blogs/woontips-1`, `/collections`, `/collections/adviezen`, `/collections/amsterdam`, `/collections/boog`, `/collections/breeze`, `/collections/cloud`, `/collections/edo`, `/collections/eier`, `/collections/kathmandu`, `/collections/luna`, `/collections/panda`, `/collections/rainbow`, `/collections/rocking`, `/collections/whale`, `/pages/collecties`, `/policies/contact-information`, `/policies/privacy-policy`, `/policies/refund-policy`, `/policies/shipping-policy`, `/policies/terms-of-service`, `/products/ballenbak`, `/products/boekhouder`, `/products/boogstoelcreme-set-van-2`, `/products/breeze-stoel-beige-set-van-2`, `/products/breeze-stoel-latte-set-van-2`, `/products/breeze-stoel-pastel-roze-set-van-2`, `/products/breeze-stoel-pistache-set-van-2`, `/products/cloud-barstoel-creme`, `/products/cloud-kitchen-barstoel-creme`, `/products/cloud-stoel-beige-set-van-2`, `/products/cloud-stoel-creme-set-van-2`, `/products/cloud-stoel-karamel-set-van-2`, `/products/cloud-stoel-safiya-naturel-set-van-2`, `/products/flitsadvies`, `/products/holzrutsche-binnen`, `/products/jumpspot-buiten`, `/products/luna-stoel-caramel-set-van-2`, `/products/luna-stoelcreme-set-van-2`, `/products/scandi-stoel-tan-set-van-2`, `/products/whale-stoel-beige-set-van-2`, `/products/whale-stoel-coco-set-van-2`, `/products/wolkenbar-stoel-karamel`, `/products/wolkenkeukenbar-stoel-karamel`, `/products/zwembad`
 
+## Nacontrole sitemap, 26 oktober 2026 om 15:54 uur (UTC)
+
+De eigenaar heeft de sitemap om 14:21 uur aangemeld en voor vijf URL's indexering aangevraagd. Stand via de API:
+
+- `https://www.in-huys.nl/sitemap.xml`: laatst gelezen 2026-10-26T14:21Z, in behandeling False, fouten 0, waarschuwingen 0
+  - web: ingediend 57, geïndexeerd 0
+  - image: ingediend 32, geïndexeerd 0
+
+De API toont alleen de aangemelde index-sitemap; de deel-sitemaps (producten, pagina's, collecties, blogs) worden daaronder samengeteld. Alle 57 pagina-URL's zijn bekend bij Google; de teller "geïndexeerd" loopt pas op als Google de pagina's heeft gecrawld en opgenomen, meestal binnen één tot vier weken. Volgende controle bij de eerstvolgende `/meting`.
