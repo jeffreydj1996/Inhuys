@@ -17,6 +17,12 @@ Werkmap voor de doorontwikkeling van de Shopify-winkel van Inhuys (www.in-huys.n
 - In fase 1 is er niets in de winkel gewijzigd. Alle Shopify-data is alleen gelezen; er is geen enkele mutatie uitgevoerd.
 - In fase 2 zijn alleen nieuwe, ongepubliceerde objecten aangemaakt: een thema-kopie, collecties, pagina's, conceptproducten, artikelen, menu's en metaveld-definities. Live thema, live pagina's, live menu en live collecties zijn niet aangepast. Eén onbedoelde wijziging aan alt-teksten van live productbeelden is binnen enkele minuten hersteld; zie `content/producten/overzicht.md`.
 
+## Werkwijze vanaf fase 3: agents, skills en faseplannen
+
+De hoofdsessie doet regie en beoordeling; het werk loopt via skills (`.claude/skills/`: `/product`, `/tekst`, `/controle`, `/meting`, `/thema`, `/status`, `/faseplan`, `/analyse`) en agents (`.claude/agents/`: onderzoeker, schrijver, controleur, shopify-uitvoerder, seo-meter, lezer, analist). De vaste regels staan in `CLAUDE.md`; de scripts in `tools/` (zie `tools/README.md`); de stand in `data/status.csv` en `data/ids.json`. Elke fase begint met een goedgekeurd plan in `plannen/`.
+
+**Eenmalig door de eigenaar:** kopieer `tools/claude-settings.voorbeeld.json` naar `.claude/settings.json`. Dat koppelt de beveiligingshook `tools/guard_shopify.py` aan elke Shopify-mutatie (alleen concepten en de thema-kopie kunnen wijzigen; go-live alleen met `INHUYS_GOLIVE=1`) en blokkeert de losse Shopify-hulptools.
+
 ## Bestanden
 
 | Bestand | Inhoud |
@@ -41,6 +47,11 @@ Werkmap voor de doorontwikkeling van de Shopify-winkel van Inhuys (www.in-huys.n
 | `content/paginas/` | Eigen teksten voor Interieuradvies, Werkwijze, Showroom, Over InHuys, Projecten, Veelgestelde vragen en Contact |
 | `content/producten/` | Dertien productteksten volgens het template, plus `overzicht.md` met Shopify-ID's en openstaande punten |
 | `content/inspiratie/` | Vier inspiratie-artikelen, plus README met het voorstel om de vier blogs samen te voegen |
+| `CLAUDE.md` | Werkafspraken voor elke sessie en agent: harde regels, schrijfregels, goedkeuringsgrens, zuinig werken |
+| `tools/` | Scripts: converter markdown → Shopify, tekstcontrole, beveiligingshook, momentopname, status, Search Console-meting, thema-generator |
+| `data/` | Ruwe exports (12 oktober 2026), origineel thema, alt-teksten, bronvarianten, momentopnames, `ids.json`, `status.csv`, feiten per model |
+| `plannen/` | Faseplannen; elke fase start na akkoord van de eigenaar |
+| `analyse/loop/` | Logboek en conclusies van de analyse-loop (actief na go-live) |
 
 ## Bronnen en wat nog open staat
 
