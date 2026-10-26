@@ -2,6 +2,10 @@
 
 Handle: `/products/bank-new-york` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Banken
 
+Tags: bank, loungebank, boucle, beige, coco, zand, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-22  
+Collecties: -
+
 Meta-titel (57): Bank New York · loungebank in boucle en weefstof · InHuys  
 Meta-description (158): Zachte loungebank met ronde vormen, 2,5- of 4-zits, met of zonder lounge-element. In beige, coco of zand boucle. Levering 6 tot 8 weken, te zien in Purmerend.
 

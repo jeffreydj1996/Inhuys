@@ -1,0 +1,445 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {}
+    },
+    "breadcrumb_4A3C6A": {
+      "type": "breadcrumb",
+      "name": "Breadcrumb",
+      "settings": {
+        "container": "w-full",
+        "text_alignment": "left",
+        "hide_current": false,
+        "hide_on_mb": false,
+        "animations": "inherit"
+      }
+    },
+    "image_with_text_2_pwc7gk": {
+      "type": "image-with-text-2",
+      "name": "Image with text overlay",
+      "settings": {
+        "color_scheme": "",
+        "container": "w-full",
+        "hero_size": "adapt",
+        "show_overlay": true,
+        "image": "shopify://shop_images/Foto_Syl.jpg",
+        "image_link": "",
+        "parallax": false,
+        "parallax_direction": "vertical",
+        "content_in_container": true,
+        "content_position": "left top",
+        "text_alignment": "left",
+        "text_size": "large",
+        "text_color": "white",
+        "title": "Interieuradvies",
+        "subtitle": "",
+        "text": "{{ page.content }}",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "m-button--primary",
+        "button_size": "",
+        "text_alignment_mobile": "center",
+        "use_content_above": false,
+        "custom_class": "",
+        "animations": "inherit",
+        "enable_bg_zoom_effect": true,
+        "enable_preload_image": false
+      }
+    },
+    "rich_text_rWADei": {
+      "type": "rich-text",
+      "blocks": {
+        "text_ndthVd": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em>Kies de service die bij jouw woonvraag past</em></h3>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ndthVd"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "container": "container-full",
+        "color_scheme": "scheme-b756afa5-764f-4f80-958d-8afdb78a6ce0",
+        "content_alignment": "center",
+        "padding_top": 24,
+        "padding_bottom": 64,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "image_with_text_2_jYyKkc": {
+      "type": "image-with-text-2",
+      "disabled": true,
+      "name": "Image with text overlay",
+      "settings": {
+        "color_scheme": "",
+        "container": "w-full",
+        "hero_size": "adapt",
+        "show_overlay": true,
+        "image": "shopify://shop_images/Foto_Syl.jpg",
+        "image_link": "",
+        "parallax": false,
+        "parallax_direction": "vertical",
+        "content_in_container": true,
+        "content_position": "left top",
+        "text_alignment": "left",
+        "text_size": "large",
+        "text_color": "white",
+        "title": "Interieuradvies",
+        "subtitle": "",
+        "text": "{{ page.content }}",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "m-button--primary",
+        "button_size": "",
+        "text_alignment_mobile": "center",
+        "use_content_above": false,
+        "custom_class": "",
+        "animations": "inherit",
+        "enable_bg_zoom_effect": true,
+        "enable_preload_image": false
+      }
+    },
+    "custom_content_rVw6MQ": {
+      "type": "custom-content",
+      "blocks": {
+        "text_card_with_image_UQL9Jn": {
+          "type": "text_card_with_image",
+          "settings": {
+            "width": "50%",
+            "link": "shopify://pages/interieuradvies",
+            "text_alignment": "left",
+            "image": "shopify://shop_images/Broers_PNG_1_e4b12141-9843-45e2-8875-8355589fd08b.jpg",
+            "title": "<strong>3D Interieurontwerp compleet</strong> <br>",
+            "text": "<p>gratis</p><p>In onze Showroom</p><p>.</p><h4>Deskundig </h4><p>Visualisatie in 3D, speciaal op maat gemaakt</p><h4>Persoonlijk voorstel</h4><p>Meubelvoorstel passend bij jouw wensen en stijl</p><h4>Uitgewerkt moodboard </h4><p>Uitgewerkt materiaal- en/of kleuradvies</p>",
+            "text_size": "small",
+            "button_label": "Ik wil 3D Advies Compleet",
+            "button_style": "m-button--primary",
+            "button_size": "m-button--large",
+            "block_custom_class": "",
+            "animations": "inherit",
+            "enable_preload_image": false
+          }
+        },
+        "text_card_with_image_B87UDz": {
+          "type": "text_card_with_image",
+          "settings": {
+            "width": "50%",
+            "link": "shopify://pages/interieuradvies",
+            "text_alignment": "left",
+            "image": "shopify://shop_images/Kopie_van_Schetsindeling_meubels.jpg",
+            "title": "<strong>Flitsadvies </strong> <br>",
+            "text": "<p>gratis</p><p>Online of In onze Showroom</p><p>.</p><h4>Deskundig Advies</h4><p>Mondeling Persoonlijk advies over Stijl, Materiaal, Kleur of Product</p><h4>2D Ruimte Planning</h4><p>Een basis 2D vloerplan indien nodig</p>",
+            "text_size": "small",
+            "button_label": "Ik wil 2D Flitsadvies",
+            "button_style": "m-button--primary",
+            "button_size": "m-button--large",
+            "block_custom_class": "",
+            "animations": "inherit",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "text_card_with_image_UQL9Jn",
+        "text_card_with_image_B87UDz"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "color_scheme": "default",
+        "content_color_scheme": "default",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "gap": 40,
+        "gap_mobile": 16,
+        "use_scroll_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "enable_preload_image": false,
+        "custom_class": ""
+      }
+    },
+    "image_with_text_BrRBYf": {
+      "type": "image-with-text",
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "container": "container-fluid",
+        "color_scheme": "scheme-b756afa5-764f-4f80-958d-8afdb78a6ce0",
+        "item_gap": 100,
+        "item_gap_mobile": 30,
+        "layout": "left",
+        "image_column_size": "6",
+        "image_overlap": false,
+        "show_image_reverse": false,
+        "hover_effect": false,
+        "image_animation": "none",
+        "image": "shopify://shop_images/Foto_Syl.jpg",
+        "link": "",
+        "link_2": "",
+        "second_image_offset_top": 10,
+        "title": "INTERIEURADVIES OP MAAT",
+        "sub_title": "",
+        "text": "{{ page.content }}",
+        "text_size": "medium",
+        "content_alignment": "left",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "m-button--link",
+        "button_size": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "rich_text_67JWrW": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_kMzRcN": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "{{ page.title }}"
+          }
+        },
+        "text_UVMDKt": {
+          "type": "text",
+          "settings": {
+            "text": "{{ page.content }}"
+          }
+        },
+        "button_fUXDbx": {
+          "type": "button",
+          "settings": {
+            "button_label": "Boek Direct een Call",
+            "button_link": "",
+            "button_style": "m-button--link",
+            "button_size": "m-button--large"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kMzRcN",
+        "text_UVMDKt",
+        "button_fUXDbx"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "container": "container",
+        "color_scheme": "scheme-09e5b5b4-774c-4b6c-8025-416ced49cc74",
+        "content_alignment": "center",
+        "padding_top": 52,
+        "padding_bottom": 52,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "1750696883d191e389": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_xbXtTg": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "525058",
+            "text_color": "#ffffff",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_xbXtTg"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "#695b4d",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": ""
+      }
+    },
+    "image_with_text_KnKEWC": {
+      "type": "image-with-text",
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "item_gap": 100,
+        "item_gap_mobile": 30,
+        "layout": "left",
+        "image_column_size": "6",
+        "image_overlap": false,
+        "show_image_reverse": false,
+        "hover_effect": false,
+        "image_animation": "none",
+        "image": "shopify://shop_images/Kopie_van_Schetsindeling_meubels.jpg",
+        "link": "",
+        "link_2": "",
+        "second_image_offset_top": 10,
+        "title": "Image with text",
+        "sub_title": "",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "text_size": "medium",
+        "content_alignment": "left",
+        "button_label": "Shop Collection",
+        "button_link": "",
+        "button_style": "m-button--link",
+        "button_size": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "image_with_text_WKwr9N": {
+      "type": "image-with-text",
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "item_gap": 100,
+        "item_gap_mobile": 30,
+        "layout": "right",
+        "image_column_size": "6",
+        "image_overlap": false,
+        "show_image_reverse": false,
+        "hover_effect": false,
+        "image_animation": "none",
+        "link": "",
+        "link_2": "",
+        "second_image_offset_top": 10,
+        "title": "Image with text",
+        "sub_title": "",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "text_size": "medium",
+        "content_alignment": "left",
+        "button_label": "Shop Collection",
+        "button_link": "",
+        "button_style": "m-button--link",
+        "button_size": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "favorite_product_slider_ydVL4g": {
+      "type": "favorite-product-slider",
+      "name": "Favorite product slider",
+      "settings": {
+        "container": "container",
+        "color_scheme": "",
+        "featured_product": "flitsadvies",
+        "heading": "{{ section.settings.featured_product.title }}",
+        "subheading": "Kort online advies met direct resultaat",
+        "description": "Dit Flitsadvies is ideaal voor wie snel professioneel advies wil. In een interactieve sessie beantwoordt ik al jouw interieurvragen. ontvang praktische tips waarmee je meteen aan de slag kunt voor een frisse, stijlvolle upgrade van je interieur. \nPerfect voor kleurkeuzes, indelingsvragen of stylingtips, zonder lang traject – persoonlijk, modern en efficiënt.\n\nPersoonlijk mondeling advies (±1 uur) over stijl, indeling, materiaal- en kleuradvies\n\nOptioneel: beknopt 2D vloerplan (plattegrond) om nieuwe indeling te visualiseren",
+        "header_alignment": "center",
+        "text_color": "inherit",
+        "button_label": "Shop now",
+        "button_link": "",
+        "button_style": "m-button--secondary",
+        "button_size": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "17709804707992f0a4": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_HLjiQR": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "864729",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 24,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_HLjiQR"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "breadcrumb_4A3C6A",
+    "image_with_text_2_pwc7gk",
+    "rich_text_rWADei",
+    "image_with_text_2_jYyKkc",
+    "custom_content_rVw6MQ",
+    "image_with_text_BrRBYf",
+    "rich_text_67JWrW",
+    "1750696883d191e389",
+    "image_with_text_KnKEWC",
+    "image_with_text_WKwr9N",
+    "favorite_product_slider_ydVL4g",
+    "17709804707992f0a4"
+  ]
+}
+

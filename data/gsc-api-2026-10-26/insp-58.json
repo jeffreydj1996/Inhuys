@@ -1,0 +1,81 @@
+{
+  "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:in-huys.nl&id=P0kjlhQANOg5MaqsY_FbIQ&utm_medium=link&utm_source=api",
+    "indexStatusResult": {
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-10-19T13:55:35Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.in-huys.nl/products/marmer-waxinelichthouder",
+      "userCanonical": "https://www.in-huys.nl/products/marmer-waxinelichthouder",
+      "referringUrls": [
+        "https://www.in-huys.nl/collections/all",
+        "https://www.in-huys.nl/collections/mooisa",
+        "https://www.in-huys.nl/sitemap_products_1.xml?from=9957680054611&to=9978474430803"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    "mobileUsabilityResult": {
+      "verdict": "VERDICT_UNSPECIFIED"
+    },
+    "richResultsResult": {
+      "verdict": "PASS",
+      "detectedItems": [
+        {
+          "richResultType": "Product snippets",
+          "items": [
+            {
+              "name": "Marmer waxinelichthouder",
+              "issues": [
+                {
+                  "issueMessage": "Missing field \"review\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"aggregateRating\"",
+                  "severity": "WARNING"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "richResultType": "Merchant listings",
+          "items": [
+            {
+              "name": "Marmer waxinelichthouder",
+              "issues": [
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

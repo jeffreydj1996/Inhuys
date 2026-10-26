@@ -2,6 +2,10 @@
 
 Handle: `/products/eetkamerstoel-boog-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
+Tags: eetkamerstoel, set van 2, staal, karamel, crème, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
+Collecties: -
+
 Meta-titel (52): Boog eetkamerstoel · gebogen rug, set van 2 · InHuys  
 Meta-description (134): Eetkamerstoel met gebogen rugleuning en stalen poten in de kleur van de stof, set van 2. In karamel of crème. Levertijd 2 tot 3 weken.
 

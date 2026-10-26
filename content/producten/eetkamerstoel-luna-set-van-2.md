@@ -2,6 +2,10 @@
 
 Handle: `/products/eetkamerstoel-luna-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
+Tags: eetkamerstoel, set van 2, staal, mink, karamel, crème, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
+Collecties: -
+
 Meta-titel (58): Luna eetkamerstoel · slank, zachte rug, set van 2 · InHuys  
 Meta-description (157): Slanke eetkamerstoel met gestoffeerde rug en poten in gerookt-eikentint, set van 2. In mink, karamel of crème. Levertijd 2 tot 3 weken, te zien in Purmerend.
 

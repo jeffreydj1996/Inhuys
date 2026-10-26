@@ -2,6 +2,10 @@
 
 Handle: `/products/boekensteun-mangohout` · Status: **concept** (DRAFT) in Shopify · Merk: Kluster · Producttype: Accessoires
 
+Tags: boekensteun, mangohout, hout, kluster  
+Categorie: gid://shopify/TaxonomyCategory/hg-3-12  
+Collecties: gid://shopify/Collection/704710738259
+
 Meta-titel (51): Boekensteun van donker mangohout · Kluster · InHuys  
 Meta-description (129): Zware boekensteun van massief mangohout met donkere afwerking, voor plank, dressoir of bureau. Per stuk. Levertijd 1 tot 2 weken.
 

@@ -1,0 +1,63 @@
+{
+  "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:in-huys.nl&id=l8dB3AkM_f3FXbWzNac1VQ&utm_medium=link&utm_source=api",
+    "indexStatusResult": {
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-08-29T08:40:08Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.in-huys.nl/products/boogstoel-karamel-set-van-2",
+      "userCanonical": "https://www.in-huys.nl/products/boogstoel-karamel-set-van-2",
+      "referringUrls": [
+        "https://www.in-huys.nl/collections/all"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    "mobileUsabilityResult": {
+      "verdict": "VERDICT_UNSPECIFIED"
+    },
+    "richResultsResult": {
+      "verdict": "PASS",
+      "detectedItems": [
+        {
+          "richResultType": "Product snippets",
+          "items": [
+            {
+              "name": "Boogstoel karamel (set van 2)",
+              "issues": [
+                {
+                  "issueMessage": "Missing field \"aggregateRating\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"review\"",
+                  "severity": "WARNING"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "richResultType": "Merchant listings",
+          "items": [
+            {
+              "name": "Boogstoel karamel (set van 2)",
+              "issues": [
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

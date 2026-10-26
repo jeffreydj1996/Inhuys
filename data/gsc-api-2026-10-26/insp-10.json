@@ -1,0 +1,23 @@
+{
+  "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:in-huys.nl&id=5EoaZXekiwtD5AX-r_64Yg&utm_medium=link&utm_source=api",
+    "indexStatusResult": {
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-10-20T06:09:29Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.in-huys.nl/cart",
+      "userCanonical": "https://www.in-huys.nl/cart",
+      "referringUrls": [
+        "https://www.in-huys.nl/blogs/woontips-1/stijlvol-wonen-met-kinderen-mijn-vier-tips-voor-het-creeeren-van-rust-en-een-warm-thuis",
+        "https://www.in-huys.nl/"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    "mobileUsabilityResult": {
+      "verdict": "VERDICT_UNSPECIFIED"
+    }
+  }
+}

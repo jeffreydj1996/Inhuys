@@ -1,0 +1,25 @@
+{
+  "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:in-huys.nl&id=IOAlz3cwkj823aONgZ8osQ&utm_medium=link&utm_source=api",
+    "indexStatusResult": {
+      "verdict": "NEUTRAL",
+      "coverageState": "Page with redirect",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-10-26T02:25:50Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.in-huys.nl/",
+      "userCanonical": "https://www.in-huys.nl/",
+      "referringUrls": [
+        "https://www.in-huys.nl/",
+        "https://nl.pinterest.com/0chb19km794uujqyxlhmigs4e8j3yk/",
+        "http://www.yasni.nl/meubelstoffeerderij+lodewijk+ambachtelijke/personen+zoeken",
+        "http://www.networktools.nl/reverseip/www.aquamel.nl"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    "mobileUsabilityResult": {
+      "verdict": "VERDICT_UNSPECIFIED"
+    }
+  }
+}

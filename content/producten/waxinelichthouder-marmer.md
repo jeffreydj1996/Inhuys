@@ -2,6 +2,10 @@
 
 Handle: `/products/waxinelichthouder-marmer` · Status: **concept** (DRAFT) in Shopify · Merk: MOOISA · Producttype: Accessoires
 
+Tags: waxinelichthouder, kaarsenhouder, marmer, natuursteen, mooisa  
+Categorie: gid://shopify/TaxonomyCategory/hg-3-39-2  
+Collecties: gid://shopify/Collection/704710705491
+
 Meta-titel (56): Marmeren waxinelichthouder · 4, 7 of 10 cm hoog · InHuys  
 Meta-description (153): Waxinelichthouder van massief marmer, Ø 6 cm, in drie hoogtes om te stapelen in een groep. Natuurlijke aders, elke houder uniek. Levertijd 1 tot 2 weken.
 

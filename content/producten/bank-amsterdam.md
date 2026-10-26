@@ -2,8 +2,12 @@
 
 Handle: `/products/bank-amsterdam` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Banken
 
+Tags: bank, hoekbank, ottoman, wit, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-22  
+Collecties: -
+
 Meta-titel (59): Bank Amsterdam · 2,5-zits tot hoekbank met ottoman · InHuys  
-Meta-description (168): Lage, royale bank met diepe zit in witte Glyphs-weefstof. Vier opstellingen, van 2,5-zits met ottoman tot 6-zits hoekbank. Levering 6 tot 8 weken, te zien in Purmerend.
+Meta-description (146): Lage, royale bank met diepe zit in witte Glyphs-weefstof. Vier opstellingen, van 2,5-zits met ottoman tot 6-zits hoekbank. Levering 6 tot 8 weken.
 
 **Zin onder de titel:** Lage, royale bank met strakke lijnen en diepe zit, in vier opstellingen van 2,5-zits tot hoekbank met ottoman.
 

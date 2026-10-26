@@ -1,0 +1,12 @@
+# Herbouwbare uitvoer en tijdelijke bestanden
+data/out/
+data/tmp/
+# Fabrikantteksten: alleen voor de overlapcontrole, niet publiceren
+data/bron-teksten/
+__pycache__/
+*.pyc
+*.log
+.env
+*credentials*.json
+*.pem
+.claude/settings.local.json

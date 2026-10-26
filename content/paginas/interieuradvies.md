@@ -2,8 +2,8 @@
 
 Handle: `/pages/interieuradvies` · bestaande live pagina, NIET gewijzigd via de API. Deze tekst staat klaar voor na akkoord; de dienstkaarten staan in de thema-kopie.
 
-Meta-titel (62): Interieuradvies Amsterdam · Flitsadvies en 3D-ontwerp · InHuys  
-Meta-description (164): Interieuradvies voor je verbouwing: gratis Flitsadvies online of in de showroom in Purmerend, of een compleet 3D-interieurontwerp. Werkgebied Amsterdam en omgeving.
+Meta-titel (54): Interieuradvies Amsterdam · Flitsadvies en 3D · InHuys  
+Meta-description (148): Interieuradvies voor je verbouwing: gratis Flitsadvies, online of in de showroom in Purmerend, of een compleet 3D-interieurontwerp. Regio Amsterdam.
 
 ---
 

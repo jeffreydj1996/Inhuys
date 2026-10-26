@@ -1,0 +1,616 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1621243260e1af0c20": {
+      "type": "slider",
+      "blocks": {
+        "1621243260e1af0c20-0": {
+          "type": "slider_item",
+          "settings": {
+            "background": "shopify://shop_images/IMG_2144.jpg",
+            "content_in_container": false,
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "text_size": "large",
+            "text_color": "white",
+            "subheading": "Geïnspireerd door de laatste trends",
+            "title": "New Arrivals",
+            "description": "",
+            "image_link": "",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-secondary",
+            "button_size": "",
+            "second_button_text": "",
+            "second_button_link": "",
+            "second_button_style": "m-button--primary",
+            "second_button_size": "",
+            "show_footer": false,
+            "footer_alignment": "end",
+            "footer_text": "The ReCotton Tee",
+            "footer_button": "Shop Now",
+            "footer_link": "",
+            "enable_preload_image": false
+          }
+        },
+        "1621243260e1af0c20-1": {
+          "type": "slider_item",
+          "settings": {
+            "background": "shopify://shop_images/Foto_Syl.jpg",
+            "content_in_container": false,
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "text_size": "large",
+            "text_color": "white",
+            "subheading": "Laten we samen gaan kijken voor jouw ideale huis",
+            "title": "Creative Together",
+            "description": "",
+            "image_link": "",
+            "button_text": "Interieur Advies",
+            "button_link": "",
+            "button_style": "sf__btn-secondary",
+            "button_size": "",
+            "second_button_text": "",
+            "second_button_link": "",
+            "second_button_style": "m-button--primary",
+            "second_button_size": "",
+            "show_footer": false,
+            "footer_alignment": "end",
+            "footer_text": "The ReCotton Tee",
+            "footer_button": "Shop Now",
+            "footer_link": "",
+            "enable_preload_image": false
+          }
+        },
+        "1621243260e1af0c20-2": {
+          "type": "slider_item",
+          "settings": {
+            "background": "shopify://shop_images/Keizersgracht_213A-26.jpg",
+            "content_in_container": false,
+            "content_position": "right top",
+            "text_alignment": "left",
+            "text_size": "large",
+            "text_color": "black",
+            "subheading": "",
+            "title": "Op Maat Interieur <br>",
+            "description": "",
+            "image_link": "",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-secondary",
+            "button_size": "",
+            "second_button_text": "",
+            "second_button_link": "",
+            "second_button_style": "m-button--primary",
+            "second_button_size": "",
+            "show_footer": true,
+            "footer_alignment": "end",
+            "footer_text": "The ReCotton Tee",
+            "footer_button": "Shop Now",
+            "footer_link": "",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "1621243260e1af0c20-0",
+        "1621243260e1af0c20-1",
+        "1621243260e1af0c20-2"
+      ],
+      "settings": {
+        "container": "w-full",
+        "slideshow_height": "adapt",
+        "show_overlay": true,
+        "dots_position": "right",
+        "dots_color": "light",
+        "show_dots": true,
+        "show_arrows": false,
+        "autorotate": true,
+        "autorotate_speed": 4,
+        "use_content_above": false,
+        "custom_class": "sf-home__slideshow",
+        "animations": "inherit"
+      }
+    },
+    "collection_list_tjXYY7": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_block_jRJk76": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Vazen",
+            "item_image": "shopify://shop_images/Travertine_Agano_Vaas_Background_Icoon.jpg"
+          }
+        },
+        "collection_block_c7eRTV": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Kaarshouders",
+            "item_image": "shopify://shop_images/Marmer_waxinelichthouders_met_kaars_kaal_-_bruin.jpg"
+          }
+        },
+        "collection_block_F6rPLj": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Windlichten",
+            "item_image": "shopify://shop_images/Corfu_Lantaarns__Background.jpg"
+          }
+        },
+        "collection_block_rFmir7": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Banken",
+            "item_image": "shopify://shop_images/Bank_Background.jpg"
+          }
+        },
+        "collection_block_YXwFjp": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Stoelen",
+            "item_image": "shopify://shop_images/Yanai_Dining_chair_-_Slide_Black_-_Tuscan_Terra___Background.jpg"
+          }
+        },
+        "collection_block_pYgiyF": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Accesiores",
+            "item_image": "shopify://shop_images/PlaceMats_Icon_8195505a-26e7-45a5-8e9c-856b41c8153f.jpg"
+          }
+        },
+        "collection_block_i7CRfm": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Maat Meubels",
+            "item_image": "shopify://shop_images/Tafel_6.jpg"
+          }
+        },
+        "collection_block_eYtnCF": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Extra"
+          }
+        }
+      },
+      "block_order": [
+        "collection_block_jRJk76",
+        "collection_block_c7eRTV",
+        "collection_block_F6rPLj",
+        "collection_block_rFmir7",
+        "collection_block_YXwFjp",
+        "collection_block_pYgiyF",
+        "collection_block_i7CRfm",
+        "collection_block_eYtnCF"
+      ],
+      "custom_css": [
+        ".m-collection-list {--mobile-column-width: 40vw;}",
+        ".m-collection-card__image {max-width: 140px; margin: 0 auto;}",
+        ".m-collection-card__title {font-size: 18px;}"
+      ],
+      "settings": {
+        "heading": "Populaire Categorieën",
+        "heading_size": "h3",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "m-button--primary",
+        "header_alignment": "left",
+        "color_scheme": "default",
+        "container": "w-full",
+        "layout": "grid",
+        "expanded": true,
+        "card_style": "standard",
+        "text_alignment": "center",
+        "hover_effect": "scaling-up",
+        "show_product_count": false,
+        "count_inline_title": true,
+        "image_rounded": true,
+        "items_per_row": 8,
+        "item_gap": 0,
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "mobile_disable_slider": false,
+        "use_scroll_mobile": true,
+        "mobile_gap": 13,
+        "hidden_slide_control_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "image_with_text_kLGLNN": {
+      "type": "image-with-text",
+      "name": "Image with text",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "container": "container-fluid",
+        "color_scheme": "scheme-09e5b5b4-774c-4b6c-8025-416ced49cc74",
+        "item_gap": 100,
+        "item_gap_mobile": 30,
+        "layout": "left",
+        "image_column_size": "6",
+        "image_overlap": false,
+        "show_image_reverse": false,
+        "hover_effect": false,
+        "image_animation": "none",
+        "image": "shopify://shop_images/Foto_Syl_2.jpg",
+        "link": "",
+        "link_2": "",
+        "second_image_offset_top": 10,
+        "title": "Ik ben Sylvana",
+        "sub_title": "Een blik achter InHuys",
+        "text": "<p>Dagelijks ben ik bezig om mensen te helpen hun ideale huis samen te stellen. Dit doe ik door tips, producten en kennis samen te brengen hier op deze site</p><p>Mijn doel is om het voor u zo makkelijk mogelijk te maken, of u nou op zoek bent naar inspiratie de mooiste merken of advies</p>",
+        "text_size": "medium",
+        "content_alignment": "left",
+        "button_label": "Interieuradvies",
+        "button_link": "shopify://pages/interieuradvies",
+        "button_style": "m-button--link",
+        "button_size": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "brands_list_XfN79B": {
+      "type": "brands-list",
+      "blocks": {
+        "image_DRQGaG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Riciera_Maison.webp",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "image_iz6arX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MOOISA.webp",
+            "image_by_url": "",
+            "image_link": "shopify://collections/mooisa",
+            "max_width": "150px"
+          }
+        },
+        "image_mWnYAa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Brut_Homeware.webp",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "image_GkqNqL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/House_Nordic.webp",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "image_VKAxfW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Jesper_Home.webp",
+            "image_by_url": "",
+            "image_link": "shopify://collections/jesper-home",
+            "max_width": "150px"
+          }
+        },
+        "image_9dYQ7c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Middel_5.webp",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        }
+      },
+      "block_order": [
+        "image_DRQGaG",
+        "image_iz6arX",
+        "image_mWnYAa",
+        "image_GkqNqL",
+        "image_VKAxfW",
+        "image_9dYQ7c"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".m-section__heading {font-size: 18px; font-weight: 500;}",
+        "@media (max-width: 767px) {.m-brands-list__inner {grid-template-columns: repeat(3, minmax(0, 1fr)); }}"
+      ],
+      "settings": {
+        "heading": "Favoriete Merken",
+        "heading_size": "h3",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "w-full",
+        "color_scheme": "default",
+        "item_per_row": 6,
+        "column_gap": 0,
+        "row_gap": 30,
+        "column_gap_mobile": 10,
+        "row_gap_mobile": 10,
+        "enable_slider": false,
+        "show_nav": false,
+        "show_pagination": true,
+        "autorotate": false,
+        "autorotate_speed": 3,
+        "padding_top": 100,
+        "padding_bottom": 80,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "custom_content_KiFzqG": {
+      "type": "custom-content",
+      "blocks": {
+        "image_comparison_fRB8LR": {
+          "type": "image_comparison",
+          "settings": {
+            "width": "50%",
+            "product": "",
+            "subtitle": "",
+            "title": "",
+            "text": "",
+            "text_size": "medium",
+            "content_alignment": "left",
+            "text_color": "black",
+            "layout": "horizontal",
+            "image_height": "adapt",
+            "before_image": "shopify://shop_images/5b571251-56f1-4afc-99c9-63f601a2bc26_1200x1200_fill_2.jpg",
+            "before_heading": "Before",
+            "after_image": "shopify://shop_images/5b571251-56f1-4afc-99c9-63f601a2bc26_1200x1200_fill.jpg",
+            "after_heading": "After",
+            "block_custom_class": "",
+            "animations": "inherit"
+          }
+        },
+        "text_ADAEHz": {
+          "type": "text",
+          "settings": {
+            "title": "Design <br>\nThat Fits",
+            "subheading": "Every Home Has Its Own Needs",
+            "text": "<p>Elke Woning heeft zijn eigen stijl</p><p>het is aan jou hoe jij dit tot leven laat komen</p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "large",
+            "text_color": "inherit",
+            "button_label": "Inspiratie",
+            "button_link": "shopify://pages/inspiratie",
+            "button_style": "m-button--link",
+            "button_size": "",
+            "block_custom_class": "",
+            "animations": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "image_comparison_fRB8LR",
+        "text_ADAEHz"
+      ],
+      "custom_css": [
+        ".m-image-comparison__heading {box-shadow: none; border-radius: 5px; padding: 5px 12px; letter-spacing: 0; min-height: 34px;}",
+        ".m-richtext__description {font-size: 16px;}",
+        ".m-image-comparison__after .m-image-comparison__heading {bottom: 20px; top: auto;}",
+        "@media (max-width: 767px) {.m-image-comparison__heading, .m-richtext__description br {display: none; } .m-custom-content__wrapper {flex-direction: column-reverse; } .m-custom-content__block {padding: 0 15px; }}"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "content_color_scheme": "",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "gap": 0,
+        "gap_mobile": 48,
+        "use_scroll_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "enable_preload_image": false,
+        "custom_class": ""
+      }
+    },
+    "blog_posts_pyG6yW": {
+      "type": "blog-posts",
+      "disabled": true,
+      "name": "Blog posts",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "w-full",
+        "color_scheme": "default",
+        "blog": "trends",
+        "limit": 3,
+        "column": 3,
+        "column_gap": 30,
+        "mobile_gap": 10,
+        "article_image_aspect_ratio": "4/3",
+        "article_align_content": "text-center",
+        "article_show_tags": true,
+        "article_show_date": false,
+        "article_show_excerpt": true,
+        "article_show_button": false,
+        "show_button_on_header": false,
+        "button_link": "",
+        "button_text": "",
+        "button_style": "m-button--primary",
+        "button_size": "",
+        "use_scroll_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "custom_content_f3reLw": {
+      "type": "custom-content",
+      "blocks": {
+        "text_DppTKH": {
+          "type": "text",
+          "settings": {
+            "title": "The Coastal Edition",
+            "subheading": "",
+            "text": "<p>Our new cozy collection is made with environmentally friendly materials and<br/> simple to care for so you can stay cozy wherever.</p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "large",
+            "text_color": "inherit",
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style": "m-button--secondary",
+            "button_size": "",
+            "block_custom_class": "",
+            "animations": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "text_DppTKH"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".m-richtext__description {font-size: 16px;}"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "color_scheme": "default",
+        "content_color_scheme": "scheme-cee058e4-58e3-46aa-9af9-219dadc79066",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "gap": 0,
+        "gap_mobile": 16,
+        "use_scroll_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 40,
+        "enable_preload_image": false,
+        "custom_class": ""
+      }
+    },
+    "product_bundles_RKnEFA": {
+      "type": "product-bundles",
+      "blocks": {
+        "product_dwFbm7": {
+          "type": "product",
+          "settings": {
+            "product": "travertine-agano-vaas",
+            "top": 60,
+            "left": 64
+          }
+        }
+      },
+      "block_order": [
+        "product_dwFbm7"
+      ],
+      "disabled": true,
+      "name": "Product bundles",
+      "settings": {
+        "container": "container-fluid",
+        "color_scheme": "",
+        "layout": "1",
+        "heading": "Product bundles",
+        "heading_size": "h3",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "left",
+        "image": "shopify://shop_images/c5d135b1-ed26-45bf-8572-8ab0938c9c82_1200x1200_fill.jpg",
+        "image_position": "right",
+        "image_ratio": "original",
+        "show_reviews": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit",
+        "enable_preload_image": false
+      }
+    },
+    "apps_6qnUth": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_NVxbzP": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "864729",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 24,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_NVxbzP"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "1621243260e1af0c20",
+    "collection_list_tjXYY7",
+    "image_with_text_kLGLNN",
+    "brands_list_XfN79B",
+    "custom_content_KiFzqG",
+    "blog_posts_pyG6yW",
+    "custom_content_f3reLw",
+    "product_bundles_RKnEFA",
+    "apps_6qnUth"
+  ]
+}
+

@@ -2,6 +2,10 @@
 
 Handle: `/products/eetkamerstoel-whale-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
+Tags: eetkamerstoel, set van 2, staal, beige, coco, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
+Collecties: -
+
 Meta-titel (53): Whale eetkamerstoel · gebogen rug, set van 2 · InHuys  
 Meta-description (149): Eetkamerstoel met doorlopende gebogen rugleuning op een stalen onderstel, set van 2. In beige of coco. Levertijd 2 tot 3 weken, te zien in Purmerend.
 

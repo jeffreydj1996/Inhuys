@@ -1,0 +1,23 @@
+{
+  "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:in-huys.nl&id=TxexGWX2HquSYNQDHVt1bw&utm_medium=link&utm_source=api",
+    "indexStatusResult": {
+      "verdict": "NEUTRAL",
+      "coverageState": "Soft 404",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-04-10T23:06:13Z",
+      "pageFetchState": "SUCCESSFUL",
+      "userCanonical": "https://www.in-huys.nl/collections/bestsellers",
+      "referringUrls": [
+        "https://www.in-huys.nl/products/jumpspot-buiten",
+        "https://www.in-huys.nl/collections/all",
+        "https://www.in-huys.nl/"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    "mobileUsabilityResult": {
+      "verdict": "VERDICT_UNSPECIFIED"
+    }
+  }
+}

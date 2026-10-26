@@ -1,0 +1,2 @@
+# Eén conceptproduct aanmaken of bijwerken. Variabelen: {"p": <inhoud van data/out/productSet-<handle>.json>}. Status blijft DRAFT.
+mutation($p: ProductSetInput!) { productSet(input: $p, synchronous: true) { product { id handle status variantsCount { count } mediaCount { count } resourcePublicationsCount { count } } userErrors { field message code } } }

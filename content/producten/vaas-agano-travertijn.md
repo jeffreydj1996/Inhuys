@@ -2,6 +2,10 @@
 
 Handle: `/products/vaas-agano-travertijn` · Status: **concept** (DRAFT) in Shopify · Merk: MOOISA · Producttype: Vazen
 
+Tags: vaas, travertijn, natuursteen, mooisa  
+Categorie: gid://shopify/TaxonomyCategory/hg-3-67  
+Collecties: gid://shopify/Collection/704710672723
+
 Meta-titel (58): Agano travertijn vaas · Ø 20 cm, 23 of 31 cm hoog · InHuys  
 Meta-description (153): Vaas gedraaid uit één blok travertijn, in twee maten. Rustig en zwaar, het mooist met droge takken; voor water een glazen inzet. Levertijd 1 tot 2 weken.
 

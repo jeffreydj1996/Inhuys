@@ -2,6 +2,10 @@
 
 Handle: `/products/eetkamerstoel-scandi-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
+Tags: eetkamerstoel, set van 2, tan, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
+Collecties: -
+
 Meta-titel (48): Scandi eetkamerstoel in tan · set van 2 · InHuys  
 Meta-description (141): Rustige eetkamerstoel met rechte lijnen in warm lichtbruin (tan), set van 2. Past bij eiken, essen en zwarte tafels. Levertijd 2 tot 3 weken.
 

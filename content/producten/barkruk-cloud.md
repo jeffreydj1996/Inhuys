@@ -2,6 +2,10 @@
 
 Handle: `/products/barkruk-cloud` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Barstoel
 
+Tags: barkruk, keukenbarkruk, rugleuning, staal, crème, karamel, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-12-2  
+Collecties: -
+
 Meta-titel (56): Cloud barkruk met rugleuning · keukenbar en bar · InHuys  
 Meta-description (152): Zachte kuipkruk met rugleuning op een stalen onderstel, in crème en karamel. Twee zithoogtes: keukenbarkruk voor bladen rond 90 cm, barkruk voor 105 cm.
 

@@ -1,0 +1,756 @@
+{% comment %}
+  AI Room Preview Button Snippet
+  Wordt gebruikt als block binnen de Product information section.
+{% endcomment %}
+
+{% if product and block %}
+  {% assign ai_preview_id = 'ai-room-preview-' | append: section.id | append: '-' | append: block.id %}
+
+<div
+  id="{{ ai_preview_id }}"
+  class="ai-room-preview"
+  data-endpoint="{{ block.settings.api_endpoint }}"
+  data-product-title="{{ product.title | escape }}"
+  data-product-image="{% if product.featured_image %}{{ product.featured_image | image_url: width: 1200 }}{% endif %}"
+  {{ block.shopify_attributes }}
+>
+  <script type="application/json" data-ai-variant-json>
+    [
+      {% for variant in product.variants %}
+        {% assign ai_variant_image = variant.featured_image | default: product.featured_image %}
+        {
+          "id": {{ variant.id | json }},
+          "title": {{ variant.title | json }},
+          "sku": {{ variant.sku | json }},
+          "image": {% if ai_variant_image %}{{ ai_variant_image | image_url: width: 1200 | json }}{% else %}""{% endif %}
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  </script>
+    <button type="button" class="ai-room-preview__button" data-ai-open>
+      {{ block.settings.button_text }}
+    </button>
+
+    <div class="ai-room-preview__overlay" data-ai-overlay hidden>
+      <div class="ai-room-preview__modal" role="dialog" aria-modal="true" aria-labelledby="{{ ai_preview_id }}-title">
+        <button type="button" class="ai-room-preview__close" aria-label="Sluiten" data-ai-close>
+          ×
+        </button>
+
+        <div class="ai-room-preview__header">
+          <h2 id="{{ ai_preview_id }}-title">
+            {{ block.settings.popup_title }}
+          </h2>
+          <p>
+            {{ block.settings.popup_text }}
+          </p>
+        </div>
+
+        <div class="ai-room-preview__content">
+          <div class="ai-room-preview__upload">
+            <label class="ai-room-preview__label" for="{{ ai_preview_id }}-file">
+              Upload een foto van je kamer
+            </label>
+
+            <input
+              id="{{ ai_preview_id }}-file"
+              class="ai-room-preview__file"
+              type="file"
+              accept="image/png,image/jpeg,image/webp"
+              data-ai-file
+            >
+
+            <div class="ai-room-preview__preview-box" data-ai-upload-preview-box hidden>
+            <img data-ai-upload-preview alt="Geüploade kamerfoto" width="1200" height="1200" loading="lazy">
+            </div>
+
+            <button type="button" class="ai-room-preview__generate" data-ai-generate disabled>
+              {{ block.settings.generate_button_text }}
+            </button>
+
+            <p class="ai-room-preview__status" data-ai-status></p>
+          </div>
+
+          <div class="ai-room-preview__result" data-ai-result-wrap hidden>
+            <h3>Jouw AI-preview</h3>
+           <img data-ai-result alt="AI productvisualisatie" width="1024" height="1024" loading="lazy">
+            <a class="ai-room-preview__download" href="#" download="ai-product-preview.png" data-ai-download>
+              Download afbeelding
+            </a>
+          </div>
+        </div>
+
+        <p class="ai-room-preview__disclaimer">
+          {{ block.settings.disclaimer_text }}
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    #{{ ai_preview_id }} {
+      margin: 20px 0;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__button,
+    #{{ ai_preview_id }} .ai-room-preview__generate,
+    #{{ ai_preview_id }} .ai-room-preview__download {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 46px;
+      padding: 12px 18px;
+      border: 0;
+      border-radius: 999px;
+      background: #111111;
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 600;
+      line-height: 1;
+      cursor: pointer;
+      text-decoration: none;
+      transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__button:hover,
+    #{{ ai_preview_id }} .ai-room-preview__generate:hover,
+    #{{ ai_preview_id }} .ai-room-preview__download:hover {
+      opacity: 0.86;
+      transform: translateY(-1px);
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__generate:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 999999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 18px;
+      background: rgba(0, 0, 0, 0.62);
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__overlay[hidden] {
+      display: none;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__modal {
+      position: relative;
+      width: min(960px, 100%);
+      max-height: 92vh;
+      overflow: auto;
+      border-radius: 22px;
+      background: #ffffff;
+      color: #111111;
+      padding: 28px;
+      box-shadow: 0 24px 80px rgba(0, 0, 0, 0.28);
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__close {
+      position: absolute;
+      top: 14px;
+      right: 16px;
+      width: 38px;
+      height: 38px;
+      border: 0;
+      border-radius: 50%;
+      background: #f2f2f2;
+      color: #111111;
+      font-size: 28px;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__header {
+      padding-right: 44px;
+      margin-bottom: 22px;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__header h2 {
+      margin: 0 0 8px;
+      font-size: 28px;
+      line-height: 1.15;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__header p {
+      margin: 0;
+      color: #555555;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__content {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__upload,
+    #{{ ai_preview_id }} .ai-room-preview__result {
+      border: 1px solid #eeeeee;
+      border-radius: 18px;
+      padding: 18px;
+      background: #fafafa;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__label {
+      display: block;
+      margin-bottom: 10px;
+      font-weight: 700;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__file {
+      width: 100%;
+      padding: 12px;
+      border: 1px dashed #cccccc;
+      border-radius: 14px;
+      background: #ffffff;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__preview-box {
+      margin: 16px 0;
+      overflow: hidden;
+      border-radius: 16px;
+      background: #ffffff;
+    }
+
+    #{{ ai_preview_id }} img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 16px;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__status {
+      margin: 14px 0 0;
+      color: #555555;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__result h3 {
+      margin: 0 0 12px;
+      font-size: 20px;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__download {
+      margin-top: 14px;
+    }
+
+    #{{ ai_preview_id }} .ai-room-preview__disclaimer {
+      margin: 18px 0 0;
+      color: #777777;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    @media screen and (max-width: 749px) {
+      #{{ ai_preview_id }} .ai-room-preview__modal {
+        padding: 22px;
+      }
+
+      #{{ ai_preview_id }} .ai-room-preview__content {
+        grid-template-columns: 1fr;
+      }
+
+      #{{ ai_preview_id }} .ai-room-preview__header h2 {
+        font-size: 23px;
+      }
+    }
+    body.ai-room-preview-modal-open {
+  overflow: hidden !important;
+}
+
+body > .ai-room-preview__overlay {
+  position: fixed !important;
+  inset: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  height: 100dvh !important;
+  z-index: 2147483647 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 18px !important;
+  background: rgba(0, 0, 0, 0.62) !important;
+  box-sizing: border-box !important;
+}
+
+body > .ai-room-preview__overlay[hidden] {
+  display: none !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__modal {
+  position: relative !important;
+  width: min(960px, calc(100vw - 36px)) !important;
+  max-height: calc(100dvh - 36px) !important;
+  overflow: auto !important;
+  border-radius: 22px !important;
+  background: #ffffff !important;
+  color: #111111 !important;
+  padding: 28px !important;
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.28) !important;
+  box-sizing: border-box !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__close {
+  position: absolute !important;
+  top: 14px !important;
+  right: 16px !important;
+  width: 38px !important;
+  height: 38px !important;
+  border: 0 !important;
+  border-radius: 50% !important;
+  background: #f2f2f2 !important;
+  color: #111111 !important;
+  font-size: 28px !important;
+  line-height: 1 !important;
+  cursor: pointer !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__header {
+  padding-right: 44px !important;
+  margin-bottom: 22px !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__header h2 {
+  margin: 0 0 8px !important;
+  font-size: 28px !important;
+  line-height: 1.15 !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__header p {
+  margin: 0 !important;
+  color: #555555 !important;
+  font-size: 15px !important;
+  line-height: 1.5 !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__content {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  gap: 24px !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__upload,
+body > .ai-room-preview__overlay .ai-room-preview__result {
+  border: 1px solid #eeeeee !important;
+  border-radius: 18px !important;
+  padding: 18px !important;
+  background: #fafafa !important;
+  box-sizing: border-box !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__label {
+  display: block !important;
+  margin-bottom: 10px !important;
+  font-weight: 700 !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__file {
+  width: 100% !important;
+  padding: 12px !important;
+  border: 1px dashed #cccccc !important;
+  border-radius: 14px !important;
+  background: #ffffff !important;
+  box-sizing: border-box !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__preview-box {
+  margin: 16px 0 !important;
+  overflow: hidden !important;
+  border-radius: 16px !important;
+  background: #ffffff !important;
+}
+
+body > .ai-room-preview__overlay img {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 16px !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__status {
+  margin: 14px 0 0 !important;
+  color: #555555 !important;
+  font-size: 14px !important;
+  line-height: 1.4 !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__result h3 {
+  margin: 0 0 12px !important;
+  font-size: 20px !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__download,
+body > .ai-room-preview__overlay .ai-room-preview__generate {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: 46px !important;
+  padding: 12px 18px !important;
+  border: 0 !important;
+  border-radius: 999px !important;
+  background: #111111 !important;
+  color: #ffffff !important;
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  line-height: 1 !important;
+  cursor: pointer !important;
+  text-decoration: none !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__generate:disabled {
+  opacity: 0.45 !important;
+  cursor: not-allowed !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__download {
+  margin-top: 14px !important;
+}
+
+body > .ai-room-preview__overlay .ai-room-preview__disclaimer {
+  margin: 18px 0 0 !important;
+  color: #777777 !important;
+  font-size: 12px !important;
+  line-height: 1.45 !important;
+}
+
+@media screen and (max-width: 749px) {
+  body > .ai-room-preview__overlay {
+    align-items: flex-start !important;
+    padding: 12px !important;
+  }
+
+  body > .ai-room-preview__overlay .ai-room-preview__modal {
+    width: calc(100vw - 24px) !important;
+    max-height: calc(100dvh - 24px) !important;
+    padding: 22px !important;
+    border-radius: 18px !important;
+  }
+
+  body > .ai-room-preview__overlay .ai-room-preview__content {
+    grid-template-columns: 1fr !important;
+  }
+
+  body > .ai-room-preview__overlay .ai-room-preview__header h2 {
+    font-size: 23px !important;
+  }
+}
+  </style>
+
+  <script>
+    (function () {
+      const root = document.getElementById("{{ ai_preview_id }}");
+
+      if (!root) return;
+
+const endpoint = root.dataset.endpoint;
+const baseProductTitle = root.dataset.productTitle || "dit product";
+const fallbackProductImage = root.dataset.productImage || "";
+
+let productTitle = baseProductTitle;
+let productImageUrl = fallbackProductImage
+  ? new URL(fallbackProductImage, window.location.origin).href
+  : "";
+
+const variantDataElement = root.querySelector("[data-ai-variant-json]");
+let aiVariants = [];
+
+try {
+  aiVariants = JSON.parse(variantDataElement ? variantDataElement.textContent : "[]");
+} catch (error) {
+  console.warn("AI variant data kon niet worden gelezen:", error);
+  aiVariants = [];
+}
+
+function getCurrentVariantId() {
+  const productInfo = root.closest("product-info") || document;
+
+  const activeInput =
+    productInfo.querySelector('form[action*="/cart/add"] input[name="id"]:not([disabled])') ||
+    productInfo.querySelector('input[name="id"]:not([disabled])') ||
+    productInfo.querySelector('select[name="id"]');
+
+  if (activeInput && activeInput.value) {
+    return String(activeInput.value);
+  }
+
+  const url = new URL(window.location.href);
+  return url.searchParams.get("variant");
+}
+
+function updateAiProductFromSelectedVariant() {
+  const currentVariantId = getCurrentVariantId();
+
+  const matchedVariant = aiVariants.find(function (variant) {
+    return String(variant.id) === String(currentVariantId);
+  });
+
+  const variantImage = matchedVariant && matchedVariant.image
+    ? matchedVariant.image
+    : fallbackProductImage;
+
+  productImageUrl = variantImage
+    ? new URL(variantImage, window.location.origin).href
+    : "";
+
+  const variantTitle =
+    matchedVariant &&
+    matchedVariant.title &&
+    matchedVariant.title !== "Default Title"
+      ? matchedVariant.title
+      : "";
+
+  const skuText =
+    matchedVariant && matchedVariant.sku
+      ? " - SKU " + matchedVariant.sku
+      : "";
+
+  productTitle = variantTitle
+    ? baseProductTitle + " - " + variantTitle + skuText
+    : baseProductTitle + skuText;
+}
+
+updateAiProductFromSelectedVariant();
+
+document.addEventListener(
+  "change",
+  function () {
+    setTimeout(updateAiProductFromSelectedVariant, 100);
+  },
+  true
+);
+
+document.addEventListener("variant:change", function () {
+  setTimeout(updateAiProductFromSelectedVariant, 100);
+});
+
+document.addEventListener("variant-change", function () {
+  setTimeout(updateAiProductFromSelectedVariant, 100);
+});
+      const openButton = root.querySelector("[data-ai-open]");
+      const closeButton = root.querySelector("[data-ai-close]");
+      const overlay = root.querySelector("[data-ai-overlay]");
+      const fileInput = root.querySelector("[data-ai-file]");
+      const generateButton = root.querySelector("[data-ai-generate]");
+      const statusEl = root.querySelector("[data-ai-status]");
+      const uploadPreviewBox = root.querySelector("[data-ai-upload-preview-box]");
+      const uploadPreview = root.querySelector("[data-ai-upload-preview]");
+      const resultWrap = root.querySelector("[data-ai-result-wrap]");
+      const resultImage = root.querySelector("[data-ai-result]");
+      const downloadLink = root.querySelector("[data-ai-download]");
+
+      let selectedFile = null;
+      let resizedFile = null;
+
+      function setStatus(message) {
+        statusEl.textContent = message || "";
+      }
+
+function openModal() {
+  if (overlay.parentElement !== document.body) {
+    document.body.appendChild(overlay);
+  }
+
+  overlay.hidden = false;
+  document.documentElement.style.overflow = "hidden";
+  document.body.style.overflow = "hidden";
+  document.body.classList.add("ai-room-preview-modal-open");
+}
+
+function closeModal() {
+  overlay.hidden = true;
+  document.documentElement.style.overflow = "";
+  document.body.style.overflow = "";
+  document.body.classList.remove("ai-room-preview-modal-open");
+}
+
+      function fileToImage(file) {
+        return new Promise(function (resolve, reject) {
+          const img = new Image();
+          const url = URL.createObjectURL(file);
+
+          img.onload = function () {
+            URL.revokeObjectURL(url);
+            resolve(img);
+          };
+
+          img.onerror = function () {
+            URL.revokeObjectURL(url);
+            reject(new Error("De afbeelding kon niet worden gelezen."));
+          };
+
+          img.src = url;
+        });
+      }
+
+      async function resizeImageToMax1200(file) {
+        const img = await fileToImage(file);
+        const maxSize = 1200;
+
+        let width = img.naturalWidth;
+        let height = img.naturalHeight;
+
+        if (width > height && width > maxSize) {
+          height = Math.round((height * maxSize) / width);
+          width = maxSize;
+        } else if (height >= width && height > maxSize) {
+          width = Math.round((width * maxSize) / height);
+          height = maxSize;
+        }
+
+        const canvas = document.createElement("canvas");
+        canvas.width = width;
+        canvas.height = height;
+
+        const context = canvas.getContext("2d");
+        context.drawImage(img, 0, 0, width, height);
+
+        return new Promise(function (resolve) {
+          canvas.toBlob(
+            function (blob) {
+              if (!blob) {
+                resolve(file);
+                return;
+              }
+
+              const resized = new File(
+                [blob],
+                "kamerfoto-1200px.jpg",
+                {
+                  type: "image/jpeg",
+                  lastModified: Date.now()
+                }
+              );
+
+              resolve(resized);
+            },
+            "image/jpeg",
+            0.92
+          );
+        });
+      }
+
+openButton.addEventListener("click", function () {
+  updateAiProductFromSelectedVariant();
+
+  if (!endpoint) {
+          alert("De AI endpoint URL ontbreekt. Vul deze in bij de blokinstellingen.");
+          return;
+        }
+
+        if (!productImageUrl) {
+          alert("Er is geen productafbeelding gevonden voor dit product.");
+          return;
+        }
+
+        openModal();
+      });
+
+      closeButton.addEventListener("click", closeModal);
+
+      overlay.addEventListener("click", function (event) {
+        if (event.target === overlay) {
+          closeModal();
+        }
+      });
+
+      document.addEventListener("keydown", function (event) {
+        if (event.key === "Escape" && !overlay.hidden) {
+          closeModal();
+        }
+      });
+
+      fileInput.addEventListener("change", async function () {
+        selectedFile = fileInput.files && fileInput.files[0] ? fileInput.files[0] : null;
+        resizedFile = null;
+        resultWrap.hidden = true;
+        resultImage.src = "";
+        downloadLink.href = "#";
+
+        if (!selectedFile) {
+          generateButton.disabled = true;
+          uploadPreviewBox.hidden = true;
+          setStatus("");
+          return;
+        }
+
+        if (!selectedFile.type.startsWith("image/")) {
+          generateButton.disabled = true;
+          uploadPreviewBox.hidden = true;
+          setStatus("Upload een geldig afbeeldingsbestand.");
+          return;
+        }
+
+        setStatus("Afbeelding wordt voorbereid...");
+
+        try {
+          resizedFile = await resizeImageToMax1200(selectedFile);
+
+          const previewUrl = URL.createObjectURL(resizedFile);
+          uploadPreview.src = previewUrl;
+          uploadPreviewBox.hidden = false;
+
+          generateButton.disabled = false;
+          setStatus("Klaar om te genereren.");
+        } catch (error) {
+          console.error(error);
+          generateButton.disabled = true;
+          setStatus("De afbeelding kon niet worden verwerkt. Probeer een andere foto.");
+        }
+      });
+
+      generateButton.addEventListener("click", async function () {
+      updateAiProductFromSelectedVariant();
+
+      if (!resizedFile) {
+          setStatus("Upload eerst een kamerfoto.");
+          return;
+        }
+
+        generateButton.disabled = true;
+        setStatus("AI-preview wordt gemaakt. Dit kan even duren...");
+        resultWrap.hidden = true;
+
+        try {
+          const formData = new FormData();
+          formData.append("roomImage", resizedFile);
+          formData.append("productImageUrl", productImageUrl);
+          formData.append("productTitle", productTitle);
+
+          const response = await fetch(endpoint, {
+            method: "POST",
+            body: formData
+          });
+
+          const data = await response.json();
+
+          if (!response.ok) {
+            throw new Error(data.error || "Genereren mislukt.");
+          }
+
+          if (!data.image) {
+            throw new Error("Er is geen afbeelding teruggekomen.");
+          }
+
+          resultImage.src = data.image;
+          downloadLink.href = data.image;
+          resultWrap.hidden = false;
+          setStatus("Klaar! Bekijk je AI-preview.");
+        } catch (error) {
+          console.error(error);
+          setStatus(error.message || "Er ging iets mis. Probeer het opnieuw.");
+        } finally {
+          generateButton.disabled = false;
+        }
+      });
+    })();
+  </script>
+{% endif %}

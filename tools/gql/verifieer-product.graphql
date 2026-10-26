@@ -1,0 +1,2 @@
+# Controle na aanmaken. Variabelen: {"id": "gid://shopify/Product/..."}
+query($id: ID!) { product(id: $id) { id handle status resourcePublicationsCount { count } variants(first: 30) { nodes { title price sku } } media(first: 60) { nodes { ... on MediaImage { id alt } } } metafields(first: 20, namespace: "inhuys") { nodes { key } } } }

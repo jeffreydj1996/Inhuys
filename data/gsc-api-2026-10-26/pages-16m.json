@@ -1,0 +1,86 @@
+{
+  "rows": [
+    {
+      "keys": [
+        "https://www.in-huys.nl/"
+      ],
+      "clicks": 4,
+      "impressions": 53,
+      "ctr": 0.075471698113207544,
+      "position": 9.584905660377359
+    },
+    {
+      "keys": [
+        "https://www.in-huys.nl/blogs/trends/woontrends-2025-van-greige-tot-bold-seventies"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6.25
+    },
+    {
+      "keys": [
+        "https://www.in-huys.nl/cart"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "keys": [
+        "https://www.in-huys.nl/collections/all"
+      ],
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 21.181818181818183
+    },
+    {
+      "keys": [
+        "https://www.in-huys.nl/pages/inspiratie"
+      ],
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 5.0714285714285712
+    },
+    {
+      "keys": [
+        "https://www.in-huys.nl/pages/interieuradvies"
+      ],
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 60.456521739130437
+    },
+    {
+      "keys": [
+        "https://www.in-huys.nl/products/boogstoel-karamel-set-van-2"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "keys": [
+        "https://www.in-huys.nl/products/luna-chair-mink-set-van-2"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "keys": [
+        "https://www.in-huys.nl/products/springplek-binnen"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    }
+  ],
+  "responseAggregationType": "byPage"
+}

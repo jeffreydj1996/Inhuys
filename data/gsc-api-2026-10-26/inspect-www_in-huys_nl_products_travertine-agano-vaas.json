@@ -1,0 +1,71 @@
+{
+  "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:in-huys.nl&id=_9_wITMB9wwCch-n3pivTg&utm_medium=link&utm_source=api",
+    "indexStatusResult": {
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-27T02:23:52Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.in-huys.nl/products/travertine-agano-vaas",
+      "userCanonical": "https://www.in-huys.nl/products/travertine-agano-vaas",
+      "referringUrls": [
+        "https://www.in-huys.nl/"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    "mobileUsabilityResult": {
+      "verdict": "VERDICT_UNSPECIFIED"
+    },
+    "richResultsResult": {
+      "verdict": "PASS",
+      "detectedItems": [
+        {
+          "richResultType": "Product snippets",
+          "items": [
+            {
+              "name": "Travertine Agano Vaas",
+              "issues": [
+                {
+                  "issueMessage": "Missing field \"review\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"aggregateRating\"",
+                  "severity": "WARNING"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "richResultType": "Merchant listings",
+          "items": [
+            {
+              "name": "Travertine Agano Vaas",
+              "issues": [
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

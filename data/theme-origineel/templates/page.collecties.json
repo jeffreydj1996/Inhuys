@@ -1,0 +1,158 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumb_4A3C6A": {
+      "type": "breadcrumb",
+      "name": "Breadcrumb",
+      "settings": {
+        "container": "container",
+        "text_alignment": "left",
+        "hide_current": false,
+        "hide_on_mb": false,
+        "animations": "inherit"
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {}
+    },
+    "custom_content_eJNxbn": {
+      "type": "custom-content",
+      "blocks": {
+        "text_4NG3bC": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "text": "{{ page.content }}",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "inherit",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "m-button--primary",
+            "button_size": "",
+            "block_custom_class": "",
+            "animations": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "text_4NG3bC"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "heading": "{{ page.title }}",
+        "heading_size": "h2",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "color_scheme": "scheme-09e5b5b4-774c-4b6c-8025-416ced49cc74",
+        "content_color_scheme": "scheme-09e5b5b4-774c-4b6c-8025-416ced49cc74",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "gap": 30,
+        "gap_mobile": 16,
+        "use_scroll_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "enable_preload_image": false,
+        "custom_class": ""
+      }
+    },
+    "collection_list_YpVbzr": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_block_gNpqAG": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Example collection title"
+          }
+        },
+        "collection_block_dAw7Ny": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Example collection title"
+          }
+        },
+        "collection_block_AD8PmJ": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Example collection title"
+          }
+        },
+        "collection_block_Ag46GV": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": "Example collection title"
+          }
+        }
+      },
+      "block_order": [
+        "collection_block_gNpqAG",
+        "collection_block_dAw7Ny",
+        "collection_block_AD8PmJ",
+        "collection_block_Ag46GV"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "heading": "NIEUWE COLLECTIES",
+        "heading_size": "h3",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "m-button--primary",
+        "header_alignment": "center",
+        "color_scheme": "",
+        "container": "container-fluid",
+        "layout": "grid",
+        "expanded": true,
+        "card_style": "standard",
+        "text_alignment": "left",
+        "hover_effect": "scaling-down",
+        "show_product_count": false,
+        "count_inline_title": false,
+        "image_rounded": false,
+        "items_per_row": 3,
+        "item_gap": 30,
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "mobile_disable_slider": false,
+        "use_scroll_mobile": true,
+        "mobile_gap": 10,
+        "hidden_slide_control_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    }
+  },
+  "order": [
+    "breadcrumb_4A3C6A",
+    "main",
+    "custom_content_eJNxbn",
+    "collection_list_YpVbzr"
+  ]
+}
+

@@ -1,0 +1,256 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumb_4A3C6A": {
+      "type": "breadcrumb",
+      "name": "Breadcrumb",
+      "settings": {
+        "container": "container",
+        "text_alignment": "left",
+        "hide_current": false,
+        "hide_on_mb": false,
+        "animations": "inherit"
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {}
+    },
+    "image_with_text_2_bzEN9V": {
+      "type": "image-with-text-2",
+      "name": "Image with text overlay",
+      "settings": {
+        "color_scheme": "default",
+        "container": "w-full",
+        "hero_size": "adapt",
+        "show_overlay": true,
+        "image": "shopify://shop_images/Greige_Bold_Seventies_house_30ee54c8-14eb-4094-a924-a3ce46f5cab1.png",
+        "image_link": "",
+        "parallax": false,
+        "parallax_direction": "vertical",
+        "content_in_container": false,
+        "content_position": "right top",
+        "text_alignment": "right",
+        "text_size": "medium",
+        "text_color": "white",
+        "title": "",
+        "subtitle": "",
+        "text": "{{ page.content }}",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "m-button--primary",
+        "button_size": "",
+        "text_alignment_mobile": "center",
+        "use_content_above": false,
+        "custom_class": "",
+        "animations": "inherit",
+        "enable_bg_zoom_effect": true,
+        "enable_preload_image": false
+      }
+    },
+    "custom_content_eJNxbn": {
+      "type": "custom-content",
+      "blocks": {
+        "text_4NG3bC": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "text": "{{ page.content }}",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "inherit",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "m-button--primary",
+            "button_size": "",
+            "block_custom_class": "",
+            "animations": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "text_4NG3bC"
+      ],
+      "disabled": true,
+      "name": "Custom content",
+      "settings": {
+        "heading": "{{ page.title }}",
+        "heading_size": "h2",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "color_scheme": "scheme-09e5b5b4-774c-4b6c-8025-416ced49cc74",
+        "content_color_scheme": "scheme-09e5b5b4-774c-4b6c-8025-416ced49cc74",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "gap": 30,
+        "gap_mobile": 16,
+        "use_scroll_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "enable_preload_image": false,
+        "custom_class": ""
+      }
+    },
+    "custom_content_9BpRdf": {
+      "type": "custom-content",
+      "blocks": {
+        "text_card_with_image_3HieBn": {
+          "type": "text_card_with_image",
+          "settings": {
+            "width": "25%",
+            "link": "shopify://pages/collecties",
+            "text_alignment": "center",
+            "image": "shopify://shop_images/Keizersgracht_213A-26.jpg",
+            "title": "",
+            "text": "<h4>NIEUWE COLLECTIES</h4>",
+            "text_size": "small",
+            "button_label": "",
+            "button_style": "m-button--link",
+            "button_size": "",
+            "block_custom_class": "",
+            "animations": "inherit",
+            "enable_preload_image": false
+          }
+        },
+        "text_card_with_image_qEVfRx": {
+          "type": "text_card_with_image",
+          "settings": {
+            "width": "25%",
+            "link": "shopify://collections/frontpage",
+            "text_alignment": "center",
+            "image": "shopify://shop_images/Keizersgracht_213A-26.jpg",
+            "title": "",
+            "text": "<p>NIEUWE COLLECTIES</p>",
+            "text_size": "large",
+            "button_label": "",
+            "button_style": "m-button--link",
+            "button_size": "",
+            "block_custom_class": "",
+            "animations": "inherit",
+            "enable_preload_image": false
+          }
+        },
+        "text_card_with_image_FJFgPG": {
+          "type": "text_card_with_image",
+          "settings": {
+            "width": "25%",
+            "link": "shopify://collections/frontpage",
+            "text_alignment": "center",
+            "image": "shopify://shop_images/Keizersgracht_213A-26.jpg",
+            "title": "",
+            "text": "<p>NIEUWE COLLECTIES</p>",
+            "text_size": "large",
+            "button_label": "",
+            "button_style": "m-button--link",
+            "button_size": "",
+            "block_custom_class": "",
+            "animations": "inherit",
+            "enable_preload_image": false
+          }
+        },
+        "text_card_with_image_Nf3b7F": {
+          "type": "text_card_with_image",
+          "settings": {
+            "width": "25%",
+            "link": "shopify://collections/frontpage",
+            "text_alignment": "center",
+            "image": "shopify://shop_images/Keizersgracht_213A-26.jpg",
+            "title": "",
+            "text": "<p>NIEUWE COLLECTIES</p>",
+            "text_size": "large",
+            "button_label": "",
+            "button_style": "m-button--link",
+            "button_size": "",
+            "block_custom_class": "",
+            "animations": "inherit",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "text_card_with_image_3HieBn",
+        "text_card_with_image_qEVfRx",
+        "text_card_with_image_FJFgPG",
+        "text_card_with_image_Nf3b7F"
+      ],
+      "disabled": true,
+      "name": "Custom content",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "color_scheme": "scheme-b756afa5-764f-4f80-958d-8afdb78a6ce0",
+        "content_color_scheme": "scheme-b756afa5-764f-4f80-958d-8afdb78a6ce0",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "gap": 30,
+        "gap_mobile": 16,
+        "use_scroll_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "enable_preload_image": false,
+        "custom_class": ""
+      }
+    },
+    "blog_posts_hnM7z9": {
+      "type": "blog-posts",
+      "name": "Blog posts",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "WOONTIPS",
+        "description": "Elke vind je hier nieuwe tips en handige updates over verbouwen, wonen, en mijn oplossingen",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "color_scheme": "scheme-09e5b5b4-774c-4b6c-8025-416ced49cc74",
+        "blog": "woontips-1",
+        "limit": 4,
+        "column": 4,
+        "column_gap": 30,
+        "mobile_gap": 10,
+        "article_image_aspect_ratio": "4/3",
+        "article_align_content": "text-left",
+        "article_show_tags": true,
+        "article_show_date": false,
+        "article_show_excerpt": true,
+        "article_show_button": false,
+        "show_button_on_header": false,
+        "button_link": "",
+        "button_text": "View More",
+        "button_style": "m-button--primary",
+        "button_size": "",
+        "use_scroll_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    }
+  },
+  "order": [
+    "breadcrumb_4A3C6A",
+    "main",
+    "image_with_text_2_bzEN9V",
+    "custom_content_eJNxbn",
+    "custom_content_9BpRdf",
+    "blog_posts_hnM7z9"
+  ]
+}
+

@@ -2,6 +2,10 @@
 
 Handle: `/products/eetkamerstoel-breeze-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
+Tags: eetkamerstoel, set van 2, armleuning, staal, beige, latte, pastelroze, pistache, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
+Collecties: -
+
 Meta-titel (56): Breeze eetkamerstoel met armleuning · set van 2 · InHuys  
 Meta-description (149): Eetkamerstoel met hoge zachte rug en armleuning, set van 2. In beige, latte, pastelroze en pistache op een stalen onderstel. Levertijd 2 tot 3 weken.
 

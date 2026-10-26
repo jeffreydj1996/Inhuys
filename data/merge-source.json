@@ -1,0 +1,3171 @@
+{
+"breeze": [
+{
+"id": "gid://shopify/Product/10447090057555",
+"title": "Breeze Stoel Beige (Set van 2)",
+"status": "ACTIVE",
+"handle": "breeze-stoel-beige-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"armleuning",
+"beige",
+"eetkamer",
+"eetkamerstoel",
+"huiskamer",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoel",
+"stoelen"
+],
+"options": [
+[
+"Kleur",
+[
+"Pastelroze",
+"Beige"
+]
+]
+],
+"variants": [
+{
+"title": "Pastelroze",
+"price": "349.95",
+"sku": "871974353022",
+"qty": 0,
+"opts": [
+{
+"name": "Kleur",
+"value": "Pastelroze"
+}
+]
+},
+{
+"title": "Beige",
+"price": "599.80",
+"sku": "871974353020",
+"qty": 18,
+"opts": [
+{
+"name": "Kleur",
+"value": "Beige"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8c816f9c-6d36-43bd-a22c-d9fe4741e167_1200x1200_fill.jpg?v=1771839047",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/496bf25c-1a58-4c5e-bfba-d52c84e21901_1200x1200_fill.jpg?v=1771839046",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/483f7fad-79a8-4298-bf50-06059111d12f_1200x1200_fill.jpg?v=1771839046",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6480c5fe-01ec-4e3b-9b6a-50484a29de6c_1200x1200_fill.jpg?v=1771839046",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369762140499\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447090090323",
+"title": "Breeze Stoel Latte (Set van 2)",
+"status": "ACTIVE",
+"handle": "breeze-stoel-latte-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "599.80",
+"sku": "871974353021",
+"qty": 72,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/17bda7a2-09e5-4753-afee-76420ec9d6f8_1200x1200_fill.jpg?v=1771839049",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/38f72d70-d795-4d49-be85-61057c760d95_1200x1200_fill.jpg?v=1771839049",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7424574d-dc8f-4b76-980e-85b6d9c17434_1200x1200_fill.jpg?v=1771839048",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ccd81fc6-65a9-472c-b966-1c070b96f075_1200x1200_fill.jpg?v=1771839048",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b79a3d3a-3b74-4302-87fc-6dd190da5cfc_1200x1200_fill.jpg?v=1771839048",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369852875091\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447090123091",
+"title": "Breeze Stoel Pastel Roze (Set van 2)",
+"status": "ACTIVE",
+"handle": "breeze-stoel-pastel-roze-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"armleuning",
+"eetkamer",
+"eetkamerstoel",
+"huiskamer",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"roze",
+"staal",
+"stoel",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "599.80",
+"sku": "871974353022",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c2aef035-bbdf-4183-af16-a5f0afa2c0da_1200x1200_fill.jpg?v=1771839051",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/32fd21cf-ff1a-465f-b19b-be53a456e126_1200x1200_fill.jpg?v=1771839051",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5a120dea-aaec-4246-a0b1-409692770811_1200x1200_fill.jpg?v=1771839051",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ff3e80ea-6cfe-4bda-8282-f75095125732_1200x1200_fill.jpg?v=1771839052",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/97c18d25-5a17-4f95-a6c6-94eb995dc7d3_1200x1200_fill.jpg?v=1771839051",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/310539256147\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447090155859",
+"title": "Breeze Stoel Pistache (Set van 2)",
+"status": "ACTIVE",
+"handle": "breeze-stoel-pistache-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"armleuning",
+"eetkamer",
+"eetkamerstoel",
+"huiskamer",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoel",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "599.80",
+"sku": "871974353025",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7c7ce7f8-8a4d-4657-b742-7d0abb69e071_1200x1200_fill.jpg?v=1771839053",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7807c53e-4274-413e-9f9b-bd5bdfe07acd_1200x1200_fill.jpg?v=1771839054",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/961d9562-cb34-498c-8892-37479b26959d_1200x1200_fill.jpg?v=1771839054",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/745910d4-7e9a-42fe-9832-a6661e852b5c_1200x1200_fill.jpg?v=1771839054",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/425c45c3-06e9-4483-b3ca-713369565d2e_1200x1200_fill.jpg?v=1771839054",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369851793747\"]"
+}
+}
+],
+"cloud-stoel": [
+{
+"id": "gid://shopify/Product/10447089664339",
+"title": "Cloud Stoel Beige (Set van 2)",
+"status": "ACTIVE",
+"handle": "cloud-stoel-beige-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"beige",
+"eetkamerstoel",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoel",
+"zonder armleuning"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "439.80",
+"sku": "871917285928",
+"qty": 173,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8b580cbc-d0e1-4873-8c29-c7521dd13365_1200x1200_fill.jpg?v=1771839024",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5cdf1f40-31aa-424f-8977-8d8d89903592_1200x1200_fill.jpg?v=1771839022",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0c994ab7-4152-4aa4-b4f0-edca1e6f1e56_1200x1200_fill.jpg?v=1771839023",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369762140499\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447089566035",
+"title": "Cloud Stoel Crème (Set van 2)",
+"status": "ACTIVE",
+"handle": "cloud-stoel-creme-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"cr-me",
+"eetkamerstoel",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoel",
+"stoelen",
+"zonder armluining"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "439.80",
+"sku": "871917285924",
+"qty": 400,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/320cb604-cb82-42d2-9f9b-b19b20a1f92f_1200x1200_fill.jpg?v=1771839021",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e48be535-242d-4268-8d4c-c0cd384046ce_1200x1200_fill.jpg?v=1771839021",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e148955e-eaba-4e4c-b396-3602e10fa2bc_1200x1200_fill.jpg?v=1771839021",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369765024083\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447089598803",
+"title": "Cloud Stoel Karamel (Set van 2)",
+"status": "ACTIVE",
+"handle": "cloud-stoel-karamel-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"accessoires",
+"eetkamerstoel",
+"inhuys-selectie",
+"karamel",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoel",
+"stoelen",
+"zonder armleuning"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "439.80",
+"sku": "871917285925",
+"qty": 338,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8c783e91-724d-4dbc-9ee2-5b618deb2521_1200x1200_fill.jpg?v=1771839021",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d179fd52-ae03-4e65-aaea-f1afe11226b6_1200x1200_fill.jpg?v=1771839021",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d29b0492-c1dd-4734-ba20-c4655021c40b_1200x1200_fill.jpg?v=1771839022",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369762763091\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447101624659",
+"title": "Cloud Stoel Safiya Naturel (Set van 2)",
+"status": "ACTIVE",
+"handle": "cloud-stoel-safiya-naturel-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"accessoires",
+"inhuys-selectie",
+"luxe",
+"modern",
+"naturel",
+"pole-to-pole",
+"staal",
+"stoel",
+"zonder armleuning"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "479.80",
+"sku": "7FCA77ABFB3DBD7B",
+"qty": 20,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/05f5ea44-c213-4b6f-a6ad-691ffb54647f_1200x1200_fill.jpg?v=1771839700",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d22e6bc0-78a6-4883-b43d-05689755e453_1200x1200_fill.jpg?v=1771839700",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/88aaff12-9a11-4f90-80a9-9c4ba6e0fa7d_1200x1200_fill.jpg?v=1771839700",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/329586671955\",\"gid://shopify/Metaobject/369755586899\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369760469331\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447089697107",
+"title": "Cloud Stoel Safiya Terracotta (Set van 2)",
+"status": "ACTIVE",
+"handle": "cloud-stoel-safiya-terracotta-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"accessoires",
+"eetkamerstoel",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoel",
+"stoelen",
+"terracotta",
+"zonder armleuning"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "479.80",
+"sku": "871917285927",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6eafc2dc-aba7-4ae5-be7d-932c6052ed28_1200x1200_fill.jpg?v=1771839027",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/00eacba3-ed94-4766-8e08-84468c9d50d6_1200x1200_fill.jpg?v=1771839027",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/38cd253f-7e7c-486c-8567-defdaf11830c_1200x1200_fill.jpg?v=1771839038",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369754702163\",\"gid://shopify/Metaobject/369761747283\"]"
+}
+}
+],
+"cloud-barkruk": [
+{
+"id": "gid://shopify/Product/10447096447315",
+"title": "Cloud Barstoel Crème",
+"status": "ACTIVE",
+"handle": "cloud-barstoel-creme",
+"type": "Barstoel",
+"category": "Meubelen > Stoelen > Barkrukken > Standaard barkrukken",
+"tags": [
+"barkruk",
+"barstoel",
+"cr-me",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoelen",
+"zonder armleuning"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "299.90",
+"sku": "871974353027",
+"qty": 58,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ff848a33-1600-48b7-9206-7e2d4ab2ffa8_1200x1200_fill.jpg?v=1771839384",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/64db936f-34a4-4c07-95ad-23fd445bfdb0_1200x1200_fill.jpg?v=1771839384",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/781ffc97-19f2-4ce3-bed4-45dcc2fa9d41_1200x1200_fill.jpg?v=1771839384",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b9206bce-4d23-460e-8833-69d6e8c4f4e3_1200x1200_fill.jpg?v=1771839384",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/35cd4454-835a-424d-ad7b-bda2c5be7c98_1200x1200_fill.jpg?v=1771839383",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a6f0d30d-230f-4ea7-9fc6-dfd0516b69af_1200x1200_fill.jpg?v=1771839384",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/29c3f3c0-c4ef-4ac4-b9f4-d88c7895aeb1_1200x1200_fill.jpg?v=1771839383",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1bc252d2-1d82-49e0-b1c5-96d5c8fee4b5_1200x1200_fill.jpg?v=1771839384",
+"w": 800
+}
+],
+"shopify_mf": {
+"back-type": "[\"gid://shopify/Metaobject/369766465875\"]",
+"backrest-type": "[\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\"]",
+"furniture-fixture-material": "[\"gid://shopify/Metaobject/369766498643\",\"gid://shopify/Metaobject/369766531411\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369765024083\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447096316243",
+"title": "Cloud Kitchen Barstoel Crème",
+"status": "ACTIVE",
+"handle": "cloud-kitchen-barstoel-creme",
+"type": "Keukenbarstoel",
+"category": "Meubelen > Stoelen > Barkrukken > Standaard barkrukken",
+"tags": [
+"barstoel",
+"cr-me",
+"inhuys-selectie",
+"keukenbarstoel",
+"modern",
+"pole-to-pole",
+"staal",
+"stoelen",
+"zonder armleuning"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "279.90",
+"sku": "871974353026",
+"qty": 24,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7cfaccdb-4562-4259-ac60-c51c61a74ec4_1200x1200_fill.jpg?v=1771839380",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e39c5da4-aab5-4e18-8372-f1715f7d93a9_1200x1200_fill.jpg?v=1771839381",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ed4e6352-9d6e-451d-a573-523287aa457a_1200x1200_fill.jpg?v=1771839381",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4fbe4e7b-5115-40a0-8da6-ac13187e32b6_1200x1200_fill.jpg?v=1771839381",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e9de4e29-fe6e-4221-a250-1334781d1f8f_1200x1200_fill.jpg?v=1771839381",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d6c51761-e4c8-42f7-a694-0082a7c15708_1200x1200_fill.jpg?v=1771839380",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/51a8a006-42ec-42b5-a363-522ff5c31be2_1200x1200_fill.jpg?v=1771839380",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/12086e66-1159-4d82-80fe-bc924ef1d6ae_1200x1200_fill.jpg?v=1771839381",
+"w": 800
+}
+],
+"shopify_mf": {
+"back-type": "[\"gid://shopify/Metaobject/369766465875\"]",
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\"]",
+"furniture-fixture-material": "[\"gid://shopify/Metaobject/369766498643\",\"gid://shopify/Metaobject/369766531411\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369765024083\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447098610003",
+"title": "Wolken barstoel karamel",
+"status": "ACTIVE",
+"handle": "wolkenbar-stoel-karamel",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Barkrukken > Standaard barkrukken",
+"tags": [
+"barkruk",
+"barstoel",
+"hoge stoel",
+"inhuys-selectie",
+"karamel",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoelen",
+"zonder armleuning"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "299.90",
+"sku": "871974353090",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fe65b6d3-1bb0-44f7-a9c0-6d0ba37c9bea_1200x1200_fill.jpg?v=1771839475",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/79244d48-605b-4da6-9596-1b13cc27c100_1200x1200_fill.jpg?v=1771839475",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/3bf3eb5d-3e95-4a47-a3fb-06518660ae3a_1200x1200_fill.jpg?v=1771839475",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4fc31754-d8a4-44c9-914e-b2a4f92958c3_1200x1200_fill.jpg?v=1771839474",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4bb69489-9896-4c03-989f-33c04735fc03_1200x1200_fill.jpg?v=1771839475",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/81ffc093-3108-465c-9b78-bcac648302b8_1200x1200_fill.jpg?v=1771839474",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/89f706f4-5766-442f-b22e-89dc3b52ba32_1200x1200_fill.jpg?v=1771839474",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0de98aed-99de-467b-b5ce-299720584fc3_1200x1200_fill.jpg?v=1771839475",
+"w": 1200
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"furniture-fixture-material": "[\"gid://shopify/Metaobject/369766498643\",\"gid://shopify/Metaobject/369766531411\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369762763091\"]",
+"back-type": "[\"gid://shopify/Metaobject/369766465875\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10624276955475",
+"title": "Wolken keukenbarstoel karamel",
+"status": "ACTIVE",
+"handle": "wolkenkeukenbar-stoel-karamel",
+"type": "Keukenbarstoel",
+"category": "Meubelen > Stoelen > Barkrukken > Standaard barkrukken",
+"tags": [
+"barkruk",
+"keukenbarstoel",
+"keukenstoel",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "279.90",
+"sku": "871974353089",
+"qty": 73,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/2eb4e2c2-c435-4f2e-baa6-f727808cb7a6_1200x1200_fill.jpg?v=1780476938",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fcbb12b6-4771-41b8-b644-d4e3644a03db_1200x1200_fill.jpg?v=1780476938",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1cc5f781-9ef6-4f46-99b1-a654a9683bee_1200x1200_fill.jpg?v=1780476938",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5f7c0d92-d6bf-4aa1-a218-6eb0f7ed6c3a_1200x1200_fill.jpg?v=1780476939",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ade0ab67-98d2-4d11-9c49-8b11c0bb0dcb_1200x1200_fill.jpg?v=1780476939",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e451b4cb-3980-4dc9-8f26-c58dadf95e4d_1200x1200_fill.jpg?v=1780476939",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/31a024e4-3535-4bd8-8cfd-c7d884333142_1200x1200_fill.jpg?v=1780476938",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d9fa3bb8-03a7-4c1d-96f3-7f141a993a20_1200x1200_fill.jpg?v=1780476939",
+"w": 1200
+}
+],
+"shopify_mf": {
+"back-type": "[\"gid://shopify/Metaobject/369766465875\"]",
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"furniture-fixture-material": "[\"gid://shopify/Metaobject/369766498643\",\"gid://shopify/Metaobject/369769906515\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369762763091\"]"
+}
+}
+],
+"whale": [
+{
+"id": "gid://shopify/Product/10447089762643",
+"title": "Whale Stoel Beige (Set van 2)",
+"status": "ACTIVE",
+"handle": "whale-stoel-beige-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"beige",
+"eetkamer",
+"huiskamer",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "479.80",
+"sku": "871917285669",
+"qty": 19,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0c943d00-4127-4538-a486-5e8c8e64dab5_1200x1200_fill.jpg?v=1771839030",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e1636054-8350-477d-ac85-849500acd539_1200x1200_fill.jpg?v=1771839027",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/906b63f6-64be-43e4-acc7-7b24bb28a044_1200x1200_fill.jpg?v=1771839030",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b9a0de31-a2fc-40d5-87f4-0356e46f20f0_1200x1200_fill.jpg?v=1771839028",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/248ace85-8b28-4132-8111-e9fcbc6a95de_1200x1200_fill.jpg?v=1771839027",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/96c6c4bf-22ad-42f1-858b-4adcb76bbda9_1200x1200_fill.jpg?v=1771839027",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5ec2a091-7678-45c0-85a4-eb3d10654672_1200x1200_fill.jpg?v=1771839030",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bceecbaf-7743-4bb2-858d-e64611722f86_1200x1200_fill.jpg?v=1771839027",
+"w": 747
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/198821282131\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447089828179",
+"title": "Whale Stoel Coco (Set van 2)",
+"status": "ACTIVE",
+"handle": "whale-stoel-coco-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"armleuning",
+"coco",
+"eetkamer",
+"eetkamerstoel",
+"huiskamer",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"staal",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "519.80",
+"sku": "871917285668",
+"qty": 58,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ead8db8a-ea1b-41e7-8f8e-2b661f0a679a_1200x1200_fill.jpg?v=1771839033",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9bbac65b-2f8c-4052-b0be-e4a836218058_1200x1200_fill.jpg?v=1771839031",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/00ed850e-7637-4fc0-a1d4-5c1056dee272_1200x1200_fill.jpg?v=1771839032",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d1588a23-5ce7-4aaf-bd2b-f3109a3d4d09_1200x1200_fill.jpg?v=1771839032",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/810c2035-cb20-4aab-9511-8472270b963b_1200x1200_fill.jpg?v=1771839031",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/07de8b01-2467-4717-8722-fc6c504ead74_1200x1200_fill.jpg?v=1771839032",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b0aa2206-ff62-4b9f-83c7-67aef36ab554_1200x1200_fill.jpg?v=1771839032",
+"w": 1120
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1238bad1-db09-464b-aa7f-58b641717f1c_1200x1200_fill.jpg?v=1771839032",
+"w": 747
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369755619667\",\"gid://shopify/Metaobject/369755652435\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369754702163\"]"
+}
+}
+],
+"luna": [
+{
+"id": "gid://shopify/Product/10447099167059",
+"title": "Luna Chair Mink (set van 2)",
+"status": "ACTIVE",
+"handle": "luna-chair-mink-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"armleuning",
+"inhuys-selectie",
+"luxe",
+"mink",
+"modern",
+"pole-to-pole",
+"stoel",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "419.80",
+"sku": "871974353110",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0b463a16-ce81-403c-bead-321a4dd19131_1200x1200_fill.jpg?v=1771839567",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/60b7f319-25cb-4d9f-b8e9-bd1684db51bf_1200x1200_fill.jpg?v=1771839567",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f3df6b35-fc9c-455b-9aa9-7a8bf195615b_1200x1200_fill.jpg?v=1771839567",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9a28b352-34e7-4d4f-a2f8-42d1cda8b9be_1200x1200_fill.jpg?v=1771839566",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c427a21e-6d89-42de-b387-5eb49e61322e_1200x1200_fill.jpg?v=1771839567",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9d512cbe-13ce-4177-8397-9965112f7205_1200x1200_fill.jpg?v=1771839566",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d418857c-97e2-4e90-94b0-79c53fdb30af_1200x1200_fill.jpg?v=1771839566",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/86205eb6-99bb-4bc7-b155-e551e1a52d2f_1200x1200_fill.jpg?v=1771839567",
+"w": 1200
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369787634003\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447099035987",
+"title": "Luna stoel Caramel (set van 2)",
+"status": "ACTIVE",
+"handle": "luna-stoel-caramel-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"armleuning",
+"caramel",
+"eetkamer",
+"eetkamerstoel",
+"huiskamer",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "419.80",
+"sku": "871974353109",
+"qty": 47,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ab311f25-56d6-4e07-b45c-25ae5519fe23_1200x1200_fill.jpg?v=1771839561",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0599d34d-5e3c-47f1-9d16-cb097d6b2357_1200x1200_fill.jpg?v=1771839562",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/804f9838-8359-4818-a917-3131fd5fc63a_1200x1200_fill.jpg?v=1771839561",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d5fb4e76-51fa-4c49-a029-24b8756c28b1_1200x1200_fill.jpg?v=1771839561",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/08ab334f-c125-4830-934c-eca3d168e782_1200x1200_fill.jpg?v=1771839561",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/72c8ab42-81e1-442b-901e-4218ee31c997_1200x1200_fill.jpg?v=1771839561",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/2c8d23aa-84bc-473b-99f4-acdda9857d9e_1200x1200_fill.jpg?v=1771839561",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b5159c20-1371-40da-a284-fdf9351c60a9_1200x1200_fill.jpg?v=1771839562",
+"w": 1200
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369762763091\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447099068755",
+"title": "Luna stoel crème (set van 2)",
+"status": "ACTIVE",
+"handle": "luna-stoelcreme-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"eetkamerstoel",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"stoel",
+"stoelen"
+],
+"options": [
+[
+"Kleur",
+[
+"Goud",
+"room"
+]
+]
+],
+"variants": [
+{
+"title": "Goud",
+"price": "239.95",
+"sku": "871974353111",
+"qty": 62,
+"opts": [
+{
+"name": "Kleur",
+"value": "Goud"
+}
+]
+},
+{
+"title": "room",
+"price": "419.80",
+"sku": "871974353108",
+"qty": 36,
+"opts": [
+{
+"name": "Kleur",
+"value": "room"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/266b02ad-edfd-4542-91f0-8c4d41f5ff1c_1200x1200_fill.jpg?v=1771839562",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/20fe71e9-227c-4575-9b43-f3de44b45a43_1200x1200_fill.jpg?v=1771839562",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c8e24300-a914-4acf-abd3-ee04d808f737_1200x1200_fill.jpg?v=1771839562",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/abc839ed-7190-4ab8-a8a2-9b2986507a3f_1200x1200_fill.jpg?v=1771839562",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fb50c901-26e8-4286-9b8b-c4f3d5ac62ca_1200x1200_fill.jpg?v=1771839562",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/43d8cc50-e167-43d5-90b3-df5c5dc47356_1200x1200_fill.jpg?v=1771839562",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e7fa587a-1c3b-438b-9c1e-0238ec3ba7e2_1200x1200_fill.jpg?v=1771839563",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/462dfe9a-e377-4437-b992-11eb622934c6_1200x1200_fill.jpg?v=1771839563",
+"w": 1200
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369765024083\"]"
+}
+}
+],
+"boog": [
+{
+"id": "gid://shopify/Product/10447098380627",
+"title": "Boogstoel karamel (set van 2)",
+"status": "ACTIVE",
+"handle": "boogstoel-karamel-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"boog",
+"eetkamerstoel",
+"inhuys-selectie",
+"karamel",
+"luxe",
+"modern",
+"pole-to-pole",
+"stoel",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "319.80",
+"sku": "871974353094",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f3ac3c61-135b-480d-8013-e9301d910789_1200x1200_fill.jpg?v=1771839470",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/35dfa1b1-9a9e-44c9-8ee4-0f129fed034f_1200x1200_fill.jpg?v=1771839470",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f397d1f8-7dce-431e-ad7f-87c3d3fab81f_1200x1200_fill.jpg?v=1771839470",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9cd1d49d-d759-49d9-a46d-02c682aabf3c_1200x1200_fill.jpg?v=1771839470",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/af07a1c5-9c2a-45d6-8c3a-b712b993ed09_1200x1200_fill.jpg?v=1771839470",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f3bad5c2-a7f5-44b0-87f3-cea0cab08e68_1200x1200_fill.jpg?v=1771839470",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4301ea9b-3f0f-4d07-a700-1e5962801fb2_1200x1200_fill.jpg?v=1771839470",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/68faaeda-964b-42ae-a1e2-bc80cae644d3_1200x1200_fill.jpg?v=1771839470",
+"w": 800
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369762763091\"]"
+}
+},
+{
+"id": "gid://shopify/Product/10447098413395",
+"title": "Boogstoelcrème (set van 2)",
+"status": "ACTIVE",
+"handle": "boogstoelcreme-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"eetkamerstoel",
+"inhuys-selectie",
+"modern",
+"pole-to-pole",
+"stoeleetkamerstoel",
+"zonder armleuning"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "319.80",
+"sku": "871974353091",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/84ada481-e8ef-4419-b00d-5e7579253dad_1200x1200_fill.jpg?v=1771839471",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/05801910-0b25-491e-a298-e93a4eb88b56_1200x1200_fill.jpg?v=1771839470",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/006a3676-43be-4fe3-8c2e-bf36d4598eec_1200x1200_fill.jpg?v=1771839470",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9c7ee71b-6301-4eea-874c-42f2fcc40266_1200x1200_fill.jpg?v=1771839470",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c2258041-ed75-46e0-84a3-bf2a8b8354f9_1200x1200_fill.jpg?v=1771839470",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/388e39a6-af64-4efe-b3b7-80e828dcde02_1200x1200_fill.jpg?v=1771839470",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/281fe5cc-4c1b-4eee-ace5-a9673ca6e3f6_1200x1200_fill.jpg?v=1771839471",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/31ae513d-8100-443b-ab8c-7670f0058be7_1200x1200_fill.jpg?v=1771839471",
+"w": 1200
+}
+],
+"shopify_mf": {
+"backrest-type": "[\"gid://shopify/Metaobject/369756373331\",\"gid://shopify/Metaobject/369755586899\",\"gid://shopify/Metaobject/329586671955\"]",
+"seat-type": "[\"gid://shopify/Metaobject/369756406099\",\"gid://shopify/Metaobject/369755652435\",\"gid://shopify/Metaobject/369755619667\"]",
+"color-pattern": "[\"gid://shopify/Metaobject/369765024083\"]"
+}
+}
+],
+"scandi": [
+{
+"id": "gid://shopify/Product/10447100248403",
+"title": "Scandi stoel Tan (set van 2)",
+"status": "ACTIVE",
+"handle": "scandi-stoel-tan-set-van-2",
+"type": "Stoelen",
+"category": "Meubelen > Stoelen > Keuken- en eetkamerstoelen",
+"tags": [
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"stoelen"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "379.80",
+"sku": "871974353219",
+"qty": 26,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b03c354e-3898-4460-8d80-54259767e994_1200x1200_fill.jpg?v=1771839644",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/808d7172-b3dd-43e9-8e2f-49977f489bd2_1200x1200_fill.jpg?v=1771839644",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0328250f-506b-4fb8-a09b-32fd6d88faa8_1200x1200_fill.jpg?v=1771839645",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b81588a0-3025-48df-98ea-93308b9e5dee_1200x1200_fill.jpg?v=1771839644",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8ba4538d-3095-4eaf-849b-f5ee25653a4e_1200x1200_fill.jpg?v=1771839644",
+"w": 1200
+}
+],
+"shopify_mf": {
+"color-pattern": "[\"gid://shopify/Metaobject/198821282131\"]",
+"backrest-type": "[\"gid://shopify/Metaobject/329586671955\"]"
+}
+}
+],
+"agano": [
+{
+"id": "gid://shopify/Product/9957680054611",
+"title": "Travertine Agano Vaas",
+"status": "ACTIVE",
+"handle": "travertine-agano-vaas",
+"type": "Vazen",
+"category": "Huis en tuin > Decoratie > Vazen",
+"tags": [
+"inhuys-selectie",
+"luxe",
+"modern",
+"mooisa",
+"steen",
+"vazen"
+],
+"options": [
+[
+"Maat",
+[
+"M Ø20x23cm",
+"L Ø20x31cm"
+]
+]
+],
+"variants": [
+{
+"title": "M Ø20x23cm",
+"price": "194.95",
+"sku": null,
+"qty": 0,
+"opts": [
+{
+"name": "Maat",
+"value": "M Ø20x23cm"
+}
+]
+},
+{
+"title": "L Ø20x31cm",
+"price": "219.95",
+"sku": null,
+"qty": 0,
+"opts": [
+{
+"name": "Maat",
+"value": "L Ø20x31cm"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/Travertine_Agano_Vaas.jpg?v=1750327508",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c5d135b1-ed26-45bf-8572-8ab0938c9c82_1200x1200_fill.jpg?v=1750327508",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5b571251-56f1-4afc-99c9-63f601a2bc26_1200x1200_fill.jpg?v=1750327508",
+"w": 1038
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/20f6aefe-a980-4a1f-88a7-9ee8712c2bca_1200x1200_fill.jpg?v=1750327508",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/Travertine_Agano_Vaas_-_L.jpg?v=1750327505",
+"w": 1200
+}
+],
+"shopify_mf": {
+"color-pattern": "[\"gid://shopify/Metaobject/198821282131\"]",
+"decoration-material": "[\"gid://shopify/Metaobject/198821249363\"]"
+}
+}
+],
+"waxinelicht": [
+{
+"id": "gid://shopify/Product/9966390739283",
+"title": "Marmer waxinelichthouder",
+"status": "ACTIVE",
+"handle": "marmer-waxinelichthouder",
+"type": "Accessoires",
+"category": "Huis en tuin > Decoratie",
+"tags": [
+"accessoires",
+"inhuys-selectie",
+"luxe",
+"marmer",
+"modern",
+"mooisa"
+],
+"options": [
+[
+"Maat",
+[
+"Ø6x4cm",
+"Ø6x7cm",
+"Ø6x10cm"
+]
+]
+],
+"variants": [
+{
+"title": "Ø6x4cm",
+"price": "16.95",
+"sku": "8720648589966",
+"qty": 0,
+"opts": [
+{
+"name": "Maat",
+"value": "Ø6x4cm"
+}
+]
+},
+{
+"title": "Ø6x7cm",
+"price": "25.95",
+"sku": "8720648589959",
+"qty": 0,
+"opts": [
+{
+"name": "Maat",
+"value": "Ø6x7cm"
+}
+]
+},
+{
+"title": "Ø6x10cm",
+"price": "31.95",
+"sku": "8720648589973",
+"qty": 0,
+"opts": [
+{
+"name": "Maat",
+"value": "Ø6x10cm"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/Marmer_waxinelichthouder_-_bruin.jpg?v=1750324799",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/Marmer_waxinelichthouders_-_bruin.jpg?v=1750325137",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/Marmer_waxinelichthouder_-_S_O6x4cm_-_bruin.webp?v=1750325137",
+"w": 480
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/Marmer_waxinelichthouder_-_M_O6x7cm_-_bruin.webp?v=1750325137",
+"w": 480
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/Marmer_waxinelichthouder_-_L_O6x10cm_-_bruin.webp?v=1750325137",
+"w": 480
+}
+],
+"shopify_mf": {
+"color-pattern": "[\"gid://shopify/Metaobject/201300279635\"]",
+"material": "[\"gid://shopify/Metaobject/201301492051\"]"
+}
+}
+],
+"boekensteun": [
+{
+"id": "gid://shopify/Product/9978474430803",
+"title": "Boekhouder",
+"status": "ACTIVE",
+"handle": "boekhouder",
+"type": "Accessoires",
+"category": "Huis en tuin > Decoratie > Boekensteunen",
+"tags": [
+"accessoires",
+"hout",
+"inhuys-selectie",
+"kluster",
+"luxe",
+"modern"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "59.95",
+"sku": null,
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/Boek_gnopdruk.jpg?v=1751027542",
+"w": 700
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/Boekhouder.webp?v=1751027541",
+"w": 700
+}
+],
+"shopify_mf": {
+"suitable-location": "[\"gid://shopify/Metaobject/203625627987\",\"gid://shopify/Metaobject/203625660755\",\"gid://shopify/Metaobject/203625693523\",\"gid://shopify/Metaobject/203625726291\"]",
+"furniture-fixture-material": "[\"gid://shopify/Metaobject/203625595219\"]"
+}
+}
+],
+"bank-amsterdam": [
+{
+"id": "gid://shopify/Product/10447096545619",
+"title": "Bank Amsterdam 2,5 Zits + Ottoman Wit Glyphs",
+"status": "DRAFT",
+"handle": "bank-amsterdam-2-5-zits-ottoman-wit-glyphs",
+"type": "Banken",
+"category": "Meubelen > Poefs",
+"tags": [
+"banken",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"wit"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "3700.00",
+"sku": "871974353034",
+"qty": 5,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/3bd2d9d6-38f5-4a76-a271-cc03f382d69f_1200x1200_fill.jpg?v=1771839385",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/21472f73-3ac4-4724-a8c5-3f5c0dc1006f_1200x1200_fill.jpg?v=1771839386",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/37be4ac1-7819-4d87-9c30-ba74d390c758_1200x1200_fill.jpg?v=1771839387",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fde22e58-12ec-4185-aecf-79ca68f759eb_1200x1200_fill.jpg?v=1771839385",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7c986904-236a-4c4e-a777-09a669f41920_1200x1200_fill.jpg?v=1771839385",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/694b0a3f-e1a4-4c40-b41c-49aa664ff470_1200x1200_fill.jpg?v=1771839385",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0e4fcb39-6589-4dd7-bed7-53a54b9fadcf_1200x1200_fill.jpg?v=1771839386",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447096381779",
+"title": "Bank Amsterdam 4 Zits + Poef Wit Glyphs",
+"status": "DRAFT",
+"handle": "bank-amsterdam-4-zits-poef-wit-glyphs",
+"type": "Banken",
+"category": "Meubelen > Buitenmeubelen > Buitenpoefs > Poefjes",
+"tags": [
+"banken",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"wit"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "4700.00",
+"sku": "871974353036",
+"qty": 5,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/aea16f07-ef72-466c-975f-59cc4e9b2be9_1200x1200_fill.jpg?v=1771839382",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/281c9169-9665-4ca9-9764-fe4eb69cef53_1200x1200_fill.jpg?v=1771839382",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/da8e41fb-cb3b-4e51-b73d-a6e44ddcce6b_1200x1200_fill.jpg?v=1771839382",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e1ff88fe-ef06-4027-9fe2-750f88d01df2_1200x1200_fill.jpg?v=1771839382",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6c16571f-fa0a-4d71-9090-8474d7ef58d5_1200x1200_fill.jpg?v=1771839382",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fcfd6e29-4264-4968-a2b8-1372647f9f7c_1200x1200_fill.jpg?v=1771839382",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/910c695e-a6fb-4776-91d5-f2f609689b9f_1200x1200_fill.jpg?v=1771839382",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447096709459",
+"title": "Bank Amsterdam 4 Zits Wit Glyphs",
+"status": "DRAFT",
+"handle": "bank-amsterdam-4-zits-wit-glyphs",
+"type": "Banken",
+"category": "Meubelen > Sofa's",
+"tags": [
+"banken",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"wit"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "4000.00",
+"sku": "871974353035",
+"qty": 5,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f712f1be-48fb-4287-914e-8f00c9ebb00f_1200x1200_fill.jpg?v=1771839387",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4e353a08-d2ba-460d-ad03-6d6fc13b4785_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4dd396b6-e332-4a39-8740-52d2f7d11e84_1200x1200_fill.jpg?v=1771839389",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/2e95f7e7-33f2-4450-a9de-6c7ca6f5e824_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bbea2aaf-c5ab-4766-8f61-49faeaff35dd_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/28e1f49a-1695-49fe-a699-323dbbfb8b91_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447096807763",
+"title": "Bank Amsterdam 6 Zits Hoekbank + Ottoman Bank Wit Glyphs",
+"status": "DRAFT",
+"handle": "bank-amsterdam-6-zits-hoekbank-ottoman-bank-wit-glyphs",
+"type": "Banken",
+"category": "Meubelen > Poefs",
+"tags": [
+"banken",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"wit"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "7000.00",
+"sku": "871974353113",
+"qty": 5,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/2780e3d6-9468-4a23-b0ce-7c82e2b57d15_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0153d062-9244-4b17-a7c7-a2e57843c5d1_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6020a6f9-68f5-49de-b39f-57e007b0d64c_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bb939e4c-5edd-4f88-bad9-6f70b3b598b4_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b0ce6b6d-755e-4d05-8b50-6b03740c99d8_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b2fa0cb9-59bb-4c1f-a7fc-e670311807d7_1200x1200_fill.jpg?v=1771839388",
+"w": 800
+}
+],
+"shopify_mf": {}
+}
+],
+"bank-new-york": [
+{
+"id": "gid://shopify/Product/10447101460819",
+"title": "Bank New York 2,5 zits (Rechter Lounge) Beige",
+"status": "DRAFT",
+"handle": "bank-new-york-2-5-zits-rechter-lounge-beige",
+"type": "Banken",
+"category": "Meubelen > Accessoires voor sofa's > Zitbankelementen",
+"tags": [
+"banken",
+"beige",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "2740.00",
+"sku": "871917285938",
+"qty": 10,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4f290cb0-7835-4de3-8120-2380749506b7_1200x1200_fill.jpg?v=1771839691",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1c5214b4-2df1-4a79-9f63-d019f2dfaaee_1200x1200_fill.jpg?v=1771839692",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a04eed76-3ba7-47d7-908d-cec254d606f9_1200x1200_fill.jpg?v=1771839692",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bf29c15f-1982-4354-952d-1c197897aba8_1200x1200_fill.jpg?v=1771839692",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/69fd9490-907e-4f82-8248-8264f1e22ade_1200x1200_fill.jpg?v=1771839691",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447092449619",
+"title": "Bank New York 2,5 zits (Rechter Lounge) Coco",
+"status": "DRAFT",
+"handle": "bank-new-york-2-5-zits-rechter-lounge-coco",
+"type": "Banken",
+"category": "Meubelen > Accessoires voor sofa's > Zitbankelementen",
+"tags": [
+"banken",
+"coco",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "2980.00",
+"sku": "871917285934",
+"qty": 10,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/62baec28-e797-4edb-88da-645c132eec18_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a25a5a47-7463-4916-a7e4-dda299ad2976_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b3aafe2a-95bb-47bf-9455-dada533fe466_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1e29ae0c-3fb5-4607-a33a-f6eaff7033ad_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447092351315",
+"title": "Bank New York 2,5 zits (Rechter Lounge) Sand Boucle",
+"status": "DRAFT",
+"handle": "bank-new-york-2-5-zits-rechter-lounge-sand-boucle",
+"type": "Banken",
+"category": "Meubelen > Accessoires voor sofa's > Zitbankelementen",
+"tags": [
+"banken",
+"boucl",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"zand"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "2740.00",
+"sku": "871917285930",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d909bfa4-9989-4ea6-b954-9d35ad4355c1_1200x1200_fill.jpg?v=1771839142",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/02e74547-eb9b-46ef-81a7-9c7df8c589a2_1200x1200_fill.jpg?v=1771839141",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/63194909-204a-40d3-9caf-e4c226d49b62_1200x1200_fill.jpg?v=1771839141",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/97dbee67-9a93-46ca-90d2-8b35b1223161_1200x1200_fill.jpg?v=1771839141",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/944cc10a-8b59-4da0-be03-fab18e0c7478_1200x1200_fill.jpg?v=1771839141",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447092220243",
+"title": "Bank New York 2,5 zits Beige",
+"status": "DRAFT",
+"handle": "bank-new-york-2-5-zits-beige",
+"type": "Banken",
+"category": "Meubelen > Sofa's",
+"tags": [
+"banken",
+"beige",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "2240.00",
+"sku": "871917285937",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b466b2e1-3711-43a2-8dd1-b9082628429d_1200x1200_fill.jpg?v=1771839120",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/62323d99-0774-433d-8088-36f70108b10f_1200x1200_fill.jpg?v=1771839120",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9716f819-2531-402a-848c-7e43776cb844_1200x1200_fill.jpg?v=1771839120",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1251fe9e-9830-44de-afc7-1f4670f1c74e_1200x1200_fill.jpg?v=1771839120",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b1ec1c40-d4ed-457b-8960-1a0d25b2b495_1200x1200_fill.jpg?v=1771839121",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447092318547",
+"title": "Bank New York 2,5 zits Coco",
+"status": "DRAFT",
+"handle": "bank-new-york-2-5-zits-coco",
+"type": "Banken",
+"category": "Meubelen > Sofa's",
+"tags": [
+"banken",
+"coco",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "2480.00",
+"sku": "871917285933",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/992f5205-ee0b-4cb8-9d18-6bf29a12f2f2_1200x1200_fill.jpg?v=1771839136",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ca3e9a44-9e68-4142-ab80-ee4f8b2c7dcd_1200x1200_fill.jpg?v=1771839136",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a9ab96e2-0c0e-47dd-9678-cbb835b3a431_1200x1200_fill.jpg?v=1771839136",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/dda45171-a1d7-4102-9fe4-304b53c14c4c_1200x1200_fill.jpg?v=1771839136",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7e055a70-11f0-4329-b3c7-40052f43a687_1200x1200_fill.jpg?v=1771839136",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447092285779",
+"title": "Bank New York 2,5 zits Sand Boucle",
+"status": "DRAFT",
+"handle": "bank-new-york-2-5-zits-sand-boucle",
+"type": "Banken",
+"category": "Meubelen > Sofa's",
+"tags": [
+"banken",
+"boucl",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"zand"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "2240.00",
+"sku": "871917285929",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/72048135-090c-4fb2-af55-ee09c869dc74_1200x1200_fill.jpg?v=1771839124",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/027ccfc4-c384-42d4-b585-3ce49e93e812_1200x1200_fill.jpg?v=1771839124",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a3b85964-143a-4bdf-adca-8c8d6ee3d3eb_1200x1200_fill.jpg?v=1771839123",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bf45e276-10bb-4d6e-bfd7-cb53c0088965_1200x1200_fill.jpg?v=1771839123",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ab121892-b356-4b9d-b1d4-6dc8e3584942_1200x1200_fill.jpg?v=1771839123",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447101526355",
+"title": "Bank New York 4 zits (Rechter Lounge) Beige",
+"status": "DRAFT",
+"handle": "bank-new-york-4-zits-rechter-lounge-beige",
+"type": "Banken",
+"category": "Meubelen > Accessoires voor sofa's > Zitbankelementen",
+"tags": [
+"banken",
+"beige",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "3740.00",
+"sku": "871917285952",
+"qty": 8,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fceb0d0f-0a76-4baa-8469-d0699cffe899_1200x1200_fill.jpg?v=1771839698",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5413238b-4a3c-40cd-a79f-73b67ed1ab38_1200x1200_fill.jpg?v=1771839698",
+"w": 250
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e646e3de-4264-42d3-a837-c9b3f0890833_1200x1200_fill.jpg?v=1771839695",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a6697b2f-983f-40b7-b07c-66934bed90c6_1200x1200_fill.jpg?v=1771839696",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/06db89ee-2eb6-4dee-8c98-933e1316fb78_1200x1200_fill.jpg?v=1771839695",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447092547923",
+"title": "Bank New York 4 zits (Rechter Lounge) Coco",
+"status": "DRAFT",
+"handle": "bank-new-york-4-zits-rechter-lounge-coco",
+"type": "Banken",
+"category": "Meubelen > Accessoires voor sofa's > Zitbankelementen",
+"tags": [
+"banken",
+"coco",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "3980.00",
+"sku": "871917285936",
+"qty": 10,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/df0fd68b-73fa-48df-a373-a0f6301e1df5_1200x1200_fill.jpg?v=1771839149",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/12f1b0e8-30c3-45c4-b706-ba628b99ccb7_1200x1200_fill.jpg?v=1771839149",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f5a8458f-09fd-4ca2-bbb5-207e9df084a4_1200x1200_fill.jpg?v=1771839149",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/60430cd8-1713-4848-a02f-dc17a245aa04_1200x1200_fill.jpg?v=1771839149",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447101559123",
+"title": "Bank New York 4 zits (Rechter Lounge) Sand Boucle",
+"status": "DRAFT",
+"handle": "bank-new-york-4-zits-rechter-lounge-sand-boucle",
+"type": "Banken",
+"category": "Meubelen > Accessoires voor sofa's > Zitbankelementen",
+"tags": [
+"banken",
+"boucl",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"zand"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "3740.00",
+"sku": "71917285932",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d80dafbb-f6b3-4087-836f-1f6c0917f123_1200x1200_fill.jpg?v=1771839698",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4d74b908-e07b-40d8-aabf-91fd5560ad03_1200x1200_fill.jpg?v=1771839698",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4ca15da1-c2bf-4958-8771-9b9223cbd3dc_1200x1200_fill.jpg?v=1771839696",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f4d799d1-e84b-469a-9c2c-f3d4ad5bfbc7_1200x1200_fill.jpg?v=1771839698",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a108b1c5-d454-465e-9f18-166af31652b0_1200x1200_fill.jpg?v=1771839696",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447092482387",
+"title": "Bank New York 4 zits Beige",
+"status": "DRAFT",
+"handle": "bank-new-york-4-zits-beige",
+"type": "Banken",
+"category": "Meubelen > Sofa's",
+"tags": [
+"banken",
+"beige",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "3200.00",
+"sku": "871917285939",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b1bada32-ef7a-41e8-a691-da358264d1ac_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/74652735-a5fb-44e8-a05c-fd3b5a711624_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6fdf5344-6ac1-44df-9fcc-7dde30c2f1a2_1200x1200_fill.jpg?v=1771839145",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/14a84161-ba52-42d1-9dc6-18ee69883642_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d3616779-e6ad-4826-a123-b4e32e98e071_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447092515155",
+"title": "Bank New York 4 zits Coco",
+"status": "DRAFT",
+"handle": "bank-new-york-4-zits-coco",
+"type": "Banken",
+"category": "Meubelen > Sofa's",
+"tags": [
+"banken",
+"coco",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "3480.00",
+"sku": "871917285935",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/34309427-408c-4a6b-b143-93e9ebf02519_1200x1200_fill.jpg?v=1771839145",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/84550780-abbc-49c9-bf8c-95e8b9adbea6_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e726452e-71f3-4402-aed1-b257a4c33bc5_1200x1200_fill.jpg?v=1771839145",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1e6f7d1b-0c57-4f2c-a1bf-e034aa04f2aa_1200x1200_fill.jpg?v=1771839145",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a25d33ec-610f-4647-a7f6-02982e416334_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447092416851",
+"title": "Bank New York 4 zits Zand Boucle",
+"status": "DRAFT",
+"handle": "bank-new-york-4-zits-zand-boucle",
+"type": "Banken",
+"category": "Meubelen > Sofa's",
+"tags": [
+"banken",
+"boucl",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole",
+"zand"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "3200.00",
+"sku": "871917285931",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0d24eac7-a51a-487e-a679-f10aed8f9909_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/64add467-e6f1-46f7-a59b-5efd4ba067e7_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9100b23e-7040-41f9-b51e-8a8fddc0d93a_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8148a26b-6ce5-426d-af1d-0f318a8cdac0_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fa6dae48-0822-445f-878f-ca2e5e8dfc95_1200x1200_fill.jpg?v=1771839144",
+"w": 800
+}
+],
+"shopify_mf": {}
+}
+],
+"bank-londen": [
+{
+"id": "gid://shopify/Product/10447101821267",
+"title": "Londen 3 zits + Ottoman Tan",
+"status": "DRAFT",
+"handle": "londen-3-zits-ottoman-tan",
+"type": "Banken",
+"category": "Meubelen > Poefs",
+"tags": [
+"banken",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "4500.00",
+"sku": "871974353296",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0b22e88e-9da1-4815-a3cb-2e989d89e186_1200x1200_fill.jpg?v=1771839711",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/aca7a2a5-f2b9-49a3-a620-b39f9873d78b_1200x1200_fill.jpg?v=1771839711",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/967ab08d-f676-4abf-a3da-1bbcba78315c_1200x1200_fill.jpg?v=1771839711",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b7ddcd62-193c-49a1-960f-42616998d8fa_1200x1200_fill.jpg?v=1771839711",
+"w": 1200
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447101755731",
+"title": "Londen 3 zits + Ottoman umber",
+"status": "DRAFT",
+"handle": "londen-3-zits-ottoman-umber",
+"type": "Banken",
+"category": "Meubelen > Poefs",
+"tags": [
+"banken",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "4500.00",
+"sku": "871974353297",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/10529336-ee25-4a1a-922c-e6439c1eb799_1200x1200_fill.jpg?v=1771839711",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b4165438-24ca-4ce5-9e44-36a82776d885_1200x1200_fill.jpg?v=1771839711",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6df95d3a-e252-4cf2-b51a-12dca0e5b536_1200x1200_fill.jpg?v=1771839711",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/df1b8e06-a662-4a6f-8135-0a9e244ec287_1200x1200_fill.jpg?v=1771839710",
+"w": 1200
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447101788499",
+"title": "Londen 3 zits umber",
+"status": "DRAFT",
+"handle": "londen-3-zits-umber",
+"type": "Banken",
+"category": "Meubelen > Sofa's",
+"tags": [
+"banken",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "3500.00",
+"sku": "871974353295",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/23e5d42f-6175-4ace-8c6c-0f4c67b7d52c_1200x1200_fill.jpg?v=1771839711",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4f79d23a-dc24-417b-aefc-65cdaed19601_1200x1200_fill.jpg?v=1771839711",
+"w": 1200
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447101952339",
+"title": "Londen 6 zitter + Ottoman umber",
+"status": "DRAFT",
+"handle": "londen-6-zitter-ottoman-umber",
+"type": "Accessoires",
+"category": "Meubelen > Poefs",
+"tags": [
+"accessoires",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "5740.00",
+"sku": "8719743533011",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/dc4d3c6d-f5b9-44ad-9e6e-425fffa2207f_1200x1200_fill.jpg?v=1771839720",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c788fbe8-8993-43b7-8d2a-d50ce97ba245_1200x1200_fill.jpg?v=1771839720",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6ae42a28-1760-4439-920c-1db95c22ea33_1200x1200_fill.jpg?v=1771839720",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e2195b84-f4db-4b28-b950-dd8b05e81389_1200x1200_fill.jpg?v=1771839720",
+"w": 1200
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447101886803",
+"title": "Londen 6 zitter umber",
+"status": "DRAFT",
+"handle": "londen-6-zitter-umber",
+"type": "Accessoires",
+"category": "Huis en tuin > Decoratie",
+"tags": [
+"accessoires",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "4740.00",
+"sku": "871974353299",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/3f9b6291-0546-4ceb-924d-e66a86699552_1200x1200_fill.jpg?v=1771839716",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bbb7bd8e-9d27-4075-ad58-c3cec1b4a896_1200x1200_fill.jpg?v=1771839716",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ae8f99af-5997-47e4-b3ae-df6f48252dad_1200x1200_fill.jpg?v=1771839717",
+"w": 1200
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447102017875",
+"title": "Londen met 6 zitje tan",
+"status": "DRAFT",
+"handle": "londen-met-6-zitje-tan",
+"type": "Accessoires",
+"category": "Huis en tuin > Decoratie",
+"tags": [
+"accessoires",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "4740.00",
+"sku": "871974353298",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/503bce0f-2949-4501-b30c-bba593f06af2_1200x1200_fill.jpg?v=1771839722",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/197f2091-851c-4c77-af7f-76f2aea1a4b0_1200x1200_fill.jpg?v=1771839722",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/2d7d33aa-3910-4bd5-bddb-4d8ebb066760_1200x1200_fill.jpg?v=1771839722",
+"w": 1200
+}
+],
+"shopify_mf": {}
+},
+{
+"id": "gid://shopify/Product/10447101985107",
+"title": "London 6 SEATER + OTTOMAN TAN",
+"status": "DRAFT",
+"handle": "london-6-seater-ottoman-tan",
+"type": "Accessoires",
+"category": "Meubelen > Poefs",
+"tags": [
+"accessoires",
+"inhuys-selectie",
+"luxe",
+"modern",
+"pole-to-pole"
+],
+"options": [
+[
+"Title",
+[
+"Default Title"
+]
+]
+],
+"variants": [
+{
+"title": "Default Title",
+"price": "5740.00",
+"sku": "871974353300",
+"qty": 0,
+"opts": [
+{
+"name": "Title",
+"value": "Default Title"
+}
+]
+}
+],
+"images": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5287025b-8734-4c13-8002-8a5b6aeaaf74_1200x1200_fill.jpg?v=1771839721",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/2d3120b0-a6d3-4094-a3f0-0a201cbe6e7a_1200x1200_fill.jpg?v=1771839722",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/410402a2-9944-4e76-9b67-e3fa9fb1e5e3_1200x1200_fill.jpg?v=1771839721",
+"w": 1200
+},
+{
+"url": "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6627d073-02d5-4932-b7ab-8eb64438d5b2_1200x1200_fill.jpg?v=1771839721",
+"w": 1200
+}
+],
+"shopify_mf": {}
+}
+]
+}

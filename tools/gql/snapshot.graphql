@@ -1,0 +1,7 @@
+# Momentopname van live objecten; de lezer-agent zet het resultaat om naar het tekstformaat van data/snapshots (secties PRODUCTS_ACTIVE, PAGES, COLLECTIONS, THEMES, MENUS, BLOGS; regel: id titel updatedAt).
+{ products(first: 100, query: "status:active", sortKey: TITLE) { nodes { id title updatedAt } }
+  pages(first: 50) { nodes { id handle updatedAt isPublished } }
+  collections(first: 100) { nodes { id handle updatedAt } }
+  themes(first: 20) { nodes { id name role updatedAt } }
+  menus(first: 20) { nodes { id handle title } }
+  blogs(first: 20) { nodes { id handle } } }

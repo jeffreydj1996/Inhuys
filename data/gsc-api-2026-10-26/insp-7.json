@@ -1,0 +1,22 @@
+{
+  "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:in-huys.nl&id=yLz43AYe3m5csgzlOfQstA&utm_medium=link&utm_source=api",
+    "indexStatusResult": {
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-15T14:01:10Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.in-huys.nl/blogs/trends/woontrends-2025-van-greige-tot-bold-seventies",
+      "userCanonical": "https://www.in-huys.nl/blogs/trends/woontrends-2025-van-greige-tot-bold-seventies",
+      "referringUrls": [
+        "https://www.in-huys.nl/sitemap_blogs_1.xml"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    "mobileUsabilityResult": {
+      "verdict": "VERDICT_UNSPECIFIED"
+    }
+  }
+}

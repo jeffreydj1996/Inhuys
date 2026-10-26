@@ -1,0 +1,95 @@
+{
+  "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:in-huys.nl&id=rqXt_YeL1R36buGoF_Np5Q&utm_medium=link&utm_source=api",
+    "indexStatusResult": {
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-10-19T16:25:36Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.in-huys.nl/products/springplek-binnen",
+      "userCanonical": "https://www.in-huys.nl/products/springplek-binnen",
+      "referringUrls": [
+        "https://www.in-huys.nl/collections/all"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    "mobileUsabilityResult": {
+      "verdict": "VERDICT_UNSPECIFIED"
+    },
+    "richResultsResult": {
+      "verdict": "PASS",
+      "detectedItems": [
+        {
+          "richResultType": "Product snippets",
+          "items": [
+            {
+              "name": "Jumpspot voor Binnen",
+              "issues": [
+                {
+                  "issueMessage": "Missing field \"aggregateRating\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"review\"",
+                  "severity": "WARNING"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "richResultType": "Merchant listings",
+          "items": [
+            {
+              "name": "Jumpspot voor Binnen",
+              "issues": [
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                  "severity": "WARNING"
+                },
+                {
+                  "issueMessage": "Missing field \"shippingDetails\"",
+                  "severity": "WARNING"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

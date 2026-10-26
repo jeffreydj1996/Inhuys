@@ -2,6 +2,10 @@
 
 Handle: `/products/eetkamerstoel-cloud-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
+Tags: eetkamerstoel, set van 2, zonder armleuning, staal, beige, crème, karamel, naturel, terracotta, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
+Collecties: -
+
 Meta-titel (57): Cloud eetkamerstoel · ronde kuipstoel, set van 2 · InHuys  
 Meta-description (158): Dik gevulde kuipstoel zonder armleuning, set van 2. In beige, crème, karamel of de grof geweven Safiya-stof in naturel en terracotta. Levertijd 2 tot 3 weken.
 

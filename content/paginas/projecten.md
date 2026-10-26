@@ -3,7 +3,7 @@
 Handle: `/pages/projecten` · Status: concept (niet gepubliceerd) · Nieuwe pagina, aangemaakt als concept met plaatshouders. Wordt gevuld zodra de eigenaar drie projecten met foto's aanlevert.
 
 Meta-titel (51): Projecten · interieurontwerp en inrichting · InHuys  
-Meta-description (117): Bekijk projecten van InHuys: verbouwingen en inrichtingen in Amsterdam en omgeving, van plattegrond tot laatste vaas.
+Meta-description (141): Bekijk projecten van InHuys: verbouwingen en inrichtingen in Amsterdam en omgeving, van plattegrond tot de laatste vaas, met de keuzes erbij.
 
 ---
 

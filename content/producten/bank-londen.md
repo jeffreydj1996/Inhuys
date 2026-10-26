@@ -2,6 +2,10 @@
 
 Handle: `/products/bank-londen` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Banken
 
+Tags: bank, ottoman, tan, umber, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-22  
+Collecties: -
+
 Meta-titel (51): Bank Londen · 3-zits en 6-zits met ottoman · InHuys  
 Meta-description (152): Modulaire bank met hoge rug en losse ottoman, als 3-zits of 6-zits, in tan of umber. Levering 6 tot 8 weken, in overleg geplaatst. Te zien in Purmerend.
 
