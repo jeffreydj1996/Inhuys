@@ -1,13 +1,73 @@
 {
   "_uitleg": "Alle Shopify-ID's van concepten die in fase 2 zijn aangemaakt. tools/guard_shopify.py staat mutaties alleen toe op deze ID's (plus nieuwe objecten). Bijwerken via tools/status.py of met de hand na elke aanmaak.",
   "thema_kopie": "gid://shopify/OnlineStoreTheme/210233098579",
-  "live_niet_aanraken": {"thema": "gid://shopify/OnlineStoreTheme/200751743315", "menu_hoofd": "gid://shopify/Menu/291696738643", "menu_footer": "gid://shopify/Menu/291696771411"},
-  "menus": {"hoofdmenu-fase-2": "gid://shopify/Menu/345749160275", "footer-inhuys": "gid://shopify/Menu/345749225811", "footer-service": "gid://shopify/Menu/345749258579"},
-  "collecties": {"banken": "gid://shopify/Collection/704710508883", "stoelen": "gid://shopify/Collection/704710541651", "fauteuils": "gid://shopify/Collection/704710574419", "barkrukken": "gid://shopify/Collection/704710607187", "tafels": "gid://shopify/Collection/704710639955", "vazen": "gid://shopify/Collection/704710672723", "windlichten-en-kaarsenhouders": "gid://shopify/Collection/704710705491", "decoratie": "gid://shopify/Collection/704710738259", "maatwerk": "gid://shopify/Collection/704710771027", "kinderkamer": "gid://shopify/Collection/704710803795"},
-  "paginas": {"werkwijze": "gid://shopify/Page/185596346707", "showroom": "gid://shopify/Page/185596379475", "over-inhuys": "gid://shopify/Page/185596412243", "projecten": "gid://shopify/Page/185596445011", "veelgestelde-vragen": "gid://shopify/Page/185596477779"},
-  "producten": {"eetkamerstoel-breeze-set-van-2": "gid://shopify/Product/11027132940627", "eetkamerstoel-cloud-set-van-2": "gid://shopify/Product/11027133038931", "barkruk-cloud": "gid://shopify/Product/11027133202771", "eetkamerstoel-whale-set-van-2": "gid://shopify/Product/11027175571795", "eetkamerstoel-luna-set-van-2": "gid://shopify/Product/11027175702867", "eetkamerstoel-boog-set-van-2": "gid://shopify/Product/11027175833939", "eetkamerstoel-scandi-set-van-2": "gid://shopify/Product/11027175932243", "vaas-agano-travertijn": "gid://shopify/Product/11027182879059", "waxinelichthouder-marmer": "gid://shopify/Product/11027182977363", "boekensteun-mangohout": "gid://shopify/Product/11027158434131", "bank-amsterdam": "gid://shopify/Product/11027197755731", "bank-new-york": "gid://shopify/Product/11027220595027", "bank-londen": "gid://shopify/Product/11027197886803"},
-  "artikelen": {"boucle-onderhouden-zo-blijft-je-bank-mooi": "gid://shopify/Article/617286107475", "eetkamerstoelen-bij-een-ronde-tafel": "gid://shopify/Article/617286140243", "interieur-inrichten-na-een-verbouwing": "gid://shopify/Article/617286173011", "travertijn-in-huis-onderhoud-en-combineren": "gid://shopify/Article/617286205779"},
+  "live_niet_aanraken": {
+    "thema": "gid://shopify/OnlineStoreTheme/200751743315",
+    "menu_hoofd": "gid://shopify/Menu/291696738643",
+    "menu_footer": "gid://shopify/Menu/291696771411"
+  },
+  "menus": {
+    "hoofdmenu-fase-2": "gid://shopify/Menu/345749160275",
+    "footer-inhuys": "gid://shopify/Menu/345749225811",
+    "footer-service": "gid://shopify/Menu/345749258579"
+  },
+  "collecties": {
+    "banken": "gid://shopify/Collection/704710508883",
+    "stoelen": "gid://shopify/Collection/704710541651",
+    "fauteuils": "gid://shopify/Collection/704710574419",
+    "barkrukken": "gid://shopify/Collection/704710607187",
+    "tafels": "gid://shopify/Collection/704710639955",
+    "vazen": "gid://shopify/Collection/704710672723",
+    "windlichten-en-kaarsenhouders": "gid://shopify/Collection/704710705491",
+    "decoratie": "gid://shopify/Collection/704710738259",
+    "maatwerk": "gid://shopify/Collection/704710771027",
+    "kinderkamer": "gid://shopify/Collection/704710803795"
+  },
+  "paginas": {
+    "werkwijze": "gid://shopify/Page/185596346707",
+    "showroom": "gid://shopify/Page/185596379475",
+    "over-inhuys": "gid://shopify/Page/185596412243",
+    "projecten": "gid://shopify/Page/185596445011",
+    "veelgestelde-vragen": "gid://shopify/Page/185596477779"
+  },
+  "producten": {
+    "eetkamerstoel-breeze-set-van-2": "gid://shopify/Product/11027132940627",
+    "eetkamerstoel-cloud-set-van-2": "gid://shopify/Product/11027133038931",
+    "barkruk-cloud": "gid://shopify/Product/11027133202771",
+    "eetkamerstoel-whale-set-van-2": "gid://shopify/Product/11027175571795",
+    "eetkamerstoel-luna-set-van-2": "gid://shopify/Product/11027175702867",
+    "eetkamerstoel-boog-set-van-2": "gid://shopify/Product/11027175833939",
+    "eetkamerstoel-scandi-set-van-2": "gid://shopify/Product/11027175932243",
+    "vaas-agano-travertijn": "gid://shopify/Product/11027182879059",
+    "waxinelichthouder-marmer": "gid://shopify/Product/11027182977363",
+    "boekensteun-mangohout": "gid://shopify/Product/11027158434131",
+    "bank-amsterdam": "gid://shopify/Product/11027197755731",
+    "bank-new-york": "gid://shopify/Product/11027220595027",
+    "bank-londen": "gid://shopify/Product/11027197886803",
+    "fauteuil-panda": "gid://shopify/Product/11028600258899"
+  },
+  "artikelen": {
+    "boucle-onderhouden-zo-blijft-je-bank-mooi": "gid://shopify/Article/617286107475",
+    "eetkamerstoelen-bij-een-ronde-tafel": "gid://shopify/Article/617286140243",
+    "interieur-inrichten-na-een-verbouwing": "gid://shopify/Article/617286173011",
+    "travertijn-in-huis-onderhoud-en-combineren": "gid://shopify/Article/617286205779"
+  },
   "blog_trends": "gid://shopify/Blog/119658316115",
-  "metafield_definities": ["gid://shopify/MetafieldDefinition/768562299219", "gid://shopify/MetafieldDefinition/768562331987", "gid://shopify/MetafieldDefinition/768562364755", "gid://shopify/MetafieldDefinition/768562397523", "gid://shopify/MetafieldDefinition/768562430291", "gid://shopify/MetafieldDefinition/768562463059", "gid://shopify/MetafieldDefinition/768562495827", "gid://shopify/MetafieldDefinition/768562528595", "gid://shopify/MetafieldDefinition/768562561363", "gid://shopify/MetafieldDefinition/768562594131", "gid://shopify/MetafieldDefinition/768562626899", "gid://shopify/MetafieldDefinition/768562659667", "gid://shopify/MetafieldDefinition/768562692435", "gid://shopify/MetafieldDefinition/768562725203"],
+  "metafield_definities": [
+    "gid://shopify/MetafieldDefinition/768562299219",
+    "gid://shopify/MetafieldDefinition/768562331987",
+    "gid://shopify/MetafieldDefinition/768562364755",
+    "gid://shopify/MetafieldDefinition/768562397523",
+    "gid://shopify/MetafieldDefinition/768562430291",
+    "gid://shopify/MetafieldDefinition/768562463059",
+    "gid://shopify/MetafieldDefinition/768562495827",
+    "gid://shopify/MetafieldDefinition/768562528595",
+    "gid://shopify/MetafieldDefinition/768562561363",
+    "gid://shopify/MetafieldDefinition/768562594131",
+    "gid://shopify/MetafieldDefinition/768562626899",
+    "gid://shopify/MetafieldDefinition/768562659667",
+    "gid://shopify/MetafieldDefinition/768562692435",
+    "gid://shopify/MetafieldDefinition/768562725203"
+  ],
   "bestanden_eigen": []
 }
