@@ -34,6 +34,7 @@ Werkmap voor de doorontwikkeling van de Shopify-winkel van Inhuys (www.in-huys.n
 | `analyse/zoekwoorden.csv` | 69 zoektermen met cluster, intentie, doelpagina en prioriteit |
 | `analyse/gsc/` | Exports uit Google Search Console van 26 oktober 2026 (dekking, HTTPS, prestaties) |
 | `analyse/pagespeed-2026-10-26.md` | PageSpeed Insights homepage, mobiel en desktop, met acties |
+| `analyse/08-search-console-api-2026-10-26.md` | Controle via de Search Console API: sitemapstatus, indexeringsstatus van alle 66 URL's, zoekopdrachten, acties |
 | `analyse/06-collectiestructuur.md` | De tien categoriecollecties: regels, inleidingen, meta's, Shopify-ID's |
 | `analyse/07-thema-werkversie.md` | Wijzigingslogboek van de thema-kopie (voor → na per bestand), preview-link |
 | `analyse/redirects.csv` | Oude producthandle → nieuwe handle (47 regels), klaar voor fase 3; nog niet aangemaakt |
@@ -49,4 +50,4 @@ De analyse is gebaseerd op de Shopify Admin API (producten, collecties, pagina's
 2. **PageSpeed Insights / Core Web Vitals** op de homepage, een collectie en een product.
 3. **Rich Results Test** op een productpagina, om te bevestigen dat de productmarkup uit het thema foutloos wordt uitgelezen.
 
-Stand na fase 2: Search Console (exports van de eigenaar) en PageSpeed (rapport van de eigenaar) zijn verwerkt; de Rich Results Test staat nog open voor de eigenaar zodra de thema-kopie live is. Alles wat via de API te controleren was, is gecontroleerd.
+Stand na fase 2: Search Console is via de API gekoppeld (serviceaccount, alleen lezen) en samen met PageSpeed (rapport van de eigenaar) verwerkt; de Rich Results Test staat nog open voor de eigenaar zodra de thema-kopie live is. Alles wat via de API te controleren was, is gecontroleerd.

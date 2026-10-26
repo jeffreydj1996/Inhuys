@@ -1,0 +1,67 @@
+url;verdict;dekking;robots;indexering;laatste_crawl;canonical_google;fetch
+http://in-huys.nl/;NEUTRAL;Page with redirect;ALLOWED;INDEXING_ALLOWED;2026-10-20T04:08:55Z;https://www.in-huys.nl/;SUCCESSFUL
+http://www.in-huys.nl/;NEUTRAL;Page with redirect;ALLOWED;INDEXING_ALLOWED;2026-10-26T02:25:50Z;https://www.in-huys.nl/;SUCCESSFUL
+https://in-huys.nl/;NEUTRAL;Page with redirect;ALLOWED;INDEXING_ALLOWED;2026-10-19T04:53:20Z;https://www.in-huys.nl/;SUCCESSFUL
+https://www.in-huys.nl/account/login;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/blogs/nieuws;NEUTRAL;Crawled - currently not indexed;ALLOWED;INDEXING_ALLOWED;2026-07-13T03:44:02Z;https://www.in-huys.nl/blogs/nieuws;SUCCESSFUL
+https://www.in-huys.nl/blogs/trends;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/blogs/trends/woontrends-2025-van-greige-tot-bold-seventies;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-09-15T14:01:10Z;https://www.in-huys.nl/blogs/trends/woontrends-2025-van-greige-tot-bold-seventies;SUCCESSFUL
+https://www.in-huys.nl/blogs/woontips;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/blogs/woontips-1;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/cart;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-10-20T06:09:29Z;https://www.in-huys.nl/cart;SUCCESSFUL
+https://www.in-huys.nl/collections;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/adviezen;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/all;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-10-25T15:28:54Z;https://www.in-huys.nl/collections/all;SUCCESSFUL
+https://www.in-huys.nl/collections/amsterdam;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/bestsellers;NEUTRAL;Soft 404;ALLOWED;INDEXING_ALLOWED;2026-04-10T23:06:13Z;None;SUCCESSFUL
+https://www.in-huys.nl/collections/boog;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/breeze;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/cloud;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/edo;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/eier;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/frontpage;NEUTRAL;Crawled - currently not indexed;ALLOWED;INDEXING_ALLOWED;2026-08-24T05:39:15Z;https://www.in-huys.nl/collections/frontpage;SUCCESSFUL
+https://www.in-huys.nl/collections/kathmandu;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/luna;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/panda;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/rainbow;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/rocking;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/collections/whale;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/pages/collecties;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/pages/contact;NEUTRAL;Crawled - currently not indexed;ALLOWED;INDEXING_ALLOWED;2026-08-30T18:41:03Z;https://www.in-huys.nl/pages/contact;SUCCESSFUL
+https://www.in-huys.nl/pages/inspiratie;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-10-19T11:53:20Z;https://www.in-huys.nl/pages/inspiratie;SUCCESSFUL
+https://www.in-huys.nl/pages/interieuradvies;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-10-25T18:25:40Z;https://www.in-huys.nl/pages/interieuradvies;SUCCESSFUL
+https://www.in-huys.nl/policies/contact-information;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/policies/privacy-policy;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/policies/refund-policy;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/policies/shipping-policy;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/policies/terms-of-service;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/ballenbak;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/boekhouder;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/boogstoel-karamel-set-van-2;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-08-29T08:40:08Z;https://www.in-huys.nl/products/boogstoel-karamel-set-van-2;SUCCESSFUL
+https://www.in-huys.nl/products/boogstoelcreme-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/breeze-stoel-beige-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/breeze-stoel-latte-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/breeze-stoel-pastel-roze-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/breeze-stoel-pistache-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/cloud-barstoel-creme;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/cloud-kitchen-barstoel-creme;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/cloud-stoel-beige-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/cloud-stoel-creme-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/cloud-stoel-karamel-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/cloud-stoel-safiya-naturel-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/cloud-stoel-safiya-terracotta-set-van-2;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-09-09T03:46:52Z;https://www.in-huys.nl/products/cloud-stoel-safiya-terracotta-set-van-2;SUCCESSFUL
+https://www.in-huys.nl/products/flitsadvies;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/holzrutsche-binnen;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/jumpspot-buiten;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/luna-chair-mink-set-van-2;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-10-25T21:40:45Z;https://www.in-huys.nl/products/luna-chair-mink-set-van-2;SUCCESSFUL
+https://www.in-huys.nl/products/luna-stoel-caramel-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/luna-stoelcreme-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/marmer-waxinelichthouder;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-10-19T13:55:35Z;https://www.in-huys.nl/products/marmer-waxinelichthouder;SUCCESSFUL
+https://www.in-huys.nl/products/scandi-stoel-tan-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/springplek-binnen;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-10-19T16:25:36Z;https://www.in-huys.nl/products/springplek-binnen;SUCCESSFUL
+https://www.in-huys.nl/products/travertine-agano-vaas;PASS;Submitted and indexed;ALLOWED;INDEXING_ALLOWED;2026-09-27T02:23:52Z;https://www.in-huys.nl/products/travertine-agano-vaas;SUCCESSFUL
+https://www.in-huys.nl/products/whale-stoel-beige-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/whale-stoel-coco-set-van-2;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/wolkenbar-stoel-karamel;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/wolkenkeukenbar-stoel-karamel;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED
+https://www.in-huys.nl/products/zwembad;NEUTRAL;URL is unknown to Google;ROBOTS_TXT_STATE_UNSPECIFIED;INDEXING_STATE_UNSPECIFIED;None;None;PAGE_FETCH_STATE_UNSPECIFIED

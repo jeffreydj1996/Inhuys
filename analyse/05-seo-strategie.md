@@ -6,6 +6,8 @@ Deze strategie bouwt op de fase 1-scan (`02-seo-scan.md`), de Search Console-exp
 
 ---
 
+> Aanvulling 26 oktober 2026, via de API: geen sitemap aangemeld, 22 van de 30 productpagina's en alle modelcollecties zijn onbekend bij Google. Zie `analyse/08-search-console-api-2026-10-26.md`.
+
 ## 1. Uitgangssituatie (Search Console, 26 oktober 2026)
 
 ### Indexatie
