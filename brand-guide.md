@@ -27,7 +27,7 @@ Dit document legt vast wat Inhuys nu uitstraalt en waar het merk naartoe wil. He
 
 - ✅ In de winkel: **InHuys** (één woord, hoofdletter H) in de winkelnaam, het logo-tekstveld, alle meta-titels ("| InHuys") en alt-teksten. Domein: **in-huys.nl**. Copyright in de footer: "© InHuys2026" (zonder spatie). In de opdracht: **Inhuys**.
 - ✅ Er zijn minstens drie andere bedrijven met vrijwel dezelfde naam: een conceptstore IN-HUYS in Amsterdam, een meubelzaak Inhuys! in Haulerwijk en INHUYS stijl & wonen in Maasland, dat ook interieurstyling aanbiedt.
-- ⚠️ Voorstel: kies één schrijfwijze en gebruik die overal. Omdat "InHuys" al in honderden meta-titels, alt-teksten en in het logo zit, is **InHuys** de goedkoopste keuze. Wil de eigenaar "Inhuys", dan moet dat in één keer worden doorgevoerd in winkelnaam, thema, SEO-velden en alt-teksten.
+- ✅ Besluit eigenaar (26 oktober 2026): schrijfwijze **InHuys**, tagline **"InHuys · ontwerp, advies en inrichting"**. De tagline staat bij het logo, in de footer, als homepage-titel en in de Organization-markup.
 - ⚠️ Combineer de naam altijd met de dienst ("InHuys interieurstyling") in titels en social-bio's, zodat Google het merk kan onderscheiden van de naamgenoten.
 
 ---

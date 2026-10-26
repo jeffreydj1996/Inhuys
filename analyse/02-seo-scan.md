@@ -121,6 +121,12 @@ Aanwezig: Product met Offers. Afwezig: BreadcrumbList (de breadcrumb staat wel o
 
 ---
 
+**Stand 26 oktober 2026 (fase 2).** Twee van de drie controles zijn gedaan met gegevens van de eigenaar:
+
+- *PageSpeed Insights, homepage*: mobiel 80 / 91 / 96 / 100 (prestaties, toegankelijkheid, praktische tips, SEO), desktop 94 / 91 / 96 / 100. Mobiel: FCP 2,2 s, LCP 3,9 s, TBT 30 ms, CLS 0,031, Speed Index 6,5 s. Volledige uitwerking en acties in `analyse/pagespeed-2026-10-26.md`. De viewport-fout (zoomen geblokkeerd) is in de thema-kopie al opgelost.
+- *Search Console*: exports van 26 oktober 2026 in `analyse/gsc/`. 13 pagina's geïndexeerd, 18 niet, waarvan 8 "gecrawld, momenteel niet geïndexeerd"; 4 klikken en 106 vertoningen in de laatste 3 maanden. Baseline en doelen in `analyse/05-seo-strategie.md`.
+- *Rich Results Test*: nog te doen door de eigenaar op een productpagina zodra de thema-kopie live staat (de kopie bevat nieuwe LocalBusiness- en BreadcrumbList-markup naast de bestaande productmarkup).
+
 ## 5. Eerste zoekwoordrichting (⚠️ volumes te valideren in fase 2)
 
 | Cluster | Voorbeelden | Paginatype | Waarom |

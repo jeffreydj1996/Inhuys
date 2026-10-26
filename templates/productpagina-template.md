@@ -1,6 +1,6 @@
 # Template productpagina · Inhuys
 
-Versie 1.0 · voorstel uit fase 2, nog niet in gebruik
+Versie 1.1 · goedgekeurd door de eigenaar op 26 oktober 2026; toegepast op de dertien conceptproducten in `content/producten/`
 
 Gebruik dit bestand als invulformulier per product. Vul elk veld in, lever het als concept op, en zet het pas na akkoord in Shopify. Fabrikantinformatie is een bron voor de feiten in de specificaties; geen enkele zin wordt overgenomen.
 

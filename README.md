@@ -7,14 +7,15 @@ Werkmap voor de doorontwikkeling van de Shopify-winkel van Inhuys (www.in-huys.n
 | Fase | Doel | Status |
 |---|---|---|
 | 1 | Analyseren en vastleggen. Niets aanpassen in de winkel. | **Afgerond** (12 oktober 2026). Alleen de controles die een browser vereisen staan nog open, zie hieronder. |
-| 2 | SEO-strategie en een vast template voor productpagina's | Voorstel staat klaar in `analyse/04-voorstel-fase-2.md`, wacht op akkoord |
-| 3 en verder | Uitvoering per productgroep, altijd eerst als concept | Nog te plannen |
+| 2 | SEO-strategie en een vast template voor productpagina's | **Uitgevoerd als concept** (26 oktober 2026). Alles staat in de repository en als ongepubliceerd concept in Shopify; statusblok en goedkeuringslijst in `analyse/04-voorstel-fase-2.md` |
+| 3 en verder | Uitvoering per productgroep, altijd eerst als concept; go-live van de thema-kopie, redirects, resterende producten | Nog te plannen, start na akkoord op fase 2 |
 
 ## Vaste regels
 
 - Informatie van fabrikanten is alleen een bron. Alle tekst wordt zelf geschreven, nooit gekopieerd.
 - Niets gaat live en het live thema wordt niet aangepast zonder akkoord van de eigenaar.
 - In fase 1 is er niets in de winkel gewijzigd. Alle Shopify-data is alleen gelezen; er is geen enkele mutatie uitgevoerd.
+- In fase 2 zijn alleen nieuwe, ongepubliceerde objecten aangemaakt: een thema-kopie, collecties, pagina's, conceptproducten, artikelen, menu's en metaveld-definities. Live thema, live pagina's, live menu en live collecties zijn niet aangepast. Eén onbedoelde wijziging aan alt-teksten van live productbeelden is binnen enkele minuten hersteld; zie `content/producten/overzicht.md`.
 
 ## Bestanden
 
@@ -28,7 +29,17 @@ Werkmap voor de doorontwikkeling van de Shopify-winkel van Inhuys (www.in-huys.n
 | `analyse/02-seo-scan.md` | SEO-scan: wat goed gaat, grootste kansen, technische bevindingen uit het thema, prioriteiten |
 | `analyse/03-huisstijl-voorstellen.md` | Voorstellen om de huisstijl te laten aansluiten bij het hogere segment, afgezet tegen de huidige thema-instellingen |
 | `analyse/04-voorstel-fase-2.md` | Voorstel voor fase 2: SEO-strategie en vast template voor productpagina's |
-| `templates/productpagina-template.md` | Het template zelf, klaar om per product in te vullen |
+| `templates/productpagina-template.md` | Het template zelf (v1.1, goedgekeurd 26 oktober 2026) |
+| `analyse/05-seo-strategie.md` | SEO-strategie fase 2: baseline uit Search Console, doelen, drie pijlers, SERP-observaties, patronen voor titels en meta's, interne links, techniek, planning vanaf 27 oktober 2026 |
+| `analyse/zoekwoorden.csv` | 69 zoektermen met cluster, intentie, doelpagina en prioriteit |
+| `analyse/gsc/` | Exports uit Google Search Console van 26 oktober 2026 (dekking, HTTPS, prestaties) |
+| `analyse/pagespeed-2026-10-26.md` | PageSpeed Insights homepage, mobiel en desktop, met acties |
+| `analyse/06-collectiestructuur.md` | De tien categoriecollecties: regels, inleidingen, meta's, Shopify-ID's |
+| `analyse/07-thema-werkversie.md` | Wijzigingslogboek van de thema-kopie (voor → na per bestand), preview-link |
+| `analyse/redirects.csv` | Oude producthandle → nieuwe handle (47 regels), klaar voor fase 3; nog niet aangemaakt |
+| `content/paginas/` | Eigen teksten voor Interieuradvies, Werkwijze, Showroom, Over InHuys, Projecten, Veelgestelde vragen en Contact |
+| `content/producten/` | Dertien productteksten volgens het template, plus `overzicht.md` met Shopify-ID's en openstaande punten |
+| `content/inspiratie/` | Vier inspiratie-artikelen, plus README met het voorstel om de vier blogs samen te voegen |
 
 ## Bronnen en wat nog open staat
 
@@ -38,4 +49,4 @@ De analyse is gebaseerd op de Shopify Admin API (producten, collecties, pagina's
 2. **PageSpeed Insights / Core Web Vitals** op de homepage, een collectie en een product.
 3. **Rich Results Test** op een productpagina, om te bevestigen dat de productmarkup uit het thema foutloos wordt uitgelezen.
 
-Deze drie staan als eerste werk in fase 2. Alles wat via de API te controleren was, is gecontroleerd.
+Stand na fase 2: Search Console (exports van de eigenaar) en PageSpeed (rapport van de eigenaar) zijn verwerkt; de Rich Results Test staat nog open voor de eigenaar zodra de thema-kopie live is. Alles wat via de API te controleren was, is gecontroleerd.

@@ -1,0 +1,70 @@
+cluster;zoekterm;intentie;doelpagina;prioriteit;volume_indicatie;bron;opmerking
+dienst;interieuradvies;dienst;/pages/interieuradvies;1;GSC: 13 vertoningen, positie 80;Search Console okt 2026;Pagina bestaat, rangschikt nu op 80 door gebrek aan inhoud
+dienst;online interieuradvies;dienst;/pages/interieuradvies (Flitsadvies-blok);1;GSC: 17 vertoningen, positie 71;Search Console okt 2026;Flitsadvies is online; benoemen in H2 en meta
+dienst;interieuradvies online;dienst;/pages/interieuradvies;1;GSC: 2 vertoningen, positie 69;Search Console okt 2026;Variant van bovenstaande
+dienst;interieuradvies amsterdam;dienst lokaal;/pages/interieuradvies;1;te valideren;SERP-check 26 okt 2026;SERP: Trustoo, Homedeal, VINK, Studio Frieda May
+dienst;interieurstylist amsterdam;dienst lokaal;/pages/interieuradvies + /pages/over-inhuys;1;te valideren;SERP-check 26 okt 2026;Directories domineren; eigen pagina + Google Bedrijfsprofiel + reviews nodig
+dienst;interieuradvies verbouwing;dienst;/pages/interieuradvies + /pages/werkwijze;1;te valideren;expertise;Kernterm voor de positionering
+dienst;interieurstylist verbouwing;dienst;/pages/werkwijze;2;te valideren;expertise;
+dienst;3d interieurontwerp;dienst;/pages/interieuradvies (3D-blok);1;te valideren;SERP-check 26 okt 2026;SERP: Werkspot, software, blogs; weinig bureaus met eigen pagina
+dienst;3d interieurontwerp laten maken;dienst;/pages/interieuradvies;1;te valideren;SERP-check 26 okt 2026;
+dienst;interieurontwerp woonkamer;dienst;/pages/interieuradvies;2;te valideren;expertise;
+dienst;kleuradvies interieur;dienst;/pages/interieuradvies + artikel;2;te valideren;expertise;Onderdeel van Flitsadvies
+dienst;gratis interieuradvies;dienst;/pages/interieuradvies;2;GSC: 1 vertoning, positie 90;Search Console okt 2026;Flitsadvies blijft gratis; term bewust meenemen
+dienst;interieur advies gratis;dienst;/pages/interieuradvies;3;GSC: 1 vertoning, positie 85;Search Console okt 2026;
+dienst;gratis advies binnenhuisarchitect;dienst;/pages/interieuradvies;3;GSC: 1 vertoning, positie 75;Search Console okt 2026;InHuys is stylist, geen architect; niet claimen
+dienst;voorbeeld offerte interieuradvies;informatie;/pages/werkwijze (tarievenblok);2;GSC: 1 vertoning, positie 16;Search Console okt 2026;Vanaf-prijs 3D-ontwerp zichtbaar maken
+dienst;interieuradvies kosten;informatie;/pages/werkwijze;2;te valideren;SERP-check (Homedeal toont kostenrange);
+dienst;interieuradvies purmerend;dienst lokaal;/pages/showroom;2;te valideren;eigenaar: showroom Purmerend;
+dienst;interieurstylist noord-holland;dienst lokaal;/pages/over-inhuys;3;te valideren;;
+showroom;meubelshowroom purmerend;lokaal;/pages/showroom;2;te valideren;SERP-check 26 okt 2026;Geen directe concurrent gevonden in SERP
+showroom;showroom interieur purmerend;lokaal;/pages/showroom;2;te valideren;;
+showroom;woonwinkel purmerend;lokaal;/pages/showroom;3;te valideren;;Alleen als de showroom ook winkel is
+merk;in-huys;merk;/;1;GSC: 10 vertoningen, 1 klik, positie 3;Search Console okt 2026;Enige klikken komen van merknaam
+merk;in huys;merk;/;1;GSC: 5 vertoningen, positie 4;Search Console okt 2026;
+merk;inhuys;merk;/;1;te valideren;;Schrijfwijze zonder koppelteken; Organization-markup met alternateName
+merk;inhuys interieur;merk;/;1;te valideren;;Combinatie merk + dienst om naamgenoten te onderscheiden
+collectie;design eetkamerstoel;koop;/collections/stoelen;1;te valideren;;Grootste live categorie
+collectie;eetkamerstoel boucle;koop;/collections/stoelen;1;te valideren;SERP-check 26 okt 2026;SERP: Sklum, Beliani, House Nordic (prijsvechters)
+collectie;eetkamerstoel boucle set van 2;koop;/collections/stoelen;1;te valideren;SERP-check 26 okt 2026;Sets van 2 zijn het InHuys-formaat
+collectie;eetkamerstoelen set van 2;koop;/collections/stoelen;2;te valideren;;
+collectie;eetkamerstoel met armleuning;koop;/collections/stoelen;2;te valideren;;Tag "armleuning" bestaat al
+collectie;eetkamerstoel beige;koop;/collections/stoelen;2;te valideren;;Kleurfilter op de collectiepagina
+collectie;eetkamerstoel crème;koop;/collections/stoelen;2;te valideren;;
+collectie;eetkamerstoel karamel;koop;/collections/stoelen;3;te valideren;;
+collectie;draaistoel eetkamer;koop;/collections/stoelen;3;te valideren;;Pebble en Storm in concept
+collectie;barkruk boucle;koop;/collections/barkrukken;1;te valideren;SERP-check 26 okt 2026;Weinig relevante resultaten; kans
+collectie;barkruk met rugleuning;koop;/collections/barkrukken;2;te valideren;;
+collectie;keukenbarkruk;koop;/collections/barkrukken;2;te valideren;;Cloud keukenbarkruk is live
+collectie;design barkruk;koop;/collections/barkrukken;2;te valideren;;
+collectie;hoekbank boucle;koop;/collections/banken;1;te valideren;SERP-check 26 okt 2026;Weinig echte bouclé-hoekbanken in SERP
+collectie;bank met ottoman;koop;/collections/banken;1;te valideren;SERP-check 26 okt 2026;Londen- en Amsterdam-series
+collectie;design bank 3 zits;koop;/collections/banken;2;te valideren;;
+collectie;loungebank beige;koop;/collections/banken;2;te valideren;;New York-serie
+collectie;bank 2,5 zits;koop;/collections/banken;3;te valideren;;
+collectie;loungestoel boucle;koop;/collections/stoelen (fauteuils);2;te valideren;;Cairo, Kathmandu, Mars, Panda in concept
+collectie;fauteuil boucle;koop;/collections/stoelen (fauteuils);2;te valideren;;
+collectie;eettafel keramiek marmerlook;koop;/collections/tafels;2;te valideren;;Ellipse en Urban Chique in concept
+collectie;ronde eettafel keramiek;koop;/collections/tafels;2;te valideren;;
+collectie;salontafel travertijn;koop;/collections/tafels;2;te valideren;;Craft-serie in concept
+collectie;travertin vaas;koop;/collections/vazen + product Agano;1;te valideren;SERP-check 26 okt 2026;SERP: Byflou (€388), 1stdibs, Chairish; Agano €195 tot €220
+collectie;travertijn vaas;koop;/collections/vazen;1;te valideren;;Spellingsvariant; beide in tekst
+collectie;marmeren kaarsenhouder;koop;/collections/windlichten-en-kaarsenhouders;2;te valideren;;Waxinelichthouder MOOISA live
+collectie;waxinelichthouder marmer;koop;/collections/windlichten-en-kaarsenhouders;2;te valideren;;
+collectie;windlicht groot;koop;/collections/windlichten-en-kaarsenhouders;2;te valideren;;Lantaarns in concept
+collectie;keramische kaarsenhouder;koop;/collections/windlichten-en-kaarsenhouders;3;te valideren;;Atlas en Soleil in concept
+collectie;boekensteun hout;koop;/collections/decoratie;3;te valideren;;Kluster boekenhouder
+collectie;maatwerk meubels;koop/dienst;/collections/maatwerk;1;te valideren;;Uniek voor InHuys; collectie + dienstverhaal
+collectie;meubels op maat amsterdam;koop/dienst;/collections/maatwerk;1;te valideren;;
+collectie;eettafel op maat;koop/dienst;/collections/maatwerk;2;te valideren;;
+collectie;kast op maat;koop/dienst;/collections/maatwerk;2;te valideren;;
+kinderkamer;ballenbak design;koop;/collections/kinderkamer;3;te valideren;;Bewust laag; niet op homepage
+kinderkamer;glijbaan binnen;koop;/collections/kinderkamer;3;GSC: productpagina springplek-binnen 2 vertoningen;Search Console okt 2026;
+inspiratie;boucle onderhouden;informatie;artikel;1;te valideren;;Ondersteunt stoelen en banken
+inspiratie;boucle stof voordelen nadelen;informatie;artikel;2;te valideren;;
+inspiratie;eetkamerstoelen combineren met ronde tafel;informatie;artikel;1;te valideren;;Linkt naar stoelen en tafels
+inspiratie;hoeveel stoelen om een tafel van 160 cm;informatie;artikel;2;te valideren;;
+inspiratie;interieur na verbouwing inrichten;informatie;artikel;1;te valideren;;Kernverhaal van het bureau
+inspiratie;travertin onderhouden;informatie;artikel;2;te valideren;;Linkt naar vazen en salontafels
+inspiratie;woontrends 2027;informatie;bestaand artikel actualiseren;2;te valideren;;Huidige artikel is 2025
+inspiratie;stijlvol wonen met kinderen;informatie;bestaand artikel;3;bestaand artikel apr 2026;;Linkt naar Kinderkamer

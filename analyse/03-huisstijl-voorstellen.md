@@ -47,15 +47,18 @@ Voordat er iets aan stijl verandert, moeten de thema-restanten weg. Dit zijn ins
 
 ## 2. Naam en tagline
 
-- Eén schrijfwijze: **InHuys** (al in gebruik in winkelnaam, logo, meta-titels en alt-teksten).
-- Een vaste toevoeging die de naam onderscheidt van de naamgenoten en de dienst benoemt. Drie opties (⚠️):
-  1. *InHuys · interieurstyling en 3D-ontwerp*
-  2. *InHuys · ontwerp, advies en inrichting*
-  3. *InHuys · een thuis dat klopt*
+**Vastgesteld door de eigenaar op 26 oktober 2026.** De merknaam wordt overal **InHuys** geschreven (hoofdletter H, niet "Inhuys" of "In-huys"). De vaste tagline is:
 
-Optie 1 is het meest zoekmachinevriendelijk. Optie 3 is het mooiste als ondertitel bij het logo. Ze kunnen samen: 1 als paginatitel van de homepage, 3 als tagline in beeld.
+> **InHuys · ontwerp, advies en inrichting**
 
----
+Zo wordt hij gebruikt:
+
+- Bij het logo (topbalk en footer van de thema-kopie) als ondertitel.
+- Als paginatitel van de homepage.
+- Als vaste merkregel in de meta-titels van de dienstpagina's ("Interieuradvies Amsterdam · InHuys · ontwerp, advies en inrichting").
+- Als `alternateName` in de LocalBusiness-markup.
+
+De drie eerdere opties uit het voorstel zijn hiermee vervallen. De tagline benoemt de drie diensten in de volgorde van het proces en onderscheidt InHuys van de naamgenoten in de zoekresultaten.
 
 ## 3. Kleur: behouden en aanscherpen
 

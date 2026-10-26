@@ -187,3 +187,38 @@ Het tonen van de nieuwe velden vraagt een kleine aanpassing in de thema-kopie (e
 - [ ] Kleurvarianten samenvoegen tot één product per model
 - [ ] "Gratis" advies behouden of pakketten met vanaf-prijs
 - [ ] Welke concepten als eerste live mogen (voorstel: banken en tafels Pole To Pole)
+
+
+---
+
+## Status fase 2 (26 oktober 2026): uitgevoerd, wacht op akkoord
+
+Alles hieronder staat als concept in de repository en in Shopify. Niets is live gezet; het live thema, de live pagina's, het live menu en de live collecties zijn niet gewijzigd.
+
+| Onderdeel | Opgeleverd | Shopify | Status |
+|---|---|---|---|
+| SEO-strategie en zoekwoorden | `analyse/05-seo-strategie.md`, `analyse/zoekwoorden.csv` (69 termen), `analyse/gsc/`, `analyse/pagespeed-2026-10-26.md` | – | Wacht op akkoord |
+| Categoriestructuur | `analyse/06-collectiestructuur.md` | 10 collecties, nergens gepubliceerd (704710508883 t/m 704710803795) | Wacht op akkoord |
+| Thema-kopie met goedgekeurde huisstijl | `analyse/07-thema-werkversie.md` | thema 210233098579, rol UNPUBLISHED; menu's 345749160275, 345749225811, 345749258579 | Wacht op go-live-besluit |
+| Dienstpagina's en Over | `content/paginas/` (7 teksten) | 5 conceptpagina's, `isPublished: false` (185596346707 t/m 185596477779); Interieuradvies, Contact en Inspiratie alleen in de repo en de thema-kopie | Wacht op akkoord |
+| Template en metavelden | `templates/productpagina-template.md` v1.1 | 14 definities `inhuys.*` | Goedgekeurd 26 oktober 2026 |
+| Productteksten en conceptproducten | `content/producten/` (13 teksten + `overzicht.md`), `analyse/redirects.csv` | 13 producten DRAFT, nergens gepubliceerd | Wacht op akkoord |
+| Inspiratie | `content/inspiratie/` (4 artikelen + README met blogvoorstel) | 4 artikelen `isPublished: false` in blog Trends | Wacht op akkoord |
+
+### Controle vóór en na
+
+Momentopname van `updatedAt` van alle live objecten vóór de eerste mutatie, en dezelfde query na de laatste:
+
+- **Live thema** (200751743315), **4 live pagina's**, **3 bestaande menu's**, **4 blogs**: identiek.
+- **15 bestaande collecties**: inhoud ongewijzigd. Zeven automatische collecties (breeze, cloud, boog, luna, whale, amsterdam, bestsellers) kregen een nieuwe `updatedAt` omdat hun regels de nieuwe conceptproducten matchen; conceptproducten zijn in de winkel onzichtbaar, dus de live collectiepagina's tonen niets nieuws.
+- **30 live producten**: 16 identiek. 14 kregen een nieuwe `updatedAt` door het alt-tekstincident en het herstel daarvan (zie `content/producten/overzicht.md`); hun tekst, prijzen, beelden en instellingen zijn gelijk aan vóór fase 2. "Jumpspot voor Binnen" is om 13:03 uur bijgewerkt buiten deze sessie om (niet door mij aangeraakt).
+
+### Wat de eigenaar nog aanlevert
+
+1. Vanaf-prijs en stappen van het 3D-interieurontwerp (plaatshouder `[VANAF-PRIJS]` in de thema-kopie en in `content/paginas/interieuradvies.md`).
+2. Openingstijden of "op afspraak" voor de showroom; postcode is bekend (1446 WR).
+3. Specificatiebladen Pole To Pole, MOOISA, Jesper Home en Kluster (afmetingen, zithoogte, zitdiepte, gewicht, stofsamenstelling) voor de velden `[AANVULLEN]`.
+4. Foto's: projecten voor het projectenblok, portretten van Sylvana, productbeelden van minimaal 2000 px.
+5. Controle van de afwijkende varianten en SKU's in `content/producten/overzicht.md`.
+6. In Search Console: sitemap `https://www.in-huys.nl/sitemap.xml` aanmelden en de acht "gecrawld, niet geïndexeerd"-URL's bekijken na het live gaan van de nieuwe teksten.
+7. Google Bedrijfsprofiel aanmaken of claimen voor de showroom in Purmerend.
