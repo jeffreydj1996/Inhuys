@@ -30,5 +30,5 @@ De collectie op deze site is geen webshop met alles erop en eraan. Het is een se
 
 InHuys  
 Netwerk 124, 1446 WR Purmerend  
-KvK 88545857 · btw NL8680053B01  
+InHuys is een handelsnaam van Kluster · KvK 88545857 · btw NL8680053B01  
 +31 6 12932148 · info@in-huys.nl

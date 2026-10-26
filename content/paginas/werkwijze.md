@@ -40,7 +40,7 @@ Een Flitsadvies is binnen een week gepland en duurt ongeveer een uur. Een comple
 ## Tarieven
 
 - Flitsadvies: gratis. Online of in de showroom, ongeveer een uur, inclusief een basis 2D-vloerplan als dat helpt.
-- 3D-interieurontwerp compleet: vanaf € [VANAF-PRIJS IN TE VULLEN DOOR EIGENAAR]. Dit bedrag wordt verrekend bij aankoop van de inrichting via InHuys.
+- 3D-interieurontwerp compleet: prijs op aanvraag; het bedrag verrekenen we bij aankoop van de inrichting via InHuys.
 - Maatwerk: op offerte, na het ontwerp.
 
 Zo weet je vooraf waar je aan toe bent, en betaal je voor het ontwerp alleen als je de inrichting ergens anders koopt.

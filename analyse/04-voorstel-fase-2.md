@@ -213,12 +213,16 @@ Momentopname van `updatedAt` van alle live objecten vóór de eerste mutatie, en
 - **15 bestaande collecties**: inhoud ongewijzigd. Zeven automatische collecties (breeze, cloud, boog, luna, whale, amsterdam, bestsellers) kregen een nieuwe `updatedAt` omdat hun regels de nieuwe conceptproducten matchen; conceptproducten zijn in de winkel onzichtbaar, dus de live collectiepagina's tonen niets nieuws.
 - **30 live producten**: 16 identiek. 14 kregen een nieuwe `updatedAt` door het alt-tekstincident en het herstel daarvan (zie `content/producten/overzicht.md`); hun tekst, prijzen, beelden en instellingen zijn gelijk aan vóór fase 2. "Jumpspot voor Binnen" is om 13:03 uur bijgewerkt buiten deze sessie om (niet door mij aangeraakt).
 
-### Wat de eigenaar nog aanlevert
+### Besluiten van de eigenaar (26 oktober 2026)
 
-1. Vanaf-prijs en stappen van het 3D-interieurontwerp (plaatshouder `[VANAF-PRIJS]` in de thema-kopie en in `content/paginas/interieuradvies.md`).
-2. Openingstijden of "op afspraak" voor de showroom; postcode is bekend (1446 WR).
-3. Specificatiebladen Pole To Pole, MOOISA, Jesper Home en Kluster (afmetingen, zithoogte, zitdiepte, gewicht, stofsamenstelling) voor de velden `[AANVULLEN]`.
-4. Foto's: projecten voor het projectenblok, portretten van Sylvana, productbeelden van minimaal 2000 px.
-5. Controle van de afwijkende varianten en SKU's in `content/producten/overzicht.md`.
-6. In Search Console: sitemap `https://www.in-huys.nl/sitemap.xml` aanmelden en de acht "gecrawld, niet geïndexeerd"-URL's bekijken na het live gaan van de nieuwe teksten.
-7. Google Bedrijfsprofiel aanmaken of claimen voor de showroom in Purmerend.
+| Punt | Besluit | Verwerkt |
+|---|---|---|
+| Vanaf-prijs 3D-ontwerp | Nog niet bekend | "Prijs op aanvraag; verrekend bij aankoop" in de teksten en de thema-kopie, tot de prijs er is |
+| Openingstijden showroom | Alleen op afspraak, ook 's avonds; zaterdag in overleg | Showroom-tekst, conceptpagina, footer en structured data |
+| Specificatiebladen | Niet beschikbaar; alle informatie wordt door ons opgezocht | Onderzoeksstap per model in fase 3, alleen feiten met bron; onvindbaar blijft leeg |
+| Foto's projecten en producten | Komen later | Plaatshouders blijven staan |
+| Afwijkende varianten en SKU's | Niets mee doen | Al uitgesloten uit de concepten |
+| Kluster | InHuys is een handelsnaam van Kluster; alleen juridisch en als adres zichtbaar; KvK 88545857 en btw NL8680053B01 zijn van Kluster | Footer, structured data (`legalName`, `vatID`, KvK), contact en Over InHuys; verder nergens genoemd |
+| Werkwijze vanaf fase 3 | Subagents, faseplannen per fase, hoofdagent keurt het dagelijkse werk goed, eigenaar de grote ingrepen | Ingericht in `CLAUDE.md`, `.claude/agents/` en `.claude/skills/`; zie `plannen/` |
+
+Nog open voor de eigenaar: sitemap is aangemeld en indexering aangevraagd (26 oktober); Google Bedrijfsprofiel voor de showroom; de vanaf-prijs zodra die bekend is; foto's.

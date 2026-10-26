@@ -167,7 +167,7 @@ Dit document legt vast wat Inhuys nu uitstraalt en waar het merk naartoe wil. He
 | Tarieven | "Gratis" bij beide diensten. Geen pakketten, geen vanaf-prijzen. |
 | Showroom | Wordt genoemd ("In onze Showroom"), zonder adres, foto's of openingstijden. |
 | Reviews | Geen. Geen reviews-app actief, niets gevonden op Trustpilot, Kiyoh of Klantenvertellen. |
-| Bedrijfsgegevens | Alleen info@in-huys.nl. Geen adres, telefoon, KvK of btw-nummer op de site. WhatsApp-link is wel ingesteld. |
+| Bedrijfsgegevens | Alleen info@in-huys.nl. Geen adres, telefoon, KvK of btw-nummer op de site. WhatsApp-link is wel ingesteld. Vastgesteld 26 oktober 2026: InHuys is een handelsnaam van Kluster (KvK 88545857, btw NL8680053B01); dat staat in de footer en in de structured data, verder nergens. Showroom: Netwerk 124, 1446 WR Purmerend, alleen op afspraak, ook 's avonds. 3D-ontwerp: prijs op aanvraag tot de vanaf-prijs bekend is. |
 | Social media | Alle links in het thema zijn placeholders (facebook.com/, instagram.com/, twitter.com/ enzovoort) met neplabels "300k Followers" en "100k Followers". |
 | Over-pagina | Geen. Het thema bevat een "about-us"-template vol Engelse modeteksten en een fictief team, maar er is geen pagina aan gekoppeld. |
 | Blog | Vier blogs, twee artikelen (juni 2025 en april 2026). Twee blogs heten allebei "woontips". |

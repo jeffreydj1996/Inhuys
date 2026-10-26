@@ -42,9 +42,17 @@ Datum: 26 oktober 2026 · Status: **werkversie, niet gepubliceerd**. Het live th
 | `layout/theme.liquid` | Viewport-meta zonder zoomblokkade (toegankelijkheidsfout uit PageSpeed); snippet 'inhuys-schema' gerenderd in de head. |
 | `snippets/inhuys-schema.liquid` | Nieuw: LocalBusiness-markup (naam, tagline als alternateName, adres showroom, telefoon, werkgebied), WebSite met SearchAction en BreadcrumbList voor product-, collectie-, pagina- en artikelpagina's. |
 
+## Aanvulling 26 oktober 2026 (besluiten eigenaar)
+
+| Bestand | Wijziging |
+|---|---|
+| `templates/page.interieuradvies.json` | Kaart 3D-interieurontwerp: "Prijs op aanvraag; het bedrag verrekenen we bij aankoop van de inrichting via InHuys." in plaats van de plaatshouder voor de vanaf-prijs |
+| `sections/footer-group.json` | Showroomblok: regel "InHuys is een handelsnaam van Kluster" boven KvK en btw |
+| `snippets/inhuys-schema.liquid` | LocalBusiness: `legalName` Kluster, `vatID`, KvK als `identifier`; openingstijden "alleen op afspraak, ook 's avonds; zaterdag in overleg" |
+
 ## Opmerkingen
 
 - **Lettertype koppen.** Het voorstel noemde Cormorant Garamond als eerste keus. Die familie is niet als Shopify-fonthandle te verifiëren vanuit deze omgeving; EB Garamond (`ebgaramond_n5`, gewicht 500) staat wel in de Shopify-bibliotheek en is in de kopie ingesteld. Wil je Cormorant Garamond, dan is dat in de thema-editor een keuze van één klik onder Thema-instellingen → Typografie.
-- **Plaatshouders voor de eigenaar.** `[VANAF-PRIJS]` (3D-interieurontwerp) in `templates/page.interieuradvies.json` van de kopie en in `content/paginas/interieuradvies.md`; `[OPENINGSTIJDEN]` in `content/paginas/showroom.md` en de conceptpagina Showroom. Na aanlevering te vervangen; de footer van de kopie noemt alleen 'op afspraak'.
+- **Plaatshouders.** Vervallen op 26 oktober 2026: het 3D-ontwerp staat op "prijs op aanvraag" tot de eigenaar de vanaf-prijs doorgeeft, en de showroom is alleen op afspraak.
 - **Productpagina.** Het blok met specificaties leest de metavelden `inhuys.*` (afmetingen, zithoogte, zitdiepte, gewicht, materiaal frame, materiaal bekleding, kleur en afwerking, set-inhoud, onderhoud, herkomst, levertijd, garantie) en toont alleen gevulde rijen; 'Advies van InHuys' en de product-FAQ komen uit `inhuys.advies` en `inhuys.faq`. De korte zin onder de titel komt uit `descriptor.short_description`.
 - **Controle.** Alle `themeFilesUpsert`-aanroepen gaven geen `userErrors`; de kopie heeft rol UNPUBLISHED; het live thema heeft dezelfde `updatedAt` als in de momentopname vóór fase 2 (zie `analyse/04-voorstel-fase-2.md`, statusblok).

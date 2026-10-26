@@ -27,7 +27,7 @@ De showroom ligt op bedrijventerrein Baanstee, met parkeren voor de deur. Vanuit
 
 ## Openingstijden
 
-We werken op afspraak, zodat we de tijd voor je hebben en de showroom niet deelt met een andere klant. Afspraken zijn mogelijk op werkdagen en op [OPENINGSTIJDEN IN TE VULLEN DOOR EIGENAAR]. Bel, app of mail om een moment te kiezen.
+We werken op afspraak, zodat we de tijd voor je hebben en de showroom niet deelt met een andere klant. Afspraken zijn mogelijk op werkdagen, overdag en 's avonds, en in overleg op zaterdag. Bel, app of mail om een moment te kiezen.
 
 - Telefoon en WhatsApp: +31 6 12932148
 - E-mail: info@in-huys.nl

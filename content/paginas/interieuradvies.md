@@ -13,9 +13,9 @@ Een verbouwing is pas af als de ruimte klopt. InHuys ontwerpt, adviseert en rich
 
 Eén vraag, één uur, direct resultaat. Online of in de showroom in Purmerend. Voor een kleurkeuze, een indelingsvraag, een meubel dat niet wil passen. Je krijgt mondeling advies over stijl, materiaal, kleur of product, en als het helpt een basis 2D-vloerplan. Neem foto's en maten mee; dan kunnen we meteen concreet worden.
 
-## 3D-interieurontwerp compleet · vanaf € [VANAF-PRIJS]
+## 3D-interieurontwerp compleet · prijs op aanvraag
 
-Voor een ruimte of een heel huis. We meten op, maken een plattegrond en bouwen het ontwerp in 3D, zodat je ziet hoe het wordt voordat er iets besteld is. Je krijgt een meubelvoorstel dat past bij je wensen en je budget, en een uitgewerkt moodboard met materiaal- en kleuradvies. De kosten van het ontwerp worden verrekend als je de inrichting via InHuys koopt.
+Voor een ruimte of een heel huis. We meten op, maken een plattegrond en bouwen het ontwerp in 3D, zodat je ziet hoe het wordt voordat er iets besteld is. Je krijgt een meubelvoorstel dat past bij je wensen en je budget, en een uitgewerkt moodboard met materiaal- en kleuradvies. De prijs hangt af van het aantal ruimtes; je krijgt hem vooraf, en we verrekenen hem als je de inrichting via InHuys koopt.
 
 ## Zo gaat het
 
