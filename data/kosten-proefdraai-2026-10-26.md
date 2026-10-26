@@ -8,7 +8,8 @@ Tokens per agent (uit de agentrapportage van de sessie; invoer plus uitvoer, inc
 | Momentopname vóór | lezer | haiku | 80.078 | 8 | 6,8 min |
 | Tekst schrijven | schrijver | opus | 121.098 | 18 | 5,6 min |
 | Tekstcontrole en steekproef | controleur | haiku | 23.511 | 7 | 0,7 min |
-| Concept aanmaken en verifiëren | shopify-uitvoerder | sonnet | zie aanvulling | | |
+| Concept aanmaken en verifiëren | shopify-uitvoerder | sonnet | 29.777 | 9 | 2,6 min |
+| Search Console-meting | seo-meter | haiku | 11.264 | 3 | 0,2 min |
 | Momentopname na + vergelijking | lezer + controleur | haiku | zie aanvulling | | |
 
 Lessen uit de proefdraai:
