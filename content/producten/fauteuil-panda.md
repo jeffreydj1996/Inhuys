@@ -7,7 +7,7 @@ Categorie: gid://shopify/TaxonomyCategory/fr-7-1-1
 Collecties: gid://shopify/Collection/704710574419
 
 Meta-titel (59): Panda fauteuil · compacte loungestoel in 3 kleuren · InHuys  
-Meta-description (157): Compacte Panda fauteuil met armleuningen voor leeshoek, slaapkamer of naast de bank. Circa 66 cm breed, zithoogte circa 48 cm. In beige, witte parel of coco.
+Meta-description (144): Compacte Panda fauteuil met armleuningen voor leeshoek, slaapkamer of naast de bank. 66 cm breed, zithoogte 48 cm. In beige, witte parel of coco.
 
 **Zin onder de titel:** Een compacte fauteuil met armleuningen voor de leeshoek, de slaapkamer of de plek naast de bank.
 

@@ -1,5 +1,5 @@
 {
-  "_uitleg": "Kopieer dit bestand naar .claude/settings.json (eigenaar). Het koppelt de hook tools/guard_shopify.py aan elke Shopify-mutatie en blokkeert de losse Shopify-hulptools die niet tot concepten beperkt zijn.",
+  "_uitleg": "Kopieer dit bestand naar .claude/settings.json (eigenaar). Het koppelt de hook tools/guard_shopify.py aan elke Shopify-mutatie, staat de GraphQL-tools zonder vraag toe (veilig omdat de hook elke mutatie buiten de concepten blokkeert) en blokkeert de losse Shopify-hulptools die niet tot concepten beperkt zijn.",
   "hooks": {
     "PreToolUse": [
       {
@@ -29,6 +29,8 @@
       "mcp__Shopify__import-mock-shop-catalog"
     ],
     "allow": [
+      "mcp__Shopify__graphql_query",
+      "mcp__Shopify__graphql_mutation",
       "Bash(python3 -I tools/:*)",
       "Bash(jq:*)",
       "Bash(curl -sS:*)",
