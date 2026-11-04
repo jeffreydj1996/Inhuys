@@ -5,6 +5,7 @@ Gebruik:
   python3 -I tools/bron_ophalen.py sku <sku> [<model>]   poletopole.nl: specificaties per SKU (sitemap -> productpagina -> extraFields)
   python3 -I tools/bron_ophalen.py url <url> [<model>]   willekeurige pagina; bij een Shopify-productpagina ook /products/<handle>.json
   python3 -I tools/bron_ophalen.py zoek <woord>          poletopole.nl: alle product-URL's in de sitemap met dat woord (andere kleuren van een model)
+  python3 -I tools/bron_ophalen.py dealer <woord>        product-URL's met dat woord in de eigen zoekfunctie van gigameubel.nl, huismerken.nl en homka-living.de
 
 Met <model> wordt de platte brontekst toegevoegd aan data/bron-teksten/<model>.txt. Dat bestand dient alleen
 voor de 7-woord-overlapcontrole van check_tekst.py; de schrijver krijgt het nooit te zien.
@@ -132,6 +133,29 @@ def zoek_sku(sku):
     return None
 
 
+DEALERS = [
+    ("gigameubel.nl", "https://www.gigameubel.nl/catalogsearch/result/?q=pole+to+pole+{w}", r'href="(https://www\.gigameubel\.nl/pole-to-pole-[^"]+)"'),
+    ("huismerken.nl", "https://huismerken.nl/search?q={w}&type=product", r'href="(/products/[^"?#]+)"'),
+    ("homka-living.de", "https://homka-living.de/en/search?q=pole+to+pole+{w}&type=product", r'href="(/[a-z]{2}/products/[^"?#]+)"'),
+]
+
+
+def modus_dealer(woord):
+    """Zoekt het woord in de eigen zoekfunctie van de toegestane dealers; de zoekmachine mist deze pagina's vaak."""
+    for naam, patroon, href_re in DEALERS:
+        url = patroon.format(w=woord.lower())
+        r = subprocess.run(["curl", "-sS", "-L", "--max-time", "40", "-A", "Mozilla/5.0 (compatible; InHuys-onderzoek)", url],
+                           capture_output=True, text=True, errors="replace")
+        if r.returncode != 0:
+            print(f"# {naam}: ONBEREIKBAAR · {r.stderr.strip()[:100]}")
+            continue
+        basis = re.match(r"https://[^/]+", url).group(0)
+        treffers = sorted({(h if h.startswith("http") else basis + h) for h in re.findall(href_re, r.stdout) if woord.lower() in h.lower()})
+        print(f"# {naam}: {len(treffers)} product-URL's met '{woord}'")
+        for t in treffers[:20]:
+            print(f" - {t}")
+
+
 def modus_zoek(woord):
     body, _ = haal(SITEMAPS[0])
     urls = [html.unescape(u) for u in re.findall(r"<loc>([^<]*/product/[^<]*)</loc>", body) if woord.lower() in u.lower()]
@@ -211,18 +235,18 @@ def modus_url(url, model):
 
 
 def main(argv):
-    if len(argv) < 2 or argv[0] not in ("sku", "url", "zoek"):
+    if len(argv) < 2 or argv[0] not in ("sku", "url", "zoek", "dealer"):
         print(__doc__)
         sys.exit(64)
     model = argv[2] if len(argv) > 2 else None
     if model and not re.fullmatch(r"[a-z0-9-]+", model):
         print("model: alleen kleine letters, cijfers en koppeltekens (bestandsnaam in data/bron-teksten/)")
         sys.exit(64)
-    if argv[0] == "zoek":
+    if argv[0] in ("zoek", "dealer"):
         if not re.fullmatch(r"[a-z0-9-]+", argv[1].lower()):
-            print("zoek: één woord, letters, cijfers en koppeltekens")
+            print(f"{argv[0]}: één woord, letters, cijfers en koppeltekens")
             sys.exit(64)
-        modus_zoek(argv[1])
+        (modus_zoek if argv[0] == "zoek" else modus_dealer)(argv[1])
         return
     if argv[0] == "sku":
         if not re.fullmatch(r"\d{10,14}", argv[1]):
