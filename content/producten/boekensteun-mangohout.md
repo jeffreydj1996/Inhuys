@@ -20,7 +20,7 @@ Meta-description (129): Zware boekensteun van massief mangohout met donkere afwe
 ## Beschrijving
 
 ### Zo werkt het in de ruimte
-Een boekensteun lost een klein probleem op dat je elke dag ziet: een rij boeken die omvalt. Deze steun van donker mangohout houdt een stapel van zo'n 30 cm overeind op een plank, een dressoir of een bureau, en is zwaar genoeg om niet mee te schuiven.
+Een boekensteun lost een klein probleem op dat je elke dag ziet: een rij boeken die omvalt. Deze steun van donker mangohout houdt een rij van 30 cm boeken overeind op een plank, een dressoir of een bureau, en is zwaar genoeg om niet mee te schuiven.
 
 ### Materiaal en maakwijze
 Gemaakt van massief mangohout met een donkere afwerking, waardoor de nerf zichtbaar blijft. Mangohout is hard en zwaar; elke steun heeft een eigen tekening.

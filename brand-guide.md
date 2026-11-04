@@ -92,6 +92,8 @@ Dit document legt vast wat Inhuys nu uitstraalt en waar het merk naartoe wil. He
 6. Nederlandse samenstellingen aan elkaar: eetkamerstoel, kaarsenhouder, windlicht, barkruk, hoekbank.
 7. Eén naam per model, in één taal: "Cloud" of "Wolk", niet allebei. "Luna stoel", niet "Luna Chair".
 8. Kleuren consequent en Nederlands: crème, karamel, beige, zand, taupe, coco (als merknaam van de stof).
+9. Maten en materialen verweef je in een zin over gebruik of effect; nooit als losse mededeling of als onderwerp van de zin, hoogstens één maat per zin. Niet "Hij is 78,5 cm hoog. Zo blijft hij laag in het beeld." maar "Met zijn 78,5 cm hoogte blijft de fauteuil laag in het beeld, en dat maakt hem ook geschikt voor een kleine kamer." (vastgesteld 4 november 2026 na de proefdraai).
+10. Geen hedge-woorden in lopende tekst: circa, ongeveer, zo'n, ca. Een feit uit één bron staat gewoon in de zin; het voorbehoud hoort in de specificatietabel of onder "Opmerking". Korte zinnen blijven de regel, maar nooit drie zinnen van acht woorden of minder achter elkaar.
 9. Prijs en levertijd zijn feiten, geen verkoopargumenten. Nooit "slechts" of "nu voor".
 
 ### Woordkeuze

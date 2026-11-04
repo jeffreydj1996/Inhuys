@@ -41,6 +41,19 @@ def controleer(path, oud):
         if n > 160: fouten.append(f"meta-description {n} tekens (max 160)")
         if n < 120: fouten.append(f"meta-description {n} tekens (min 120)")
     for m in U_RE.finditer(tekst): fouten.append(f"u-vorm: '...{tekst[max(0, m.start()-30):m.end()+20].strip()}...'"); break
+    if "Handle: `/products/" in md:
+        # Schrijfregels 9 en 10 (brand-guide): gelden voor de productbeschrijving, het advies en de FAQ
+        prod = tekst.split("## Beschrijving")[1].split("## Beelden")[0] if "## Beschrijving" in tekst else tekst
+        hedge = re.findall(r"\b(circa|ongeveer|zo'n|ca\.)", prod, re.I)
+        if hedge: fouten.append(f"hedge-woord in lopende tekst: {sorted(set(h.lower() for h in hedge))}")
+        for m in re.finditer(r"(?:^|[.!?]\s+)((?:Hij|Zij|Ze|Het|De [A-Za-zÀ-ü-]+(?: [a-zà-ü-]+)?) (?:is|zijn|heeft|meet|weegt) (?:[^.!?]{0,12}?)\d[\d,.]*\s?(?:cm|mm|kg|m)\b[^.!?]{0,40}[.!?])", prod):
+            fouten.append(f"maat als losse mededeling: '{m.group(1).strip()}' (verweef de maat in een zin over gebruik of effect)")
+        beschr = prod.split("## Specificaties")[0]
+        zinnen = [z.strip() for z in re.split(r"(?<=[.!?])\s+", re.sub(r"^#+ .*$", "", beschr, flags=re.M)) if z.strip()]
+        reeks = 0
+        for z in zinnen:
+            reeks = reeks + 1 if len(z.split()) <= 8 else 0
+            if reeks == 3: fouten.append(f"drie korte zinnen op rij in de beschrijving, bij: '{z[:60]}'"); break
     en = EN_RE.findall(tekst)
     if len(en) >= 3: fouten.append(f"Engels in de tekst: {sorted(set(x.lower() for x in en))[:5]}")
     if FAB_RE.search(md): fouten.append("sjabloon- of fabrikantzin uit de oude teksten")

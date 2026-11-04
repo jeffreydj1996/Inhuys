@@ -59,7 +59,7 @@ De Cloud is mijn eerste keuze voor een eethoek bij een open keuken: geen armleun
 Safiya is een grover geweven stof met zichtbare structuur en komt in naturel en terracotta. De gewone uitvoering is gladder en komt in beige, crème en karamel.
 
 **Hoeveel Cloud-stoelen passen er aan een ronde tafel van 120 cm?**  
-Vier comfortabel, vijf als het moet. Zonder armleuningen heb je per stoel circa 55 cm nodig.
+Vier comfortabel, vijf als het moet; zonder armleuningen reken je op 55 cm per stoel.
 
 **Is de stoel geschikt voor dagelijks gebruik?**  
 Ja. Het schuim met hoge dichtheid houdt zijn vorm en de stof is te reinigen met lauw water.

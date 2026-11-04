@@ -14,6 +14,8 @@ De hoofdsessie doet regie en beoordeling en delegeert via de skills in `.claude/
 ## Schrijfregels
 - Je-vorm, nooit u. Merknaam altijd `InHuys`. Tagline: `InHuys · ontwerp, advies en inrichting`.
 - Eén gedachte per zin; effect in de ruimte eerst, dan product, dan specificaties; materiaal en maten concreet; geen superlatieven zonder reden.
+- Maten en materialen verweef je in een zin over gebruik of effect ("met zijn 78,5 cm hoogte blijft de fauteuil laag in het beeld"), nooit als losse mededeling ("Hij is 78,5 cm hoog.") en nooit als onderwerp van de zin; hoogstens één maat per zin.
+- Geen hedge-woorden in lopende tekst: circa, ongeveer, zo'n, ca. Een feit uit één bron staat gewoon in de zin; het voorbehoud hoort in de specificatietabel of onder "Opmerking". Ook de hoofdsessie zet zulke woorden nooit in een opdracht.
 - Alleen feiten uit `data/feiten/<model>.md` (met bron). Onvindbaar blijft `[AANVULLEN]` in de specificatietabel en gaat niet naar Shopify.
 - Productteksten volgen `templates/productpagina-template.md` in de md-opbouw van `content/producten/eetkamerstoel-luna-set-van-2.md` (koppen en tabellen exact, anders werkt `md_naar_vars.py` niet).
 - Details in `brand-guide.md`; alleen openen als je schrijft.
