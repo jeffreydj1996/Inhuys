@@ -36,11 +36,11 @@ Bij Bank New York in zand boucle sluit de beige travertijnlook aan op de stof, z
 | afmetingen | Groot: 39 × 118 × 60,5 cm; klein: 51 × 50 × 50 cm (h × b × d) |
 | gewicht | Groot 31,9 kg; klein 14 kg |
 | materiaal_frame | [AANVULLEN] |
-| materiaal_bekleding | Keramiek in travertijnlook (materialenlijst fabrikant: keramiek, papier, MDF) |
+| materiaal_bekleding | Keramiek in travertijnlook |
 | afwerking | Beige, travertijnlook |
 | set_inhoud | 1 salontafel per maat |
 | onderhoud | Afnemen met een vochtige, niet natte doek; geen agressieve middelen; niet laten weken |
-| herkomst | Pole To Pole; land van herkomst China |
+| herkomst | Pole To Pole |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
 

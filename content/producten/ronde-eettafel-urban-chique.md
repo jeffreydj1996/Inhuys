@@ -39,7 +39,7 @@ Vier Luna-stoelen in karamel rondom geven de lichte marmerlook een warm kader, e
 | afwerking | [AANVULLEN] (marmerlook en walnootfineer; kleur te verifiëren) |
 | set_inhoud | 1 eettafel |
 | onderhoud | Afnemen met een vochtige, niet natte doek; geen harde chemicaliën; niet laten weken |
-| herkomst | Pole To Pole; land van herkomst China |
+| herkomst | Pole To Pole |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
 
@@ -56,7 +56,7 @@ Vier zitten er ruim aan. De omtrek van het blad is 377 cm, dus met de vuistregel
 Reken als vuistregel op 80 cm vrije ruimte rondom, zodat je een stoel naar achteren kunt schuiven. Voor deze tafel kom je dan op een vrije vloer van 280 bij 280 cm.
 
 **Wat is de doorsnede van de tafel?**  
-Het ronde blad is 120 cm breed en 120 cm diep, dus de doorsnede is 120 cm. De tafel is 76 cm hoog.
+Het ronde blad is 120 cm breed en 120 cm diep, dus de doorsnede is 120 cm; met zijn 76 cm hoogte schuif je er een gewone eetkamerstoel onder.
 
 **Is het blad van echt marmer?**  
 Nee, het blad is van keramiek met de uitstraling van marmer. Het is geen natuursteen.

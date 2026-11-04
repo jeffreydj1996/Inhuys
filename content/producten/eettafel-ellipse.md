@@ -35,11 +35,11 @@ Zes Luna-stoelen in mink langs de lange zijden houden het beeld licht, omdat de 
 | afmetingen | 76 × 220 × 110 cm (h × b × d) |
 | gewicht | 96,3 kg |
 | materiaal_frame | [AANVULLEN] |
-| materiaal_bekleding | Keramiek in marmerlook (materialenlijst fabrikant: MDF, fineer, keramiek) |
+| materiaal_bekleding | Keramiek in marmerlook |
 | afwerking | [AANVULLEN] (marmerlook; kleur te verifiëren) |
 | set_inhoud | 1 eettafel |
 | onderhoud | Afnemen met een vochtige, niet natte doek; geen harde chemicaliën; niet laten weken |
-| herkomst | Pole To Pole; land van herkomst China |
+| herkomst | Pole To Pole |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
 

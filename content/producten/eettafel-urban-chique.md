@@ -35,11 +35,11 @@ De Whale in coco aan beide lange zijden geeft de lichte marmerlook een warm, don
 | afmetingen | 76 × 220 × 100 cm (h × b × d) |
 | gewicht | 122,3 kg |
 | materiaal_frame | [AANVULLEN] |
-| materiaal_bekleding | Keramiek in marmerlook (materialenlijst fabrikant: keramiek, papier, MDF) |
+| materiaal_bekleding | Keramiek in marmerlook |
 | afwerking | [AANVULLEN] (marmerlook; kleur te verifiëren) |
 | set_inhoud | 1 eettafel |
 | onderhoud | Afnemen met een vochtige, niet natte doek; geen agressieve middelen; niet laten weken |
-| herkomst | Pole To Pole; land van herkomst China |
+| herkomst | Pole To Pole |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
 

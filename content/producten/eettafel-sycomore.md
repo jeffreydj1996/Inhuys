@@ -53,7 +53,7 @@ Ik kies de Sycomore voor een eetplek waar je met z'n tweeën ontbijt of koffiedr
 Twee, tegenover elkaar. Met de vuistregel van 60 cm per zitplaats is elke zijde van 79 cm goed voor één stoel, en ook de opgave is een tafel voor één tot twee personen.
 
 **Hoeveel ruimte heb ik nodig rond de tafel?**  
-Reken als vuistregel op 80 cm vrije ruimte achter elke stoel, zodat je hem naar achteren kunt schuiven. Met een stoel aan beide kanten heb je dan een strook van 239 cm lang nodig, over de breedte van het blad.
+Reken als vuistregel op 80 cm vrije ruimte achter elke stoel, zodat je hem naar achteren kunt schuiven. Met een stoel aan beide kanten heb je dan een strook van 2,4 meter lang nodig, over de breedte van het blad.
 
 **Is de tafel van hout?**  
 Nee, blad en onderstel zijn allebei van aluminium, in bruin.
