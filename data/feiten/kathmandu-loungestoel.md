@@ -26,7 +26,7 @@ Datum: 2026-11-04
 ## Bronnen
 - https://www.kunstplaza.de/en/shop/kathmandu-inspired-lounge-chair-amon-in-earthy-terracotta-tone · dealer (Duitse webwinkel); samenvatting uit WebSearch: zithoogte 40 cm, zitdiepte 80 cm, materiaal hout/schuim/terracotta, geen montage, niet brandvertragend, prijs € 1.298,00 incl. btw · geraadpleegd op 2026-11-04 (pagina NIET geopend: WebFetch gaf "getaddrinfo ENOTFOUND kunstplaza.de"; alleen zoekresultaat-samenvatting)
 - https://kunstplaza.de/en/shop/kathmandu-inspired-lounge-chair-amon-in-earthy-terracottatone · tweede URL-variant van dezelfde dealer; niet geopend (zelfde DNS-fout) · geraadpleegd op 2026-11-04
-- https://www.polepole.nl/ · fabrikant; niet bereikbaar (WebFetch: "getaddrinfo ENOTFOUND www.polepole.nl"); geen product- of specificatiepagina gevonden · geraadpleegd op 2026-11-04
+- https://www.polepole.nl/ · geen fabrikant: geparkeerd domein (vastgesteld 2026-11-04). De echte site is https://poletopole.nl/; de SKU's 871917285910 en 871917285911 staan daar niet in de product-sitemap en niet onder discontinued, dus de maten blijven dealerinformatie · 2026-11-04
 - data/raw/products-*.json (eigen export) · beschrijving en prijs van de twee bronproducten · geraadpleegd op 2026-11-04
 - Zoekopdrachten (WebSearch): 5 stuks · geen Pole To Pole-pagina voor de Amon gevonden buiten de dealer-samenvatting
 - Letterlijke teksten: data/bron-teksten/kathmandu-loungestoel.txt
