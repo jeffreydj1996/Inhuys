@@ -29,6 +29,8 @@
       "mcp__Shopify__import-mock-shop-catalog"
     ],
     "allow": [
+      "mcp__Shopify__graphql_query",
+      "mcp__Shopify__graphql_mutation",
       "Bash(python3 -I tools/:*)",
       "Bash(jq:*)",
       "Bash(curl -sS:*)",
