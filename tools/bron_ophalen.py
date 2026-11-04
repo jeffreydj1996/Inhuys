@@ -4,6 +4,7 @@
 Gebruik:
   python3 -I tools/bron_ophalen.py sku <sku> [<model>]   poletopole.nl: specificaties per SKU (sitemap -> productpagina -> extraFields)
   python3 -I tools/bron_ophalen.py url <url> [<model>]   willekeurige pagina; bij een Shopify-productpagina ook /products/<handle>.json
+  python3 -I tools/bron_ophalen.py zoek <woord>          poletopole.nl: alle product-URL's in de sitemap met dat woord (andere kleuren van een model)
 
 Met <model> wordt de platte brontekst toegevoegd aan data/bron-teksten/<model>.txt. Dat bestand dient alleen
 voor de 7-woord-overlapcontrole van check_tekst.py; de schrijver krijgt het nooit te zien.
@@ -131,6 +132,16 @@ def zoek_sku(sku):
     return None
 
 
+def modus_zoek(woord):
+    body, _ = haal(SITEMAPS[0])
+    urls = [html.unescape(u) for u in re.findall(r"<loc>([^<]*/product/[^<]*)</loc>", body) if woord.lower() in u.lower()]
+    print(f"# poletopole.nl · product-URL's met '{woord}': {len(urls)}")
+    for u in urls[:40]:
+        print(f" - {u}")
+    if not urls:
+        print(" (niets gevonden; het model staat niet meer op de site)")
+
+
 def modus_sku(sku, model):
     url = zoek_sku(sku)
     if not url:
@@ -200,13 +211,19 @@ def modus_url(url, model):
 
 
 def main(argv):
-    if len(argv) < 2 or argv[0] not in ("sku", "url"):
+    if len(argv) < 2 or argv[0] not in ("sku", "url", "zoek"):
         print(__doc__)
         sys.exit(64)
     model = argv[2] if len(argv) > 2 else None
     if model and not re.fullmatch(r"[a-z0-9-]+", model):
         print("model: alleen kleine letters, cijfers en koppeltekens (bestandsnaam in data/bron-teksten/)")
         sys.exit(64)
+    if argv[0] == "zoek":
+        if not re.fullmatch(r"[a-z0-9-]+", argv[1].lower()):
+            print("zoek: één woord, letters, cijfers en koppeltekens")
+            sys.exit(64)
+        modus_zoek(argv[1])
+        return
     if argv[0] == "sku":
         if not re.fullmatch(r"\d{10,14}", argv[1]):
             print("sku: 10 tot 14 cijfers, bijvoorbeeld 871917285905")
