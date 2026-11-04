@@ -10,7 +10,7 @@ Invoer: een modelnaam, het merk en de bronhandles uit de eigen export (de hoofds
 
 Werkwijze:
 1. Begin met de eigen export: `python3 -I tools/varianten.py <zoekwoord>` geeft titel, prijs, SKU en beelden per bronproduct. Zoek in `data/raw/products-*.json` met Grep naar de beschrijving van het bronproduct voor maten of materiaal die daar al in staan.
-2. Zoek online met WebSearch: "<merk> <model> afmetingen", "<merk> <model> specificaties", de modelnaam met "cm" en "zithoogte". Open met WebFetch de fabrikantpagina en maximaal drie dealerpagina's. Alleen pagina's die het product echt tonen tellen als bron.
+2. Zoek online met WebSearch: "<merk> <model> afmetingen", "<merk> <model> specificaties", de modelnaam met "cm" en "zithoogte". Open met WebFetch de fabrikantpagina en maximaal drie dealerpagina's. Alleen pagina's die het product echt tonen tellen als bron. Bekende dealers van Pole To Pole die maten publiceren: gigameubel.nl (begin daar: zoek "site:gigameubel.nl <model>"), daarna de Duitse dealers homka-living.de en stil-ambiente.de. Krijgt WebFetch een DNS- of verbindingsfout, dan blokkeert de netwerkpolicy van de omgeving die host: noteer de exacte hostnaam in je rapport, zodat de eigenaar hem kan toestaan, en gebruik de zoekresultaat-samenvatting alleen als "te verifiëren".
 3. Noteer per feit de waarde, de bron-URL en de datum. Twee bronnen die elkaar tegenspreken: beide noteren en markeren als "te verifiëren".
 4. Wat je niet vindt, schrijf je op als "niet gevonden". Nooit schatten of afleiden uit vergelijkbare modellen.
 5. Sla de letterlijke fabrikant- of dealertekst apart op in `data/bron-teksten/<model>.txt` (alleen voor de overlapcontrole; de schrijver krijgt dit bestand nooit).
