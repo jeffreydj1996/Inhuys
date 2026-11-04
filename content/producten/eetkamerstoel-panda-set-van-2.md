@@ -34,15 +34,15 @@ Coco aan een lichte eiken tafel geeft contrast zonder dat de eethoek hard wordt.
 
 | Veld | Waarde |
 |---|---|
-| afmetingen | [AANVULLEN] |
-| zithoogte | [AANVULLEN] |
-| zitdiepte | [AANVULLEN] |
-| gewicht | [AANVULLEN] |
-| materiaal_frame | Metaal |
-| materiaal_bekleding | [AANVULLEN] |
+| afmetingen | 78,5 × 57 × 59,5 cm (h × b × d) |
+| zithoogte | 48 cm |
+| zitdiepte | 43,5 cm |
+| gewicht | 6,6 kg per stoel |
+| materiaal_frame | Poedergecoat staal en multiplex |
+| materiaal_bekleding | Stof met schuimvulling (25 kg/m³) |
 | afwerking | Beige, coco of witte parel |
 | set_inhoud | 2 stoelen |
-| onderhoud | [AANVULLEN] |
+| onderhoud | Afnemen met een licht vochtige doek; geen agressieve schoonmaakmiddelen; de stof niet doorweken |
 | herkomst | Pole To Pole |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
@@ -74,8 +74,8 @@ De 8 beelden per kleur (24 in totaal, 747 px breed) worden overgenomen van de be
 
 ## Opmerking
 
-De eigen export noemt alleen "met metaal" zonder metaalsoort; maten, zithoogte, gewicht en bekleding staan niet in de brondata. De maten van de Panda-fauteuil horen bij dat model en zijn hier niet overgenomen. De SKU van coco (`7CD80A24EEFF06C5`) wijkt af van de EAN-reeks van beige en witte parel; ongewijzigd overgenomen, te controleren. Coco kost € 399,80, beige en witte parel € 359,80 per set, ongewijzigd uit de bronproducten. Een zoekresultaat noemt een Panda-armstoel van Pole To Pole voor € 227,55 (beige en witte parel) en € 247,50 (coco) per stuk; niet bevestigd dat het om dit model gaat.
+Afmetingen, zithoogte, zitdiepte, gewicht, materialen, schuimdichtheid en onderhoud komen van de productpagina van Pole To Pole voor dezelfde stoel in de kleur Blue de Coco (poletopole.nl, SKU 871917285795, geopend op 4 november 2026; daar gemarkeerd als uitlopend). Giga Meubel verkoopt het model per stuk als "Eetkamerstoel Panda" (beige en wit) met 78,5 × 57 × 60 cm, zithoogte 48 cm, 7 kg, stalen onderstel, stoffen zitting en schuimvulling; die pagina's bevestigen maten en materialen, en de fabrikantwaarden zijn aangehouden. De stofsamenstelling van Blue de Coco (93% polyester, 7% viscose) geldt niet zeker voor beige, witte parel en coco en is niet overgenomen. De SKU van coco (`7CD80A24EEFF06C5`) wijkt af van de EAN-reeks van beige en witte parel; ongewijzigd overgenomen, te controleren. Coco kost € 399,80, beige en witte parel € 359,80 per set; de prijzen zijn ongewijzigd uit de bronproducten overgenomen.
 
 ## Aan te vullen door de eigenaar
 
-Alle velden met `[AANVULLEN]` in de specificaties (afmetingen, zithoogte, zitdiepte, gewicht, bekleding, onderhoud, levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
+Alle velden met `[AANVULLEN]` in de specificaties (levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.

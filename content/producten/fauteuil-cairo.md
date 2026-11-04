@@ -34,14 +34,14 @@ Bank Cairo komt uit dezelfde serie, en met de loungestoel ernaast krijgt de zith
 | Veld | Waarde |
 |---|---|
 | afmetingen | 70 × 117 × 103 cm (h × b × d) |
-| zithoogte | [AANVULLEN] |
-| zitdiepte | [AANVULLEN] |
-| gewicht | [AANVULLEN] |
+| zithoogte | 42 cm |
+| zitdiepte | 69 cm |
+| gewicht | 38 kg |
 | materiaal_frame | Multiplex en beukenhout |
-| materiaal_bekleding | [AANVULLEN] (zand boucle: boucle; vulling schuim 38 kg/m³) |
+| materiaal_bekleding | Stof met schuimvulling (38 kg/m³); beige 96% polyester en 4% acryl, zand boucle in bouclé |
 | afwerking | Beige of zand boucle |
 | set_inhoud | 1 loungestoel |
-| onderhoud | [AANVULLEN] |
+| onderhoud | Afnemen met een licht vochtige doek; geen agressieve schoonmaakmiddelen; de stof niet doorweken |
 | herkomst | Pole To Pole, Rotterdam |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
@@ -73,8 +73,8 @@ De 6 beelden per kleur (12 in totaal, 800 px breed) worden overgenomen van de be
 
 ## Opmerking
 
-Afmetingen, het frame van multiplex en beukenhout en de schuimdichtheid komen uit één dealer-samenvatting (stil-ambiente.de, pagina niet geopend) en zijn te verifiëren bij de leverancier. De bekleding van de beige uitvoering staat niet in de brondata. Volgens dezelfde samenvatting is de stoel niet vlamvertragend. Dealers noemen € 1.190,00 (homka-living.de) en € 1.139,55 (stil-ambiente.de); de prijs van € 1480,00 is ongewijzigd uit de bronproducten overgenomen. Rotterdam als vestiging van Pole To Pole komt uit één zoekresultaat. De bronhandle van zand boucle is Engelstalig (`cairo-loungestoel-sand-boucle`); de optienaam is vertaald naar "Zand boucle".
+Afmetingen, zithoogte, zitdiepte, gewicht, het frame van multiplex en beukenhout, de schuimdichtheid, de stofsamenstelling van beige en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285905, geopend op 4 november 2026). De zand-boucle-uitvoering (SKU 871917285902) staat niet meer op die site; Giga Meubel bevestigt voor die kleur dezelfde afmetingen, het beukenhouten frame, de schuimvulling en de bouclé-bekleding. De stofsamenstelling van bouclé is niet gevonden. Giga Meubel noemt een zithoogte van 45 cm, een zitdiepte van 67 cm en 40 kg; die dealerwaarden wijken af van de fabrikant (het gewicht is vermoedelijk met verpakking) en zijn niet overgenomen. Volgens Pole To Pole is de stoel niet brandvertragend en komt hij uit China. Dealers noemen € 1.190,00 (homka-living.de) en € 1.139,55 (stil-ambiente.de); de prijs van € 1.480,00 is ongewijzigd uit de bronproducten overgenomen.
 
 ## Aan te vullen door de eigenaar
 
-Alle velden met `[AANVULLEN]` in de specificaties (zithoogte, zitdiepte, gewicht, bekleding van beige, onderhoud, levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
+Alle velden met `[AANVULLEN]` in de specificaties (levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.

@@ -24,7 +24,7 @@ Meta-description (133): Compacte Mars loungestoel met armleuningen, frame van ho
 Op metalen poten oogt een loungestoel lichter, en daardoor zet je de Mars ook neer in een kamer waar weinig vloer over is. Met 77 cm breedte past hij naast een bank, in een slaapkamer of in een hoek bij het raam, waar een royale loungestoel te veel ruimte vraagt. Je zit op 44 cm hoogte, iets lager dan aan tafel, zodat je ontspannen zit en toch makkelijk weer opstaat. De armleuningen zijn in het ontwerp opgenomen, en op 64 cm hoogte laat je er je onderarmen op rusten terwijl je leest. Omdat de vloer onder de zitting zichtbaar blijft, houdt een kleine kamer haar lucht en lijkt de ruimte groter dan ze is.
 
 ### Materiaal en maakwijze
-Het frame combineert hout en metaal, en de poten van zwart gepoedercoat ijzer geven de stoel een grafische lijn. Die lijn staat goed bij andere zwarte details in de kamer, zoals een lampvoet of een fotolijst. Zitting en rugleuning zijn royaal gevoerd, zodat je er ook tijdens een hele film prettig in zit. Met zijn 11 kg verplaats je de Mars zelf, van de woonkamer naar de slaapkamer of naar de eettafel als er gasten zijn. Beige is licht en warm en past bij hout en zandtinten. Coco is een donkere bruintint die tegen een lichte muur een duidelijk silhouet geeft. De loungestoel wordt per stuk geleverd.
+Het onderstel is van ijzer, en de slanke poten geven de stoel een grafische lijn. Die lijn staat goed bij andere zwarte details in de kamer, zoals een lampvoet of een fotolijst. Zitting en rugleuning zijn royaal gevoerd, zodat je er ook tijdens een hele film prettig in zit. Met zijn 11 kg verplaats je de Mars zelf, van de woonkamer naar de slaapkamer of naar de eettafel als er gasten zijn. Beige is licht en warm en past bij hout en zandtinten. Coco is een donkere bruintint die tegen een lichte muur een duidelijk silhouet geeft. De loungestoel wordt per stuk geleverd.
 
 ### Combineren
 Voor een compacte zithoek in een appartement hoort de Mars-tweezitsbank bij dezelfde serie, met de loungestoel schuin ertegenover. Coco op een lichte eiken vloer, naast Bank Londen, geeft een donker accent dat de zithoek verankert. Beige naast de Panda-fauteuil in witte parel maakt een lichte leeshoek waarin twee zitplekken elkaar aanvullen. Zet er een Agano-vaas bij op een bijzettafel, dan is de hoek compleet.
@@ -35,10 +35,10 @@ Voor een compacte zithoek in een appartement hoort de Mars-tweezitsbank bij deze
 |---|---|
 | afmetingen | 73,5 × 77 × 67 cm (h × b × d) |
 | zithoogte | 44 cm |
-| zitdiepte | [AANVULLEN] |
+| zitdiepte | 50 cm |
 | gewicht | 11 kg |
-| materiaal_frame | Hout en metaal; poten van zwart gepoedercoat ijzer |
-| materiaal_bekleding | [AANVULLEN] |
+| materiaal_frame | IJzeren onderstel |
+| materiaal_bekleding | Stof met schuimvulling |
 | afwerking | Beige of coco |
 | set_inhoud | 1 loungestoel |
 | onderhoud | [AANVULLEN] |
@@ -73,8 +73,8 @@ De 8 beelden per kleur (16 in totaal, 747 px breed) worden overgenomen van de be
 
 ## Opmerking
 
-Afmetingen, zithoogte, gewicht, armleuninghoogte en de poten van zwart gepoedercoat ijzer komen uit één dealer-samenvatting (homka-living.de, pagina niet geopend) en zijn te verifiëren bij de leverancier. Een tweede zoekresultaat voor dezelfde pagina noemt juist geen maten. De eigen export van coco noemt een gewicht van 0,01 kg; dat is een invoerfout en niet overgenomen. Coco kost € 399,90 en beige € 359,90, ongewijzigd uit de bronproducten; dezelfde dealer noemt € 360,00 voor coco. De bronhandle van beige is Engelstalig (`mars-lounge-chair-beige`). De Mars-tweezitsbank (`mars-tweezitsbank-beige`) is een apart product en hier niet meegenomen.
+Afmetingen, zithoogte, zitdiepte, zitbreedte (77 cm), armleuninghoogte (64 cm), rugleuninghoogte (73 cm), gewicht, het ijzeren onderstel, de stoffen zitting met schuimvulling en de montage (zelf in elkaar zetten) komen van de productpagina van Giga Meubel (beige, geopend op 4 november 2026); Pole To Pole toont dit model niet meer. De eigen export noemt "hout, metaal" als materiaal en een eerder zoekfragment van homka-living.de "zwart gepoedercoat ijzer"; beide zijn niet bevestigd en niet overgenomen. De coco-uitvoering is bij geen dealer gevonden; de maten gelden voor het model. Giga Meubel toont ook 75,5 × 68 × 52 cm en 14 kg zonder label, vermoedelijk de verpakking. De eigen export van coco noemt een gewicht van 0,01 kg; dat is een invoerfout. Coco kost € 399,90 en beige € 359,90; de prijzen zijn ongewijzigd uit de bronproducten overgenomen.
 
 ## Aan te vullen door de eigenaar
 
-Alle velden met `[AANVULLEN]` in de specificaties (zitdiepte, bekleding, onderhoud, levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
+Alle velden met `[AANVULLEN]` in de specificaties (onderhoud, levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.

@@ -22,7 +22,7 @@ Meta-description (144): Compacte Panda fauteuil met armleuningen voor leeshoek, 
 ## Beschrijving
 
 ### Zo werkt het in de ruimte
-Een fauteuil hoeft niet groot te zijn om een eigen plek te maken. Op 66 bij 56,5 cm vloer, nog geen halve vierkante meter, zet je met de Panda een zitplek neer die van jou is: in de leeshoek bij het raam, in de hoek van de slaapkamer of schuin naast de bank voor wie erbij komt zitten. De armleuningen dragen je armen als je leest of een kop thee vasthoudt, en door de zithoogte van 48 cm zit je rechtop en sta je zonder moeite weer op. Met zijn 78,5 cm hoogte blijft de fauteuil laag in het beeld, en juist dat maakt hem geschikt voor een kleine kamer die haar rust moet houden.
+Een fauteuil hoeft niet groot te zijn om een eigen plek te maken. Op 66 bij 57 cm vloer, nog geen halve vierkante meter, zet je met de Panda een zitplek neer die van jou is: in de leeshoek bij het raam, in de hoek van de slaapkamer of schuin naast de bank voor wie erbij komt zitten. De armleuningen dragen je armen als je leest of een kop thee vasthoudt, en door de zithoogte van 48 cm zit je rechtop en sta je zonder moeite weer op. Met zijn 78,5 cm hoogte blijft de fauteuil laag in het beeld, en juist dat maakt hem geschikt voor een kleine kamer die haar rust moet houden.
 
 ### Materiaal en maakwijze
 De Panda fauteuil hoort bij dezelfde serie als de Panda-eetkamerstoel, maar is lager en breder. De eetkamerstoel is er voor aan tafel, de fauteuil voor een rustig moment apart. Je kiest uit drie kleuren: beige, witte parel en coco. Beige is warm en licht en valt rustig weg tegen hout en zandtinten. Witte parel is lichter dan beige en geeft een heldere toon in een kamer met veel lichtinval. Coco is de donkere bruintint uit de serie, dezelfde als bij de Whale-stoel; mooi bij een eiken vloer of naast een lichte bank. De fauteuil wordt per stuk geleverd. Zo bepaal je zelf of je er één neerzet of twee tegenover elkaar, met een bijzettafel ertussen.
@@ -34,12 +34,12 @@ In een leeshoek zet je deze loungestoel naast een staande leeslamp en een klein 
 
 | Veld | Waarde |
 |---|---|
-| afmetingen | 78,5 × 66 × 56,5 cm (h × b × d) |
+| afmetingen | 78,5 × 66 × 57 cm (h × b × d) |
 | zithoogte | 48 cm |
 | zitdiepte | [AANVULLEN] |
-| gewicht | [AANVULLEN] |
-| materiaal_frame | [AANVULLEN] |
-| materiaal_bekleding | [AANVULLEN] |
+| gewicht | 8 kg |
+| materiaal_frame | Staal |
+| materiaal_bekleding | Stof met schuimvulling |
 | afwerking | Beige, witte parel of coco |
 | set_inhoud | 1 fauteuil |
 | onderhoud | [AANVULLEN] |
@@ -54,7 +54,7 @@ Ik kies de Panda fauteuil als er een zitplek bij moet in een ruimte waar een gro
 ## Veelgestelde vragen
 
 **Hoe groot is de Panda fauteuil?**  
-78,5 cm hoog, 66 cm breed en 56,5 cm diep, met een zithoogte van 48 cm. Reken op een vrije plek van 70 bij 60 cm plus ruimte om aan te schuiven.
+78,5 cm hoog, 66 cm breed en 57 cm diep, met een zithoogte van 48 cm. Reken op een vrije plek van 70 bij 60 cm plus ruimte om aan te schuiven.
 
 **Wordt de fauteuil per stuk geleverd?**  
 Ja, de prijs geldt per fauteuil.
@@ -74,8 +74,8 @@ De 8 beelden per kleur (24 in totaal, 747 px breed) worden overgenomen van de be
 
 ## Opmerking
 
-Maten en zithoogte komen uit één bron: de tekst van het oude coco-product. Beige en witte parel noemen geen maten; te verifiëren bij de leverancier. In de lopende tekst staan de maten zonder voorbehoud (schrijfregel 10); dit voorbehoud is de plek waar het hoort. Dezelfde tekst geeft een armhoogte van 78,5 cm, gelijk aan de totale hoogte; die is niet overgenomen. De coco-tekst is afgekapt, waardoor het gewicht onleesbaar is. Coco kost € 219,90, beige en witte parel € 199,90; de prijzen zijn ongewijzigd uit de bronproducten overgenomen. Het land van herkomst staat niet in de brondata.
+Afmetingen, zithoogte, zitbreedte (66 cm), armleuninghoogte (78,5 cm), gewicht, het stalen onderstel, de stoffen zitting met schuimvulling en de montage (zelf in elkaar zetten) komen van de productpagina's van Giga Meubel (beige en wit, geopend op 4 november 2026), waar dit model "Armstoel Panda" heet; Pole To Pole toont het niet meer. De oude coco-tekst noemde 56,5 cm diepte, Giga Meubel 57 cm; de geopende pagina is aangehouden. Giga Meubel noemt een zitdiepte van 56,5 cm, gelijk aan de totale diepte, en die is daarom niet overgenomen. De kleurnamen bij Giga Meubel (beige, wit, grijs, grijs-blauw) wijken af van de eigen export (beige, witte parel, coco). Coco kost € 219,90, beige en witte parel € 199,90; de prijzen zijn ongewijzigd uit de bronproducten overgenomen. Het land van herkomst staat niet in de brondata.
 
 ## Aan te vullen door de eigenaar
 
-Alle velden met `[AANVULLEN]` in de specificaties (zitdiepte, gewicht, materiaal frame en bekleding, onderhoud, levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
+Alle velden met `[AANVULLEN]` in de specificaties (zitdiepte, onderhoud, levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.

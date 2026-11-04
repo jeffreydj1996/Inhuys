@@ -37,8 +37,8 @@ Naast Bank Amsterdam zet je de Kathmandu schuin aan de korte kant, zodat je elka
 | zithoogte | 40 cm |
 | zitdiepte | 80 cm |
 | gewicht | [AANVULLEN] |
-| materiaal_frame | Hout (beukenhout) |
-| materiaal_bekleding | [AANVULLEN] (vulling schuim) |
+| materiaal_frame | Beukenhout |
+| materiaal_bekleding | Stof met schuimvulling |
 | afwerking | Amon naturel of Amon terracotta |
 | set_inhoud | 1 loungestoel |
 | onderhoud | [AANVULLEN] |
@@ -73,8 +73,8 @@ De 6 beelden per kleur (12 in totaal, 800 px breed) worden overgenomen van de be
 
 ## Opmerking
 
-Afmetingen, zithoogte, zitdiepte, het frame van beukenhout en de schuimvulling komen uit één dealer-samenvatting (kunstplaza.de, pagina niet geopend) en zijn te verifiëren bij de leverancier. Dezelfde samenvatting noemt het frame "blocking and beech wood"; de betekenis van "blocking" is niet vastgesteld. Volgens die samenvatting is de stoel niet brandvertragend. De dealer noemt € 1.298,00 voor terracotta; de prijs van € 950,00 is ongewijzigd uit de bronproducten overgenomen. De koppeling met Pole To Pole steunt op één dealer-samenvatting. De dealer noemt een levertijd van 5 tot 10 werkdagen; dat is niet de termijn van de leverancier en is niet overgenomen.
+Zithoogte, zitdiepte, zitbreedte (110 cm), het beukenhouten frame en de stoffen zitting met schuimvulling komen van de productpagina van Giga Meubel (naturel, geopend op 4 november 2026), die het model als "Pole to Pole Fauteuil Kathmandu Amon" verkoopt; daarmee is het merk bevestigd. Pole To Pole toont het model niet meer op de eigen site. De afmetingen 75 × 114 × 105 cm komen uit een eerder zoekfragment van kunstplaza.de; Giga Meubel toont dezelfde maten als 105 × 114 × 75 cm met 33 kg zonder label, en in de specificatietabel 110 × 105 × 78 cm (b × d × h). Welke set de stoel en welke de verpakking beschrijft, is niet vastgesteld; het gewicht is daarom niet overgenomen en de afmetingen blijven te verifiëren bij de leverancier. Kunstplaza.de noemde € 1.298,00 voor terracotta; de prijs van € 950,00 is ongewijzigd uit de bronproducten overgenomen. Terracotta heet bij Giga Meubel "terra".
 
 ## Aan te vullen door de eigenaar
 
-Alle velden met `[AANVULLEN]` in de specificaties (gewicht, bekleding, onderhoud, levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
+Alle velden met `[AANVULLEN]` in de specificaties (gewicht, onderhoud, levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
