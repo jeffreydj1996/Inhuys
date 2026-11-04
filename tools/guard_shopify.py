@@ -5,6 +5,7 @@ Droge test: python3 tools/guard_shopify.py --test"""
 import json, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IDS = os.path.join(ROOT, "data", "ids.json")
+DROPSHIP_MERKEN = {"Pole To Pole", "Jupiduu - Designed for Kids"}
 TOEGESTAAN = {"productSet", "productUpdate", "productCreate", "pageCreate", "pageUpdate", "collectionCreate", "collectionUpdate",
               "articleCreate", "articleUpdate", "themeFilesUpsert", "metafieldDefinitionCreate", "menuCreate", "menuUpdate", "fileUpdate"}
 VERBODEN_RE = re.compile(r"(delete|publish|unpublish|archive|urlredirect|themepublish|themecreate|themeupdate|inventory|pricelist|discount|customer|order|fulfillment|webhook|bulkoperation|stagedupload)", re.I)
@@ -44,6 +45,10 @@ def controleer(query, variables, env):
         if n not in TOEGESTAAN or VERBODEN_RE.search(n): fouten.append(f"mutatie '{n}' is niet toegestaan zonder INHUYS_GOLIVE=1")
     if VERBODEN_RE.search(query) and not fouten: fouten.append("de mutatietekst bevat een verboden term (delete/publish/redirect/...)")
     ids, files = concept_ids()
+    namen = veldnamen(query)
+    if namen & {"productSet", "productCreate"}:
+        for v in re.findall(r'"vendor":\s*"([^"]*)"', json.dumps(variables or {})):
+            if v in DROPSHIP_MERKEN: fouten.append(f"vendor '{v}' loopt via Orderchamp: nooit zelf aanmaken, alleen productUpdate op het geïmporteerde concept")
     def walk(o, pad=""):
         if isinstance(o, dict):
             for k, v in o.items():
@@ -69,6 +74,7 @@ def main():
                  ("vreemd id", 'mutation($p: ProductSetInput!) { productSet(input: $p) { product { id } } }', {"p": {"id": "gid://shopify/Product/10447090057555", "status": "DRAFT"}}, True),
                  ("publishable", 'mutation { publishablePublish(id: "gid://shopify/Product/1", input: []) { userErrors { message } } }', {}, True),
                  ("redirect", 'mutation { urlRedirectCreate(urlRedirect: {path: "/a", target: "/b"}) { userErrors { message } } }', {}, True),
+                 ("orderchamp", 'mutation($p: ProductSetInput!) { productSet(input: $p) { product { id } } }', {"p": {"title": "x", "status": "DRAFT", "vendor": "Pole To Pole"}}, True),
                  ("concept ok", 'mutation($p: ProductSetInput!) { productSet(input: $p, synchronous: true) { product { id } userErrors { message } } }', {"p": {"title": "Proef", "status": "DRAFT"}}, False),
                  ("thema-kopie ok", 'mutation($t: ID!, $f: [OnlineStoreThemeFilesUpsertFileInput!]!) { themeFilesUpsert(themeId: $t, files: $f) { userErrors { message } } }', {"t": THEMA_KOPIE, "f": []}, False)]
         goed = 0

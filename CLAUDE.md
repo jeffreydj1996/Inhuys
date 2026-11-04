@@ -10,6 +10,7 @@ De hoofdsessie doet regie en beoordeling en delegeert via de skills in `.claude/
 4. Alt-tekst van een bestaand beeldbestand nooit wijzigen of weglaten: Shopify deelt bestanden tussen producten. Geef de huidige alt ongewijzigd mee (`md_naar_vars.py` doet dat).
 5. Redirects blijven in `analyse/redirects.csv` tot de eigenaar go-live geeft.
 6. Alle informatie van fabrikanten is alleen een bron voor feiten. Nooit een zin overnemen; `check_tekst.py` controleert op 7-woord-overlap.
+7. Producten van leveranciers via Orderchamp (Pole To Pole, Jupiduu) worden nooit zelf aangemaakt: de eigenaar importeert het concept in de Orderchamp-app, wij zetten de inhoud erop met `productUpdate`. Varianten, SKU's, prijzen, voorraad en beelden blijven van Orderchamp; de hook blokkeert `productSet`/`productCreate` voor deze merken. Zie `analyse/10-orderchamp-koppeling.md`.
 
 ## Schrijfregels
 - Je-vorm, nooit u. Merknaam altijd `InHuys`. Tagline: `InHuys · ontwerp, advies en inrichting`.
