@@ -1,0 +1,42 @@
+{
+  "_uitleg": "Kopieer dit bestand naar .claude/settings.json (eigenaar). Het koppelt de hook tools/guard_shopify.py aan elke Shopify-mutatie en blokkeert de losse Shopify-hulptools die niet tot concepten beperkt zijn.",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__Shopify__graphql_mutation",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 -I \"$CLAUDE_PROJECT_DIR/tools/guard_shopify.py\""
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "deny": [
+      "mcp__Shopify__create-product",
+      "mcp__Shopify__update-product",
+      "mcp__Shopify__bulk-update-product-status",
+      "mcp__Shopify__create-collection",
+      "mcp__Shopify__update-collection",
+      "mcp__Shopify__add-to-collection",
+      "mcp__Shopify__set-inventory",
+      "mcp__Shopify__create-discount",
+      "mcp__Shopify__create-digital-product",
+      "mcp__Shopify__create-digital-product-from-link",
+      "mcp__Shopify__publish-digital-product",
+      "mcp__Shopify__import-mock-shop-catalog"
+    ],
+    "allow": [
+      "Bash(python3 -I tools/:*)",
+      "Bash(jq:*)",
+      "Bash(curl -sS:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git log:*)"
+    ]
+  }
+}
