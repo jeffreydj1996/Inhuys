@@ -35,7 +35,7 @@ Zwart bij een eiken tafel op een lichte vloer geeft contrast zonder dat de eetho
 | afmetingen | 87 × 58 × 61 cm (h × b × d) |
 | zithoogte | 48 cm |
 | zitdiepte | 46 cm |
-| gewicht | 6,6 kg per stoel |
+| gewicht | [AANVULLEN] (fabrikant 6,6 kg, dealer 17 kg; te verifiëren) |
 | materiaal_frame | Multiplex, metaal en gepoedercoat Q195-staal |
 | materiaal_bekleding | Stof; schuim 25 kg/m³ |
 | afwerking | Zwart |

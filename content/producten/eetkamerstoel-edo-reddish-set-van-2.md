@@ -1,4 +1,4 @@
-# EDO eetkamerstoel met houten armleuningen · reddish, set van 2
+# EDO eetkamerstoel met armleuningen · reddish, set van 2
 
 Handle: `/products/eetkamerstoel-edo-reddish-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
@@ -26,7 +26,7 @@ In reddish brengt de EDO een warme, roodachtige toon aan tafel, die goed uitkomt
 Je zit op een frame van wit essenhout, dat tot 120 kg per stoel draagt. Voor een zitting die bij een lange maaltijd comfortabel blijft, ligt er schuim met een dichtheid van 25 kg/m³ onder de stof. Die stof heet Okura en is van 100% polyester, dus een vlek neem je af met een vochtige, niet natte doek, zonder harde middelen en zonder de stof te laten weken. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
 
 ### Combineren
-Reddish bij een eiken tafel op een lichte vloer geeft een eethoek in één warme kleurfamilie; aan de ovale Ellipse-tafel zet dezelfde tint juist warmte tegen het koele keramische blad in marmerlook. Zet de Agano-vaas van travertijn midden op tafel, dan krijgt het rood een zachte, zandkleurige tegenhanger. Alle uitvoeringen en het volledige advies vind je bij [EDO eetkamerstoel met houten armleuningen in black, set van 2](/products/eetkamerstoel-edo-set-van-2).
+Reddish bij een eiken tafel op een lichte vloer geeft een eethoek in één warme kleurfamilie; aan de ovale Ellipse-tafel zet dezelfde tint juist warmte tegen het koele keramische blad in marmerlook. Zet de Agano-vaas van travertijn midden op tafel, dan krijgt het rood een zachte, zandkleurige tegenhanger. Alle uitvoeringen en het volledige advies vind je bij [EDO eetkamerstoel met armleuningen in black, set van 2](/products/eetkamerstoel-edo-set-van-2).
 
 ## Specificaties (metavelden `inhuys.*`)
 

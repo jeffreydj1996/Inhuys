@@ -25,7 +25,7 @@ Een eethoek met de EDO blijft laag in het beeld: met zijn 76,5 cm hoogte komt de
 ### Materiaal en maakwijze
 Het frame van essenhout draagt tot 120 kg per stoel, zodat ook een stevige gast er ontspannen in leunt. In de zitting werkt schuim met een dichtheid van 25 kg/m³, een opgave waarmee je de EDO naast andere gestoffeerde stoelen kunt leggen. Voor de bekleding is Okura-stof van 100% polyester gebruikt; een vlek neem je af met een vochtige, niet natte doek. Agressieve schoonmaakmiddelen laat je achterwege, en de stof mag nooit doorweken. Met 5 kg per stoel til je de EDO met één hand op als je onder de tafel stofzuigt. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar, dus houd bij de levering een vrije plek op de vloer aan.
 
-Wil je een warmere tint aan tafel, dan staat dezelfde stoel als eigen product klaar: de [EDO in reddish](/products/eetkamerstoel-edo-reddish-set-van-2), met hetzelfde frame en dezelfde maten.
+Wil je een warmere tint aan tafel, dan staat dezelfde stoel als apart product klaar: de [EDO in reddish](/products/eetkamerstoel-edo-reddish-set-van-2), met hetzelfde frame en dezelfde maten.
 
 ### Combineren
 Rond de ovale Ellipse met zijn keramische blad in marmerlook zorgt het zwart voor contrast, en op een lichte eiken vloer krijgt dat geheel een warme ondergrond. Om de ronde Urban Chique in een erker of vierkante eethoek vormen de stoelen een gesloten kring, en een Agano-vaas van travertijn in het midden brengt een zachte steentint tussen het zwart. Wil je de kopse kanten van een lange tafel zachter maken, zet daar dan een gestoffeerde Cloud in crème. Staat de eethoek in dezelfde ruimte als een lichte bank zoals de Amsterdam, dan verbindt een groepje marmeren waxinelichthouders op tafel de twee zones.

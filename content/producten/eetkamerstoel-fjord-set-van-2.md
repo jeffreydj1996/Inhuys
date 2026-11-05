@@ -34,7 +34,7 @@ Om de ronde Urban Chique in een erker vormt taupe met het blad in marmerlook een
 |---|---|
 | afmetingen | 83,5 × 56 × 60 cm (h × b × d) |
 | zithoogte | 48 cm |
-| zitdiepte | 47 cm |
+| zitdiepte | [AANVULLEN] (fabrikant 47 cm, dealer 60 cm; te verifiëren) |
 | gewicht | 8 kg per stoel |
 | materiaal_frame | Gepoedercoat Q195-staal en multiplex |
 | materiaal_bekleding | Stof, 96% polyester en 4% acryl; schuim 25 kg/m³ |

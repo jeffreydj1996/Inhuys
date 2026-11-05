@@ -25,7 +25,7 @@ Parelwit maakt een eethoek lichter, en dat merk je vooral in een eetkamer aan de
 ### Materiaal en maakwijze
 Gepoedercoat Q195-staal, multiplex en metaal vormen samen de constructie, die tot 120 kg per stoel draagt. In de zitting werkt schuim met een dichtheid van 25 kg/m³, zodat je stevig zit en niet ver wegzakt. Voor de bekleding in parelwit is een stof van polyester met een klein deel acryl gekozen, die je bij dagelijks gebruik met een vochtige, niet natte doek schoonhoudt. Agressieve middelen laat je achterwege, en de stof mag nooit doorweken, zodat het schuim eronder droog blijft. Een lichte kleur aan tafel vraagt wel om aandacht: neem een vlek direct af, dan krijgt hij geen tijd om in te trekken. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar, dus houd bij de levering een vrije plek op de vloer aan.
 
-Wil je juist een donker accent aan tafel, dan staat dezelfde stoel als eigen product klaar: de [Wing in zwart](/products/eetkamerstoel-wing-zwart-set-van-2).
+Wil je juist een donker accent aan tafel, dan staat dezelfde stoel als apart product klaar: de [Wing in zwart](/products/eetkamerstoel-wing-zwart-set-van-2).
 
 ### Combineren
 Op een eiken vloer rond de ovale Ellipse vormt parelwit met het keramische blad in marmerlook een lichte, rustige eethoek, en een Agano-vaas van travertijn in het midden geeft het geheel een warme steentint. Wil je meer contrast, zet de stoelen dan tegen een wand in olijfgroen of antraciet, of op een vloer van donker gerookt eiken, waar het wit helder afsteekt. Aan de rechthoekige Urban Chique kun je aan de kopse kanten een Nox in tan zetten, zodat de uiteinden van de lange tafel warmte krijgen. Staat de eethoek in de woonkamer, dan sluit parelwit aan op een lichte bank als de Amsterdam in beige.
@@ -37,7 +37,7 @@ Op een eiken vloer rond de ovale Ellipse vormt parelwit met het keramische blad 
 | afmetingen | 87 × 58 × 61 cm (h × b × d) |
 | zithoogte | 48 cm |
 | zitdiepte | 46 cm |
-| gewicht | 6,6 kg per stoel |
+| gewicht | [AANVULLEN] (fabrikant 6,6 kg, dealer 17 kg; te verifiëren) |
 | materiaal_frame | Gepoedercoat Q195-staal, multiplex en metaal |
 | materiaal_bekleding | Stof, 95% polyester en 5% acryl; schuim 25 kg/m³ |
 | afwerking | Parelwit |
