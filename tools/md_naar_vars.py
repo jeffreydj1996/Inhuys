@@ -106,8 +106,9 @@ def build(d, by):
         if v and "[AANVULLEN" not in v: mfs.append({"namespace": "inhuys", "key": k, "type": "single_line_text_field", "value": v})
     hp = d["specs"].get("hoofdproduct")
     if hp and "[AANVULLEN" not in hp:
-        gid = hp if hp.startswith("gid://") else json.load(open(os.path.join(ROOT, "data", "ids.json"), encoding="utf-8")).get("producten", {}).get(hp, "")
-        if not gid: raise SystemExit(f"hoofdproduct '{hp}' staat niet in data/ids.json (producten)")
+        ids = json.load(open(os.path.join(ROOT, "data", "ids.json"), encoding="utf-8"))
+        gid = hp if hp.startswith("gid://") else ids.get("producten", {}).get(hp) or ids.get("live_tekst", {}).get(hp, "")
+        if not gid: raise SystemExit(f"hoofdproduct '{hp}' staat niet in data/ids.json (producten of live_tekst)")
         mfs.append({"namespace": "inhuys", "key": "hoofdproduct", "type": "product_reference", "value": gid})
     mfs.append({"namespace": "inhuys", "key": "advies", "type": "rich_text_field", "value": rt(d["advies"])})
     mfs.append({"namespace": "inhuys", "key": "faq", "type": "rich_text_field", "value": rt([(q, a) for q, a in d["faq"]])})
