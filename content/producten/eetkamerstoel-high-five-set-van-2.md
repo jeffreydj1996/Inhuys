@@ -7,9 +7,9 @@ Categorie: gid://shopify/TaxonomyCategory/fr-7-9
 Collecties: gid://shopify/Collection/704710541651
 
 Meta-titel (53): High Five eetkamerstoel in beige · set van 2 · InHuys  
-Meta-description (137): High Five eetkamerstoel in beige, set van 2, met armleuningen op rughoogte en een bekleding van polyester en acryl, in één doos geleverd.
+Meta-description (130): High Five eetkamerstoel in beige, set van 2, met hoge armleuningen en een bekleding van polyester en acryl, in één doos geleverd.
 
-**Zin onder de titel:** Een eetkamerstoel in zacht beige met armleuningen op rughoogte, voor een rustige eethoek op een lichte vloer.
+**Zin onder de titel:** Een eetkamerstoel in zacht beige met hoge armleuningen, voor een rustige eethoek op een lichte vloer.
 
 ## Varianten en prijzen
 
@@ -20,7 +20,7 @@ Meta-description (137): High Five eetkamerstoel in beige, set van 2, met armleun
 ## Beschrijving
 
 ### Zo werkt het in de ruimte
-De High Five is een eetkamerstoel waarbij de armleuningen en de rug op één hoogte uitkomen, zodat rond de tafel een rustige, gesloten bovenrand ontstaat. In beige zet hij een zachte, neutrale tint in de eethoek die aansluit op eiken, travertijn en witte muren. Met zijn 75 cm hoogte blijft de stoel laag, waardoor een eethoek met zes stoelen open blijft en je over de ruggen heen de kamer in kijkt. Elke stoel vraagt met zijn 60 cm breedte een ruime strook van de tafelrand. Aan een tafel van 200 cm zet je er daarom drie per lange zijde, met ruimte voor ieders ellebogen. Omdat de armleuningen tot 74,5 cm komen, schuift de High Five alleen onder een tafelblad waarvan de onderkant hoger ligt; plan dus met stoelen die meestal voor de tafelrand blijven staan. Met 53 cm diepte is de stoel daarbij compact, wat helpt in een eethoek waar achter de stoelen weinig loopruimte is.
+De High Five is een eetkamerstoel met hoge armleuningen, die met hun 74,5 cm tot vlak onder de bovenrand van de rug komen, zodat rond de tafel een rustige, gesloten lijn ontstaat. In beige zet hij een zachte, neutrale tint in de eethoek die aansluit op eiken, travertijn en witte muren. Met zijn 75 cm hoogte blijft de stoel laag, waardoor een eethoek met zes stoelen open blijft en je over de ruggen heen de kamer in kijkt. Elke stoel vraagt met zijn 60 cm breedte een ruime strook van de tafelrand. Aan een tafel van 200 cm zet je er daarom drie per lange zijde, met ruimte voor ieders ellebogen. Omdat de armleuningen tot 74,5 cm komen, schuift de High Five alleen onder een tafelblad waarvan de onderkant hoger ligt; plan dus met stoelen die meestal voor de tafelrand blijven staan. Met 53 cm diepte is de stoel daarbij compact, wat helpt in een eethoek waar achter de stoelen weinig loopruimte is.
 
 ### Materiaal en maakwijze
 De bekleding is een stof van 96% polyester en 4% acryl in beige, die je bij een vlek afneemt met een vochtige, niet natte doek; agressieve middelen en doorweken laat je achterwege. Daaronder zit schuim met een dichtheid van 25 kg/m³, een opgave waarmee je de High Five naast andere gestoffeerde stoelen kunt leggen. Met een zitting van 6 cm dikte zit je strak en rechtop, zonder weg te zakken. In de constructie zitten gepoedercoat Q195-staal, multiplex en metaal, samen goed voor een belasting tot 120 kg per stoel. Met 7,35 kg per stoel is de High Five licht genoeg om hem met één hand van de tafel weg te trekken. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
@@ -47,7 +47,7 @@ Rond de ronde Urban Chique, met zijn blad in marmerlook, geven vier High Five-st
 
 ## Advies van InHuys
 
-Ik kies de High Five voor een eethoek die ook rustig moet ogen als er niemand aan tafel zit, omdat rug en armleuningen op één hoogte een gesloten lijn rond de tafel maken. Wil je de stoelen elke avond onder het blad schuiven, dan raad ik een stoel met lagere armleuningen aan, want deze blijft bijna altijd voor de tafel staan. Beige werkt het best op een lichte vloer; op donker hout verliest de stof haar zachtheid.
+Ik kies de High Five voor een eethoek die ook rustig moet ogen als er niemand aan tafel zit, omdat de hoge armleuningen en de rug samen een gesloten lijn rond de tafel maken. Wil je de stoelen elke avond onder het blad schuiven, dan raad ik een stoel met lagere armleuningen aan, want deze blijft bijna altijd voor de tafel staan. Beige werkt het best op een lichte vloer; op donker hout verliest de stof haar zachtheid.
 
 ## Veelgestelde vragen
 
