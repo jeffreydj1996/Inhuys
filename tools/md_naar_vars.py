@@ -85,7 +85,10 @@ def build(d, by):
         if srch in seen: continue
         seen.add(srch)
         it = by.get(srch)
-        if not it: raise SystemExit(f"bronproduct onbekend in data/raw: {srch}")
+        if not it:
+            # Orderchamp-concepten van na de export staan niet in data/raw: geen beelden meesturen (die blijven van Orderchamp).
+            print(f"let op: bronproduct {srch} niet in data/raw; geen beelden in de variabelen", file=sys.stderr)
+            it = {"images": [], "title": srch}
         for i, im in enumerate(it["images"], 1):
             f = {"originalSource": im["url"], "contentType": "IMAGE"}
             if im.get("alt"): f["alt"] = im["alt"]
