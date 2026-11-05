@@ -1,0 +1,35 @@
+# Feiten · storm (Pole To Pole)
+Datum: 2026-11-05
+
+## Bronproducten (eigen export)
+| bronhandle | titel | status | prijs | sku | beelden | breedte px |
+|---|---|---|---|---|---|---|
+| `storm-draaistoel-beige` | Storm Draaistoel Beige | DRAFT | € 279,90 | 871917285524 | 8 | 747 |
+| `storm-draaistoel-bruin` | Storm Draaistoel Bruin | DRAFT | € 279,90 | 871917285525 | 8 | 747 |
+| `stormstoel-coco` | Stormstoel Coco | DRAFT | € 299,90 | 871917285737 | 8 | 747 |
+
+## Feiten
+| feit | waarde | bron | datum |
+|---|---|---|---|
+| afmetingen (h × b × d) | 88 × 56 × 60 cm (beige en coco: poletopole.nl; bruin: gigameubel.nl, BxDxH 56x60x88 cm) | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| zithoogte | 48 cm (beige, coco en bruin) | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| zitdiepte | **Te verifiëren.** Beige en coco: 44 cm (poletopole.nl). Bruin: 60 cm (gigameubel.nl). | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| zitbreedte | **Te verifiëren.** Beige en coco: 44,5 cm (poletopole.nl). Bruin: 56 cm (gigameubel.nl). | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| armleuninghoogte | **Te verifiëren.** Beige en coco: 64,5 cm (poletopole.nl). Bruin: 66,5 cm (gigameubel.nl). | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| gewicht | **Te verifiëren.** Beige en coco: 7,6 kg (poletopole.nl). Bruin: 8 kg (gigameubel.nl). | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| maximale belasting | 120 kg (beige en coco). Bruin: niet gevonden. | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ | 2026-11-05 |
+| draaifunctie | niet gevonden (geen omschrijving van draaihoek of terugkeer naar beginstand in de geraadpleegde bronnen) | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| materiaal frame | Staal, poedergecoat (Q195). Bron-vermelding plywood en metaal: koppeling aan onderdeel niet vermeld. Bruin: onderstel staal (gigameubel.nl). | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| materiaal bekleding | Beige: 96% polyester / 4% acryl. Coco: 93% polyester / 7% viscosevezel (viscose staple fiber). Bruin: samenstelling niet gevonden; gigameubel.nl vermeldt alleen "stof/textiel". Vulling: schuim, 25 kg/m³ (poletopole.nl). | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| kleuren / afwerkingen | Beige (SKU 871917285524) en coco (SKU 871917285737) op poletopole.nl. Bruin (SKU 871917285525): op gigameubel.nl als "bruin", SKU niet op poletopole.nl gevonden. Gigameubel.nl toont ook grijs en zand; niet in de Orderchamp-concepten, niet opgenomen. | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| set-inhoud | 1 stuk per doos (losse stoel). Bruin: niet op poletopole.nl; gigameubel.nl vermeldt geen set-inhoud. | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ | 2026-11-05 |
+| onderhoud | Afnemen met een vochtige (niet natte) doek. Geen agressieve reinigingsmiddelen, het materiaal niet laten weken. | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ | 2026-11-05 |
+| levertijd (leverancier) | niet gevonden | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| garantie | niet gevonden | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+| bijzonderheden | Herkomst: China (beige, coco). Brandvertragend: nee (beige, coco). Montage vereist: ja (beige, coco en bruin). Hoogteverstelling: nee (beige, coco). Stapelbaar: nee (beige, coco). Zitdikte: 6 cm (beige, coco). Armleuningbreedte: 5,75 cm (beige, coco). Rugleuninghoogte: 41,5 cm (beige, coco). **Te verifiëren:** gigameubel.nl (bruin) vermeldt "Hoogte rugleuning 88 cm", gelijk aan de totale hoogte. Doos (beige, coco): 60 × 57 × 51 cm, 9,5 kg, 0,17442 m³; gigameubel.nl (bruin) vermeldt doosgewicht 10 kg. Uitlopend: niet gevonden. GSPR- en EUDR-conform: ja (beige, coco). | https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ ; https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ ; https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin | 2026-11-05 |
+
+## Bronnen
+- https://poletopole.nl/en/product/871917285524/storm-rotating-chair-beige/ · fabrikant-productpagina beige (SKU 871917285524), maten, gewicht, materialen, stof, onderhoud, doos, compliance · geraadpleegd op 2026-11-05
+- https://poletopole.nl/en/product/871917285737/storm-rotating-chair-coco/ · fabrikant-productpagina coco (SKU 871917285737), maten, gewicht, materialen, stof, onderhoud, doos, compliance · geraadpleegd op 2026-11-05
+- https://www.gigameubel.nl/pole-to-pole-draaistoel-storm-bruin · dealerpagina bruin (geen SKU-vermelding gevonden), maten, gewicht, materialen, zitdiepte, zitbreedte · geraadpleegd op 2026-11-05
+- SKU 871917285525 (bruin): niet op poletopole.nl (product-sitemap en-GB, nl-NL); dealerzoekopdracht gigameubel.nl, huismerken.nl en homka-living.de: alleen gigameubel.nl leverde een product-URL op. Huismerken.nl en homka-living.de: geen resultaten.
