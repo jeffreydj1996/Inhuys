@@ -109,7 +109,7 @@ Raming: overzetting 350.000 tokens, live producten 150.000, nieuwe teksten 30 mo
 | 3 | klaar | 12 |
 | 4 | klaar | 11 |
 | 5 | klaar, byte-voor-byte geverifieerd | 16 (Rock heet nu eetkamerstoel: fabrikantnaam "Rock chair", geen schommelfunctie) |
-| 6 | klaar | 7 |
+| 6 | klaar, byte-voor-byte geverifieerd | 7 |
 | 7 | feiten en uitlezing klaar, teksten na tussenrapport | 0 |
 | 8 | niet gestart | 0 |
 
