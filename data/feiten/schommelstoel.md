@@ -31,7 +31,7 @@ Opmerking: de crème-variant (871974353085) staat in de export en op de fabrikan
 | materiaal schommelbasis | niet gevonden (de site vermeldt niet welk onderdeel de schommelfunctie vormt) | idem | 2026-11-05 |
 | materiaal bekleding | Stof; bruin, taupe en beige: 96% polyester / 4% acryl; karamel: 100% polyester. Schuimvulling: "Foam 25 kg/m³" (toewijzing aan zitting niet expliciet vermeld) | idem | 2026-11-05 |
 | kleuren / afwerkingen | Bruin (871917285449), taupe (871917285451), beige (871917285353), karamel (871974353087) | idem | 2026-11-05 |
-| set-inhoud | Doosinhoud: 2 (eenheid niet vermeld op de site). Te verifiëren of dit 2 stoelen per set is, zoals de export aangeeft | idem | 2026-11-05 |
+| set-inhoud | Doosinhoud 2 (veld doosinhoud op poletopole.nl). Set van 2 stoelen volgt uit de Orderchamp-titel "(Set van 2)" en de setprijs € 479,80 in de eigen export van 5 november 2026 | idem | 2026-11-05 |
 | onderhoud | Afnemen met een vochtige, niet natte doek; geen agressieve reinigingsmiddelen; het materiaal niet laten weken | idem | 2026-11-05 |
 | levertijd (leverancier) | niet gevonden | idem | 2026-11-05 |
 | garantie | niet gevonden | idem | 2026-11-05 |

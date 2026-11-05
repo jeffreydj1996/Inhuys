@@ -15,7 +15,7 @@ Meta-description (139): Rock eetkamerstoel in bruin, set van 2, met armleuningen
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Bruin | € 479,80 | 871917285449 | `eetkamerstoel-bruin-set-van-2` |
+| Bruin | € 479,80 | 871917285449 | `schommelstoel-bruin-set-van-2` |
 
 ## Beschrijving
 

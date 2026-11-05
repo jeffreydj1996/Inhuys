@@ -2,7 +2,7 @@
 
 Handle: `/products/draaistoel-pebble` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
-Tags: draaistoel, eetkamerstoel, staal, latte, pistache, pole-to-pole  
+Tags: draaistoel, eetkamerstoel, staal, latte, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
 Collecties: gid://shopify/Collection/704710541651
 
@@ -41,7 +41,7 @@ Rond de [Urban Chique ronde eettafel](/products/ronde-eettafel-urban-chique) in 
 | gewicht | 9,7 kg |
 | materiaal_frame | Multiplex, metaal en gepoedercoat Q195-staal; poten zwart gepoedercoat |
 | materiaal_bekleding | Stof, 100% polyester (latte); schuim 25 kg/m³ |
-| afwerking | Latte of pistache; poten zwart |
+| afwerking | Latte; poten zwart |
 | set_inhoud | 1 stoel (zelf te monteren) |
 | onderhoud | Afnemen met een vochtige, niet natte doek; geen agressieve schoonmaakmiddelen; de stof niet laten doorweken |
 | herkomst | Pole To Pole |

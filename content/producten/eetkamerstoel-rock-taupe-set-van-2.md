@@ -15,7 +15,7 @@ Meta-description (144): Rock eetkamerstoel in taupe, set van 2, met armleuningen
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Taupe | € 479,80 | 871917285451 | `eetkamerstoel-taupe-set-van-2` |
+| Taupe | € 479,80 | 871917285451 | `schommelstoel-taupe-set-van-2` |
 
 ## Beschrijving
 

@@ -15,7 +15,7 @@ Meta-description (143): Rock eetkamerstoel in beige, set van 2: een gestoffeerde
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Beige | € 479,80 | 871917285353 | `eetkamerstoel-beige-set-van-2` |
+| Beige | € 479,80 | 871917285353 | `schommelstoel-beige-set-van-2` |
 
 ## Beschrijving
 
