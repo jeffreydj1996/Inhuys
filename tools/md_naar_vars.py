@@ -22,13 +22,23 @@ def bronproducten():
                 if im["url"] in m: im["alt"] = m[im["url"]]
     return by
 
+def runs(t, bold=False):
+    """Tekst met markdown-links [tekst](/pad) naar rich-text-knopen (text en link)."""
+    uit, pos = [], 0
+    for m in re.finditer(r"\[([^\]]+)\]\((/[^)\s]+)\)", t):
+        if m.start() > pos: uit.append({"type": "text", "value": t[pos:m.start()], **({"bold": True} if bold else {})})
+        uit.append({"type": "link", "url": m.group(2), "children": [{"type": "text", "value": m.group(1)}]})
+        pos = m.end()
+    if pos < len(t) or not uit: uit.append({"type": "text", "value": t[pos:], **({"bold": True} if bold else {})})
+    return uit
+
 def rt(paragraphs):
     ch = []
     for p in paragraphs:
         if isinstance(p, tuple):
-            ch.append({"type": "paragraph", "children": [{"type": "text", "value": p[0], "bold": True}, {"type": "text", "value": " " + p[1]}]})
+            ch.append({"type": "paragraph", "children": runs(p[0], bold=True) + runs(" " + p[1])})
         else:
-            ch.append({"type": "paragraph", "children": [{"type": "text", "value": p}]})
+            ch.append({"type": "paragraph", "children": runs(p)})
     return json.dumps({"type": "root", "children": ch}, ensure_ascii=False)
 
 def parse(md):
