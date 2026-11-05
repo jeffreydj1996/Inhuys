@@ -10,3 +10,5 @@ __pycache__/
 *credentials*.json
 *.pem
 .claude/settings.local.json
+# Ruwe uitlezingen voor de verificatie (herbouwbaar uit het lezer-logboek)
+data/orderchamp/verificatie/*-nodes.json
