@@ -102,7 +102,14 @@
     "draaistoel-storm-bruin": "gid://shopify/Product/10447090352467",
     "draaistoel-storm-coco": "gid://shopify/Product/10447090516307",
     "draaistoel-pebble": "gid://shopify/Product/10447090254163",
-    "draaistoel-pebble-beige": "gid://shopify/Product/10447090188627"
+    "draaistoel-pebble-beige": "gid://shopify/Product/10447090188627",
+    "eetkamerstoel-edo-set-van-2": "gid://shopify/Product/10447099298131",
+    "eetkamerstoel-edo-reddish-set-van-2": "gid://shopify/Product/10447099330899",
+    "eetkamerstoel-wing-set-van-2": "gid://shopify/Product/10447092056403",
+    "eetkamerstoel-wing-zwart-set-van-2": "gid://shopify/Product/10447091990867",
+    "eetkamerstoel-egg-set-van-2": "gid://shopify/Product/10447099003219",
+    "eetkamerstoel-whale-retro-set-van-2": "gid://shopify/Product/10447098642771",
+    "eetkamerstoel-fjord-set-van-2": "gid://shopify/Product/10447091663187"
   },
   "artikelen": {
     "boucle-onderhouden-zo-blijft-je-bank-mooi": "gid://shopify/Article/617286107475",
@@ -205,6 +212,13 @@
     "draaistoel-storm-bruin": "storm-draaistoel-bruin",
     "draaistoel-storm-coco": "stormstoel-coco",
     "draaistoel-pebble": "pebble-draaibare-stoel-latte",
-    "draaistoel-pebble-beige": "pebble-draaistoel-beige"
+    "draaistoel-pebble-beige": "pebble-draaistoel-beige",
+    "eetkamerstoel-edo-set-van-2": "edo-wouten-aangevoeren-black-set-van-2",
+    "eetkamerstoel-edo-reddish-set-van-2": "edo-wouten-aangevoerder-reddish-set-van-2",
+    "eetkamerstoel-wing-set-van-2": "oorfauteuil-parelwit-set-van-2",
+    "eetkamerstoel-wing-zwart-set-van-2": "vleugelstoel-zwart-set-van-2",
+    "eetkamerstoel-egg-set-van-2": "eierstoel-goud-set-van-2",
+    "eetkamerstoel-whale-retro-set-van-2": "walvisstoel-retro-set-van-2",
+    "eetkamerstoel-fjord-set-van-2": "fjord-stoel-taupe-set-van-2"
   }
 }
