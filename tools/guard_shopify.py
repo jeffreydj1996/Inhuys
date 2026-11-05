@@ -52,10 +52,18 @@ def controleer(query, variables, env):
     if VERBODEN_RE.search(query) and not fouten: fouten.append("de mutatietekst bevat een verboden term (delete/publish/redirect/...)")
     ids, files, live_blok, live_tekst = concept_ids()
     namen = veldnamen(query)
-    tekst_json = json.dumps(variables or {})
+    # Alleen gids die als 'id' (het object dat gemuteerd wordt) in de variabelen staan tellen; een verwijzing in een metaveld-waarde niet.
+    def id_waarden(o):
+        if isinstance(o, dict):
+            for k, v in o.items():
+                if k in ("id", "themeId") and isinstance(v, str): yield v
+                yield from id_waarden(v)
+        elif isinstance(o, list):
+            for x in o: yield from id_waarden(x)
+    mutatie_ids = set(id_waarden(variables or {})) | set(re.findall(r"gid://shopify/[A-Za-z]+/\d+", query))
     for g in live_blok:
-        if g in tekst_json: fouten.append(f"{g} is live (live_niet_aanraken) en wordt nooit aangeraakt")
-    live_in_input = [g for g in live_tekst if g in tekst_json]
+        if g in mutatie_ids: fouten.append(f"{g} is live (live_niet_aanraken) en wordt nooit aangeraakt")
+    live_in_input = [g for g in live_tekst if g in mutatie_ids]
     if live_in_input:
         if env.get("INHUYS_LIVE_TEKST") != "1": fouten.append("live product: alleen met INHUYS_LIVE_TEKST=1 van de eigenaar (titel, tekst, seo, metavelden)")
         elif namen != {"productUpdate"}: fouten.append("live product: alleen productUpdate is toegestaan met INHUYS_LIVE_TEKST=1")
@@ -92,6 +100,7 @@ def main():
         proef = [("live zonder", upd, {"p": {"id": LIVE, "title": "x"}}, True, {}),
                  ("live tekst ok", upd, {"p": {"id": LIVE, "title": "x", "descriptionHtml": "<p>x</p>", "metafields": []}}, False, {"INHUYS_LIVE_TEKST": "1"}),
                  ("live handle", upd, {"p": {"id": LIVE, "handle": "x"}}, True, {"INHUYS_LIVE_TEKST": "1"}),
+                 ("verwijzing ok", upd, {"p": {"id": "gid://shopify/Product/10447099593043", "metafields": [{"namespace": "inhuys", "key": "hoofdproduct", "type": "product_reference", "value": LIVE}]}}, False, {}),
                  ("live menu", 'mutation($id: ID!) { menuUpdate(id: $id, title: "x", items: []) { menu { id } } }', {"id": "gid://shopify/Menu/291696738643"}, True, {}),
                  ("themePublish", 'mutation { themePublish(id: "gid://shopify/OnlineStoreTheme/210233098579") { theme { id } } }', {}, True),
                  ("delete", 'mutation($id: ID!) { productDelete(input: {id: $id}) { deletedProductId } }', {"id": "gid://shopify/Product/1"}, True),
