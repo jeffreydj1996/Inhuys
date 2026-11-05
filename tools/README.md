@@ -4,9 +4,9 @@ Alle scripts draaien vanuit de repo-root met `python3 -I tools/<script>.py`. Tek
 
 | Script | Doet | Gebruik |
 |---|---|---|
-| `md_naar_vars.py` | Productbestand (`content/producten/<handle>.md`) → `data/out/productSet-<handle>.json` + `redirects-<handle>.csv`. Beelden en huidige alt-teksten uit `data/raw` en `data/alt-origineel.json`; `[AANVULLEN]`-waarden gaan niet mee; optievolgorde = volgorde in de variantentabel. | `python3 -I tools/md_naar_vars.py content/producten/x.md` |
+| `md_naar_vars.py` | Productbestand (`content/producten/<handle>.md`) → `data/out/productSet-<handle>.json` + `redirects-<handle>.csv`. Beelden en huidige alt-teksten uit `data/raw` en `data/alt-origineel.json`; `[AANVULLEN]`-waarden gaan niet mee; optievolgorde = volgorde in de variantentabel; rij `hoofdproduct` (handle) wordt metaveld `inhuys.hoofdproduct` (product_reference). | `python3 -I tools/md_naar_vars.py content/producten/x.md` |
 | `check_tekst.py` | Controle op u-vorm, Engels, sjabloonzinnen, plaatshouders, meta-lengtes, verplichte koppen, 7-woord-overlap met oude product- en fabrikantteksten. Exit 1 bij fouten. | `python3 -I tools/check_tekst.py content/producten/*.md` |
-| `guard_shopify.py` | PreToolUse-hook: blokkeert elke Shopify-mutatie buiten concepten en de thema-kopie (zie `.claude/settings.json`). | `python3 -I tools/guard_shopify.py --test` |
+| `guard_shopify.py` | PreToolUse-hook: blokkeert elke Shopify-mutatie buiten concepten en de thema-kopie (zie `.claude/settings.json`); blokkeert `productSet`/`productCreate` voor Orderchamp-merken en alles op `live_niet_aanraken`; met `INHUYS_LIVE_TEKST=1` mag `productUpdate` (alleen titel, tekst, seo, type, tags, categorie, metavelden, collecties) op gids uit `live_tekst` in `data/ids.json`. | `python3 -I tools/guard_shopify.py --test` |
 | `snapshot.py` | Vergelijkt twee momentopnames van live objecten (gemaakt door de lezer met `gql/snapshot.graphql`). Exit 1 bij wijzigingen. | `python3 -I tools/snapshot.py data/snapshots/a.txt data/snapshots/b.txt` |
 | `status.py` | Statusregister `data/status.csv`; `set handle gid=...` werkt ook `data/ids.json` bij. | `python3 -I tools/status.py show` |
 | `gsc_meting.py` | Search Console-meting (28 dagen) → `analyse/gsc/<datum>-*.csv` en `analyse/gsc-rapport-<datum>.md` met delta's. | `python3 -I tools/gsc_meting.py` |

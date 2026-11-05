@@ -68,7 +68,7 @@ def parse(md):
     # specs
     for r in [r for r in sec.get("Specificaties (metavelden `inhuys.*`)", []) if r.startswith("|")][2:]:
         cells = [c.strip() for c in r.strip("|").split("|")]
-        if len(cells) >= 2 and cells[0] in SPEC_KEYS: d["specs"][cells[0]] = cells[1]
+        if len(cells) >= 2 and (cells[0] in SPEC_KEYS or cells[0] == "hoofdproduct"): d["specs"][cells[0]] = cells[1]
     d["advies"] = [ln.strip() for ln in sec.get("Advies van InHuys", []) if ln.strip()]
     q = None
     for ln in sec.get("Veelgestelde vragen", []):
@@ -104,6 +104,11 @@ def build(d, by):
     for k in SPEC_KEYS:
         v = d["specs"].get(k)
         if v and "[AANVULLEN" not in v: mfs.append({"namespace": "inhuys", "key": k, "type": "single_line_text_field", "value": v})
+    hp = d["specs"].get("hoofdproduct")
+    if hp and "[AANVULLEN" not in hp:
+        gid = hp if hp.startswith("gid://") else json.load(open(os.path.join(ROOT, "data", "ids.json"), encoding="utf-8")).get("producten", {}).get(hp, "")
+        if not gid: raise SystemExit(f"hoofdproduct '{hp}' staat niet in data/ids.json (producten)")
+        mfs.append({"namespace": "inhuys", "key": "hoofdproduct", "type": "product_reference", "value": gid})
     mfs.append({"namespace": "inhuys", "key": "advies", "type": "rich_text_field", "value": rt(d["advies"])})
     mfs.append({"namespace": "inhuys", "key": "faq", "type": "rich_text_field", "value": rt([(q, a) for q, a in d["faq"]])})
     inp = {"title": d["title"], "handle": d["handle"], "status": "DRAFT", "vendor": d["vendor"], "productType": d["ptype"], "tags": d["tags"], "category": d["category"],

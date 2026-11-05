@@ -80,3 +80,22 @@ Per model dus ruwweg 300.000 tokens, waarvan circa een derde op Opus; per batch 
 - Alle concepten `resourcePublicationsCount` 0; geen redirect, geen publicatie, geen prijswijziging op live producten.
 - `analyse/redirects.csv` dekt elk oud product dat in een model is opgegaan.
 - Twee metingen (9 en 23 november) vastgelegd in `analyse/gsc/`.
+
+
+## Herziening 5 november 2026 · op voorraad en via Orderchamp
+
+De dropship-koppeling loopt via Orderchamp (`analyse/10-orderchamp-koppeling.md`). Alle beschikbare Orderchamp-producten staan als concept in de winkel; alleen producten met voorraad krijgen aandacht. Beslissingen van de eigenaar: per model één hoofdproduct met de volledige tekst en korte eigen teksten voor andere kleuren of opstellingen; live producten met voorraad worden met zijn akkoord bijgewerkt (titel, tekst, SEO, metavelden; handle pas bij go-live; `INHUYS_LIVE_TEKST=1`); nieuwe volgorde:
+
+| Batch | Inhoud | Modellen |
+|---|---|---|
+| 2b | Bestaande teksten op concepten met voorraad | Cairo beige (proef), Craft groot, Ellipse, Urban Chique (2), New York (hoofd + 3 kort), Londen (hoofd + 5 kort), Amsterdam 4-zits latte, Scandi okura en umber (kort) |
+| 2c | Live producten met voorraad | Luna (karamel hoofd, crème/goud kort), Cloud (crème hoofd, karamel en beige kort), Whale coco, barkrukken Cloud (keukenbarkruk crème hoofd, 2 kort), Scandi tan |
+| 3 | Japandi-collectie | Japandi stoel, Sake, Osaka, Fuji, Japandi en Japanda barkrukken |
+| 4 | Stoelen | Avena, Mera, Nox, High Five, Wave |
+| 5 | Stoelen | Tusk brandvertragend, Rainbow, Schommelstoel en Rockstoel, Storm, Pebble |
+| 6 | Stoelen en fauteuils | EDO, Oorfauteuil en Vleugelstoel, Eierstoel, Walvisstoel retro, Fjord |
+| 7 | Decoratie | vazen, bowl Babi, lantaarns, schelptorens, kettingen en octo (families van 5) |
+| 8 | Jupiduu | concepten met voorraad, daarna de live producten |
+| later | Zonder voorraad | Breeze, Boog, Panda fauteuil en stoel, Mars, Kathmandu, Sycomore, Craft klein, Cairo zand boucle |
+
+Raming: overzetting 350.000 tokens, live producten 150.000, nieuwe teksten 30 modellen à 95.000. Grotere uitgaven vragen apart akkoord.

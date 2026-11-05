@@ -2,12 +2,12 @@
 
 Handle: `/products/fauteuil-cairo` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Fauteuils
 
-Tags: fauteuil, loungestoel, beige, zand, boucle, pole-to-pole  
+Tags: fauteuil, loungestoel, beige, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-7-1-1  
 Collecties: gid://shopify/Collection/704710574419
 
-Meta-titel (59): Cairo fauteuil · royale loungestoel, beige of zand · InHuys  
-Meta-description (151): Royale Cairo loungestoel op een frame van multiplex en beukenhout. 117 cm breed, voor een ruime zithoek. In beige of in zand boucle, per stuk geleverd.
+Meta-titel (52): Cairo fauteuil · royale loungestoel in beige · InHuys  
+Meta-description (151): Royale Cairo loungestoel op een frame van multiplex en beukenhout. 117 cm breed, voor een ruime zithoek. In beige, per stuk geleverd.
 
 **Zin onder de titel:** De royale loungestoel voor een ruime woonkamer, als volwaardige tegenhanger van de bank.
 
@@ -16,7 +16,6 @@ Meta-description (151): Royale Cairo loungestoel op een frame van multiplex en b
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
 | Beige | € 1480,00 | 871917285905 | `cairo-loungestoel-beige` |
-| Zand boucle | € 1480,00 | 871917285902 | `cairo-loungestoel-sand-boucle` |
 
 ## Beschrijving
 
@@ -24,10 +23,10 @@ Meta-description (151): Royale Cairo loungestoel op een frame van multiplex en b
 De Cairo is de royale loungestoel van de collectie, bedoeld voor een woonkamer waar ruimte is om groot te zitten. Op 117 cm breedte zit je er ruim in, ook met opgetrokken benen of een plaid over je knieën. Met zijn 70 cm hoogte blijft de stoel laag, zodat hij de kamer niet afsluit als je hem met de rug naar de eettafel zet. Houd bij het plannen van de looproute rekening met 103 cm diepte, zodat je achter de stoel nog vrij langs kunt. Omdat hij breed en laag is, werkt de Cairo het best als tegenhanger van een grote bank: zo blijft de zithoek in balans en krijgt elke zitplek hetzelfde gewicht. Zet hem schuin tegenover de bank, met een salontafel ertussen, dan ontstaat vanzelf een plek om te praten.
 
 ### Materiaal en maakwijze
-Het frame is opgebouwd uit multiplex en beukenhout, een combinatie die een stoel van dit formaat een stevige basis geeft. In de zitting zit schuim met een dichtheid van 38 kg/m³, een opgave waarmee je de Cairo kunt vergelijken met andere loungestoelen. Je kiest uit twee uitvoeringen. Beige is een warme, lichte tint die rustig wegvalt tegen hout en lichte muren. Bij zand boucle is de stoel bekleed met boucle in een zandkleurige tint; die stof met kleine lusjes vangt het licht en voelt zacht aan. De loungestoel wordt per stuk geleverd, zodat je zelf kiest of je er één neerzet of twee tegenover elkaar.
+Het frame is opgebouwd uit multiplex en beukenhout, een combinatie die een stoel van dit formaat een stevige basis geeft. In de zitting zit schuim met een dichtheid van 38 kg/m³, een opgave waarmee je de Cairo kunt vergelijken met andere loungestoelen. Je kiest uit twee uitvoeringen. Beige is een warme, lichte tint die rustig wegvalt tegen hout en lichte muren. De loungestoel wordt per stuk geleverd, zodat je zelf kiest of je er één neerzet of twee tegenover elkaar.
 
 ### Combineren
-Bank Cairo komt uit dezelfde serie, en met de loungestoel ernaast krijgt de zithoek één lijn in vorm. Bij Bank New York in zand boucle kies je de Cairo in dezelfde uitvoering, zodat bank en stoel samen als één geheel lezen. Wil je juist contrast, zet dan de beige Cairo naast die bank op een donkere eiken vloer. Een Agano-vaas op een houten salontafel tussen bank en stoel maakt de zithoek af.
+Bank Cairo komt uit dezelfde serie, en met de loungestoel ernaast krijgt de zithoek één lijn in vorm. Naast Bank New York in beige houd je de zithoek licht; kies de bank in coco als je contrast wilt tussen stoel en bank. Wil je juist contrast, zet dan de beige Cairo naast die bank op een donkere eiken vloer. Een Agano-vaas op een houten salontafel tussen bank en stoel maakt de zithoek af.
 
 ## Specificaties (metavelden `inhuys.*`)
 
@@ -38,8 +37,8 @@ Bank Cairo komt uit dezelfde serie, en met de loungestoel ernaast krijgt de zith
 | zitdiepte | 69 cm |
 | gewicht | 38 kg |
 | materiaal_frame | Multiplex en beukenhout |
-| materiaal_bekleding | Stof met schuimvulling (38 kg/m³); beige 96% polyester en 4% acryl, zand boucle in bouclé |
-| afwerking | Beige of zand boucle |
+| materiaal_bekleding | Stof met schuimvulling (38 kg/m³); 96% polyester en 4% acryl |
+| afwerking | Beige |
 | set_inhoud | 1 loungestoel |
 | onderhoud | Afnemen met een licht vochtige doek; geen agressieve schoonmaakmiddelen; de stof niet doorweken |
 | herkomst | Pole To Pole, Rotterdam |
@@ -48,15 +47,12 @@ Bank Cairo komt uit dezelfde serie, en met de loungestoel ernaast krijgt de zith
 
 ## Advies van InHuys
 
-Ik raad de Cairo aan als de woonkamer ruim is en je een stoel wilt die net zo uitnodigend is als de bank. In een kleine kamer of een leeshoek neemt hij te veel vloer; daar kies ik eerder de Panda-fauteuil. Twijfel je tussen de twee uitvoeringen, dan kies ik zand boucle als je van structuur houdt en beige als de bank al veel textuur heeft.
+Ik raad de Cairo aan als de woonkamer ruim is en je een stoel wilt die net zo uitnodigend is als de bank. In een kleine kamer of een leeshoek neemt hij te veel vloer; daar kies ik eerder de Panda-fauteuil. Heeft de bank al veel textuur, dan is het gladde beige van de Cairo juist de rust die de zithoek nodig heeft.
 
 ## Veelgestelde vragen
 
 **Hoe groot is de Cairo loungestoel?**  
 De stoel is 117 cm breed, 103 cm diep en 70 cm hoog. Reken op een vrije plek van 130 bij 120 cm, plus ruimte om erlangs te lopen.
-
-**Wat is boucle?**  
-Een stof met kleine lusjes in het garen, waardoor het oppervlak structuur krijgt en zacht aanvoelt. De Cairo in zand boucle is daarmee bekleed.
 
 **Past de Cairo bij een bank uit dezelfde serie?**  
 Ja, Bank Cairo hoort bij dezelfde serie. Samen geven ze de zithoek één vormtaal.
@@ -73,7 +69,7 @@ De 6 beelden per kleur (12 in totaal, 800 px breed) worden overgenomen van de be
 
 ## Opmerking
 
-Afmetingen, zithoogte, zitdiepte, gewicht, het frame van multiplex en beukenhout, de schuimdichtheid, de stofsamenstelling van beige en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285905, geopend op 4 november 2026). De zand-boucle-uitvoering (SKU 871917285902) staat niet meer op die site; Giga Meubel bevestigt voor die kleur dezelfde afmetingen, het beukenhouten frame, de schuimvulling en de bouclé-bekleding. De stofsamenstelling van bouclé is niet gevonden. Giga Meubel noemt een zithoogte van 45 cm, een zitdiepte van 67 cm en 40 kg; die dealerwaarden wijken af van de fabrikant (het gewicht is vermoedelijk met verpakking) en zijn niet overgenomen. Volgens Pole To Pole is de stoel niet brandvertragend en komt hij uit China. Dealers noemen € 1.190,00 (homka-living.de) en € 1.139,55 (stil-ambiente.de); de prijs van € 1.480,00 is ongewijzigd uit de bronproducten overgenomen.
+Afmetingen, zithoogte, zitdiepte, gewicht, het frame van multiplex en beukenhout, de schuimdichtheid, de stofsamenstelling van beige en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285905, geopend op 4 november 2026). De uitvoering in zand boucle (SKU 871917285902, bronproduct `cairo-loungestoel-sand-boucle`) heeft geen voorraad bij Orderchamp en staat daarom niet in deze tekst; Giga Meubel bevestigt voor die kleur dezelfde afmetingen, het beukenhouten frame, de schuimvulling en de bouclé-bekleding. Dit product is het door Orderchamp geïmporteerde concept `cairo-loungestoel-beige` (gid in `data/ids.json`); varianten, voorraad en beelden blijven van Orderchamp. De stofsamenstelling van bouclé is niet gevonden. Giga Meubel noemt een zithoogte van 45 cm, een zitdiepte van 67 cm en 40 kg; die dealerwaarden wijken af van de fabrikant (het gewicht is vermoedelijk met verpakking) en zijn niet overgenomen. Volgens Pole To Pole is de stoel niet brandvertragend en komt hij uit China. Dealers noemen € 1.190,00 (homka-living.de) en € 1.139,55 (stil-ambiente.de); de prijs van € 1.480,00 is ongewijzigd uit de bronproducten overgenomen.
 
 ## Aan te vullen door de eigenaar
 

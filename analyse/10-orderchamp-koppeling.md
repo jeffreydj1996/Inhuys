@@ -39,3 +39,25 @@ Importeert Orderchamp een model per kleur, dan is één product met kleurvariant
 | eetkamerstoel-luna-set-van-2, eetkamerstoel-cloud-set-van-2, eetkamerstoel-breeze-set-van-2, eetkamerstoel-whale-set-van-2, eetkamerstoel-boog-set-van-2, eetkamerstoel-scandi-set-van-2, barkruk-cloud, bank-amsterdam, bank-londen, bank-new-york | Pole To Pole | Batches van 5 na de proef |
 | boekensteun-mangohout | Kluster | Blijft eigen concept (geen Orderchamp) |
 | vaas-agano-travertijn, waxinelichthouder-marmer | MOOISA | Blijven eigen concept (geen Orderchamp); voorraad en afhandeling door de eigenaar |
+
+
+## Stand 5 november: voorraad en teksten
+
+Alle beschikbare Orderchamp-producten staan als concept in de winkel. 105 conceptvarianten en 28 live varianten hebben voorraad (allemaal bij Orderchamp). Beslissingen van de eigenaar: hoofdproduct met volledige tekst plus korte varianten per kleur of opstelling; live producten bijwerken met `INHUYS_LIVE_TEKST=1` (handle pas bij go-live); nieuwe batchvolgorde op voorraad in `plannen/fase-3.md` (herziening 5 november). Koppeling van de bestaande teksten:
+
+| Tekst | Orderchamp-producten met voorraad |
+|---|---|
+| fauteuil-cairo | cairo-loungestoel-beige (zand boucle 0) |
+| salontafel-craft | craft-salontafel-groot-keramiek-travertijn (klein 0) |
+| eettafel-ellipse, eettafel-urban-chique, ronde-eettafel-urban-chique | elk één concept |
+| bank-new-york | 2,5-zits en 4-zits lounge rechts, beige en coco (4 concepten) |
+| bank-londen | 3-zits umber; 3-zits ottoman tan en umber; 6-zits tan en umber; 6-zits ottoman tan (6 concepten) |
+| bank-amsterdam | bank-amsterdam-4-zits-latte |
+| eetkamerstoel-scandi-set-van-2 | live tan; concepten okura en umber |
+| eetkamerstoel-luna-set-van-2 | live karamel; live crème (variant goud) |
+| eetkamerstoel-cloud-set-van-2 | live crème, karamel, beige |
+| eetkamerstoel-whale-set-van-2 | live coco |
+| barkruk-cloud | live keukenbarkruk crème en karamel, barkruk karamel |
+| zonder voorraad | Breeze, Boog, Panda (2), Mars, Kathmandu, Sycomore |
+
+Uitlezing van deze producten: `data/orderchamp/<handle>.json` en `data/orderchamp/overzicht-2026-11-05.csv` (lezer).
