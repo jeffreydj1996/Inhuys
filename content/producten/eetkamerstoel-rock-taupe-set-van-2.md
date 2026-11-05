@@ -1,13 +1,13 @@
-# Rock schommelstoel · taupe, set van 2
+# Rock eetkamerstoel · taupe, set van 2
 
-Handle: `/products/schommelstoel-rock-taupe-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
+Handle: `/products/eetkamerstoel-rock-taupe-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
-Tags: schommelstoel, set van 2, met armleuning, staal, taupe, pole-to-pole  
-Categorie: gid://shopify/TaxonomyCategory/fr-7-10  
+Tags: eetkamerstoel, set van 2, met armleuning, staal, taupe, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
 Collecties: gid://shopify/Collection/704710541651
 
-Meta-titel (47): Rock schommelstoel in taupe · set van 2 · InHuys  
-Meta-description (144): Rock schommelstoel in taupe, set van 2, met armleuningen en een frame van gepoedercoat staal. Een rustige grijsbruine tint voor aan de eettafel.
+Meta-titel (47): Rock eetkamerstoel in taupe · set van 2 · InHuys  
+Meta-description (144): Rock eetkamerstoel in taupe, set van 2, met armleuningen en een frame van gepoedercoat staal. Een rustige grijsbruine tint voor aan de eettafel.
 
 **Zin onder de titel:** De Rock met armleuningen in rustig taupe, voor een eethoek die tussen licht en donker in staat.
 
@@ -15,7 +15,7 @@ Meta-description (144): Rock schommelstoel in taupe, set van 2, met armleuningen
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Taupe | € 479,80 | 871917285451 | `schommelstoel-taupe-set-van-2` |
+| Taupe | € 479,80 | 871917285451 | `eetkamerstoel-taupe-set-van-2` |
 
 ## Beschrijving
 
@@ -26,7 +26,7 @@ In taupe krijgt de eethoek een grijsbruine toon die tussen warm en koel in staat
 Je zit op een frame van gepoedercoat Q195-staal, multiplex en metaal, dat tot 120 kg per stoel draagt. Een vlek op de taupe stof van 96% polyester en 4% acryl neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. Wil je de Rock naast andere gestoffeerde stoelen leggen, kijk dan naar het schuim, met een dichtheid van 25 kg/m³. Beide stoelen zet je na levering zelf in elkaar.
 
 ### Combineren
-Aan de Ellipse-tafel met blad in marmerlook houdt taupe de eethoek licht en koel van toon. Staat de beige New York-bank in dezelfde open ruimte, dan laat de zachte kleurfamilie eethoek en zithoek in elkaar overlopen zonder dat ze gelijk worden. Alle uitvoeringen en het volledige advies vind je bij [Rock schommelstoel in beige, set van 2](/products/schommelstoel-rock-set-van-2).
+Aan de Ellipse-tafel met blad in marmerlook houdt taupe de eethoek licht en koel van toon. Staat de beige New York-bank in dezelfde open ruimte, dan laat de zachte kleurfamilie eethoek en zithoek in elkaar overlopen zonder dat ze gelijk worden. Alle uitvoeringen en het volledige advies vind je bij [Rock eetkamerstoel in beige, set van 2](/products/eetkamerstoel-rock-set-van-2).
 
 ## Specificaties (metavelden `inhuys.*`)
 
@@ -44,7 +44,7 @@ Aan de Ellipse-tafel met blad in marmerlook houdt taupe de eethoek licht en koel
 | herkomst | Pole To Pole |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
-| hoofdproduct | schommelstoel-rock-set-van-2 |
+| hoofdproduct | eetkamerstoel-rock-set-van-2 |
 
 ## Advies van InHuys
 
@@ -63,7 +63,7 @@ Ja, de prijs geldt per set van twee stoelen, en je monteert ze zelf.
 
 ## Beelden
 
-De 6 beelden in taupe (1200 px breed) komen van het Orderchamp-product `schommelstoel-taupe-set-van-2`; hun alt-teksten blijven gedeeld en ongewijzigd.
+De 6 beelden in taupe (1200 px breed) komen van het Orderchamp-product `eetkamerstoel-taupe-set-van-2`; hun alt-teksten blijven gedeeld en ongewijzigd.
 
 ## Opmerking
 

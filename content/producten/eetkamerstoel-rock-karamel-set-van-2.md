@@ -1,13 +1,13 @@
-# Rock schommelstoel · karamel, set van 2
+# Rock eetkamerstoel · karamel, set van 2
 
-Handle: `/products/schommelstoel-rock-karamel-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
+Handle: `/products/eetkamerstoel-rock-karamel-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
-Tags: schommelstoel, set van 2, met armleuning, staal, karamel, pole-to-pole  
-Categorie: gid://shopify/TaxonomyCategory/fr-7-10  
+Tags: eetkamerstoel, set van 2, met armleuning, staal, karamel, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
 Collecties: gid://shopify/Collection/704710541651
 
-Meta-titel (50): Rock schommelstoel in karamel · set van 2 · InHuys  
-Meta-description (146): Rock schommelstoel in karamel, set van 2, met armleuningen en een frame van gepoedercoat staal. Een warme bruine tint in stof van 100% polyester.
+Meta-titel (50): Rock eetkamerstoel in karamel · set van 2 · InHuys  
+Meta-description (146): Rock eetkamerstoel in karamel, set van 2, met armleuningen en een frame van gepoedercoat staal. Een warme bruine tint in stof van 100% polyester.
 
 **Zin onder de titel:** De Rock met armleuningen in warm karamel, voor een eethoek die kleur mag hebben.
 
@@ -26,7 +26,7 @@ In karamel brengt de Rock een warme bruine toon aan tafel, die vooral uitkomt bi
 Je zit op een frame van gepoedercoat Q195-staal, multiplex en metaal, dat tot 120 kg per stoel draagt. De karamel uitvoering heeft een eigen stof van 100% polyester, en een vlek daarop neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. Wil je de Rock naast andere gestoffeerde stoelen leggen, kijk dan naar het schuim, met een dichtheid van 25 kg/m³. Beide stoelen zet je na levering zelf in elkaar.
 
 ### Combineren
-Karamel bij een eiken tafel op een lichte vloer geeft een eethoek in één warme kleurfamilie; aan de Urban Chique-tafel brengt het bruin juist warmte tegen het koele blad in marmerlook. Aan het keukeneiland sluit de Cloud keukenbarkruk in karamel aan, zodat keuken en eetkamer dezelfde kleur delen. Alle uitvoeringen en het volledige advies vind je bij [Rock schommelstoel in beige, set van 2](/products/schommelstoel-rock-set-van-2).
+Karamel bij een eiken tafel op een lichte vloer geeft een eethoek in één warme kleurfamilie; aan de Urban Chique-tafel brengt het bruin juist warmte tegen het koele blad in marmerlook. Aan het keukeneiland sluit de Cloud keukenbarkruk in karamel aan, zodat keuken en eetkamer dezelfde kleur delen. Alle uitvoeringen en het volledige advies vind je bij [Rock eetkamerstoel in beige, set van 2](/products/eetkamerstoel-rock-set-van-2).
 
 ## Specificaties (metavelden `inhuys.*`)
 
@@ -44,7 +44,7 @@ Karamel bij een eiken tafel op een lichte vloer geeft een eethoek in één warme
 | herkomst | Pole To Pole |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
-| hoofdproduct | schommelstoel-rock-set-van-2 |
+| hoofdproduct | eetkamerstoel-rock-set-van-2 |
 
 ## Advies van InHuys
 
@@ -67,7 +67,7 @@ De 8 beelden in karamel (1200 px breed) komen van het Orderchamp-product `rockst
 
 ## Opmerking
 
-Afmetingen, zithoogte, zitdiepte, armleuninghoogte, gewicht, de maximale belasting van 120 kg, het frame, de stofsamenstelling, de schuimdichtheid en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, "Rock Chair Caramel", SKU 871974353087, geopend op 5 november 2026). Het bronproduct heet "Rockstoel karamel", de andere kleuren "Schommelstoel"; volgens de fabrikant is het hetzelfde model, alleen de stof van karamel (100% polyester) wijkt af van die van bruin, taupe en beige (96% polyester en 4% acryl). Het woord "schommel" of "rocking" staat niet op de fabrikantpagina's, dus de tekst beschrijft geen schommelfunctie. De fabrikant vermeldt een doosinhoud van 2 zonder eenheid; dat dit 2 stoelen per set zijn, komt uit het bronproduct en is te verifiëren. Volgens Pole To Pole komt de stoel uit China, is hij niet brandvertragend en niet stapelbaar. De prijs van € 479,80 per set is ongewijzigd uit het bronproduct overgenomen. Varianten, SKU's, prijzen, voorraad en beelden blijven van Orderchamp.
+Afmetingen, zithoogte, zitdiepte, armleuninghoogte, gewicht, de maximale belasting van 120 kg, het frame, de stofsamenstelling, de schuimdichtheid en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, "Rock Chair Caramel", SKU 871974353087, geopend op 5 november 2026). Het bronproduct heet "Rockstoel karamel", de andere kleuren "Eetkamerstoel"; volgens de fabrikant is het hetzelfde model, alleen de stof van karamel (100% polyester) wijkt af van die van bruin, taupe en beige (96% polyester en 4% acryl). Het woord "schommel" of "rocking" staat niet op de fabrikantpagina's, dus de tekst beschrijft geen schommelfunctie. De fabrikant vermeldt een doosinhoud van 2 zonder eenheid; dat dit 2 stoelen per set zijn, komt uit het bronproduct en is te verifiëren. Volgens Pole To Pole komt de stoel uit China, is hij niet brandvertragend en niet stapelbaar. De prijs van € 479,80 per set is ongewijzigd uit het bronproduct overgenomen. Varianten, SKU's, prijzen, voorraad en beelden blijven van Orderchamp.
 
 ## Aan te vullen door de eigenaar
 

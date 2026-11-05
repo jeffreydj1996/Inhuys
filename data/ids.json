@@ -94,10 +94,6 @@
     "eetkamerstoel-rainbow-set-van-2": "gid://shopify/Product/10447090549075",
     "eetkamerstoel-rainbow-taupe-set-van-2": "gid://shopify/Product/10447090876755",
     "eetkamerstoel-rainbow-coco-set-van-2": "gid://shopify/Product/10447090975059",
-    "schommelstoel-rock-set-van-2": "gid://shopify/Product/10447100510547",
-    "schommelstoel-rock-bruin-set-van-2": "gid://shopify/Product/10447089434963",
-    "schommelstoel-rock-taupe-set-van-2": "gid://shopify/Product/10447089467731",
-    "schommelstoel-rock-karamel-set-van-2": "gid://shopify/Product/10447098511699",
     "draaistoel-storm": "gid://shopify/Product/10447090286931",
     "draaistoel-storm-bruin": "gid://shopify/Product/10447090352467",
     "draaistoel-storm-coco": "gid://shopify/Product/10447090516307",
@@ -109,7 +105,11 @@
     "eetkamerstoel-wing-zwart-set-van-2": "gid://shopify/Product/10447091990867",
     "eetkamerstoel-egg-set-van-2": "gid://shopify/Product/10447099003219",
     "eetkamerstoel-whale-retro-set-van-2": "gid://shopify/Product/10447098642771",
-    "eetkamerstoel-fjord-set-van-2": "gid://shopify/Product/10447091663187"
+    "eetkamerstoel-fjord-set-van-2": "gid://shopify/Product/10447091663187",
+    "eetkamerstoel-rock-set-van-2": "gid://shopify/Product/10447100510547",
+    "eetkamerstoel-rock-bruin-set-van-2": "gid://shopify/Product/10447089434963",
+    "eetkamerstoel-rock-taupe-set-van-2": "gid://shopify/Product/10447089467731",
+    "eetkamerstoel-rock-karamel-set-van-2": "gid://shopify/Product/10447098511699"
   },
   "artikelen": {
     "boucle-onderhouden-zo-blijft-je-bank-mooi": "gid://shopify/Article/617286107475",
@@ -204,10 +204,6 @@
     "eetkamerstoel-rainbow-set-van-2": "rainbow-stoel-zandwit-set-van-2",
     "eetkamerstoel-rainbow-taupe-set-van-2": "rainbow-stoel-taupe-set-van-2",
     "eetkamerstoel-rainbow-coco-set-van-2": "regenboogstoel-coco-set-van-2",
-    "schommelstoel-rock-set-van-2": "schommelstoel-beige-set-van-2",
-    "schommelstoel-rock-bruin-set-van-2": "schommelstoel-bruin-set-van-2",
-    "schommelstoel-rock-taupe-set-van-2": "schommelstoel-taupe-set-van-2",
-    "schommelstoel-rock-karamel-set-van-2": "rockstoel-karamel-set-van-2",
     "draaistoel-storm": "storm-draaistoel-beige",
     "draaistoel-storm-bruin": "storm-draaistoel-bruin",
     "draaistoel-storm-coco": "stormstoel-coco",
@@ -219,6 +215,10 @@
     "eetkamerstoel-wing-zwart-set-van-2": "vleugelstoel-zwart-set-van-2",
     "eetkamerstoel-egg-set-van-2": "eierstoel-goud-set-van-2",
     "eetkamerstoel-whale-retro-set-van-2": "walvisstoel-retro-set-van-2",
-    "eetkamerstoel-fjord-set-van-2": "fjord-stoel-taupe-set-van-2"
+    "eetkamerstoel-fjord-set-van-2": "fjord-stoel-taupe-set-van-2",
+    "eetkamerstoel-rock-set-van-2": "schommelstoel-beige-set-van-2",
+    "eetkamerstoel-rock-bruin-set-van-2": "schommelstoel-bruin-set-van-2",
+    "eetkamerstoel-rock-taupe-set-van-2": "schommelstoel-taupe-set-van-2",
+    "eetkamerstoel-rock-karamel-set-van-2": "rockstoel-karamel-set-van-2"
   }
 }

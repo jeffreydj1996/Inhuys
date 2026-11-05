@@ -1,13 +1,13 @@
-# Rock schommelstoel in beige, set van 2
+# Rock eetkamerstoel in beige, set van 2
 
-Handle: `/products/schommelstoel-rock-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
+Handle: `/products/eetkamerstoel-rock-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
-Tags: schommelstoel, set van 2, armleuning, staal, beige, pole-to-pole  
-Categorie: gid://shopify/TaxonomyCategory/fr-7-10  
+Tags: eetkamerstoel, set van 2, armleuning, staal, beige, pole-to-pole  
+Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
 Collecties: gid://shopify/Collection/704710541651
 
-Meta-titel (48): Rock schommelstoel in beige · set van 2 · InHuys  
-Meta-description (143): Rock schommelstoel in beige, set van 2: een gestoffeerde stoel met brede armleuningen op gepoedercoat staal, voor aan tafel of in een leeshoek.
+Meta-titel (48): Rock eetkamerstoel in beige · set van 2 · InHuys  
+Meta-description (143): Rock eetkamerstoel in beige, set van 2: een gestoffeerde stoel met brede armleuningen op gepoedercoat staal, voor aan tafel of in een leeshoek.
 
 **Zin onder de titel:** Een gestoffeerde stoel met brede armleuningen in zacht beige, voor aan tafel of in een rustige leeshoek.
 
@@ -15,7 +15,7 @@ Meta-description (143): Rock schommelstoel in beige, set van 2: een gestoffeerde
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Beige | € 479,80 | 871917285353 | `schommelstoel-beige-set-van-2` |
+| Beige | € 479,80 | 871917285353 | `eetkamerstoel-beige-set-van-2` |
 
 ## Beschrijving
 
@@ -25,7 +25,7 @@ De Rock is een stoel met brede armleuningen en een gestoffeerde rug, die net zo 
 ### Materiaal en maakwijze
 De armleuningen zijn met hun 7,5 cm breedte ruim genoeg om je onderarmen op te laten rusten, en dat merk je als je na het eten nog een kop koffie drinkt. De beige stof is een mengsel van 96% polyester en 4% acryl, dat je bijhoudt door een vlek af te nemen met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. Onder de stof zit schuim met een dichtheid van 25 kg/m³, een opgave waarmee je de Rock naast andere gestoffeerde stoelen kunt leggen. In het frame werken gepoedercoat Q195-staal, metaal en multiplex samen, en elke stoel draagt tot 120 kg. Met 8,8 kg per stoel staat de Rock stevig op zijn plek en til je hem toch nog zelf op als je wilt verschuiven. De stoelen worden per set van twee geleverd en je zet ze zelf in elkaar.
 
-Wil je meer kleur, dan staat dezelfde stoel als eigen product in [Rock in bruin](/products/schommelstoel-rock-bruin-set-van-2), [Rock in taupe](/products/schommelstoel-rock-taupe-set-van-2) en [Rock in karamel](/products/schommelstoel-rock-karamel-set-van-2).
+Wil je meer kleur, dan staat dezelfde stoel als eigen product in [Rock in bruin](/products/eetkamerstoel-rock-bruin-set-van-2), [Rock in taupe](/products/eetkamerstoel-rock-taupe-set-van-2) en [Rock in karamel](/products/eetkamerstoel-rock-karamel-set-van-2).
 
 ### Combineren
 Zet twee Rock-stoelen schuin tegenover een Amsterdam-bank met een Craft salontafel in travertijnlook ertussen, dan krijgt de zithoek één warme, lichte toon en een tweede plek om te praten. Rond de ovale Ellipse kun je de Rock aan de kopse kanten zetten en langs de lange zijden slankere Luna-stoelen gebruiken, zodat de uiteinden van de tafel meer gewicht krijgen. Een Agano-vaas van travertijn op de salontafel of op de vensterbank verbindt het beige van de stof met de steen in de ruimte. Op een eiken vloer in een middentint of op een licht linnen vloerkleed blijft beige rustig; tegen een terracotta of donkergroene wand krijgt de stoel juist meer diepte.
@@ -71,7 +71,7 @@ De beelden in beige horen bij het Orderchamp-concept en blijven van Orderchamp (
 
 ## Opmerking
 
-Afmetingen, zithoogte, zitdiepte, zitbreedte, zitdikte, armleuninghoogte en -breedte, rugleuninghoogte, gewicht, de maximale belasting van 120 kg, de materialen (gepoedercoat Q195-staal, metaal, multiplex, schuim 25 kg/m³), de stofsamenstelling en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285353, geopend op 5 november 2026). Pole To Pole noemt het model "Rock chair"; de woorden "schommel" en "rocking" staan niet op de fabrikantpagina's, en de schommelbasis of schommelfunctie wordt er niet beschreven. Daarom gebruikt de tekst "schommelstoel" alleen als naam (uit de eigen export) en beschrijft hij geen beweging; de eigenaar controleert op de beelden of de stoel schommelt, en of categorie fr-7-10 klopt. Welk onderdeel van multiplex of metaal is, vermeldt de fabrikant niet. De fabrikant noemt een doosinhoud van 2 zonder eenheid; dat de set 2 stoelen bevat, komt uit de eigen export (te verifiëren). Volgens Pole To Pole komt de stoel uit China, is hij niet brandvertragend, niet stapelbaar en niet in hoogte verstelbaar; een label "Discontinued" staat er niet. De doos meet 73 × 55,5 × 62 cm en weegt 20,3 kg. Karamel (bronproduct `rockstoel-karamel-set-van-2`, SKU 871974353087) is volgens de fabrikant hetzelfde model, met stof van 100% polyester; crème (`rock-stoelcreme-set-van-2`, SKU 871974353085) is niet onderzocht. Dit product is het Orderchamp-concept `schommelstoel-beige-set-van-2`; varianten, voorraad en beelden blijven van Orderchamp. De prijs van € 479,80 is ongewijzigd uit het bronproduct overgenomen.
+Afmetingen, zithoogte, zitdiepte, zitbreedte, zitdikte, armleuninghoogte en -breedte, rugleuninghoogte, gewicht, de maximale belasting van 120 kg, de materialen (gepoedercoat Q195-staal, metaal, multiplex, schuim 25 kg/m³), de stofsamenstelling en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285353, geopend op 5 november 2026). Pole To Pole noemt het model "Rock chair"; de woorden "schommel" en "rocking" staan niet op de fabrikantpagina's, en de schommelbasis of schommelfunctie wordt er niet beschreven. Daarom gebruikt de tekst "eetkamerstoel" alleen als naam (uit de eigen export) en beschrijft hij geen beweging; de eigenaar controleert op de beelden of de stoel schommelt, en of categorie fr-7-10 klopt. Welk onderdeel van multiplex of metaal is, vermeldt de fabrikant niet. De fabrikant noemt een doosinhoud van 2 zonder eenheid; dat de set 2 stoelen bevat, komt uit de eigen export (te verifiëren). Volgens Pole To Pole komt de stoel uit China, is hij niet brandvertragend, niet stapelbaar en niet in hoogte verstelbaar; een label "Discontinued" staat er niet. De doos meet 73 × 55,5 × 62 cm en weegt 20,3 kg. Karamel (bronproduct `rockstoel-karamel-set-van-2`, SKU 871974353087) is volgens de fabrikant hetzelfde model, met stof van 100% polyester; crème (`rock-stoelcreme-set-van-2`, SKU 871974353085) is niet onderzocht. Dit product is het Orderchamp-concept `eetkamerstoel-beige-set-van-2`; varianten, voorraad en beelden blijven van Orderchamp. De prijs van € 479,80 is ongewijzigd uit het bronproduct overgenomen.
 
 ## Aan te vullen door de eigenaar
 
