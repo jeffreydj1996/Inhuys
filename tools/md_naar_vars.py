@@ -79,7 +79,9 @@ def parse(md):
 
 def build(d, by):
     base = d["title"].split(" (")[0]
-    html = "".join(f"<h3>{k}</h3><p>{v}</p>" for k, v in d["beschrijving"])
+    # Markdown-links [tekst](/products/handle) worden <a href>; alles anders blijft letterlijk.
+    link = lambda t: re.sub(r"\[([^\]]+)\]\((/[^)\s]+)\)", r'<a href="\2">\1</a>', t)
+    html = "".join(f"<h3>{k}</h3><p>{link(v)}</p>" for k, v in d["beschrijving"])
     files, seen, alts = [], set(), {}
     for (ov, price, sku, srch) in d["variants"]:
         if srch in seen: continue
