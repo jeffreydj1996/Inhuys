@@ -99,3 +99,18 @@ De dropship-koppeling loopt via Orderchamp (`analyse/10-orderchamp-koppeling.md`
 | later | Zonder voorraad | Breeze, Boog, Panda fauteuil en stoel, Mars, Kathmandu, Sycomore, Craft klein, Cairo zand boucle |
 
 Raming: overzetting 350.000 tokens, live producten 150.000, nieuwe teksten 30 modellen à 95.000. Grotere uitgaven vragen apart akkoord.
+
+### Voortgang (bijgewerkt 5 november 2026, einde van de dag)
+
+| Batch | Stand | Producten op Orderchamp-concept |
+|---|---|---|
+| 2b | klaar | 20 (Cairo, Craft, drie tafels, New York 4, Londen 6, Amsterdam, Scandi okura en umber) |
+| 2c | teksten klaar, overzetting wacht op `INHUYS_LIVE_TEKST=1` | 0 van 10 live producten |
+| 3 | klaar | 12 |
+| 4 | klaar | 11 |
+| 5 | klaar, byte-voor-byte geverifieerd | 16 (Rock heet nu eetkamerstoel: fabrikantnaam "Rock chair", geen schommelfunctie) |
+| 6 | klaar | 7 |
+| 7 | feiten en uitlezing klaar, teksten na tussenrapport | 0 |
+| 8 | niet gestart | 0 |
+
+Samen 66 Orderchamp-concepten met eigen inhoud. Kosten: `data/kosten-fase3-2026-11-05.md`.
