@@ -4,7 +4,7 @@ Handle: `/products/bank-londen-6-zits-tan` · Status: **concept** (DRAFT) in Sho
 
 Tags: bank, 6-zits, tan, londen, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
-Collecties: -
+Collecties: gid://shopify/Collection/704710508883
 
 Meta-titel (55): Bank Londen 6-zits in tan · grote stoffen bank · InHuys  
 Meta-description (154): Bank Londen als 6-zits in tan: 392 cm breed met 327 cm zitvlak, voor een open woonkamer waar veel mensen samen zitten. Zithoogte 42 cm, stoffen bekleding.

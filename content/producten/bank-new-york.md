@@ -4,7 +4,7 @@ Handle: `/products/bank-new-york` · Status: **concept** (DRAFT) in Shopify · M
 
 Tags: bank, loungebank, 2,5-zits, beige, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
-Collecties: -
+Collecties: gid://shopify/Collection/704710508883
 
 Meta-titel (58): Bank New York 2,5-zits met lounge rechts in beige · InHuys  
 Meta-description (151): Lage New York bank in beige, 2,5-zits met een lounge-element aan de rechterkant om je uit te strekken. Frame van beukenhout en multiplex, 204 cm breed.

@@ -4,7 +4,7 @@ Handle: `/products/bank-new-york-4-zits-lounge-coco` · Status: **concept** (DRA
 
 Tags: bank, loungebank, coco, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
-Collecties: -
+Collecties: gid://shopify/Collection/704710508883
 
 Meta-titel (53): Bank New York 4-zits met lounge rechts, coco · InHuys  
 Meta-description (150): Bank New York 4-zits met lounge rechts in coco: 294 cm breed, op een frame van beukenhout en multiplex. Voor een ruime zithoek met plek voor iedereen.
@@ -53,7 +53,7 @@ Ik raad deze bank aan als hij het middelpunt van een grote woonkamer wordt en er
 ## Veelgestelde vragen
 
 **Hoe groot is deze uitvoering?**  
-De bank is 294 cm breed, 172 cm diep en 67 cm hoog. De zitbreedte is 238 cm en de zithoogte 37 cm.
+De bank is 294 cm breed, 172 cm diep en 67 cm hoog; op de zitbreedte van 238 cm zit je met vier mensen ruim, en met een zithoogte van 37 cm zit je laag en ontspannen.
 
 **Waarin verschilt coco van beige?**  
 In kleur en in stof: coco is 93% polyester en 7% viscose, beige 96% polyester en 4% acryl. Maten, frame en vulling zijn gelijk.

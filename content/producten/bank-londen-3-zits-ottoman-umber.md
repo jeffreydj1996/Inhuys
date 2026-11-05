@@ -4,7 +4,7 @@ Handle: `/products/bank-londen-3-zits-ottoman-umber` · Status: **concept** (DRA
 
 Tags: bank, bank met ottoman, 3-zits, umber, londen, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
-Collecties: -
+Collecties: gid://shopify/Collection/704710508883
 
 Meta-titel (50): Bank met ottoman · Londen 3-zits in umber · InHuys  
 Meta-description (138): Londen 3-zits met ottoman in umber, voor wie wil liggen zonder een 6-zits: 282 cm breed en 212 cm diep, bekleed met stof, zithoogte 42 cm.

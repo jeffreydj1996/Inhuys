@@ -4,7 +4,7 @@ Handle: `/products/bank-new-york-2-5-zits-lounge-coco` · Status: **concept** (D
 
 Tags: bank, loungebank, coco, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
-Collecties: -
+Collecties: gid://shopify/Collection/704710508883
 
 Meta-titel (55): Bank New York 2,5-zits met lounge rechts, coco · InHuys  
 Meta-description (151): Bank New York 2,5-zits met lounge rechts in coco: 204 cm breed, op een frame van beukenhout en multiplex. Voor een zithoek waar je languit wilt liggen.
@@ -53,7 +53,7 @@ Ik raad deze opstelling aan als je woonkamer een wand van ruim twee meter vrij h
 ## Veelgestelde vragen
 
 **Hoe groot is deze uitvoering?**  
-De bank is 204 cm breed, 172 cm diep en 67 cm hoog. De zithoogte is 37 cm.
+De bank is 204 cm breed, 172 cm diep en 67 cm hoog, en met een zithoogte van 37 cm zit je er laag en ontspannen in.
 
 **Waarin verschilt coco van beige?**  
 In kleur en in stof: coco is 93% polyester en 7% viscose, beige 96% polyester en 4% acryl. Maten, frame en vulling zijn gelijk.

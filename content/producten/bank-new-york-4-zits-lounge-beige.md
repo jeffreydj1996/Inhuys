@@ -4,7 +4,7 @@ Handle: `/products/bank-new-york-4-zits-lounge-beige` · Status: **concept** (DR
 
 Tags: bank, loungebank, beige, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
-Collecties: -
+Collecties: gid://shopify/Collection/704710508883
 
 Meta-titel (54): Bank New York 4-zits met lounge rechts, beige · InHuys  
 Meta-description (143): Bank New York 4-zits met lounge rechts in beige: 294 cm breed, op een frame van beukenhout en multiplex. Voor een grote woonkamer en een gezin.
@@ -53,7 +53,7 @@ Ik kies de 4-zits met lounge als je met z'n vieren of meer op de bank zit en de 
 ## Veelgestelde vragen
 
 **Hoe groot is deze uitvoering?**  
-De bank is 294 cm breed, 172 cm diep en 67 cm hoog. De zitbreedte is 238 cm en de zithoogte 37 cm.
+De bank is 294 cm breed, 172 cm diep en 67 cm hoog; op de zitbreedte van 238 cm zit je met vier mensen ruim, en met een zithoogte van 37 cm zit je laag en ontspannen.
 
 **Hoe zwaar is de bank?**  
 De bank weegt 90 kg. Reken bij de levering op een vrije doorgang naar de woonkamer.

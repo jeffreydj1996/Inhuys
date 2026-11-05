@@ -4,7 +4,7 @@ Handle: `/products/bank-londen` · Status: **concept** (DRAFT) in Shopify · Mer
 
 Tags: bank, 3-zits, umber, londen, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
-Collecties: -
+Collecties: gid://shopify/Collection/704710508883
 
 Meta-titel (50): Bank Londen · design bank 3-zits in umber · InHuys  
 Meta-description (143): Bank Londen als 3-zits in umber, 282 cm breed met 218 cm zitvlak, voor een lange wand in de woonkamer. Ook met ottoman of als 6-zits leverbaar.

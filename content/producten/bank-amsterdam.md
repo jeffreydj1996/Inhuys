@@ -4,7 +4,7 @@ Handle: `/products/bank-amsterdam` · Status: **concept** (DRAFT) in Shopify · 
 
 Tags: bank, 4-zits, latte, beige, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
-Collecties: -
+Collecties: gid://shopify/Collection/704710508883
 
 Meta-titel (55): Bank Amsterdam · 4-zits in latte, 300 cm breed · InHuys  
 Meta-description (154): Bank Amsterdam als 4-zits in latte, een warm licht beige. Lage, brede bank op een frame van multiplex en beukenhout, voor een lange wand in de woonkamer.

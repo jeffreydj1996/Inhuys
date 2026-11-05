@@ -4,7 +4,7 @@ Handle: `/products/bank-londen-3-zits-ottoman-tan` · Status: **concept** (DRAFT
 
 Tags: bank, bank met ottoman, 3-zits, tan, londen, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
-Collecties: -
+Collecties: gid://shopify/Collection/704710508883
 
 Meta-titel (48): Bank met ottoman · Londen 3-zits in tan · InHuys  
 Meta-description (148): Bank Londen als 3-zits met ottoman in tan: 282 cm breed en 212 cm diep, met een ottoman om je benen op te leggen. Zithoogte 42 cm, bekleed met stof.

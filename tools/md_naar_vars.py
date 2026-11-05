@@ -96,7 +96,7 @@ def build(d, by):
             if i == 1: alts[srch] = im.get("alt")
     variants = []
     for (ov, price, sku, srch) in d["variants"]:
-        it = by[srch]
+        it = by.get(srch) or {"images": [], "title": srch}
         v = {"optionValues": [{"optionName": k, "name": val} for k, val in ov.items()], "price": price, "inventoryItem": {"tracked": False}}
         if sku: v["sku"] = sku
         if it["images"]:
