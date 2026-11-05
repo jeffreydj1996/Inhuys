@@ -1,105 +1,78 @@
-# Luna eetkamerstoel (set van 2)
+# Luna eetkamerstoel in karamel, set van 2
 
 Handle: `/products/eetkamerstoel-luna-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
-Tags: eetkamerstoel, set van 2, staal, mink, karamel, crème, pole-to-pole  
+Tags: eetkamerstoel, set van 2, armleuning, staal, karamel, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
 Collecties: -
 
-Meta-titel (58): Luna eetkamerstoel · slank, zachte rug, set van 2 · InHuys  
-Meta-description (157): Slanke eetkamerstoel met gestoffeerde rug en poten in gerookt-eikentint, set van 2. In mink, karamel of crème. Levertijd 2 tot 3 weken, te zien in Purmerend.
+Meta-titel (50): Luna eetkamerstoel in karamel · set van 2 · InHuys  
+Meta-description (137): Luna eetkamerstoel in karamel, set van 2: gestoffeerde zitting en rug met armleuningen, op een frame van gepoedercoat staal en multiplex.
 
-**Zin onder de titel:** Slanke eetkamerstoel met een zacht gestoffeerde rug en poten in een gerookt-eikentint.
+**Zin onder de titel:** Een eetkamerstoel met armleuningen en een zacht gestoffeerde rug in warm karamel, op een frame van gepoedercoat staal.
 
 ## Varianten en prijzen
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Mink | € 419,80 | 871974353110 | `luna-chair-mink-set-van-2` |
 | Karamel | € 419,80 | 871974353109 | `luna-stoel-caramel-set-van-2` |
-| Crème | € 419,80 | 871974353108 | `luna-stoelcreme-set-van-2` |
 
 ## Beschrijving
 
 ### Zo werkt het in de ruimte
-De Luna is de slanke stoel uit de collectie: smal in de breedte, zacht in de rug. Daardoor past hij aan tafels waar een kuipstoel te veel ruimte zou nemen, en kun je er bij een tafel van 180 cm zes kwijt zonder dat het vol voelt. De gestoffeerde rug geeft steun zonder dat de stoel zwaar oogt.
+De Luna is een eetkamerstoel met korte armleuningen en een gestoffeerde rug die je onderrug opvangt als je na het eten nog even blijft zitten. In karamel brengt hij een warme bruine toon aan tafel, die vooral uitkomt bij een lichte vloer en witte of zandkleurige muren. Met zijn 55 cm breedte oogt de stoel slank, zodat je er aan een lange tafel drie aan elke zijde kwijt kunt en iedereen ruimte houdt voor zijn ellebogen. Op een zithoogte van 50 cm zit je rechtop aan tafel, iets hoger dan op de Scandi of de Whale uit dezelfde collectie. Let bij het aanschuiven op de armleuningen: met hun 72 cm hoogte schuiven ze alleen onder het blad door als de onderkant van je tafel hoger ligt. Reken bij het plannen met 56 cm diepte en houd achter de stoelen een strook vrij, zodat iemand langs kan lopen terwijl jij zit.
 
 ### Materiaal en maakwijze
-Zitting en rug zijn gestoffeerd in mink (een grijsbruine tint), karamel of crème. De poten zijn afgewerkt in een gerookt-eikentint, wat de stoel een warme, organische uitstraling geeft bij een houten vloer. De stoel wordt per set van twee geleverd.
+De poten zijn van gepoedercoat Q195-staal, en in de rest van het frame zitten multiplex en metaal; samen dragen ze tot 120 kg per stoel. De stoffering in karamel is van 100% polyester en voelt glad aan de hand. Het schuim in de stoel heeft een dichtheid van 25 kg/m³, een opgave waarmee je de Luna kunt vergelijken met andere gestoffeerde stoelen. Een vlek neem je af met een vochtige, niet natte doek; agressieve middelen en doorweken laat je achterwege. Met 6,8 kg per stoel til je hem makkelijk op als je de vloer onder de tafel schoonmaakt. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
+
+Wil je de eethoek lichter houden, dan is dezelfde stoel er ook in crème en in goud, samen als één eigen product: de <a href="/products/eetkamerstoel-luna-creme-set-van-2">Luna eetkamerstoel in crème of goud</a>.
 
 ### Combineren
-Mink bij een eiken tafel en een lichte vloer is tijdloos; crème bij donker hout geeft lucht; karamel bij zwart of groen brengt warmte. Omdat de Luna slank is, combineert hij goed met een forsere kop-stoel, zoals de Breeze met armleuning aan beide uiteinden.
+Karamel naast een eiken tafel op een lichte vloer geeft een eethoek in één warme kleurfamilie; tegen een zwarte of olijfgroene wand krijgt het bruin juist meer diepte. Aan de lange Urban Chique-tafel brengt karamel warmte tegen het koele keramische blad in marmerlook, en een Agano-vaas van travertijn in het midden verbindt de twee tinten. Omdat de Luna slank oogt, kun je aan de kopse kanten een forsere stoel zetten, zoals de Breeze, zodat de uiteinden van de tafel meer gewicht krijgen.
 
 ## Specificaties (metavelden `inhuys.*`)
 
 | Veld | Waarde |
 |---|---|
-| afmetingen | [AANVULLEN] |
-| zithoogte | [AANVULLEN] |
-| zitdiepte | [AANVULLEN] |
-| gewicht | [AANVULLEN] |
-| materiaal_frame | [AANVULLEN] (poten in gerookt-eikentint) |
-| materiaal_bekleding | [AANVULLEN] (stof) |
-| afwerking | Mink, karamel of crème |
-| set_inhoud | 2 stoelen |
-| onderhoud | Stofzuigen met zachte borstel; vlekken deppen met lauw water |
-| herkomst | Pole To Pole, Nederland |
-| levertijd | 2 tot 3 weken, geleverd door onze merkpartner |
-| garantie | 2 jaar |
+| afmetingen | 82 × 55 × 56 cm (h × b × d) |
+| zithoogte | 50 cm |
+| zitdiepte | 46 cm |
+| gewicht | 6,8 kg per stoel |
+| materiaal_frame | Poten van gepoedercoat Q195-staal; verder multiplex en metaal |
+| materiaal_bekleding | Stof, 100% polyester; schuim 25 kg/m³ |
+| afwerking | Karamel |
+| set_inhoud | 2 stoelen (in één doos, zelf te monteren) |
+| onderhoud | Afnemen met een vochtige, niet natte doek; geen agressieve schoonmaakmiddelen; de stof niet laten doorweken |
+| herkomst | Pole To Pole |
+| levertijd | [AANVULLEN] |
+| garantie | [AANVULLEN] |
 
 ## Advies van InHuys
 
-Als een eethoek klein is of de tafel smal, is de Luna mijn eerste keuze: hij neemt weinig ruimte, zit goed en de poten in eikentint maken hem warmer dan een stoel op zwart staal. Mink is de kleur die bij bijna elke vloer past.
+Ik kies de Luna voor een eethoek waar je lang aan tafel blijft: de armleuningen en de gestoffeerde rug maken van een doordeweekse maaltijd een avond. Meet wel eerst de onderkant van je tafelblad, want pas als de armleuningen eronder passen, schuif je de stoel na het eten helemaal weg. Karamel stel ik graag voor bij een eiken vloer, omdat het bruin van de stof en de warmte van het hout elkaar versterken.
 
 ## Veelgestelde vragen
 
 **Hoeveel Luna-stoelen passen er aan een tafel van 160 cm?**  
-Zes, drie aan elke lange zijde. De Luna is smal, reken op 50 tot 55 cm per stoel.
-
-**Welke kleur is 'mink'?**  
-Een warme grijsbruine tint, tussen taupe en bruin in.
+Vier aan de lange zijden, en met een stoel aan elke kopse kant zes. Wil je drie stoelen naast elkaar aan één zijde, kies dan een tafel vanaf 180 cm, zodat elke stoel zijn eigen strook tafelrand houdt.
 
 **Zijn de poten van hout?**  
-De poten zijn afgewerkt in een gerookt-eikentint; het exacte materiaal staat in de specificaties.
+Nee, de poten zijn van gepoedercoat staal; in het frame zitten daarnaast multiplex en metaal.
+
+**Schuift de stoel onder mijn tafel?**  
+Dat hangt af van de armleuningen, die tot 72 cm hoogte komen. Meet de onderkant van je tafelblad: ligt die hoger, dan schuift de stoel er helemaal onder.
 
 **Wordt de stoel per set geleverd?**  
-Ja, de prijs geldt per set van twee.
+Ja, de prijs geldt per set van twee; de stoelen komen in één doos en je monteert ze zelf.
 
 ## Beelden
 
-24 beelden overgenomen van de bestaande producten (resolutie 1200 px; vervangen door beeld van minimaal 2000 px zodra beschikbaar).
-
-Shopify koppelt hierbij hetzelfde beeldbestand als het live product; de alt-tekst is een eigenschap van dat bestand en dus gedeeld. De alt-teksten zijn daarom nog niet aangepast. Beoogde alt-teksten, toe te passen in fase 3 zodra de oude producten uit de lucht gaan:
-
-- `0b463a16…` → Luna eetkamerstoel, mink, afbeelding 1 van 8
-- `60b7f319…` → Luna eetkamerstoel, mink, afbeelding 2 van 8
-- `f3df6b35…` → Luna eetkamerstoel, mink, afbeelding 3 van 8
-- `9a28b352…` → Luna eetkamerstoel, mink, afbeelding 4 van 8
-- `c427a21e…` → Luna eetkamerstoel, mink, afbeelding 5 van 8
-- `9d512cbe…` → Luna eetkamerstoel, mink, afbeelding 6 van 8
-- `d418857c…` → Luna eetkamerstoel, mink, afbeelding 7 van 8
-- `86205eb6…` → Luna eetkamerstoel, mink, afbeelding 8 van 8
-- `ab311f25…` → Luna eetkamerstoel, karamel, afbeelding 1 van 8
-- `0599d34d…` → Luna eetkamerstoel, karamel, afbeelding 2 van 8
-- `804f9838…` → Luna eetkamerstoel, karamel, afbeelding 3 van 8
-- `d5fb4e76…` → Luna eetkamerstoel, karamel, afbeelding 4 van 8
-- `08ab334f…` → Luna eetkamerstoel, karamel, afbeelding 5 van 8
-- `72c8ab42…` → Luna eetkamerstoel, karamel, afbeelding 6 van 8
-- `2c8d23aa…` → Luna eetkamerstoel, karamel, afbeelding 7 van 8
-- `b5159c20…` → Luna eetkamerstoel, karamel, afbeelding 8 van 8
-- `266b02ad…` → Luna eetkamerstoel, crème, afbeelding 1 van 8
-- `20fe71e9…` → Luna eetkamerstoel, crème, afbeelding 2 van 8
-- `c8e24300…` → Luna eetkamerstoel, crème, afbeelding 3 van 8
-- `abc839ed…` → Luna eetkamerstoel, crème, afbeelding 4 van 8
-- `fb50c901…` → Luna eetkamerstoel, crème, afbeelding 5 van 8
-- `43d8cc50…` → Luna eetkamerstoel, crème, afbeelding 6 van 8
-- `e7fa587a…` → Luna eetkamerstoel, crème, afbeelding 7 van 8
-- `462dfe9a…` → Luna eetkamerstoel, crème, afbeelding 8 van 8
+De 8 beelden in karamel (1200 px breed) horen bij het Orderchamp-product en blijven van Orderchamp; hun alt-teksten blijven gedeeld en ongewijzigd tot fase 3.
 
 ## Opmerking
 
-Het huidige product 'Luna stoel crème' bevat een afwijkende variant 'Goud' van € 239,95; die is niet overgenomen.
+Afmetingen, zithoogte, zitdiepte, gewicht, de maximale belasting van 120 kg, het frame (poten van gepoedercoat Q195-staal, verder multiplex en metaal), de stofsamenstelling, de schuimdichtheid en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871974353109, geopend op 5 november 2026); welk frameonderdeel van multiplex of metaal is en welke kleur de poten hebben, vermeldt de fabrikant niet. Dit product is het door Orderchamp geïmporteerde product `luna-stoel-caramel-set-van-2`; varianten, voorraad en beelden blijven van Orderchamp. De uitvoering in mink (SKU 871974353110, bronproduct `luna-chair-mink-set-van-2`) heeft geen voorraad en staat daarom niet in deze tekst; ze staat niet op poletopole.nl, en dealer Giga Meubel noemt voor mink 7 kg en een armleuninghoogte van 68 cm (te verifiëren). Crème (SKU 871974353108, € 419,80) en goud (SKU 871974353111, € 239,95) staan onder één bronhandle `luna-stoelcreme-set-van-2`; het prijsverschil is door de eigenaar te verifiëren. De Orderchamp-importtekst noemt eiken en hout, en de vorige tabel noemde poten in gerookt-eikentint; geen van beide staat in de fabrikantbron, daarom is dat geschrapt. Ook stofzuigen en lauw water bij het onderhoud, "2 tot 3 weken" levertijd, "2 jaar" garantie en herkomst "Nederland" hadden geen bron en zijn verwijderd. Volgens Pole To Pole komt de stoel uit China, is hij niet brandvertragend en niet stapelbaar. De prijs van € 419,80 is ongewijzigd uit het bronproduct overgenomen.
 
 ## Aan te vullen door de eigenaar
 
-Alle velden met `[AANVULLEN]` in de specificaties (afmetingen, zithoogte, zitdiepte, gewicht, materiaal) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
+Alle velden met `[AANVULLEN]` in de specificaties (levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
