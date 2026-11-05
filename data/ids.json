@@ -66,7 +66,18 @@
     "eetkamerstoel-luna-set-van-2-eigen": "gid://shopify/Product/11027175702867",
     "eetkamerstoel-cloud-set-van-2-eigen": "gid://shopify/Product/11027133038931",
     "eetkamerstoel-whale-set-van-2-eigen": "gid://shopify/Product/11027175571795",
-    "barkruk-cloud-eigen": "gid://shopify/Product/11027133202771"
+    "barkruk-cloud-eigen": "gid://shopify/Product/11027133202771",
+    "eetkamerstoel-japandi": "gid://shopify/Product/11031554949459",
+    "eetkamerstoel-sake": "gid://shopify/Product/11031555014995",
+    "eetkamerstoel-sake-umber": "gid://shopify/Product/11031555146067",
+    "eetkamerstoel-osaka": "gid://shopify/Product/11031555080531",
+    "eetkamerstoel-osaka-okura": "gid://shopify/Product/11031555178835",
+    "eetkamerstoel-osaka-umber": "gid://shopify/Product/11031555211603",
+    "eetkamerstoel-fuji": "gid://shopify/Product/11031555244371",
+    "eetkamerstoel-fuji-umber": "gid://shopify/Product/11031555277139",
+    "keukenbarkruk-japandi-set-van-2": "gid://shopify/Product/10447099625811",
+    "keukenbarkruk-japandi-umber-set-van-2": "gid://shopify/Product/11031555047763",
+    "barkruk-japandi": "gid://shopify/Product/11031555113299"
   },
   "artikelen": {
     "boucle-onderhouden-zo-blijft-je-bank-mooi": "gid://shopify/Article/617286107475",
@@ -133,6 +144,17 @@
     "eetkamerstoel-whale-set-van-2": "whale-stoel-coco-set-van-2",
     "barkruk-cloud": "cloud-kitchen-barstoel-creme",
     "barkruk-cloud-keukenbarkruk-karamel": "wolkenkeukenbar-stoel-karamel",
-    "barkruk-cloud-barkruk-karamel": "wolkenbar-stoel-karamel"
+    "barkruk-cloud-barkruk-karamel": "wolkenbar-stoel-karamel",
+    "eetkamerstoel-japandi": "japandi-stoel",
+    "eetkamerstoel-sake": "sake-stoel",
+    "eetkamerstoel-sake-umber": "sake-stoel-1",
+    "eetkamerstoel-osaka": "osaka-stoel",
+    "eetkamerstoel-osaka-okura": "osaka-stoel-1",
+    "eetkamerstoel-osaka-umber": "osaka-stoel-2",
+    "eetkamerstoel-fuji": "fuji-stoel",
+    "eetkamerstoel-fuji-umber": "fuji-stoel-1",
+    "keukenbarkruk-japandi-set-van-2": "japandi-keukenbar-stoel-okura-set-van-2",
+    "keukenbarkruk-japandi-umber-set-van-2": "japandi-keukenbar-stoel-umber-set-van-2",
+    "barkruk-japandi": "japanda-bar-chairs-droogte-set-off-2"
   }
 }
