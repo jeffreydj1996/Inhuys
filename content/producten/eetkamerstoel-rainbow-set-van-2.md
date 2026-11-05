@@ -49,7 +49,7 @@ Rond de [Urban Chique ronde eettafel](/products/ronde-eettafel-urban-chique) in 
 
 ## Advies van InHuys
 
-Ik zet de Rainbow in als je de eethoek als een eigen kamer wilt laten voelen, met stoelen die je rug omsluiten en een lichte kleur die de ruimte opent. In een kleine woonkeuken waar je vanaf de bank naar buiten kijkt, raad ik hem af, omdat de hoge ruggen dan precies in je zichtlijn staan; een lagere stoel zoals de Scandi past daar beter. Zandwit combineer ik graag met een eiken vloer, omdat het hout de stof net genoeg warmte geeft.
+Ik zet de Rainbow in als je de eethoek als een eigen kamer wilt laten voelen, met stoelen die je rug omsluiten en een lichte kleur die de ruimte opent. In een kleine woonkeuken waar je vanaf de bank naar buiten kijkt, raad ik hem af, omdat de hoge ruggen dan precies in je zichtlijn staan; een lagere stoel zoals de Luna past daar beter. Zandwit combineer ik graag met een eiken vloer, omdat het hout de stof net genoeg warmte geeft.
 
 ## Veelgestelde vragen
 
