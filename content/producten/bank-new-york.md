@@ -1,148 +1,81 @@
-# Bank New York
+# Bank New York, 2,5-zits met lounge rechts in beige
 
 Handle: `/products/bank-new-york` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Banken
 
-Tags: bank, loungebank, boucle, beige, coco, zand, pole-to-pole  
+Tags: bank, loungebank, 2,5-zits, beige, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
 Collecties: -
 
-Meta-titel (57): Bank New York · loungebank in boucle en weefstof · InHuys  
-Meta-description (158): Zachte loungebank met ronde vormen, 2,5- of 4-zits, met of zonder lounge-element. In beige, coco of zand boucle. Levering 6 tot 8 weken, te zien in Purmerend.
+Meta-titel (58): Bank New York 2,5-zits met lounge rechts in beige · InHuys  
+Meta-description (151): Lage New York bank in beige, 2,5-zits met een lounge-element aan de rechterkant om je uit te strekken. Frame van beukenhout en multiplex, 204 cm breed.
 
-**Zin onder de titel:** Zachte loungebank met ronde vormen, in 2,5- en 4-zits, met of zonder lounge-element rechts, in drie stoffen.
+**Zin onder de titel:** Een lage, zachte 2,5-zits met een lounge-element aan de rechterkant, in een warm en licht beige.
 
 ## Varianten en prijzen
 
 | Opstelling | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|---|
-| 2,5-zits | Beige | € 2240,00 | 871917285937 | `bank-new-york-2-5-zits-beige` |
-| 2,5-zits | Coco | € 2480,00 | 871917285933 | `bank-new-york-2-5-zits-coco` |
-| 2,5-zits | Zand boucle | € 2240,00 | 871917285929 | `bank-new-york-2-5-zits-sand-boucle` |
 | 2,5-zits met lounge rechts | Beige | € 2740,00 | 871917285938 | `bank-new-york-2-5-zits-rechter-lounge-beige` |
 | 2,5-zits met lounge rechts | Coco | € 2980,00 | 871917285934 | `bank-new-york-2-5-zits-rechter-lounge-coco` |
-| 2,5-zits met lounge rechts | Zand boucle | € 2740,00 | 871917285930 | `bank-new-york-2-5-zits-rechter-lounge-sand-boucle` |
-| 4-zits | Beige | € 3200,00 | 871917285939 | `bank-new-york-4-zits-beige` |
-| 4-zits | Coco | € 3480,00 | 871917285935 | `bank-new-york-4-zits-coco` |
-| 4-zits | Zand boucle | € 3200,00 | 871917285931 | `bank-new-york-4-zits-zand-boucle` |
 | 4-zits met lounge rechts | Beige | € 3740,00 | 871917285952 | `bank-new-york-4-zits-rechter-lounge-beige` |
 | 4-zits met lounge rechts | Coco | € 3980,00 | 871917285936 | `bank-new-york-4-zits-rechter-lounge-coco` |
-| 4-zits met lounge rechts | Zand boucle | € 3740,00 | 71917285932 | `bank-new-york-4-zits-rechter-lounge-sand-boucle` |
 
 ## Beschrijving
 
 ### Zo werkt het in de ruimte
-De New York is de zachte tegenhanger van de Amsterdam: ronde armen, een lage rug en een zit waarin je wegzakt. Hij is er als 2,5-zits en als 4-zits, elk met of zonder een lounge-element aan de rechterkant waar je de benen op kunt leggen. De 2,5-zits past in een zithoek tot 20 m²; de 4-zits met lounge vult een open woonkamer.
+De New York is een bank om in weg te zakken: de armen komen bijna tot de hoogte van de rug, en de zachte lijnen houden de zithoek rustig. In deze opstelling zit aan de rechterkant een lounge-element, zodat je naast de gewone zitplaatsen ook een plek hebt om je uit te strekken. Met zijn 204 cm breedte past de bank tegen een gemiddelde wand in de woonkamer, zonder dat hij de hele kamer opeist. Houd bij het plannen rekening met 172 cm diepte, zodat er langs de bank nog een vrije looproute overblijft. Met een zithoogte van 37 cm zit je laag, en dat maakt de New York een bank voor lange avonden met een boek of een film, minder voor rechtop zitten met visite. Omdat de bank niet hoger komt dan 67 cm, kun je hem ook vrij in de ruimte zetten zonder dat hij het zicht door de kamer afsluit.
 
 ### Materiaal en maakwijze
-De bekleding komt in drie uitvoeringen: beige en coco in een gladde weefstof, en zand in boucle, een stof met kleine lusjes die licht vangt. Coco is de donkere, bruine variant. Het frame is massief, de kussens zijn gevuld met schuim en vezel.
+Beige is hier een warme, lichte tint die rustig wegvalt tegen hout, linnen en lichte muren. Op de zitting en de armen zit een stof van 96% polyester en 4% acryl, die je bij een vlek afneemt met een vochtige, niet natte doek; agressieve middelen en doorweken laat je achterwege. Onder de bekleding zit een frame van beukenhout en multiplex, met schuim van 38 kg/m³ in de zitting, een dichtheid waarmee je de New York kunt vergelijken met andere banken.
+
+Dezelfde opstelling is er ook in coco, als <a href="/products/bank-new-york-2-5-zits-lounge-coco">New York 2,5-zits met lounge rechts in coco</a>. Wil je meer zitplaatsen, kies dan de 4-zits met lounge rechts in <a href="/products/bank-new-york-4-zits-lounge-beige">beige</a> of in <a href="/products/bank-new-york-4-zits-lounge-coco">coco</a>; elk is een eigen product met een eigen pagina.
 
 ### Combineren
-Zand boucle bij een lichte vloer en een travertijn salontafel is zacht en monochroom; coco bij eiken en een wollen kleed is warm en klassiek. Een Kathmandu- of Mars-fauteuil in een andere stof ertegenover geeft de zithoek diepte.
+Naast de Craft salontafel groot in beige travertijnlook krijgt de zithoek één warme, lichte toon, en de afgeronde vorm van de tafel past bij de zachte lijnen van de bank. Zet er een Cairo loungestoel in beige schuin tegenover voor een zithoek in één kleurfamilie, of kies juist een donkere eiken vloer en een wollen kleed in roest of terracotta om het beige te laten oplichten. Tegen een witte muur blijft het geheel licht; tegen taupe of olijfgroen wordt het rustiger en dieper. Een Agano-vaas op de salontafel en een paar kussens in linnen maken de zithoek af.
 
 ## Specificaties (metavelden `inhuys.*`)
 
 | Veld | Waarde |
 |---|---|
-| afmetingen | [AANVULLEN] per opstelling |
-| zithoogte | [AANVULLEN] |
+| afmetingen | 67 × 204 × 172 cm (h × b × d); zitbreedte 148 cm |
+| zithoogte | 37 cm |
 | zitdiepte | [AANVULLEN] |
-| gewicht | [AANVULLEN] |
-| materiaal_frame | [AANVULLEN] (massief frame) |
-| materiaal_bekleding | Weefstof (beige, coco) of boucle (zand) |
-| afwerking | Beige, coco of zand boucle |
-| set_inhoud | Per opstelling, inclusief losse kussens |
-| onderhoud | Kussens opschudden en draaien; stofzuigen met zachte borstel; boucle niet borstelen |
-| herkomst | Pole To Pole, Nederland |
-| levertijd | 6 tot 8 weken, geleverd en geplaatst in overleg |
-| garantie | 2 jaar |
+| gewicht | 66 kg |
+| materiaal_frame | Beukenhout en multiplex |
+| materiaal_bekleding | Stof met schuimvulling (38 kg/m³); 96% polyester en 4% acryl |
+| afwerking | Beige |
+| set_inhoud | 1 bank, 2,5-zits met lounge-element rechts |
+| onderhoud | Afnemen met een vochtige, niet natte doek; geen agressieve middelen; de stof niet laten doorweken |
+| herkomst | Pole To Pole |
+| levertijd | [AANVULLEN] |
+| garantie | [AANVULLEN] |
 
 ## Advies van InHuys
 
-De New York is de bank voor avonden op de bank, niet voor rechtop zitten met visite. Het lounge-element rechts is heerlijk, maar bepaalt de indeling: de open zijde moet naar de ruimte wijzen. Laat me de plattegrond zien voordat je kiest tussen links en rechts; 'rechts' is gezien vanaf de zitpositie.
+Ik raad de New York aan als je de bank vooral gebruikt om lang op te zitten, te lezen of een film te kijken, en minder om rechtop met visite te praten; daarvoor zit hij bewust laag. Kijk voordat je kiest goed naar de plattegrond, want het lounge-element aan de rechterkant bepaalt waar de open zijde van de zithoek komt. Zet de bank zo dat je vanaf dat element de kamer in kijkt en niet tegen een muur, en stuur bij twijfel een plattegrond mee, dan teken ik hem voor je in.
 
 ## Veelgestelde vragen
 
 **Wat betekent 'lounge rechts'?**  
-Een verlengd zitelement aan de rechterkant, gezien als je op de bank zit, waar je de benen op legt.
+Aan de rechterkant van deze opstelling zit een lounge-element, naast de gewone zitplaatsen. Twijfel je of die kant in je woonkamer past, stuur dan een plattegrond mee, dan kijken we het samen na.
 
-**Is boucle praktisch?**  
-Boucle is stevig maar vangt stof; stofzuigen zonder borstel. Bij huisdieren adviseren we de gladde weefstof.
+**Hoe groot is deze opstelling?**  
+De bank is 204 cm breed, passend voor een zithoek aan een gemiddelde wand. Reken bij het plannen op 172 cm diepte en houd ernaast een vrije looproute aan.
 
-**Kan ik de bank proberen?**  
-Ja, in de showroom in Purmerend staat de serie, op afspraak.
+**Zijn er andere uitvoeringen?**  
+Ja, dezelfde opstelling bestaat in coco, en de 4-zits met lounge rechts is er in beige en in coco. Elk is een eigen product.
 
-**Hoe lang is de levertijd?**  
-6 tot 8 weken; de bank wordt per opstelling gemaakt.
+**Kan ik langskomen voor advies?**  
+Ja, in de showroom in Purmerend, op afspraak. Neem een plattegrond van je woonkamer mee, dan kijken we samen waar de New York het best staat.
 
 ## Beelden
 
-58 beelden overgenomen van de bestaande producten (resolutie 800 px; vervangen door beeld van minimaal 2000 px zodra beschikbaar).
-
-Shopify koppelt hierbij hetzelfde beeldbestand als het live product; de alt-tekst is een eigenschap van dat bestand en dus gedeeld. De alt-teksten zijn daarom nog niet aangepast. Beoogde alt-teksten, toe te passen in fase 3 zodra de oude producten uit de lucht gaan:
-
-- `b466b2e1…` → Bank New York, 2,5-zits, beige, afbeelding 1 van 5
-- `62323d99…` → Bank New York, 2,5-zits, beige, afbeelding 2 van 5
-- `9716f819…` → Bank New York, 2,5-zits, beige, afbeelding 3 van 5
-- `1251fe9e…` → Bank New York, 2,5-zits, beige, afbeelding 4 van 5
-- `b1ec1c40…` → Bank New York, 2,5-zits, beige, afbeelding 5 van 5
-- `992f5205…` → Bank New York, 2,5-zits, coco, afbeelding 1 van 5
-- `ca3e9a44…` → Bank New York, 2,5-zits, coco, afbeelding 2 van 5
-- `a9ab96e2…` → Bank New York, 2,5-zits, coco, afbeelding 3 van 5
-- `dda45171…` → Bank New York, 2,5-zits, coco, afbeelding 4 van 5
-- `7e055a70…` → Bank New York, 2,5-zits, coco, afbeelding 5 van 5
-- `72048135…` → Bank New York, 2,5-zits, zand boucle, afbeelding 1 van 5
-- `027ccfc4…` → Bank New York, 2,5-zits, zand boucle, afbeelding 2 van 5
-- `a3b85964…` → Bank New York, 2,5-zits, zand boucle, afbeelding 3 van 5
-- `bf45e276…` → Bank New York, 2,5-zits, zand boucle, afbeelding 4 van 5
-- `ab121892…` → Bank New York, 2,5-zits, zand boucle, afbeelding 5 van 5
-- `4f290cb0…` → Bank New York, 2,5-zits met lounge rechts, beige, afbeelding 1 van 5
-- `1c5214b4…` → Bank New York, 2,5-zits met lounge rechts, beige, afbeelding 2 van 5
-- `a04eed76…` → Bank New York, 2,5-zits met lounge rechts, beige, afbeelding 3 van 5
-- `bf29c15f…` → Bank New York, 2,5-zits met lounge rechts, beige, afbeelding 4 van 5
-- `69fd9490…` → Bank New York, 2,5-zits met lounge rechts, beige, afbeelding 5 van 5
-- `62baec28…` → Bank New York, 2,5-zits met lounge rechts, coco, afbeelding 1 van 4
-- `a25a5a47…` → Bank New York, 2,5-zits met lounge rechts, coco, afbeelding 2 van 4
-- `b3aafe2a…` → Bank New York, 2,5-zits met lounge rechts, coco, afbeelding 3 van 4
-- `1e29ae0c…` → Bank New York, 2,5-zits met lounge rechts, coco, afbeelding 4 van 4
-- `d909bfa4…` → Bank New York, 2,5-zits met lounge rechts, zand boucle, afbeelding 1 van 5
-- `02e74547…` → Bank New York, 2,5-zits met lounge rechts, zand boucle, afbeelding 2 van 5
-- `63194909…` → Bank New York, 2,5-zits met lounge rechts, zand boucle, afbeelding 3 van 5
-- `97dbee67…` → Bank New York, 2,5-zits met lounge rechts, zand boucle, afbeelding 4 van 5
-- `944cc10a…` → Bank New York, 2,5-zits met lounge rechts, zand boucle, afbeelding 5 van 5
-- `b1bada32…` → Bank New York, 4-zits, beige, afbeelding 1 van 5
-- `74652735…` → Bank New York, 4-zits, beige, afbeelding 2 van 5
-- `6fdf5344…` → Bank New York, 4-zits, beige, afbeelding 3 van 5
-- `14a84161…` → Bank New York, 4-zits, beige, afbeelding 4 van 5
-- `d3616779…` → Bank New York, 4-zits, beige, afbeelding 5 van 5
-- `34309427…` → Bank New York, 4-zits, coco, afbeelding 1 van 5
-- `84550780…` → Bank New York, 4-zits, coco, afbeelding 2 van 5
-- `e726452e…` → Bank New York, 4-zits, coco, afbeelding 3 van 5
-- `1e6f7d1b…` → Bank New York, 4-zits, coco, afbeelding 4 van 5
-- `a25d33ec…` → Bank New York, 4-zits, coco, afbeelding 5 van 5
-- `0d24eac7…` → Bank New York, 4-zits, zand boucle, afbeelding 1 van 5
-- `64add467…` → Bank New York, 4-zits, zand boucle, afbeelding 2 van 5
-- `9100b23e…` → Bank New York, 4-zits, zand boucle, afbeelding 3 van 5
-- `8148a26b…` → Bank New York, 4-zits, zand boucle, afbeelding 4 van 5
-- `fa6dae48…` → Bank New York, 4-zits, zand boucle, afbeelding 5 van 5
-- `fceb0d0f…` → Bank New York, 4-zits met lounge rechts, beige, afbeelding 1 van 5
-- `5413238b…` → Bank New York, 4-zits met lounge rechts, beige, afbeelding 2 van 5
-- `e646e3de…` → Bank New York, 4-zits met lounge rechts, beige, afbeelding 3 van 5
-- `a6697b2f…` → Bank New York, 4-zits met lounge rechts, beige, afbeelding 4 van 5
-- `06db89ee…` → Bank New York, 4-zits met lounge rechts, beige, afbeelding 5 van 5
-- `df0fd68b…` → Bank New York, 4-zits met lounge rechts, coco, afbeelding 1 van 4
-- `12f1b0e8…` → Bank New York, 4-zits met lounge rechts, coco, afbeelding 2 van 4
-- `f5a8458f…` → Bank New York, 4-zits met lounge rechts, coco, afbeelding 3 van 4
-- `60430cd8…` → Bank New York, 4-zits met lounge rechts, coco, afbeelding 4 van 4
-- `d80dafbb…` → Bank New York, 4-zits met lounge rechts, zand boucle, afbeelding 1 van 5
-- `4d74b908…` → Bank New York, 4-zits met lounge rechts, zand boucle, afbeelding 2 van 5
-- `4ca15da1…` → Bank New York, 4-zits met lounge rechts, zand boucle, afbeelding 3 van 5
-- `f4d799d1…` → Bank New York, 4-zits met lounge rechts, zand boucle, afbeelding 4 van 5
-- `a108b1c5…` → Bank New York, 4-zits met lounge rechts, zand boucle, afbeelding 5 van 5
+De 5 beelden (800 px breed) van deze uitvoering komen van het door Orderchamp geïmporteerde concept; hun alt-teksten blijven gedeeld en ongewijzigd.
 
 ## Opmerking
 
-Twaalf conceptproducten worden één product met opties Opstelling en Kleur. De sku '71917285932' mist vermoedelijk een cijfer; te controleren bij Pole To Pole.
+Afmetingen, zitbreedte, zithoogte, gewicht, het frame van beukenhout en multiplex, de schuimdichtheid, de stofsamenstelling, het onderhoud, herkomst (China) en brandvertraging (nee) komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285938, geopend op 5 november 2026). De zitdiepte staat in de bron als "70 Lounge: 142 cm"; die lezing is onduidelijk en staat daarom niet in de tekst of de specificaties. Wat "lounge rechts" precies inhoudt (vorm, maten van het element) is in de bron niet beschreven; de tekst noemt alleen een lounge-element aan de rechterkant. Levertijd: volgens de Orderchamp-import verschilt die per item; een termijn is niet gevonden. Dit product is het door Orderchamp geïmporteerde concept `bank-new-york-2-5-zits-rechter-lounge-beige`; varianten, voorraad en beelden blijven van Orderchamp. De drie andere uitvoeringen met voorraad (2,5-zits lounge rechts coco, SKU 871917285934; 4-zits lounge rechts beige, SKU 871917285952, 67 × 294 × 172 cm, 90 kg; 4-zits lounge rechts coco, SKU 871917285936) zijn eigen Orderchamp-producten en krijgen een korte variant; coco is 93% polyester en 7% viscose. Ze staan ook in de variantentabel; de hoofdsessie beslist of die tabel één rij moet worden. De koppelingen in de tekst zijn als HTML geschreven omdat `md_naar_vars.py` geen markdown-links omzet. Geen voorraad, geen tekst: 2,5-zits beige (SKU 871917285937, € 2240,00), 2,5-zits coco (871917285933, € 2480,00), 2,5-zits zand boucle (871917285929, € 2240,00), 2,5-zits lounge rechts zand boucle (871917285930, € 2740,00), 4-zits beige (871917285939, € 3200,00), 4-zits coco (871917285935, € 3480,00), 4-zits zand boucle (871917285931, € 3200,00) en 4-zits lounge rechts zand boucle (SKU `71917285932` met 11 cijfers, € 3740,00; te controleren). De vorige tekst noemde een massief frame, vulling van schuim en vezel, levertijd 6 tot 8 weken, 2 jaar garantie en herkomst Nederland; die gegevens staan niet in het feitenbestand en zijn vervallen.
 
 ## Aan te vullen door de eigenaar
 
-Alle velden met `[AANVULLEN]` in de specificaties (afmetingen, zithoogte, zitdiepte, gewicht, materiaal) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
+Alle velden met `[AANVULLEN]` in de specificaties (zitdiepte, levertijd, garantie) komen uit het specificatieblad van de leverancier. Zolang ze leeg zijn, toont de productpagina die rij niet.
