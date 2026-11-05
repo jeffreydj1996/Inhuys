@@ -1,0 +1,17 @@
+draaistoel-pebble: status DRAFT, gelijk
+draaistoel-pebble-beige: status DRAFT, gelijk
+draaistoel-storm: status DRAFT, gelijk
+draaistoel-storm-bruin: status DRAFT, gelijk
+draaistoel-storm-coco: status DRAFT, gelijk
+eetkamerstoel-rainbow-coco-set-van-2: status DRAFT, gelijk
+eetkamerstoel-rainbow-set-van-2: status DRAFT, gelijk
+eetkamerstoel-rainbow-taupe-set-van-2: status DRAFT, gelijk
+eetkamerstoel-rock-bruin-set-van-2: status DRAFT, gelijk
+eetkamerstoel-rock-karamel-set-van-2: status DRAFT, gelijk
+eetkamerstoel-rock-set-van-2: status DRAFT, gelijk
+eetkamerstoel-rock-taupe-set-van-2: status DRAFT, gelijk
+eetkamerstoel-tusk-bruin-set-van-2: status DRAFT, gelijk
+eetkamerstoel-tusk-coco-set-van-2: status DRAFT, gelijk
+eetkamerstoel-tusk-set-van-2: status DRAFT, gelijk
+eetkamerstoel-tusk-zandwit-set-van-2: status DRAFT, gelijk
+totaal 16 producten, 0 afwijkingen
