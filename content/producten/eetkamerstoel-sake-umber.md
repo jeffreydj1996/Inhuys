@@ -7,7 +7,7 @@ Categorie: gid://shopify/TaxonomyCategory/fr-7-9
 Collecties: gid://shopify/Collection/704710541651
 
 Meta-titel (53): Sake eetkamerstoel in umber · met armleuning · InHuys  
-Meta-description (151): Sake eetkamerstoel in umber met armleuningen en een zithoogte van 48 cm. Gestoffeerd in 100% polyester, op een frame van gepoedercoat staal, voor aan de eettafel.
+Meta-description (139): Sake eetkamerstoel in umber met armleuningen en een zithoogte van 48 cm. Gestoffeerd in 100% polyester op een stalen frame, voor aan de eettafel.
 
 **Zin onder de titel:** De Sake-armstoel in umber, voor een eettafel waar je na het eten graag nog even blijft zitten.
 
