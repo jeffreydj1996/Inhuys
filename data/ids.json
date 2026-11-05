@@ -77,7 +77,16 @@
     "eetkamerstoel-fuji-umber": "gid://shopify/Product/11031555277139",
     "keukenbarkruk-japandi-set-van-2": "gid://shopify/Product/10447099625811",
     "keukenbarkruk-japandi-umber-set-van-2": "gid://shopify/Product/11031555047763",
-    "barkruk-japandi": "gid://shopify/Product/11031555113299"
+    "barkruk-japandi": "gid://shopify/Product/11031555113299",
+    "eetkamerstoel-avena-set-van-2": "gid://shopify/Product/10447101395283",
+    "eetkamerstoel-avena-karamel-set-van-2": "gid://shopify/Product/10447099658579",
+    "eetkamerstoel-avena-mink-set-van-2": "gid://shopify/Product/10447099822419",
+    "eetkamerstoel-mera-set-van-2": "gid://shopify/Product/10447099560275",
+    "eetkamerstoel-mera-karamel-set-van-2": "gid://shopify/Product/10447099887955",
+    "eetkamerstoel-nox-set-van-2": "gid://shopify/Product/10447099953491",
+    "eetkamerstoel-nox-umber-set-van-2": "gid://shopify/Product/10447099920723",
+    "eetkamerstoel-high-five-set-van-2": "gid://shopify/Product/10447091958099",
+    "eetkamerstoel-wave-set-van-2": "gid://shopify/Product/10447091892563"
   },
   "artikelen": {
     "boucle-onderhouden-zo-blijft-je-bank-mooi": "gid://shopify/Article/617286107475",
@@ -155,6 +164,15 @@
     "eetkamerstoel-fuji-umber": "fuji-stoel-1",
     "keukenbarkruk-japandi-set-van-2": "japandi-keukenbar-stoel-okura-set-van-2",
     "keukenbarkruk-japandi-umber-set-van-2": "japandi-keukenbar-stoel-umber-set-van-2",
-    "barkruk-japandi": "japanda-bar-chairs-droogte-set-off-2"
+    "barkruk-japandi": "japanda-bar-chairs-droogte-set-off-2",
+    "eetkamerstoel-avena-set-van-2": "avena-stoelcreme-set-van-2",
+    "eetkamerstoel-avena-karamel-set-van-2": "avena-stoel-caramel-set-van-2",
+    "eetkamerstoel-avena-mink-set-van-2": "avena-chair-mink-set-van-2",
+    "eetkamerstoel-mera-set-van-2": "mera-stoelcreme-set-van-2",
+    "eetkamerstoel-mera-karamel-set-van-2": "mera-stoel-caramel-set-van-2",
+    "eetkamerstoel-nox-set-van-2": "nox-stoel-tan-set-van-2",
+    "eetkamerstoel-nox-umber-set-van-2": "nox-voorzitter-umber-set-van-2",
+    "eetkamerstoel-high-five-set-van-2": "high-five-stoel-beige-set-van-2",
+    "eetkamerstoel-wave-set-van-2": "wave-stoel-beige-set-van-2"
   }
 }
