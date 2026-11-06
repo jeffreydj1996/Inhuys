@@ -64,4 +64,9 @@ Uitlezing van deze producten: `data/orderchamp/<handle>.json` en `data/ordercham
 
 ## Stand na batch 6 (5 november 2026)
 
-66 Orderchamp-concepten dragen onze inhoud (titel, handle, tekst, SEO, metavelden): batch 2b (20), 3 (12), 4 (11), 5 (16) en 6 (7). Varianten, SKU's, prijzen, voorraad en beelden zijn overal van Orderchamp gebleven; status DRAFT, publicaties 0. De tien live producten (batch 2c) wachten op `INHUYS_LIVE_TEKST=1`. Verificatie na overzetting: `tools/nodes_uit_logboek.py` en `tools/verifieer_overzetting.py` (byte-voor-byte, zie `tools/README.md`); batch 5 en 6 zonder afwijking.
+66 Orderchamp-concepten dragen onze inhoud (titel, handle, tekst, SEO, metavelden): batch 2b (20), 3 (12), 4 (11), 5 (16) en 6 (7). Varianten, SKU's, prijzen, voorraad en beelden zijn overal van Orderchamp gebleven; status DRAFT, publicaties 0. De tien live producten (batch 2c) wachten op `INHUYS_LIVE_TEKST=1`. Verificatie na overzetting: `tools/nodes_uit_logboek.py` en `tools/verifieer_overzetting.py` (byte-voor-byte, zie `tools/README.md`); batch 5, 6 en 7 zonder afwijking.
+
+## Stand na batch 7 (6 november 2026)
+
+84 Orderchamp-concepten dragen onze inhoud: batch 7 voegde 18 decoratieproducten toe (vazen, schaal, lantaarns, schelpdecoratie, schelpenkettingen en octo-kettingen als hoofdproduct met korte varianten). De conceptcollecties vazen, windlichten-en-kaarsenhouders en decoratie bevatten deze producten al handmatig sinds fase 2; alleen de twee hoofdproducten van de kettingen (J63 en Black Tiger) zijn via `collectionsToJoin` aan de decoratiecollectie toegevoegd, de korte varianten van de kettingen niet.
+

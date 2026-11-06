@@ -110,7 +110,7 @@ Raming: overzetting 350.000 tokens, live producten 150.000, nieuwe teksten 30 mo
 | 4 | klaar | 11 |
 | 5 | klaar, byte-voor-byte geverifieerd | 16 (Rock heet nu eetkamerstoel: fabrikantnaam "Rock chair", geen schommelfunctie) |
 | 6 | klaar, byte-voor-byte geverifieerd | 7 |
-| 7 | feiten en uitlezing klaar, teksten na tussenrapport | 0 |
+| 7 | klaar, byte-voor-byte geverifieerd (6 november) | 18 (10 hoofd: vazen Bubble, Meduse, Swoop set van 6, schaal Babi, lantaarns Raffles en Peninsula, schelpentoren Pearl, krab, schelpenketting J63, octo-ketting Black Tiger; 8 kort) |
 | 8 | niet gestart | 0 |
 
-Samen 66 Orderchamp-concepten met eigen inhoud. Kosten: `data/kosten-fase3-2026-11-05.md`.
+Samen 84 Orderchamp-concepten met eigen inhoud. Kosten: `data/kosten-fase3-2026-11-05.md`.

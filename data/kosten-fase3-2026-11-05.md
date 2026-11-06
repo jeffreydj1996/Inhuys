@@ -14,8 +14,8 @@ Tokens van de agents (invoer plus uitvoer, uit de agentrapportage; de hoofdsessi
 | Batch 4 Avena, Mera, Nox, High Five, Wave (11 producten) | 9 | 386.449 | |
 | Batch 5 Tusk. Rainbow. Rock. Storm. Pebble (16 producten) | 15 | 793.236 | inclusief byte-voor-byte-verificatie (lezer) |
 | Batch 6 EDO. Wing. Egg. Whale Retro. Fjord (7 producten) | 11 | 527.026 | inclusief verificatie |
-| Batch 7 decoratie (alleen feiten en uitlezing) | 6 | 247.319 | teksten nog niet gestart |
-| **Totaal** | **118** | **5.605.103** | |
+| Batch 7 decoratie (18 producten: feiten. uitlezing. teksten. controle. overzetting. verificatie) | 20 | 1.074.308 | raming 600.000 tot 700.000 voor het tekstdeel; werkelijk 826.989 |
+| **Totaal** | **132** | **6.432.092** | |
 
 ## IJking tegen de raming in plannen/fase-3.md
 
@@ -26,7 +26,7 @@ Tokens van de agents (invoer plus uitvoer, uit de agentrapportage; de hoofdsessi
 
 ## Nog te verwachten
 
-- Batch 7 decoratie: 5 families, naar verwachting 400.000 tot 500.000 tokens (teksten, controle, overzetting).
+- Batch 7 decoratie: gedaan op 6 november; het tekstdeel kostte 826.989 (inclusief verificatie), boven de raming van 600.000 tot 700.000 door de verkenning vooraf (90.000) en twee controleurs met samen 190.000.
 - Batch 8 Jupiduu: feiten moeten nog gezocht worden (jupiduu.com); schatting 500.000 tot 700.000.
 - Stap 4 live producten: alleen nog uitvoerder en momentopnames, 150.000.
 - Modellen zonder voorraad (Breeze, Boog, Panda, Mars, Kathmandu, Sycomore, Craft klein): pas bij voorraad, teksten liggen klaar.
