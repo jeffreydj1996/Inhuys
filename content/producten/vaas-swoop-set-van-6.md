@@ -48,7 +48,7 @@ Ik zet de zes vazen het liefst in een rechte rij over een lange tafel, met in el
 ## Veelgestelde vragen
 
 **Hoeveel vazen krijg ik?**  
-Zes gelijke vazen. De prijs van € 107,70 geldt voor de hele set.
+Zes gelijke vazen; de prijs geldt voor de hele set.
 
 **Hoe groot is elke vaas?**  
 Op 20 cm hoogte per vaas passen ze op een boekenplank tussen de boeken. Met een breedte van 10 cm zet je ze ook op een smalle vensterbank.
