@@ -3,7 +3,8 @@
 Handle: `/products/schelpenketting-j63` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Decoratie
 
 Tags: schelpenketting, schelp, wit, pole-to-pole  
-Categorie: gid://shopify/TaxonomyCategory/hg-3
+Categorie: gid://shopify/TaxonomyCategory/hg-3  
+Collecties: gid://shopify/Collection/704710738259
 
 Meta-titel (53): J63 schelpenketting · schelp, touw en metaal · InHuys  
 Meta-description (137): J63 schelpenketting in wit van schelp, touw en metaal: een decoratief object voor je dressoir of kast, geen sieraad. Met de hand gemaakt.

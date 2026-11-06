@@ -3,7 +3,8 @@
 Handle: `/products/octo-ketting-black-tiger` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Decoratie
 
 Tags: octo-ketting, schelp, zwart, pole-to-pole  
-Categorie: gid://shopify/TaxonomyCategory/hg-3
+Categorie: gid://shopify/TaxonomyCategory/hg-3  
+Collecties: gid://shopify/Collection/704710738259
 
 Meta-titel (54): Octo-ketting Black Tiger L · zwarte decoratie · InHuys  
 Meta-description (141): Octo-ketting Black Tiger L in zwart, van hout, touw, schelp en metaal. Een decoratief accent voor een dressoir of kast tegen een lichte muur.
