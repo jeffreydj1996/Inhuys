@@ -22,7 +22,7 @@ Meta-description (134): Octo-ketting zwart-wit S van metaal, hout, touw en schel
 Zwart en wit samen geven een grafisch accent dat in een lichte kamer niet zwaar wordt, omdat het wit de donkere delen lucht geeft. De K35 is een decoratieve octo-ketting voor je interieur en geen sieraad: je zet hem op een dressoir, een kast of een brede vensterbank. Met zijn 52 cm hoogte telt hij op een kast mee en blijft hij toch een maat kleiner dan de Black Tiger L, waardoor hij ook in een kleinere kamer past. Op een smal blad houdt hij met zijn 22 cm breedte ruimte over voor een vaas of een kaars ernaast.
 
 ### Materiaal en maakwijze
-In de K35 komen metaal, hout, touw en schelp samen, en die mix geeft het zwart-witte patroon diepte. Elk exemplaar wordt in Indonesië met de hand gemaakt, dus kleine onregelmatigheden in het metaal, kleurverschillen en kleine maatverschillen horen bij het stuk. Met 1,4 kg vraagt de ketting om een stevige kast of een dressoir in plaats van een zwevende plank. Montage is niet nodig, want je pakt hem uit en zet hem neer. Neem hem af met een vochtige, niet natte doek en laat het materiaal nooit weken of in aanraking komen met agressieve schoonmaakmiddelen.
+In de K35 komen metaal, hout, touw en schelp samen, en die mix geeft het zwart-witte patroon diepte. Elk exemplaar wordt in Indonesië met de hand gemaakt, dus kleine onregelmatigheden in het metaal, kleurverschillen en kleine maatverschillen kunnen voorkomen. Met 1,4 kg vraagt de ketting om een stevige kast of een dressoir in plaats van een zwevende plank. Montage is niet nodig, want je pakt hem uit en zet hem neer. Neem hem af met een vochtige, niet natte doek en laat het materiaal nooit weken of in aanraking komen met agressieve schoonmaakmiddelen.
 
 ### Combineren
 In een eethoek met de ovale Ellipse en zwarte EDO-stoelen herhaalt de K35 op een dressoir het zwart van de stoelen, terwijl het wit aansluit bij een lichte muur. Op een eiken kast naast de Agano-vaas van travertijn ontstaat een contrast tussen het grafische patroon en de zachte, zandkleurige steen. Het andere model en het volledige advies vind je bij de [octo-ketting Black Tiger L](/products/octo-ketting-black-tiger).
@@ -52,7 +52,7 @@ Ik kies de K35 voor een kamer met al wat donkere meubels, omdat het wit daar luc
 Nee, het is een decoratief object voor je interieur. Je zet hem als accent op een dressoir, een kast of een vensterbank.
 
 **Waarin verschilt de K35 van de Black Tiger L?**  
-De K35 is zwart-wit en kleiner, terwijl de volledig zwarte Black Tiger L met 67 cm hoger is. Beide zijn met de hand gemaakt van hout, touw, schelp en metaal.
+De K35 is zwart-wit en kleiner, terwijl de Black Tiger L in zwart met 67 cm hoger is. Beide zijn met de hand gemaakt van hout, touw, schelp en metaal.
 
 **Waar zet ik de ketting neer?**  
 Met 1,4 kg vraagt hij om een stevige kast of een dressoir, en niet om een zwevende plank.

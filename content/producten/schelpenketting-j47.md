@@ -22,7 +22,7 @@ Meta-description (147): J47 schelpenketting op standaard in naturel, van schelp,
 Omdat de J47 op een standaard komt, zet je hem als een staand object neer op een dressoir, in een boekenkast of op een brede vensterbank. Met zijn 59 cm hoogte geeft hij een laag blad een verticale lijn, en naast een tafellamp ontstaan zo twee hoogtes die elkaar in evenwicht houden. Op een diepte van 10 cm past hij ook op een smallere plank. In naturel sluit hij aan bij hout, linnen en rotan, en het blijft decoratie voor je interieur, geen sieraad.
 
 ### Materiaal en maakwijze
-De J47 bestaat uit schelp, touw en metaal en wordt in Indonesië met de hand gemaakt, waardoor metaal, kleur en maat licht per exemplaar verschillen. Met 1,5 kg is hij de zwaarste van de schelpenkettingen, dus een stevige kast of plank is de juiste plek. Montage is niet nodig, en voor het onderhoud neem je hem af met een vochtige, niet natte doek, zonder harde schoonmaakmiddelen en zonder het materiaal te laten weken.
+De J47 bestaat uit schelp, touw en metaal en wordt in Indonesië met de hand gemaakt, waardoor metaal, kleur en maat per exemplaar licht kunnen afwijken. Met 1,5 kg is hij de zwaarste van de schelpenkettingen, dus een stevige kast of plank is de juiste plek. Montage is niet nodig, en voor het onderhoud neem je hem af met een vochtige, niet natte doek, zonder harde schoonmaakmiddelen en zonder het materiaal te laten weken.
 
 ### Combineren
 In een boekenkast van licht eiken breekt het naturel van de schelpen de rechte lijnen van boekenruggen en planken. Op een dressoir naast de Raffles lantaarn van rotan ontstaat een groep van natuurlijke materialen met elk een eigen textuur, en met de Agano-vaas van travertijn erbij komt er een zandkleurige steen in. De andere schelpenkettingen en het volledige advies vind je bij de [J63 schelpenketting](/products/schelpenketting-j63).
@@ -49,7 +49,7 @@ Ik kies de J47 voor een vensterbank of een open vak in de kast, waar een ketting
 ## Veelgestelde vragen
 
 **Wordt de J47 met standaard geleverd?**  
-Ja, de J47 komt op een standaard, zodat je hem als staand object op een kast of vensterbank zet.
+Ja, de fabrikant levert de J47 volgens de productnaam op een standaard, zodat je hem als staand object op een kast of vensterbank zet.
 
 **Is de J47 een sieraad?**  
 Nee, het is een decoratief object voor je interieur, dat je als accent op een dressoir, een kast of een vensterbank zet.
@@ -63,7 +63,7 @@ De 3 beelden (1200 px breed) horen bij het Orderchamp-concept `j47-shell-ketting
 
 ## Opmerking
 
-Afmetingen, gewicht, materialen, kleur, set-inhoud, onderhoud, herkomst en het handwerk komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285688, "J47 Shell Necklace On Stand", geopend op 5 november 2026). De standaard staat alleen in de titel van de fabrikant en wordt op de pagina niet beschreven: materiaal en maat van de standaard en of de afmetingen de standaard meetellen, zijn te verifiëren. De importtekst van het oude product noemt een metalen standaard, maar dat is dezelfde tekst die bij alle schelpenkettingen staat en dus geen bevestiging. De bron geeft hoogte, breedte en diepte, maar geen lengte van de ketting. De importtekst noemt geen gewicht; het gewicht van 1,5 kg komt van de fabrikant. De doos meet 25 × 12 × 60 cm (b × d × h), weegt 1,72 kg en heeft een volume van 0,018 m³. Schelpsoort, vezel van het touw en metaalsoort zijn niet vermeld. Of het model uitloopt, is niet gevonden. Dit product is het Orderchamp-concept `j47-shell-ketting`; varianten, voorraad en beelden blijven van Orderchamp. De prijs van € 39,90 komt ongewijzigd uit het bronproduct.
+Afmetingen, gewicht, materialen, kleur, set-inhoud, onderhoud, herkomst en het handwerk komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285688, "J47 Shell Necklace On Stand", geopend op 5 november 2026). De standaard staat in de productnaam van de fabrikant ("On Stand") en wordt op de pagina verder niet beschreven; de afmetingen zijn de productmaten van de fabrikant, materiaal en maat van de standaard zijn te verifiëren. De importtekst van het oude product noemt een metalen standaard, maar dat is dezelfde tekst die bij alle schelpenkettingen staat en dus geen bevestiging. De bron geeft hoogte, breedte en diepte, maar geen lengte van de ketting. De importtekst noemt geen gewicht; het gewicht van 1,5 kg komt van de fabrikant. De doos meet 25 × 12 × 60 cm (b × d × h), weegt 1,72 kg en heeft een volume van 0,018 m³. Schelpsoort, vezel van het touw en metaalsoort zijn niet vermeld. Of het model uitloopt, is niet gevonden. Dit product is het Orderchamp-concept `j47-shell-ketting`; varianten, voorraad en beelden blijven van Orderchamp. De prijs van € 39,90 komt ongewijzigd uit het bronproduct.
 
 ## Aan te vullen door de eigenaar
 
