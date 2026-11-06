@@ -22,7 +22,7 @@ Meta-description (141): Pearl schelpentoren L van schelp, metaal en hout, met de
 Een smalle toren van schelpen geeft hoogte aan een plek waar verder alles laag ligt, zoals een dressoir met een stapel boeken of een vensterbank met een paar kleine schalen. Met zijn 38 cm hoogte steekt de Pearl boven boeken en kaarsenhouders uit, waardoor het oog eerst over het blad loopt en dan omhoog gaat. Op een voetafdruk van 7 bij 7 cm vindt hij ook een plek op een smalle plank in de badkamer of in een open kast tussen glaswerk. Schelpen vangen het licht anders dan een glad oppervlak, omdat elke ronding een eigen schaduw geeft. Daardoor komt de toren het best tot zijn recht in de buurt van een raam, waar het daglicht door de dag heen verschuift.
 
 ### Materiaal en maakwijze
-De Pearl is opgebouwd uit schelp, metaal en hout en staat op een standaard. Elk exemplaar wordt in Indonesië met de hand gemaakt, dus de kleur van de schelpen, het metaal en de exacte maat verschillen licht per stuk. Dat hoort bij het product en maakt van twee torens naast elkaar geen tweeling. Met 0,58 kg is de toren licht genoeg voor een wandplank, en je hoeft niets in elkaar te zetten. Stof verwijder je met een vochtige, niet natte doek. Laat de schelpen nooit weken en houd agressieve schoonmaakmiddelen weg van het schelp, het metaal en het hout.
+De Pearl is opgebouwd uit schelp, metaal en hout en staat op een standaard. Elk exemplaar wordt in Indonesië met de hand gemaakt, dus de kleur van de schelpen, het metaal en de maat kunnen per stuk licht afwijken. Met 0,58 kg is de toren licht genoeg voor een wandplank, en je hoeft niets in elkaar te zetten. Stof verwijder je met een vochtige, niet natte doek. Laat de schelpen nooit weken en houd agressieve schoonmaakmiddelen weg van het schelp, het metaal en het hout.
 
 ### Combineren
 Op een eiken dressoir naast de Agano-vaas van travertijn ontstaat een duo van schelp en steen, waarin de toren de hoogte neemt en de vaas het gewicht. In een badkamer met wit tegelwerk en een houten wandplank brengt hij een natuurlijk element tussen het keramiek en het glas. Zet je hem bij de Peninsula lantaarn of de messing krab, dan krijgt een vensterbank een kustthema zonder dat het een verzameling souvenirs wordt.
@@ -48,10 +48,10 @@ Ik gebruik de Pearl als verticale lijn in een groepje lage objecten, nooit als e
 ## Veelgestelde vragen
 
 **Is de Pearl van parelmoer?**  
-Nee. Pearl is de naam van het model; de toren is gemaakt van schelp, metaal en hout.
+Pearl is de naam van het model. De fabrikant noemt als materialen schelp, metaal en hout.
 
 **Is elke schelpentoren hetzelfde?**  
-Nee. Elk exemplaar wordt met de hand gemaakt, dus kleur, metaal en maat verschillen licht per stuk.
+Niet helemaal. Elk exemplaar wordt met de hand gemaakt, dus kleur, metaal en maat kunnen per stuk licht afwijken.
 
 **Waar zet ik de toren neer?**  
 Met een voetafdruk van 7 bij 7 cm past hij op een smalle plank, een vensterbank of tussen de boeken op een dressoir.
@@ -68,7 +68,7 @@ De 4 beelden (1200 px breed) horen bij het Orderchamp-concept `j73-schelptoren-p
 
 ## Opmerking
 
-Afmetingen, gewicht, materialen, set-inhoud, onderhoud, herkomst en het handwerk komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285768, "J73 Shell Tower Pearl On Stand L", geopend op 5 november 2026). "Pearl" staat alleen in de productnaam; de materiaalvermelding noemt geen parelmoer. Het kleurveld van de fabrikant zegt "Other Color" zonder omschrijving en er is geen afwerking genoemd; daarom staat afwerking op [AANVULLEN] en noemen de tekst en de tags geen kleur. De bron vermeldt "Shell, Metal, Wood" zonder onderdeelindeling: het metaal is niet nader benoemd en het hout is niet expliciet aan de voet gekoppeld. De importtekst van het oude product spreekt van een metalen standaard; dat bevestigt de fabrikant niet, en het staat niet in de tekst. Doosmaten zijn niet gevonden. In dezelfde serie bestaat de J72 S van 28 cm (`j72-shell-toren-parel-s`, € 25,90), die hier niet als variant is opgenomen. Dit product is het Orderchamp-concept `j73-schelptoren-parel-l`; varianten, voorraad en beelden blijven van Orderchamp. De prijs van € 29,90 komt ongewijzigd uit het bronproduct.
+Afmetingen, gewicht, materialen, set-inhoud, onderhoud, herkomst en het handwerk komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285768, "J73 Shell Tower Pearl On Stand L", geopend op 5 november 2026). "Pearl" staat alleen in de productnaam; de materiaalvermelding noemt geen parelmoer. Het kleurveld van de fabrikant zegt "Other Color" zonder omschrijving en er is geen afwerking genoemd; daarom staat afwerking op [AANVULLEN] en noemen de tekst en de tags geen kleur. De bron vermeldt "Shell, Metal, Wood" zonder onderdeelindeling: het metaal is niet nader benoemd en het hout is niet expliciet aan de voet gekoppeld. De standaard volgt uit de fabrikantnaam "Shell Tower Pearl On Stand"; de importtekst van het oude product noemt een metalen standaard, maar het materiaal van de standaard bevestigt de fabrikant niet, dus de tekst noemt alleen een standaard. Doosmaten zijn niet gevonden. In dezelfde serie bestaat de J72 S van 28 cm (`j72-shell-toren-parel-s`, € 25,90), die hier niet als variant is opgenomen. Dit product is het Orderchamp-concept `j73-schelptoren-parel-l`; varianten, voorraad en beelden blijven van Orderchamp. De prijs van € 29,90 komt ongewijzigd uit het bronproduct.
 
 ## Aan te vullen door de eigenaar
 

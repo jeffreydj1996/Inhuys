@@ -6,9 +6,9 @@ Tags: vaas, aluminium, brons, pole-to-pole
 Categorie: gid://shopify/TaxonomyCategory/hg-3-67
 
 Meta-titel (50): Bubble vaas van aluminium in brons, 23 cm · InHuys  
-Meta-description (132): Bubble vaas van aluminium in brons, 23 cm hoog: een kleine vaas voor één tak of droogbloem op een plank, vensterbank of nachtkastje.
+Meta-description (132): Bubble vaas van aluminium in brons, 23 cm hoog: een kleine vaas voor een droge tak of droogbloem op een plank, vensterbank of nachtkastje.
 
-**Zin onder de titel:** Een kleine bronskleurige vaas voor een vensterbank, een plank of het nachtkastje, waar één tak al genoeg is.
+**Zin onder de titel:** Een kleine bronskleurige vaas voor een vensterbank, een plank of het nachtkastje, waar één droge tak al genoeg is.
 
 ## Varianten en prijzen
 
@@ -19,7 +19,7 @@ Meta-description (132): Bubble vaas van aluminium in brons, 23 cm hoog: een klei
 ## Beschrijving
 
 ### Zo werkt het in de ruimte
-Een kleine vaas werkt het best op een plek waar je dichtbij komt: de vensterbank in de keuken, een boekenplank of het nachtkastje naast je bed. Met een breedte van 12 cm neemt de Bubble daar weinig ruimte in, zodat er naast hem nog plaats blijft voor een boek, een lamp of je bril. De bronstint brengt een warme kleur in een lichte kamer en komt het sterkst uit tegen een witte of kalkkleurige muur. Met zijn 23 cm hoogte is de vaas groot genoeg voor één tak of een paar droogbloemen, en juist die beperking houdt het beeld rustig.
+Een kleine vaas werkt het best op een plek waar je dichtbij komt: de vensterbank in de keuken, een boekenplank of het nachtkastje naast je bed. Met een breedte van 12 cm neemt de Bubble daar weinig ruimte in, zodat er naast hem nog plaats blijft voor een boek, een lamp of je bril. De bronstint brengt een warme kleur in een lichte kamer en komt het sterkst uit tegen een witte of kalkkleurige muur. Met zijn 23 cm hoogte is de vaas groot genoeg voor één droge tak of een paar droogbloemen, en juist die beperking houdt het beeld rustig.
 
 ### Materiaal en maakwijze
 Omdat de Bubble van aluminium is, breekt hij niet zoals glas of keramiek wanneer hij een keer van de vensterbank valt. Met 0,36 kg weegt de vaas weinig, en dat maakt hem geschikt voor een smalle wandplank of een rek dat niet veel kan dragen. Het metaal heeft een bronstint, die warmer oogt dan zilverkleurig aluminium en goed samengaat met hout en natuursteen. De vaas wordt gemaakt in India en komt via Pole To Pole naar InHuys. Stof neem je af met een vochtige doek die niet nat is. Laat de vaas nooit in water weken en gebruik geen agressieve schoonmaakmiddelen.
@@ -43,7 +43,7 @@ Op een dressoir van eiken staat de Bubble goed naast een marmeren waxinelichthou
 
 ## Advies van InHuys
 
-Ik zet de Bubble het liefst op een plek waar je hem van dichtbij ziet, zoals een nachtkastje of de vensterbank boven het aanrecht. Op een groot dressoir of een lange eettafel valt hij weg; daar kies ik eerder voor de Babi-schaal of een rij van meerdere vazen. Eén tak eucalyptus of een paar droge grassen is genoeg, want een volle bos maakt het kleine formaat druk.
+Ik zet de Bubble het liefst op een plek waar je hem van dichtbij ziet, zoals een nachtkastje of de vensterbank boven het aanrecht. Op een groot dressoir of een lange eettafel valt hij weg; daar kies ik eerder voor de Babi-schaal of een rij van meerdere vazen. Eén gedroogde tak eucalyptus of een paar droge grassen is genoeg, want een volle bos maakt het kleine formaat druk.
 
 ## Veelgestelde vragen
 
@@ -54,7 +54,7 @@ Van aluminium in een bronstint. Het is een licht metaal, waardoor de vaas maar 0
 Ja, met een breedte van 12 cm heeft hij weinig ruimte nodig. Op 23 cm hoogte past hij ook op een boekenplank.
 
 **Wat zet ik er het beste in?**  
-Eén tak of een paar droogbloemen. Het kleine formaat komt het best uit met weinig stelen.
+Eén droge tak of een paar droogbloemen. Het kleine formaat komt het best uit met weinig stelen.
 
 **Hoe maak ik de vaas schoon?**  
 Met een vochtige doek die niet nat is. Laat hem niet in water weken en gebruik geen agressieve schoonmaakmiddelen.

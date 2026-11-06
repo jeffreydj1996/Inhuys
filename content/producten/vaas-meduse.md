@@ -6,7 +6,7 @@ Tags: vaas, aluminium, brons, pole-to-pole
 Categorie: gid://shopify/TaxonomyCategory/hg-3-67
 
 Meta-titel (49): Meduse lage vaas van aluminium in brons · InHuys  
-Meta-description (142): Meduse vaas van aluminium in brons, 10 cm hoog: een lage vaas voor korte takjes of droogbloemen, op een salontafel, eettafel of nachtkastje.
+Meta-description (142): Meduse vaas van aluminium in brons, 10 cm hoog: een lage vaas voor droge takjes of droogbloemen, op een salontafel, eettafel of nachtkastje.
 
 **Zin onder de titel:** Een lage, brede vaas in brons voor het midden van een salontafel of eettafel, waar het zicht vrij blijft.
 
@@ -22,10 +22,10 @@ Meta-description (142): Meduse vaas van aluminium in brons, 10 cm hoog: een lage
 Een lage vaas laat het zicht vrij, en daarom hoort hij op plekken waar je overheen kijkt: het midden van een eettafel, een salontafel voor de bank of een vensterbank met uitzicht. Met zijn 10 cm hoogte blijft de Meduse onder de ooghoogte van iedereen aan tafel, zodat je elkaar tijdens het eten gewoon aankijkt. Op een breedte van 16 cm heeft de vaas toch genoeg aanwezigheid om op een groter blad niet weg te vallen. De bronstint zet een warm accent op een licht tafelblad, en op een donker blad steekt het metaal juist af tegen de ondergrond.
 
 ### Materiaal en maakwijze
-Omdat de Meduse van aluminium is, breekt hij niet als iemand er bij het afruimen tegenaan stoot. Met 1,06 kg staat de vaas stevig op het blad, ook wanneer je hem met een paar takken vult die naar één kant hangen. Het metaal heeft een bronstint, die warmer oogt dan zilverkleurig aluminium en goed samengaat met hout, linnen en natuursteen. De vaas wordt gemaakt in India en komt via Pole To Pole naar InHuys. Stof en vingerafdrukken neem je af met een vochtige doek die niet nat is. Laat de vaas nooit in water weken en houd agressieve schoonmaakmiddelen erbuiten.
+Omdat de Meduse van aluminium is, breekt hij niet als iemand er bij het afruimen tegenaan stoot. Met 1,06 kg staat de vaas stevig op het blad, ook wanneer je hem met een paar droge takken vult die naar één kant hangen. Het metaal heeft een bronstint, die warmer oogt dan zilverkleurig aluminium en goed samengaat met hout, linnen en natuursteen. De vaas wordt gemaakt in India en komt via Pole To Pole naar InHuys. Stof en vingerafdrukken neem je af met een vochtige doek die niet nat is. Laat de vaas nooit in water weken en houd agressieve schoonmaakmiddelen erbuiten.
 
 ### Combineren
-Op de ronde Urban Chique eettafel staat de Meduse precies in het midden, met een paar korte takken eucalyptus of droge grassen erin. Op de Craft salontafel met zijn blad in travertijnlook vormt het brons een warme tegenhanger van de beige steentint. Staat die salontafel voor een lichte bank zoals de Amsterdam in latte, dan valt de vaas vanaf de bank direct op. Zet je hem samen met de hogere Bubble vaas op een dressoir, dan geeft het verschil in hoogte het groepje een rustige opbouw.
+Op de ronde Urban Chique eettafel staat de Meduse precies in het midden, met een paar gedroogde takken eucalyptus of droge grassen erin. Op de Craft salontafel met zijn blad in travertijnlook vormt het brons een warme tegenhanger van de beige steentint. Staat die salontafel voor een lichte bank zoals de Amsterdam in latte, dan valt de vaas vanaf de bank direct op. Zet je hem samen met de hogere Bubble vaas op een dressoir, dan geeft het verschil in hoogte het groepje een rustige opbouw.
 
 ## Specificaties (metavelden `inhuys.*`)
 
@@ -48,13 +48,13 @@ Ik gebruik de Meduse vooral op tafels waar mensen tegenover elkaar zitten, omdat
 ## Veelgestelde vragen
 
 **Kijk ik aan tafel over de vaas heen?**  
-Ja, met zijn 10 cm hoogte blijft de Meduse ruim onder ooghoogte. Ook met korte takken erin houd je elkaar in het zicht.
+Ja, met zijn 10 cm hoogte blijft de Meduse ruim onder ooghoogte. Ook met droge takken erin houd je elkaar in het zicht.
 
 **Van welk materiaal is de vaas?**  
 Van aluminium in een bronstint. Met 1,06 kg staat hij stevig op tafel.
 
 **Wat zet ik erin?**  
-Korte takken, droge grassen of droogbloemen. Houd de stelen laag, zodat het midden van de tafel rustig blijft.
+Droge takken, droge grassen of droogbloemen. Houd de stelen laag, zodat het midden van de tafel rustig blijft.
 
 **Hoe maak ik de vaas schoon?**  
 Met een vochtige doek die niet nat is. Laat hem niet in water weken en gebruik geen agressieve schoonmaakmiddelen.

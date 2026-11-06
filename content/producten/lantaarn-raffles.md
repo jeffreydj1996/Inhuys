@@ -52,7 +52,7 @@ Ik zet de Raffles het liefst op de vloer, schuin naast een bank of een fauteuil 
 Ja, de Raffles is gemaakt voor binnen en buiten. Je zet hem in de zomer op het terras en daarna weer binnen.
 
 **Van welk materiaal is de lantaarn?**  
-Van rotan, metaal, glas en leer. Omdat hij met de hand is gemaakt, verschilt elk exemplaar een beetje in kleur en maat.
+Van rotan, metaal, glas en leer. Omdat hij met de hand is gemaakt, kunnen kleur en maat per exemplaar licht afwijken.
 
 **Hoe groot is de Raffles?**  
 Met 42 cm hoogte staat hij goed op de vloer of op een lage tafel. Op 30 cm breedte past hij ook op een brede vensterbank.

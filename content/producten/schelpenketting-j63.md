@@ -23,7 +23,7 @@ Meta-description (137): J63 schelpenketting in wit van schelp, touw en metaal: e
 Een schelpenketting brengt textuur in een interieur waar veel gladde vlakken samenkomen, zoals gelakte kasten, glas en strak stucwerk. De J63 is een decoratief object voor je interieur en geen sieraad: je zet hem neer als accent op een dressoir, in een boekenkast of op een brede vensterbank. Met zijn 52 cm hoogte voegt hij een verticale lijn toe aan een laag blad, en naast een tafellamp of een vaas ontstaat zo een groep met verschillende hoogtes. Doordat hij maar 16 cm breed is, past de ketting ook in een open vak van een wandkast. In wit sluit hij aan bij lichte muren en linnen gordijnen, terwijl hij tegen een donkere achterwand juist naar voren komt.
 
 ### Materiaal en maakwijze
-De J63 bestaat uit schelpen, touw en metaal en wordt in Indonesië met de hand gemaakt. Door dat handwerk verschillen de kleur, het metaal en de maat licht per exemplaar, dus je ontvangt een ketting met een eigen tekening. Met 1,2 kg heeft hij een merkbaar gewicht, en daarom hoort hij op een stevige plank of kast in plaats van op een smal wandrekje. Montage is niet nodig, want hij is klaar voor gebruik zodra je hem uitpakt. Voor het onderhoud neem je de schelpen af met een vochtige, niet natte doek. Laat het touw en de schelpen nooit weken en gebruik geen harde schoonmaakmiddelen.
+De J63 bestaat uit schelpen, touw en metaal en wordt in Indonesië met de hand gemaakt. Door dat handwerk kunnen de kleur, het metaal en de maat per exemplaar licht afwijken. Met 1,2 kg heeft hij een merkbaar gewicht, en daarom hoort hij op een stevige plank of kast in plaats van op een smal wandrekje. Montage is niet nodig, want hij is klaar voor gebruik zodra je hem uitpakt. Voor het onderhoud neem je de schelpen af met een vochtige, niet natte doek. Laat het touw en de schelpen nooit weken en gebruik geen harde schoonmaakmiddelen.
 
 ### Combineren
 Op een dressoir van eiken naast de Agano-vaas van travertijn vormt het wit van de schelpen een zacht contrast met de beige steen. In een woonkamer met een lichte bank zoals de Amsterdam herhaalt de ketting op een kast de lichte tinten van de stof, zodat de twee zones van de kamer bij elkaar gaan horen. Naast de Pearl schelpentoren of de Peninsula lantaarn ontstaat een rustige groep in natuurlijke materialen.
@@ -54,16 +54,16 @@ Ik zet de J63 op een kast die je ziet zodra je de kamer binnenkomt, met een lege
 Nee, het is een decoratief object voor je interieur. Je zet hem als accent op een dressoir, een kast of een vensterbank.
 
 **Is elke ketting hetzelfde?**  
-Nee. Elke ketting wordt met de hand gemaakt, dus kleur, metaal en maat verschillen licht per exemplaar.
+Niet helemaal. Elke ketting wordt met de hand gemaakt, dus kleur, metaal en maat kunnen per exemplaar licht afwijken.
 
 **Hoe zwaar is de ketting?**  
-Hij weegt 1,2 kg. Zet hem daarom op een stevige plank of kast.
+Met zijn 1,2 kg hoort hij op een stevige plank of kast. Zet hem daarom op een stevige plank of kast.
 
 **Hoe onderhoud ik de schelpen?**  
 Met een vochtige, niet natte doek. Laat het materiaal niet weken en gebruik geen harde schoonmaakmiddelen.
 
 **Zijn er andere schelpenkettingen?**  
-Ja, de J69, J47, J65, J66, A2.1 en J37 staan elk als apart product in de collectie, in andere maten en kleuren.
+Ja, de J69, J47, J65, J66, A2.1 en J37 staan elk als apart product in de collectie, in andere maten, vormen en tinten.
 
 ## Beelden
 
