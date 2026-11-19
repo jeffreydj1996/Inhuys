@@ -18,3 +18,8 @@ Lees dit eerst in een nieuwe sessie ("ga door met de batchloop"). Plan: `plannen
 - Uitvoerder en lezer: maximaal 5 producten per run; de lezer hoeft alleen te lezen, vergelijken doet `tools/nodes_uit_logboek.py` plus `tools/verifieer_overzetting.py`.
 - Vertrouw nooit op `data/raw` voor varianten: Orderchamp verschuift kleuren. Lees het concept vóór het schrijven uit.
 - Geen puntkomma's in `opmerking` van `status.py`.
+
+## Live producten en Orderchamp (gecontroleerd 19 november 2026)
+30 producten staan actief. 26 zijn gekoppeld aan Orderchamp (voorraadlocatie "Orderchamp Dropshipping"): 21 van Pole To Pole en 5 van Jupiduu. Niet gekoppeld (locatie "Netwerk 124", voorraad 0): `travertine-agano-vaas` en `marmer-waxinelichthouder` (MOOISA), `boekhouder` (Kluster), `flitsadvies` (InHuys, dienst). De eigenaar staat toe niet-gekoppelde producten op non-actief te zetten; wacht op zijn bevestiging per product (Flitsadvies is de eigen dienst) en op een aanpassing van de beveiliging, want statuswijzigingen zijn nu geblokkeerd.
+13 gekoppelde live producten hebben voorraad 0: Cloud crème, karamel en beide Safiya, vier Breeze, Cloud barkruk karamel (2), Luna karamel en mink.
+Stand variantenherziening: alle 21 teksten zijn herzien en mechanisch in orde; controleur, overzetting en byte-vergelijking moeten nog.
