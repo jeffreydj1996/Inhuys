@@ -26,7 +26,7 @@ Aan een keukeneiland zit je vaak langer dan je plant, en daarom heeft deze Cloud
 Het frame van gepoedercoat Q195-staal, multiplex en metaal draagt je tot 120 kg per kruk. Een vlek van koffie of saus op de karamel stof van 100% polyester neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder doorweken. Wil je de kruk naast andere gestoffeerde barkrukken leggen, kijk dan naar het schuim in de kuip, met een dichtheid van 25 kg/m³. Met 6,4 kg til je de kruk even op als je de vloer onder het eiland schoonmaakt. De kruk wordt per stuk geleverd en je zet hem zelf in elkaar.
 
 ### Combineren
-Twee of drie krukken in karamel aan een eiland van eikenhout geven de keuken één warme kleurfamilie; naast een wit of lichtgrijs keukenblok wordt het bruin juist een duidelijk accent. Zet aan de eettafel de Cloud eetkamerstoel in karamel, zodat keuken en eetkamer dezelfde vorm en kleur delen. Alle uitvoeringen en het volledige advies vind je bij [Cloud keukenbarkruk in crème, met rugleuning](/products/barkruk-cloud).
+Twee of drie krukken in karamel aan een eiland van eikenhout geven de keuken één warme kleurfamilie; naast een wit of lichtgrijs keukenblok wordt het bruin juist een duidelijk accent. Zet aan de eettafel de Cloud eetkamerstoel in karamel, zodat keuken en eetkamer dezelfde vorm en kleur delen. Alle uitvoeringen en het volledige advies vind je bij [Cloud keukenbarkruk in crème, met rugleuning](/products/cloud-kitchen-barstoel-creme).
 
 ## Specificaties (metavelden `inhuys.*`)
 

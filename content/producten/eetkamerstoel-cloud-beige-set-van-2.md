@@ -26,7 +26,7 @@ Beige geeft de eethoek een rustige, warme basis die zich makkelijk aanpast aan e
 Je zit op een frame van gepoedercoat Q195-staal, multiplex en metaal, dat tot 120 kg per stoel draagt. De beige uitvoering heeft een eigen stof, van 96% polyester en 4% acryl, waar crème en karamel 100% polyester zijn. Een vlek neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. Wil je de Cloud naast andere gestoffeerde stoelen leggen, kijk dan naar het schuim in de kuip, met een dichtheid van 25 kg/m³. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
 
 ### Combineren
-Beige naast een lichte eiken tafel en een linnen tafelkleed geeft een zachte, monochrome eethoek waarin niets schreeuwt. Aan de ronde Urban Chique-tafel zitten vier Cloud-stoelen in beige dicht bij elkaar, en een Agano-vaas van travertijn in het midden sluit aan bij de warme tint van de stof. Alle uitvoeringen en het volledige advies vind je bij [Cloud eetkamerstoel in crème, set van 2](/products/eetkamerstoel-cloud-set-van-2).
+Beige naast een lichte eiken tafel en een linnen tafelkleed geeft een zachte, monochrome eethoek waarin niets schreeuwt. Aan de ronde Urban Chique-tafel zitten vier Cloud-stoelen in beige dicht bij elkaar, en een Agano-vaas van travertijn in het midden sluit aan bij de warme tint van de stof. Alle uitvoeringen en het volledige advies vind je bij [Cloud eetkamerstoel in crème, set van 2](/products/cloud-stoel-creme-set-van-2).
 
 ## Specificaties (metavelden `inhuys.*`)
 

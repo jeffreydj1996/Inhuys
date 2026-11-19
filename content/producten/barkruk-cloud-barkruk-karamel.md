@@ -26,7 +26,7 @@ Op een zithoogte van 80 cm hoort deze Cloud barkruk bij een bar, een hoog keuken
 Het frame van gepoedercoat Q195-staal, multiplex en metaal draagt je tot 120 kg per kruk. Een vlek op de karamel stof van 100% polyester neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder doorweken. Wil je de kruk naast andere gestoffeerde barkrukken leggen, kijk dan naar het schuim in de kuip, met een dichtheid van 25 kg/m³. Met 7 kg til je de kruk nog makkelijk op als je onder de bar schoonmaakt. De kruk wordt per stuk geleverd en je zet hem zelf in elkaar.
 
 ### Combineren
-Aan een bar van eikenhout geven twee krukken in karamel één warme kleurfamilie; tegen een zwart of donkergroen blad krijgt het bruin juist meer diepte. Aan de eettafel verderop passen de Cloud eetkamerstoelen in karamel, zodat dezelfde ronde kuip op twee hoogtes terugkomt. Alle uitvoeringen en het volledige advies vind je bij [Cloud keukenbarkruk in crème, met rugleuning](/products/barkruk-cloud).
+Aan een bar van eikenhout geven twee krukken in karamel één warme kleurfamilie; tegen een zwart of donkergroen blad krijgt het bruin juist meer diepte. Aan de eettafel verderop passen de Cloud eetkamerstoelen in karamel, zodat dezelfde ronde kuip op twee hoogtes terugkomt. Alle uitvoeringen en het volledige advies vind je bij [Cloud keukenbarkruk in crème, met rugleuning](/products/cloud-kitchen-barstoel-creme).
 
 ## Specificaties (metavelden `inhuys.*`)
 

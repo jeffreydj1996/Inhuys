@@ -27,7 +27,7 @@ Een glijbaan in huis staat er ook als niemand speelt, en daarom telt de kleur hi
 De glijbaan is gemaakt van hout en plastic, en de kleur zit in een speekselvaste lak met EN-71-certificering. Met 20,0 kg is hij geen stuk dat je dagelijks door de kamer schuift: je kiest één plek en laat hem daar staan. Je krijgt de glijbaan in vijf delen, die één persoon in elkaar zet met de meegeleverde zeskantsleutel en een platte schroevendraaier als tegenhouder. Wil je hem een tijd opbergen, bijvoorbeeld als er een broertje of zusje bij komt, dan haal je dezelfde vijf delen weer uit elkaar en berg je ze samen op. Schoonmaken doe je met een licht vochtige doek, zonder reinigers met oplosmiddelen. Zet hem niet op een plek waar hij lang vocht krijgt, zoals vlak bij een terrasdeur die de hele zomer openstaat, want deze glijbaan hoort binnen.
 
 ### Combineren
-Zet de [ballenbak](/products/ballenbak) ernaast in een bijpassende kleur, roos bij de roze glijbaan of blauw bij de blauwe, en de speelhoek leest als één geheel. Op een eiken vloer met een wollen vloerkleed in naturel houdt de witte glijbaan een woonkamer licht, omdat hij aansluit op de muur in plaats van op het speelgoed. Naast het [Artboard](/products/artboard) in multiplex ontstaat een hoek waar je kind afwisselt tussen bewegen en tekenen, met hout als gemeenschappelijk materiaal.
+Zet de [ballenbak](/products/ballenbak) ernaast in een bijpassende kleur, roos bij de roze glijbaan of blauw bij de blauwe, en de speelhoek leest als één geheel. Op een eiken vloer met een wollen vloerkleed in naturel houdt de witte glijbaan een woonkamer licht, omdat hij aansluit op de muur in plaats van op het speelgoed. Naast het Artboard in multiplex ontstaat een hoek waar je kind afwisselt tussen bewegen en tekenen, met hout als gemeenschappelijk materiaal.
 
 ## Specificaties (metavelden `inhuys.*`)
 
@@ -45,7 +45,7 @@ Zet de [ballenbak](/products/ballenbak) ernaast in een bijpassende kleur, roos b
 
 ## Advies van InHuys
 
-Ik zou deze glijbaan alleen in de woonkamer zetten als je er een vaste plek voor hebt, want met zijn gewicht schuif je hem niet even opzij als er visite komt. In een kinderkamer kies ik de kleur bij het textiel: groen bij linnen gordijnen in salie, roze bij een vloerkleed in oudroze, wit als de kamer al veel kleur heeft. Heb je vooral buiten ruimte, kijk dan naar de [White Dolphin glijbaan](/products/glijbaan-white-dolphin), die het hele jaar in de tuin kan blijven.
+Ik zou deze glijbaan alleen in de woonkamer zetten als je er een vaste plek voor hebt, want met zijn gewicht schuif je hem niet even opzij als er visite komt. In een kinderkamer kies ik de kleur bij het textiel: groen bij linnen gordijnen in salie, roze bij een vloerkleed in oudroze, wit als de kamer al veel kleur heeft. Heb je vooral buiten ruimte, kijk dan naar de White Dolphin glijbaan, die het hele jaar in de tuin kan blijven.
 
 ## Veelgestelde vragen
 

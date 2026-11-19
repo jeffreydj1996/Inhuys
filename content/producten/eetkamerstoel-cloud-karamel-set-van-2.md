@@ -26,7 +26,7 @@ In karamel brengt de Cloud een warme bruine toon aan tafel, die vooral uitkomt b
 Je zit op een frame van gepoedercoat Q195-staal, multiplex en metaal, dat tot 120 kg per stoel draagt. Een vlek op de karamel stof van 100% polyester neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. Wil je de Cloud naast andere gestoffeerde stoelen leggen, kijk dan naar het schuim in de kuip, met een dichtheid van 25 kg/m³. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
 
 ### Combineren
-Karamel bij een eiken tafel op een lichte vloer geeft een eethoek in één warme kleurfamilie; aan de Urban Chique-tafel brengt het bruin juist warmte tegen het koele keramische blad in marmerlook. Aan het keukeneiland sluit de Cloud keukenbarkruk in karamel aan, zodat keuken en eetkamer dezelfde vorm en kleur delen. Alle uitvoeringen en het volledige advies vind je bij [Cloud eetkamerstoel in crème, set van 2](/products/eetkamerstoel-cloud-set-van-2).
+Karamel bij een eiken tafel op een lichte vloer geeft een eethoek in één warme kleurfamilie; aan de Urban Chique-tafel brengt het bruin juist warmte tegen het koele keramische blad in marmerlook. Aan het keukeneiland sluit de Cloud keukenbarkruk in karamel aan, zodat keuken en eetkamer dezelfde vorm en kleur delen. Alle uitvoeringen en het volledige advies vind je bij [Cloud eetkamerstoel in crème, set van 2](/products/cloud-stoel-creme-set-van-2).
 
 ## Specificaties (metavelden `inhuys.*`)
 
