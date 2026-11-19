@@ -1,0 +1,83 @@
+# Voorstel live zetten · 19 november 2026 (nog NIET uitgevoerd)
+
+De eigenaar vroeg om de correct aangepaste producten live te zetten en de oude dubbelen op concept. De beveiliging van de sessie heeft het aanpassen van de blokkade hiervoor geweigerd; er is niets van status veranderd. Deze lijst is de voorbereiding.
+
+## Naar actief en publiceren (56)
+
+Concepten met onze tekst, voorraad en zonder dubbel. Kanalen zoals de bestaande live producten: Online Store, Shop, Point of Sale, Facebook & Instagram, Pinterest.
+
+| Handle | Beheer |
+|---|---|
+| `bank-amsterdam` | https://admin.shopify.com/store/in-huys/products/11031554851155 |
+| `bank-new-york` | https://admin.shopify.com/store/in-huys/products/10447101460819 |
+| `fauteuil-cairo` | https://admin.shopify.com/store/in-huys/products/10447092646227 |
+| `salontafel-craft` | https://admin.shopify.com/store/in-huys/products/10447097102675 |
+| `eettafel-ellipse` | https://admin.shopify.com/store/in-huys/products/10447097037139 |
+| `eettafel-urban-chique` | https://admin.shopify.com/store/in-huys/products/10447096840531 |
+| `ronde-eettafel-urban-chique` | https://admin.shopify.com/store/in-huys/products/10447100019027 |
+| `bank-new-york-4-zits-lounge-beige` | https://admin.shopify.com/store/in-huys/products/10447101526355 |
+| `bank-new-york-4-zits-lounge-coco` | https://admin.shopify.com/store/in-huys/products/10447092547923 |
+| `bank-londen-3-zits-ottoman-umber` | https://admin.shopify.com/store/in-huys/products/10447101755731 |
+| `bank-londen-6-zits-tan` | https://admin.shopify.com/store/in-huys/products/10447102017875 |
+| `bank-londen-6-zits-ottoman` | https://admin.shopify.com/store/in-huys/products/10447101985107 |
+| `eetkamerstoel-japandi` | https://admin.shopify.com/store/in-huys/products/11031554949459 |
+| `eetkamerstoel-sake` | https://admin.shopify.com/store/in-huys/products/11031555014995 |
+| `eetkamerstoel-osaka` | https://admin.shopify.com/store/in-huys/products/11031555080531 |
+| `eetkamerstoel-fuji` | https://admin.shopify.com/store/in-huys/products/11031555244371 |
+| `eetkamerstoel-avena-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447101395283 |
+| `eetkamerstoel-mera-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447099560275 |
+| `eetkamerstoel-mera-karamel-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447099887955 |
+| `eetkamerstoel-nox-umber-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447099920723 |
+| `eetkamerstoel-high-five-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447091958099 |
+| `eetkamerstoel-wave-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447091892563 |
+| `eetkamerstoel-rainbow-coco-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447090975059 |
+| `draaistoel-storm` | https://admin.shopify.com/store/in-huys/products/10447090286931 |
+| `draaistoel-pebble` | https://admin.shopify.com/store/in-huys/products/10447090254163 |
+| `eetkamerstoel-edo-reddish-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447099330899 |
+| `eetkamerstoel-wing-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447092056403 |
+| `eetkamerstoel-egg-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447099003219 |
+| `eetkamerstoel-fjord-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447091663187 |
+| `eetkamerstoel-rock-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447100510547 |
+| `vaas-bubble` | https://admin.shopify.com/store/in-huys/products/10447094219091 |
+| `vaas-meduse` | https://admin.shopify.com/store/in-huys/products/10447094317395 |
+| `vaas-swoop-set-van-6` | https://admin.shopify.com/store/in-huys/products/10447094284627 |
+| `schaal-babi` | https://admin.shopify.com/store/in-huys/products/10447094186323 |
+| `lantaarn-raffles` | https://admin.shopify.com/store/in-huys/products/10447097463123 |
+| `lantaarn-peninsula` | https://admin.shopify.com/store/in-huys/products/10447098184019 |
+| `schelpentoren-pearl` | https://admin.shopify.com/store/in-huys/products/10447097725267 |
+| `schelpenketting-j63` | https://admin.shopify.com/store/in-huys/products/10447095398739 |
+| `schelpenketting-j69` | https://admin.shopify.com/store/in-huys/products/10447095660883 |
+| `schelpenketting-j47` | https://admin.shopify.com/store/in-huys/products/10447095759187 |
+| `schelpenketting-j65` | https://admin.shopify.com/store/in-huys/products/10447098216787 |
+| `schelpenketting-j66` | https://admin.shopify.com/store/in-huys/products/10447098282323 |
+| `schelpenketting-j37` | https://admin.shopify.com/store/in-huys/products/10447103000915 |
+| `octo-ketting-black-tiger` | https://admin.shopify.com/store/in-huys/products/10447099134291 |
+| `octo-ketting-zwart-wit-s` | https://admin.shopify.com/store/in-huys/products/10447099265363 |
+| `glijbaan-white-dolphin` | https://admin.shopify.com/store/in-huys/products/10388935311699 |
+| `schommel-play-chill` | https://admin.shopify.com/store/in-huys/products/10388935377235 |
+| `hoes-jumpspot-buiten` | https://admin.shopify.com/store/in-huys/products/10388935410003 |
+| `hoes-jumpspot-binnen` | https://admin.shopify.com/store/in-huys/products/10388935442771 |
+| `klimkoepel-climb-jump` | https://admin.shopify.com/store/in-huys/products/10388935541075 |
+| `slide-surf-way` | https://admin.shopify.com/store/in-huys/products/10388935573843 |
+| `artboard` | https://admin.shopify.com/store/in-huys/products/10388935672147 |
+| `flip-play-bank` | https://admin.shopify.com/store/in-huys/products/10388935770451 |
+| `surfboard` | https://admin.shopify.com/store/in-huys/products/10388935803219 |
+| `barkruk-japandi-tan-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447099363667 |
+| `schelpenketting-h1` | https://admin.shopify.com/store/in-huys/products/10447102837075 |
+
+## Dubbelen die nu actief zijn, naar concept (6)
+
+| Handle | Beheer |
+|---|---|
+| `boogstoel-karamel-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447098380627 |
+| `breeze-stoel-pastel-roze-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447090123091 |
+| `wolkenbar-stoel-karamel` | https://admin.shopify.com/store/in-huys/products/10447098610003 |
+| `wolkenkeukenbar-stoel-karamel` | https://admin.shopify.com/store/in-huys/products/10624276955475 |
+| `luna-stoel-caramel-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447099035987 |
+| `whale-stoel-beige-set-van-2` | https://admin.shopify.com/store/in-huys/products/10447089762643 |
+
+## Niet meegenomen
+
+- `krab-messing`: deelt een SKU met `krab-l`; eerst nakijken in Orderchamp.
+- Tien concepten met onze tekst zonder voorraad: bank-londen, beide Japandi keukenbarkrukken, vier Tusk, Rainbow taupe, Storm bruin, Wing zwart.
+- De dertig dubbelen die al concept zijn: zie `analyse/11-dubbele-producten.md`.
