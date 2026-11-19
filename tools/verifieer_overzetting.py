@@ -14,7 +14,7 @@ for gid, n in sorted(nodes.items(), key=lambda kv: kv[1].get("handle", "")):
     def chk(naam, verwacht, gevonden):
         if verwacht != gevonden: fouten.append(f"  {naam}: verwacht {str(verwacht)[:200]!r} | gevonden {str(gevonden)[:200]!r}")
     chk("title", v["title"], n.get("title")); chk("productType", v["productType"], n.get("productType"))
-    chk("tags", sorted(v["tags"]), sorted(n.get("tags") or [])); chk("category", v.get("category"), (n.get("category") or {}).get("id"))
+    chk("tags", sorted(v["tags"]), sorted(n.get("tags") or [])); (chk("category", v.get("category"), (n.get("category") or {}).get("id")) if v.get("category") else None)
     chk("seo.title", v["seo"]["title"], (n.get("seo") or {}).get("title")); chk("seo.description", v["seo"]["description"], (n.get("seo") or {}).get("description"))
     chk("descriptionHtml", v["descriptionHtml"], n.get("descriptionHtml"))
     mf = {m["key"]: m for m in (n.get("metafields") or {}).get("nodes", [])}
