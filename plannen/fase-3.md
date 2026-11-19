@@ -105,12 +105,14 @@ Raming: overzetting 350.000 tokens, live producten 150.000, nieuwe teksten 30 mo
 | Batch | Stand | Producten op Orderchamp-concept |
 |---|---|---|
 | 2b | klaar | 20 (Cairo, Craft, drie tafels, New York 4, Londen 6, Amsterdam, Scandi okura en umber) |
-| 2c | teksten klaar, overzetting wacht op `INHUYS_LIVE_TEKST=1` | 0 van 10 live producten |
+| 2c | klaar (19 november), regel 2a | 10 live producten |
 | 3 | klaar | 12 |
 | 4 | klaar | 11 |
 | 5 | klaar, byte-voor-byte geverifieerd | 16 (Rock heet nu eetkamerstoel: fabrikantnaam "Rock chair", geen schommelfunctie) |
 | 6 | klaar, byte-voor-byte geverifieerd | 7 |
 | 7 | klaar, byte-voor-byte geverifieerd (6 november) | 18 (10 hoofd: vazen Bubble, Meduse, Swoop set van 6, schaal Babi, lantaarns Raffles en Peninsula, schelpentoren Pearl, krab, schelpenketting J63, octo-ketting Black Tiger; 8 kort) |
-| 8 | niet gestart | 0 |
+| 8 | klaar, byte-voor-byte geverifieerd (19 november) | 14 Jupiduu (9 concept, 5 live) |
+| 9 | klaar (19 november) | 8 restant Pole To Pole (4 concept, 4 live) |
+| 10 | slotcontrole klaar (19 november): 92 concepten en 19 live producten gelijk aan de bestanden; 27 teksten herzien naar de actuele Orderchamp-varianten | - |
 
 Samen 84 Orderchamp-concepten met eigen inhoud. Kosten: `data/kosten-fase3-2026-11-05.md`.

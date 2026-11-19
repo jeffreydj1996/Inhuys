@@ -25,3 +25,6 @@ Lees dit eerst in een nieuwe sessie ("ga door met de batchloop"). Plan: `plannen
 Stand variantenherziening: alle 21 teksten zijn herzien en mechanisch in orde; controleur, overzetting en byte-vergelijking moeten nog.
 
 Uitgevoerd 19 november: `travertine-agano-vaas`, `marmer-waxinelichthouder` en `boekhouder` staan op concept (besluit eigenaar); Flitsadvies blijft actief. De lijst `live_naar_concept` is weer leeg. Hun oude URL's geven 404 tot de redirects bij go-live.
+
+## Afgerond op 19 november 2026
+Stap 1 tot en met 3 van "Te doen" zijn klaar: 21 herziene concepten en 19 live teksten staan op Shopify; eindvergelijking over 40 producten gaf 0 afwijkingen (`data/orderchamp/verificatie/verschillen-eindcontrole-2026-11-19.txt`). Links in live teksten wijzen naar de huidige live handles; links van live producten naar concepten zijn weggehaald en gaan bij go-live terug. Open blijft stap 4 (aandachtspunten met de eigenaar) en daarna de optimalisatie van de website.
