@@ -48,6 +48,16 @@ def veldnamen(query):
 def controleer(query, variables, env):
     fouten = []
     if env.get("INHUYS_GOLIVE") == "1": return fouten
+    # Regel 2c (besluit eigenaar): de gids onder 'naar_live' in data/ids.json mogen op ACTIVE en gepubliceerd worden; niets anders in dezelfde mutatie.
+    try: naar_live = set(json.load(open(IDS, encoding="utf-8")).get("naar_live", []))
+    except Exception: naar_live = set()
+    if TESTMODUS: naar_live = set(env.get("_TEST_NAAR_LIVE", "").split())
+    if naar_live:
+        nm = veldnamen(query); vs = list((variables or {}).values())
+        prod = set(re.findall(r"gid://shopify/Product/\d+", json.dumps(variables or {}) + query))
+        if prod and prod <= naar_live:
+            if nm == {"productUpdate"} and all(isinstance(p, dict) and set(p) == {"id", "status"} and str(p["status"]).upper() == "ACTIVE" for p in vs): return []
+            if nm == {"publishablePublish"} and not re.search(r"(delete|unpublish|archive|urlredirect|theme|inventory|price|discount)", query, re.I): return []
     for n in veldnamen(query):
         if n not in TOEGESTAAN or VERBODEN_RE.search(n): fouten.append(f"mutatie '{n}' is niet toegestaan zonder INHUYS_GOLIVE=1")
     if VERBODEN_RE.search(query) and not fouten: fouten.append("de mutatietekst bevat een verboden term (delete/publish/redirect/...)")
@@ -115,6 +125,10 @@ def main():
                  ("naar concept actief", upd, {"p": {"id": "gid://shopify/Product/888888888888", "status": "ACTIVE"}}, True, {"_TEST_NAAR_CONCEPT": "gid://shopify/Product/888888888888"}),
                  ("naar concept extra", upd, {"p": {"id": "gid://shopify/Product/888888888888", "status": "DRAFT", "title": "x"}}, True, {"_TEST_NAAR_CONCEPT": "gid://shopify/Product/888888888888"}),
                  ("ander live concept", upd, {"p": {"id": "gid://shopify/Product/888888888888", "status": "DRAFT"}}, True, {}),
+                 ("naar live ok", upd, {"p": {"id": "gid://shopify/Product/777777777777", "status": "ACTIVE"}}, False, {"_TEST_NAAR_LIVE": "gid://shopify/Product/777777777777"}),
+                 ("naar live publiceren", 'mutation($id: ID!, $in: [PublicationInput!]!) { publishablePublish(id: $id, input: $in) { userErrors { message } } }', {"id": "gid://shopify/Product/777777777777", "in": [{"publicationId": "gid://shopify/Publication/1"}]}, False, {"_TEST_NAAR_LIVE": "gid://shopify/Product/777777777777"}),
+                 ("naar live ander", upd, {"p": {"id": "gid://shopify/Product/666666666666", "status": "ACTIVE"}}, True, {"_TEST_NAAR_LIVE": "gid://shopify/Product/777777777777"}),
+                 ("naar live extra", upd, {"p": {"id": "gid://shopify/Product/777777777777", "status": "ACTIVE", "title": "x"}}, True, {"_TEST_NAAR_LIVE": "gid://shopify/Product/777777777777"}),
                  ("live status", upd, {"p": {"id": LIVE, "status": "DRAFT"}}, True, {}),
                  ("live varianten", upd, {"p": {"id": LIVE, "variants": []}}, True, {}),
                  ("live tekst ok", upd, {"p": {"id": LIVE, "title": "x", "descriptionHtml": "<p>x</p>", "metafields": []}}, False, {"INHUYS_LIVE_TEKST": "1"}),
