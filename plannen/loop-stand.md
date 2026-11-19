@@ -28,3 +28,6 @@ Uitgevoerd 19 november: `travertine-agano-vaas`, `marmer-waxinelichthouder` en `
 
 ## Afgerond op 19 november 2026
 Stap 1 tot en met 3 van "Te doen" zijn klaar: 21 herziene concepten en 19 live teksten staan op Shopify; eindvergelijking over 40 producten gaf 0 afwijkingen (`data/orderchamp/verificatie/verschillen-eindcontrole-2026-11-19.txt`). Links in live teksten wijzen naar de huidige live handles; links van live producten naar concepten zijn weggehaald en gaan bij go-live terug. Open blijft stap 4 (aandachtspunten met de eigenaar) en daarna de optimalisatie van de website.
+
+## Controle hele winkel (19 november, na de loop)
+`python3 -I tools/controle_producten.py <lezer.output> <datum>` op een verse uitlezing van 215 producten: geen gewijzigde varianten, geen product met voorraad zonder onze inhoud, 36 dubbele producten (zelfde SKU in het samengevoegde product en in een los kleurproduct) en 18 eigen concepten uit fase 2. Lijst voor de eigenaar: `analyse/11-dubbele-producten.md`; hij verwijdert zelf. Links en `hoofdproduct` in blijvende teksten wijzen niet meer naar producten die weg kunnen; redirects wijzen naar het product dat blijft. Na zijn opruiming: stap opnieuw draaien als bevestiging. 80 Orderchamp-producten zonder voorraad hebben geen tekst (bewust).
