@@ -28,7 +28,7 @@ Aan een hoog blad geeft de Japandi barkruk een rustige rij zitplekken, die past 
 Het metalen frame met een afwerking in houtlook geeft de hoge kruk een rustige lijn en draagt tot 120 kg per kruk. Alle vier de kleuren hebben een stof van 100% polyester, dus voor het onderhoud maakt je kleurkeuze geen verschil. Onder die stof ligt schuim met een dichtheid van 25 kg/m³, handig om te weten als je de kruk met andere gestoffeerde barkrukken vergelijkt. Een vlek neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. Met 6,8 kg per kruk til je hem nog makkelijk op als je onder de bar schoonmaakt; de krukken zet je zelf in elkaar.
 
 ### Combineren
-Aan een bar van eikenhout vormen het houtlook-frame en de tan stof één warme kleurfamilie, terwijl een wit of lichtgrijs blad het tan juist laat oplichten. Twijfel je tussen oatly, umber en okura, leg dan de foto's van die kleuren naast je blad en je vloer, en kies de kleur die het hout in je keuken het rustigst laat ogen. Een Agano-vaas van travertijn op de bar voegt een natuursteen toe aan hout en stof, en dat maakt het Japandi-beeld rustig af. De keukenbarkruk en het volledige advies vind je bij [Japandi barkruk](/products/barkruk-japandi).
+Aan een bar van eikenhout vormen het houtlook-frame en de tan stof één warme kleurfamilie, terwijl een wit of lichtgrijs blad het tan juist laat oplichten. Twijfel je tussen oatly, umber en okura, leg dan de foto's van die kleuren naast je blad en je vloer, en kies de kleur die het hout in je keuken het rustigst laat ogen. Een Agano-vaas van travertijn op de bar voegt een natuursteen toe aan hout en stof, en dat maakt het Japandi-beeld rustig af. De keukenbarkruk en het volledige advies vind je bij Japandi barkruk.
 
 ## Specificaties (metavelden `inhuys.*`)
 
@@ -46,7 +46,6 @@ Aan een bar van eikenhout vormen het houtlook-frame en de tan stof één warme k
 | herkomst | Pole To Pole |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
-| hoofdproduct | barkruk-japandi |
 
 ## Advies van InHuys
 

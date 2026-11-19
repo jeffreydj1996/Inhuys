@@ -25,10 +25,10 @@ Aan een keukeneiland zit je vaker dan je denkt: voor het ontbijt, met een glas w
 ### Materiaal en maakwijze
 Het frame is van metaal met een afwerking in houtlook, zodat de kruk aansluit bij een houten vloer of werkblad zonder dat je een houten frame hoeft te onderhouden. Je zit op schuim met een dichtheid van 25 kg/m³, bekleed met stof van 100% polyester in okura. Met een zitting van 6 cm dik zit je stevig en rechtop, en dat is aan een werkblad prettig als je er ook aan werkt. Elke kruk draagt tot 120 kg, en met 6,3 kg til je hem makkelijk op als je de vloer onder het eiland schoonmaakt. Een vlek van koffie of saus neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. De twee krukken worden samen geleverd en je zet ze zelf in elkaar.
 
-Dezelfde set is er ook als [Japandi keukenbarkruk in umber, set van 2](/products/keukenbarkruk-japandi-umber-set-van-2). Heb je een hoger blad, zoals een bar of statafel, kies dan de [Japandi barkruk in okura of oatly](/products/barkruk-japandi); elk is een eigen product met een eigen pagina.
+Dezelfde set is er ook als [Japandi keukenbarkruk in umber, set van 2](/products/keukenbarkruk-japandi-umber-set-van-2). Heb je een hoger blad, zoals een bar of statafel, kies dan de [Japandi barkruk in okura of oatly](/products/barkruk-japandi-tan-set-van-2); elk is een eigen product met een eigen pagina.
 
 ### Combineren
-Twee krukken aan het keukeneiland en de [Osaka eetkamerstoel in okura](/products/eetkamerstoel-osaka-okura) aan tafel verderop maken van keuken en eethoek één geheel, omdat de stof op beide plekken terugkomt. Wil je aan tafel juist een armstoel met een hogere rug, dan past de [Sake eetkamerstoel](/products/eetkamerstoel-sake) met zijn frame in houtlook bij dezelfde lijn. Een [Urban Chique eettafel](/products/eettafel-urban-chique) met keramisch blad in marmerlook, of de [ronde Urban Chique eettafel](/products/ronde-eettafel-urban-chique) in een kleinere eethoek, geeft de gestoffeerde krukken een glad, koel blad als tegenhanger. Bij een eiken vloer en een werkblad van hout of natuursteen houdt de houtlook van het frame de keuken warm. Zoek je een zachtere, ronde kuip op dezelfde hoogte, dan is de [Cloud keukenbarkruk in crème](/products/barkruk-cloud) het alternatief.
+Twee krukken aan het keukeneiland en de [Osaka eetkamerstoel in okura](/products/eetkamerstoel-osaka) aan tafel verderop maken van keuken en eethoek één geheel, omdat de stof op beide plekken terugkomt. Wil je aan tafel juist een armstoel met een hogere rug, dan past de [Sake eetkamerstoel](/products/eetkamerstoel-sake) met zijn frame in houtlook bij dezelfde lijn. Een [Urban Chique eettafel](/products/eettafel-urban-chique) met keramisch blad in marmerlook, of de [ronde Urban Chique eettafel](/products/ronde-eettafel-urban-chique) in een kleinere eethoek, geeft de gestoffeerde krukken een glad, koel blad als tegenhanger. Bij een eiken vloer en een werkblad van hout of natuursteen houdt de houtlook van het frame de keuken warm. Zoek je een zachtere, ronde kuip op dezelfde hoogte, dan is de [Cloud keukenbarkruk in crème](/products/barkruk-cloud) het alternatief.
 
 ## Specificaties (metavelden `inhuys.*`)
 
@@ -57,7 +57,7 @@ Ik reken op 60 cm per kruk en houd de kopse kant van het eiland vrij om langs te
 Als vuistregel zit er tussen zitting en blad 25 tot 30 cm. Met een zithoogte van 67 cm past deze kruk dus bij een blad van 92 tot 97 cm hoog.
 
 **Wat is het verschil met de Japandi barkruk?**  
-De [Japandi barkruk](/products/barkruk-japandi) heeft een zithoogte van 80 cm en is bedoeld voor een bar of statafel. Deze keukenbarkruk is lager en hoort aan een keukeneiland of keukenblad.
+De [Japandi barkruk](/products/barkruk-japandi-tan-set-van-2) heeft een zithoogte van 80 cm en is bedoeld voor een bar of statafel. Deze keukenbarkruk is lager en hoort aan een keukeneiland of keukenblad.
 
 **Is de kruk in hoogte verstelbaar?**  
 Nee, de Japandi keukenbarkruk heeft een vaste hoogte. Meet daarom eerst je blad en kies dan de uitvoering die erbij past.

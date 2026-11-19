@@ -1,6 +1,7 @@
 handle;gid;status;vendor;voorraad;varianten;beelden;publicaties;titel
 a6-2-shell-ketting;gid://shopify/Product/10447101034835;DRAFT;Pole To Pole;0;1;3;0;A6.2 Shell ketting
-ballenbak;gid://shopify/Product/10388933476691;ACTIVE;Jupiduu - Designed for Kids;400;5;8;5;Ballenbak
+artboard;gid://shopify/Product/10388935672147;DRAFT;Jupiduu - Designed for Kids;2;2;7;0;Artboard tekenbord van multiplex
+ballenbak;gid://shopify/Product/10388933476691;ACTIVE;Jupiduu - Designed for Kids;400;5;8;5;Ballenbak met overtrek van katoen
 bank-amsterdam-2-5-zits-ottoman-wit-glyphs;gid://shopify/Product/10447096545619;DRAFT;Pole To Pole;0;1;7;0;Bank Amsterdam 2,5 Zits + Ottoman Wit Glyphs
 bank-amsterdam-4-zits-ottoman-latte;gid://shopify/Product/11031554916691;DRAFT;Pole To Pole;0;1;6;0;Bank Amsterdam 4 Zits + Ottoman Latte
 bank-amsterdam-4-zits-poef-wit-glyphs;gid://shopify/Product/10447096381779;DRAFT;Pole To Pole;0;1;7;0;Bank Amsterdam 4 Zits + Poef Wit Glyphs
@@ -16,7 +17,7 @@ bank-kathmandu-3-zits-amon-terracotta;gid://shopify/Product/10447093268819;DRAFT
 bank-londen-3-zits-ottoman-tan;gid://shopify/Product/10447101821267;DRAFT;Pole To Pole;0;1;4;0;Bank Londen · 3-zits met ottoman, tan
 bank-londen-3-zits-ottoman-umber;gid://shopify/Product/10447101755731;DRAFT;Pole To Pole;100;2;4;0;Bank Londen · 3-zits met ottoman, umber
 bank-londen-6-zits-ottoman;gid://shopify/Product/10447101985107;DRAFT;Pole To Pole;200;2;4;0;Bank Londen · 6-zits met ottoman
-bank-londen-6-zits-tan;gid://shopify/Product/10447102017875;DRAFT;Pole To Pole;200;2;3;0;Bank Londen · 6-zits, tan
+bank-londen-6-zits-tan;gid://shopify/Product/10447102017875;DRAFT;Pole To Pole;200;2;3;0;Bank Londen · 6-zits, tan of umber
 bank-londen-6-zits-umber;gid://shopify/Product/10447101886803;DRAFT;Pole To Pole;100;1;3;0;Bank Londen · 6-zits, umber
 bank-londen-eigen;gid://shopify/Product/11027197886803;DRAFT;Pole To Pole;0;7;24;0;Bank Londen
 bank-londen;gid://shopify/Product/10447101788499;DRAFT;Pole To Pole;0;1;2;0;Bank Londen, 3-zits in umber
@@ -33,25 +34,26 @@ bank-new-york-4-zits-lounge-beige;gid://shopify/Product/10447101526355;DRAFT;Pol
 bank-new-york-4-zits-lounge-coco;gid://shopify/Product/10447092547923;DRAFT;Pole To Pole;11;1;4;0;Bank New York · 4-zits met lounge rechts, coco
 bank-new-york-4-zits-rechter-lounge-sand-boucle;gid://shopify/Product/10447101559123;DRAFT;Pole To Pole;0;1;5;0;Bank New York 4 zits (Rechter Lounge) Sand Boucle
 bank-new-york-4-zits-zand-boucle;gid://shopify/Product/10447092416851;DRAFT;Pole To Pole;0;1;5;0;Bank New York 4 zits Zand Boucle
-bank-new-york-eigen;gid://shopify/Product/11027220595027;DRAFT;Pole To Pole;0;12;58;0;Bank New York
-bank-new-york;gid://shopify/Product/10447101460819;DRAFT;Pole To Pole;28;2;5;0;Bank New York, 2,5-zits met lounge rechts in beige
+bank-new-york-eigen;gid://shopify/Product/11027220595027;DRAFT;Pole To Pole;0;10;58;0;Bank New York
+bank-new-york;gid://shopify/Product/10447101460819;DRAFT;Pole To Pole;28;2;5;0;Bank New York, 2,5-zits met lounge rechts in beige of coco
 barkruk-cloud;gid://shopify/Product/11027133202771;DRAFT;Pole To Pole;0;4;32;0;Cloud barkruk met rugleuning
-barkruk-japandi;gid://shopify/Product/11031555113299;DRAFT;Pole To Pole;0;1;20;0;Japandi barkruk in okura of oatly
+barkruk-japandi-tan-set-van-2;gid://shopify/Product/10447099363667;DRAFT;Pole To Pole;400;4;5;0;Japandi barkruk · tan, oatly, umber en okura
+barkruk-japandi;gid://shopify/Product/11031555113299;DRAFT;Pole To Pole;0;1;20;0;Japandi barkruk in okura
 boekensteun-mangohout;gid://shopify/Product/11027158434131;DRAFT;Kluster;0;1;2;0;Boekensteun van mangohout
-boekhouder;gid://shopify/Product/9978474430803;ACTIVE;Kluster;0;1;2;5;Boekhouder
-boogstoel-karamel-set-van-2;gid://shopify/Product/10447098380627;ACTIVE;Pole To Pole;3;1;8;5;Boogstoel karamel (set van 2)
-boogstoelcreme-set-van-2;gid://shopify/Product/10447098413395;ACTIVE;Pole To Pole;55;2;8;5;Boogstoelcrème (set van 2)
+boekhouder;gid://shopify/Product/9978474430803;DRAFT;Kluster;0;1;2;0;Boekhouder
+boogstoel-karamel-set-van-2;gid://shopify/Product/10447098380627;ACTIVE;Pole To Pole;3;1;8;5;Boog eetkamerstoel · karamel, set van 2
+boogstoelcreme-set-van-2;gid://shopify/Product/10447098413395;ACTIVE;Pole To Pole;55;2;8;5;Boog eetkamerstoel in crème of karamel, set van 2
 bowl-babi-m;gid://shopify/Product/10447094251859;DRAFT;Pole To Pole;0;1;5;0;Bowl Babi M
 breeze-stoel-beige-set-van-2;gid://shopify/Product/10447090057555;ACTIVE;Pole To Pole;0;2;4;5;Breeze Stoel Beige (Set van 2)
 breeze-stoel-latte-set-van-2;gid://shopify/Product/10447090090323;ACTIVE;Pole To Pole;0;1;5;5;Breeze Stoel Latte (Set van 2)
 breeze-stoel-pastel-roze-set-van-2;gid://shopify/Product/10447090123091;ACTIVE;Pole To Pole;0;1;5;5;Breeze Stoel Pastel Roze (Set van 2)
 breeze-stoel-pistache-set-van-2;gid://shopify/Product/10447090155859;ACTIVE;Pole To Pole;0;1;5;5;Breeze Stoel Pistache (Set van 2)
 cairo-loungestoel-sand-boucle;gid://shopify/Product/10447092711763;DRAFT;Pole To Pole;0;1;6;0;Cairo Loungestoel Sand Boucle
-cloud-barstoel-creme;gid://shopify/Product/10447096447315;ACTIVE;Pole To Pole;100;2;8;5;Cloud Barstoel Crème
-cloud-kitchen-barstoel-creme;gid://shopify/Product/10447096316243;ACTIVE;Pole To Pole;100;2;8;5;Cloud Kitchen Barstoel Crème
-cloud-stoel-beige-set-van-2;gid://shopify/Product/10447089664339;ACTIVE;Pole To Pole;86;1;3;5;Cloud Stoel Beige (Set van 2)
-cloud-stoel-creme-set-van-2;gid://shopify/Product/10447089566035;ACTIVE;Pole To Pole;0;1;3;5;Cloud Stoel Crème (Set van 2)
-cloud-stoel-karamel-set-van-2;gid://shopify/Product/10447089598803;ACTIVE;Pole To Pole;0;1;3;5;Cloud Stoel Karamel (Set van 2)
+cloud-barstoel-creme;gid://shopify/Product/10447096447315;ACTIVE;Pole To Pole;100;2;8;5;Cloud barkruk · crème, met rugleuning
+cloud-kitchen-barstoel-creme;gid://shopify/Product/10447096316243;ACTIVE;Pole To Pole;100;2;8;5;Cloud keukenbarkruk in crème, met rugleuning
+cloud-stoel-beige-set-van-2;gid://shopify/Product/10447089664339;ACTIVE;Pole To Pole;86;1;3;5;Cloud eetkamerstoel · beige, set van 2
+cloud-stoel-creme-set-van-2;gid://shopify/Product/10447089566035;ACTIVE;Pole To Pole;0;1;3;5;Cloud eetkamerstoel in crème, set van 2
+cloud-stoel-karamel-set-van-2;gid://shopify/Product/10447089598803;ACTIVE;Pole To Pole;0;1;3;5;Cloud eetkamerstoel · karamel, set van 2
 cloud-stoel-safiya-naturel-set-van-2;gid://shopify/Product/10447101624659;ACTIVE;Pole To Pole;0;1;3;5;Cloud Stoel Safiya Naturel (Set van 2)
 cloud-stoel-safiya-terracotta-set-van-2;gid://shopify/Product/10447089697107;ACTIVE;Pole To Pole;0;1;3;5;Cloud Stoel Safiya Terracotta (Set van 2)
 craft-salontafel-klein-keramiek-travertijn;gid://shopify/Product/10447097200979;DRAFT;Pole To Pole;0;1;4;0;Craft salontafel klein keramiek travertijn
@@ -62,36 +64,37 @@ draaistoel-storm-coco;gid://shopify/Product/10447090516307;DRAFT;Pole To Pole;0;
 draaistoel-storm;gid://shopify/Product/10447090286931;DRAFT;Pole To Pole;186;2;8;0;Storm draaistoel in beige, per stuk
 eetkamerstoel-avena-karamel-set-van-2;gid://shopify/Product/10447099658579;DRAFT;Pole To Pole;100;1;5;0;Avena eetkamerstoel · karamel, set van 2
 eetkamerstoel-avena-mink-set-van-2;gid://shopify/Product/10447099822419;DRAFT;Pole To Pole;100;1;5;0;Avena eetkamerstoel · mink, set van 2
-eetkamerstoel-avena-set-van-2;gid://shopify/Product/10447101395283;DRAFT;Pole To Pole;331;3;5;0;Avena eetkamerstoel in crème, set van 2
+eetkamerstoel-avena-set-van-2;gid://shopify/Product/10447101395283;DRAFT;Pole To Pole;331;3;5;0;Avena eetkamerstoel, set van 2
 eetkamerstoel-boog-set-van-2;gid://shopify/Product/11027175833939;DRAFT;Pole To Pole;0;2;16;0;Boog eetkamerstoel (set van 2)
 eetkamerstoel-breeze-set-van-2;gid://shopify/Product/11027132940627;DRAFT;Pole To Pole;0;4;19;0;Breeze eetkamerstoel met armleuning (set van 2)
 eetkamerstoel-cloud-set-van-2;gid://shopify/Product/11027133038931;DRAFT;Pole To Pole;0;5;15;0;Cloud eetkamerstoel (set van 2)
-eetkamerstoel-edo-reddish-set-van-2;gid://shopify/Product/10447099330899;DRAFT;Pole To Pole;200;2;8;0;EDO eetkamerstoel met armleuningen · reddish, set van 2
+eetkamerstoel-edo-reddish-set-van-2;gid://shopify/Product/10447099330899;DRAFT;Pole To Pole;200;2;8;0;EDO eetkamerstoel met armleuningen, set van 2
 eetkamerstoel-edo-set-van-2;gid://shopify/Product/10447099298131;DRAFT;Pole To Pole;100;1;8;0;EDO eetkamerstoel met armleuningen in zwart, set van 2
 eetkamerstoel-egg-set-van-2;gid://shopify/Product/10447099003219;DRAFT;Pole To Pole;200;2;8;0;Egg eetkamerstoel in goud of mink, set van 2
 eetkamerstoel-fjord-set-van-2;gid://shopify/Product/10447091663187;DRAFT;Pole To Pole;100;1;8;0;Fjord eetkamerstoel in taupe, set van 2
 eetkamerstoel-fuji-umber;gid://shopify/Product/11031555277139;DRAFT;Pole To Pole;0;1;5;0;Fuji eetkamerstoel · umber
-eetkamerstoel-fuji;gid://shopify/Product/11031555244371;DRAFT;Pole To Pole;129;4;5;0;Fuji eetkamerstoel in tan
+eetkamerstoel-fuji;gid://shopify/Product/11031555244371;DRAFT;Pole To Pole;343;4;5;0;Fuji eetkamerstoel met armleuningen
 eetkamerstoel-high-five-set-van-2;gid://shopify/Product/10447091958099;DRAFT;Pole To Pole;215;1;3;0;High Five eetkamerstoel in beige, set van 2
 eetkamerstoel-japandi;gid://shopify/Product/11031554949459;DRAFT;Pole To Pole;1847;4;21;0;Japandi eetkamerstoel in vier kleuren
 eetkamerstoel-luna-set-van-2;gid://shopify/Product/11027175702867;DRAFT;Pole To Pole;0;3;24;0;Luna eetkamerstoel (set van 2)
-eetkamerstoel-mera-karamel-set-van-2;gid://shopify/Product/10447099887955;DRAFT;Pole To Pole;334;2;5;0;Mera eetkamerstoel · karamel, set van 2
-eetkamerstoel-mera-set-van-2;gid://shopify/Product/10447099560275;DRAFT;Pole To Pole;121;1;5;0;Mera eetkamerstoel in crème of mink, set van 2
+eetkamerstoel-mera-karamel-set-van-2;gid://shopify/Product/10447099887955;DRAFT;Pole To Pole;334;2;5;0;Mera eetkamerstoel · karamel of crème, set van 2
+eetkamerstoel-mera-set-van-2;gid://shopify/Product/10447099560275;DRAFT;Pole To Pole;121;1;5;0;Mera eetkamerstoel in mink, set van 2
 eetkamerstoel-nox-set-van-2;gid://shopify/Product/10447099953491;DRAFT;Pole To Pole;100;1;5;0;Nox eetkamerstoel in tan, set van 2
-eetkamerstoel-nox-umber-set-van-2;gid://shopify/Product/10447099920723;DRAFT;Pole To Pole;200;2;5;0;Nox eetkamerstoel · umber, set van 2
+eetkamerstoel-nox-umber-set-van-2;gid://shopify/Product/10447099920723;DRAFT;Pole To Pole;200;2;5;0;Nox eetkamerstoel · umber of tan, set van 2
 eetkamerstoel-osaka-okura;gid://shopify/Product/11031555178835;DRAFT;Pole To Pole;100;1;5;0;Osaka eetkamerstoel · okura
 eetkamerstoel-osaka-umber;gid://shopify/Product/11031555211603;DRAFT;Pole To Pole;0;1;5;0;Osaka eetkamerstoel · umber
-eetkamerstoel-osaka;gid://shopify/Product/11031555080531;DRAFT;Pole To Pole;488;4;5;0;Osaka eetkamerstoel in tan
+eetkamerstoel-osaka;gid://shopify/Product/11031555080531;DRAFT;Pole To Pole;488;4;5;0;Osaka eetkamerstoel in tan, okura of oatly
 eetkamerstoel-panda-set-van-2;gid://shopify/Product/11060991131987;DRAFT;Pole To Pole;0;3;24;0;Panda eetkamerstoel (set van 2)
-eetkamerstoel-rainbow-coco-set-van-2;gid://shopify/Product/10447090975059;DRAFT;Pole To Pole;241;2;8;0;Rainbow eetkamerstoel · coco, set van 2
+eetkamerstoel-rainbow-coco-set-van-2;gid://shopify/Product/10447090975059;DRAFT;Pole To Pole;241;2;8;0;Rainbow eetkamerstoel · coco of zandwit, set van 2
 eetkamerstoel-rainbow-set-van-2;gid://shopify/Product/10447090549075;DRAFT;Pole To Pole;100;1;8;0;Rainbow eetkamerstoel in zandwit, set van 2
 eetkamerstoel-rainbow-taupe-set-van-2;gid://shopify/Product/10447090876755;DRAFT;Pole To Pole;0;1;7;0;Rainbow eetkamerstoel · taupe, set van 2
 eetkamerstoel-rock-bruin-set-van-2;gid://shopify/Product/10447089434963;DRAFT;Pole To Pole;100;1;6;0;Rock eetkamerstoel · bruin, set van 2
+eetkamerstoel-rock-creme-set-van-2;gid://shopify/Product/10447098478931;DRAFT;Pole To Pole;100;1;8;0;Rock eetkamerstoel · crème, set van 2
 eetkamerstoel-rock-karamel-set-van-2;gid://shopify/Product/10447098511699;DRAFT;Pole To Pole;100;1;8;0;Rock eetkamerstoel · karamel, set van 2
-eetkamerstoel-rock-set-van-2;gid://shopify/Product/10447100510547;DRAFT;Pole To Pole;500;5;6;0;Rock eetkamerstoel in beige, set van 2
+eetkamerstoel-rock-set-van-2;gid://shopify/Product/10447100510547;DRAFT;Pole To Pole;500;5;6;0;Rock eetkamerstoel, set van 2
 eetkamerstoel-rock-taupe-set-van-2;gid://shopify/Product/10447089467731;DRAFT;Pole To Pole;100;1;6;0;Rock eetkamerstoel · taupe, set van 2
 eetkamerstoel-sake-umber;gid://shopify/Product/11031555146067;DRAFT;Pole To Pole;176;1;5;0;Sake eetkamerstoel · umber
-eetkamerstoel-sake;gid://shopify/Product/11031555014995;DRAFT;Pole To Pole;403;4;5;0;Sake eetkamerstoel in tan
+eetkamerstoel-sake;gid://shopify/Product/11031555014995;DRAFT;Pole To Pole;403;4;5;0;Sake eetkamerstoel in tan, umber of oatly
 eetkamerstoel-scandi-okura-set-van-2;gid://shopify/Product/10447099593043;DRAFT;Pole To Pole;172;1;5;0;Scandi eetkamerstoel · okura, set van 2
 eetkamerstoel-scandi-set-van-2;gid://shopify/Product/11027175932243;DRAFT;Pole To Pole;0;1;5;0;Scandi eetkamerstoel (set van 2)
 eetkamerstoel-scandi-umber-set-van-2;gid://shopify/Product/10447100182867;DRAFT;Pole To Pole;0;1;5;0;Scandi eetkamerstoel · umber, set van 2
@@ -116,27 +119,26 @@ fauteuil-kathmandu;gid://shopify/Product/11060983824723;DRAFT;Pole To Pole;0;2;1
 fauteuil-mars;gid://shopify/Product/11060989067603;DRAFT;Pole To Pole;0;2;16;0;Mars loungestoel op metalen poten
 fauteuil-panda;gid://shopify/Product/11028600258899;DRAFT;Pole To Pole;0;3;24;0;Panda fauteuil met armleuningen
 fjord-stoel-coco-set-van-2;gid://shopify/Product/10447091794259;DRAFT;Pole To Pole;0;1;8;0;Fjord Stoel Coco (Set van 2)
-flip-play-bank;gid://shopify/Product/10388935770451;DRAFT;Jupiduu - Designed for Kids;100;1;4;0;Flip & Play bank
+flip-play-bank;gid://shopify/Product/10388935770451;DRAFT;Jupiduu - Designed for Kids;100;1;4;0;Flip & Play bank van fijn corduroy
 flitsadvies;gid://shopify/Product/10425596870995;ACTIVE;InHuys;0;1;1;5;Flitsadvies
 fuji-stoel-2;gid://shopify/Product/11031555375443;DRAFT;Pole To Pole;0;1;5;0;Fuji-stoel
 g9-kleine-schelp-ketting;gid://shopify/Product/10447102050643;DRAFT;Pole To Pole;0;1;3;0;G9 kleine schelp ketting
-glijbaan-white-dolphin-buiten;gid://shopify/Product/10388935311699;DRAFT;Jupiduu - Designed for Kids;100;1;9;0;Glijbaan "White Dolphin" buiten
+glijbaan-white-dolphin;gid://shopify/Product/10388935311699;DRAFT;Jupiduu - Designed for Kids;100;1;9;0;White Dolphin glijbaan voor buiten
 golfstoel-karamel-set-van-2;gid://shopify/Product/10447098347859;DRAFT;Pole To Pole;0;1;8;0;Golfstoel karamel (set van 2)
-h1-kleine-schelp-ketting;gid://shopify/Product/10447102837075;DRAFT;Pole To Pole;47;2;3;0;H1 kleine schelp ketting
 h109-shell-ketting;gid://shopify/Product/10447095333203;DRAFT;Pole To Pole;0;1;3;0;H109 Shell ketting
-h19-krab-l;gid://shopify/Product/10447102935379;DRAFT;Pole To Pole;5;1;7;0;H19 Krab L
 high-five-chair-caramel-set-van-2;gid://shopify/Product/10447101428051;DRAFT;Pole To Pole;0;1;8;0;High Five Chair Caramel (set van 2)
 high-five-chair-cream-set-van-2;gid://shopify/Product/10447101329747;DRAFT;Pole To Pole;0;1;8;0;High Five Chair Cream (set van 2)
 high-five-chair-mink-set-van-2;gid://shopify/Product/10447099232595;DRAFT;Pole To Pole;0;1;8;0;High Five Chair Mink (set van 2)
-holzrutsche-binnen;gid://shopify/Product/10388933312851;ACTIVE;Jupiduu - Designed for Kids;1776;4;7;5;Glijbaan voor Binnen
+hoes-jumpspot-binnen;gid://shopify/Product/10388935442771;DRAFT;Jupiduu - Designed for Kids;303;5;5;0;Verwisselbare hoes voor de Jumpspot binnen, van katoen
+hoes-jumpspot-buiten;gid://shopify/Product/10388935410003;DRAFT;Jupiduu - Designed for Kids;300;3;6;0;Transformeerhoes voor de Jumpspot buiten, voor gebruik binnen
+holzrutsche-binnen;gid://shopify/Product/10388933312851;ACTIVE;Jupiduu - Designed for Kids;1776;4;7;5;Houten glijbaan voor binnen
 i22-schelp-ketting;gid://shopify/Product/10447102083411;DRAFT;Pole To Pole;0;1;3;0;I22 schelp ketting
 j36-schelp-ketting;gid://shopify/Product/10447103230291;DRAFT;Pole To Pole;0;1;4;0;J36 schelp ketting
 j62-schelpenketting;gid://shopify/Product/10447103295827;DRAFT;Pole To Pole;0;1;3;0;J62 schelpenketting
 j72-shell-toren-parel-s;gid://shopify/Product/10447097692499;DRAFT;Pole To Pole;0;1;4;0;J72 Shell Toren Parel S
-japandi-bar-chair-tan-set-van-2;gid://shopify/Product/10447099363667;DRAFT;Pole To Pole;200;4;5;0;Japandi Bar Chair Tan (set van 2)
 japandi-bar-chair-umber-set-van-2;gid://shopify/Product/10447100215635;DRAFT;Pole To Pole;0;1;5;0;Japandi Bar Chair Umber (set van 2)
 juju-rasta;gid://shopify/Product/10447096185171;DRAFT;Pole To Pole;0;1;2;0;Juju Rasta
-jumpspot-buiten;gid://shopify/Product/10388935213395;ACTIVE;Jupiduu - Designed for Kids;100;1;4;5;Jumpspot Buiten
+jumpspot-buiten;gid://shopify/Product/10388935213395;ACTIVE;Jupiduu - Designed for Kids;100;1;4;5;Jumpspot voor buiten, ronde springplek voor het gras
 k32-zwarte-tijger-octo-ketting-s;gid://shopify/Product/10447103164755;DRAFT;Pole To Pole;0;1;3;0;K32 zwarte tijger octo ketting s
 k33-zwart-wit-octo-ketting-l;gid://shopify/Product/10447103131987;DRAFT;Pole To Pole;0;1;3;0;K33 zwart wit octo ketting l
 kathmandu-loungestoel-amon-naturel;gid://shopify/Product/10447101591891;DRAFT;Pole To Pole;0;1;6;0;Kathmandu Loungestoel Amon Naturel
@@ -145,20 +147,20 @@ keramische-kaarsenhouder-atlas-set-van-2;gid://shopify/Product/10447095628115;DR
 keramische-kaarsenhouder-soleil-set-van-2;gid://shopify/Product/10447101067603;DRAFT;Pole To Pole;0;1;3;0;Keramische kaarsenhouder Soleil (set van 2)
 keukenbarkruk-japandi-set-van-2;gid://shopify/Product/10447099625811;DRAFT;Pole To Pole;0;1;5;0;Japandi keukenbarkruk in okura, set van 2
 keukenbarkruk-japandi-umber-set-van-2;gid://shopify/Product/11031555047763;DRAFT;Pole To Pole;0;1;5;0;Japandi keukenbarkruk · umber, set van 2
-klim-en-springkoepel;gid://shopify/Product/10388935541075;DRAFT;Jupiduu - Designed for Kids;100;1;4;0;Klim en springkoepel
+klimkoepel-climb-jump;gid://shopify/Product/10388935541075;DRAFT;Jupiduu - Designed for Kids;100;1;4;0;Climb & Jump klim- en springkoepel voor de tuin
+krab-l;gid://shopify/Product/10447102935379;DRAFT;Pole To Pole;5;1;7;0;H19 krab, groot
 krab-messing;gid://shopify/Product/10447102640467;DRAFT;Pole To Pole;5;1;7;0;H20 krab van messing
 lantaarn-peninsula;gid://shopify/Product/10447098184019;DRAFT;Pole To Pole;47;1;2;0;Peninsula lantaarn in naturel
 lantaarn-raffles-s;gid://shopify/Product/10447097528659;DRAFT;Pole To Pole;28;1;3;0;Raffles lantaarn van rotan, maat S
-lantaarn-raffles;gid://shopify/Product/10447097463123;DRAFT;Pole To Pole;37;3;3;0;Raffles lantaarn van rotan, maat L
+lantaarn-raffles;gid://shopify/Product/10447097463123;DRAFT;Pole To Pole;37;3;3;0;Raffles lantaarn van rotan, maat S en L
 londen-6-zitter-ottoman-umber;gid://shopify/Product/10447101952339;DRAFT;Pole To Pole;0;1;4;0;Londen 6 zitter + Ottoman umber
 loterijen-lantaarn-m;gid://shopify/Product/10447097233747;DRAFT;Pole To Pole;0;1;3;0;Loterijen Lantaarn M
 luna-chair-gold-set-van-2;gid://shopify/Product/11031555572051;DRAFT;Pole To Pole;0;1;8;0;Luna Chair Gold (set van 2)
 luna-chair-mink-set-van-2;gid://shopify/Product/10447099167059;ACTIVE;Pole To Pole;0;1;8;5;Luna Chair Mink (set van 2)
-luna-stoel-caramel-set-van-2;gid://shopify/Product/10447099035987;ACTIVE;Pole To Pole;0;1;8;5;Luna stoel Caramel (set van 2)
-luna-stoelcreme-set-van-2;gid://shopify/Product/10447099068755;ACTIVE;Pole To Pole;200;3;8;5;Luna stoel crème (set van 2)
+luna-stoel-caramel-set-van-2;gid://shopify/Product/10447099035987;ACTIVE;Pole To Pole;0;1;8;5;Luna eetkamerstoel in karamel, set van 2
+luna-stoelcreme-set-van-2;gid://shopify/Product/10447099068755;ACTIVE;Pole To Pole;200;3;8;5;Luna eetkamerstoel · crème of goud, set van 2
 mand-miso-set-van-3;gid://shopify/Product/10447101264211;DRAFT;Pole To Pole;0;1;3;0;Mand Miso set van 3
-mantel;gid://shopify/Product/10388935672147;DRAFT;Jupiduu - Designed for Kids;2;2;7;0;Mantel
-marmer-waxinelichthouder;gid://shopify/Product/9966390739283;ACTIVE;MOOISA;0;3;5;5;Marmer waxinelichthouder
+marmer-waxinelichthouder;gid://shopify/Product/9966390739283;DRAFT;MOOISA;0;3;5;0;Marmer waxinelichthouder
 mars-lounge-chair-beige;gid://shopify/Product/10447092121939;DRAFT;Pole To Pole;0;1;8;0;Mars Lounge Chair Beige
 mars-loungestoel-coco;gid://shopify/Product/10447092154707;DRAFT;Pole To Pole;0;1;8;0;Mars Loungestoel Coco
 mars-tweezitsbank-beige;gid://shopify/Product/10447092253011;DRAFT;Pole To Pole;0;1;8;0;Mars tweezitsbank beige
@@ -177,13 +179,13 @@ panda-stoel-beige-set-van-2;gid://shopify/Product/10447089860947;DRAFT;Pole To P
 panda-stoel-coco-set-van-2;gid://shopify/Product/10447089926483;DRAFT;Pole To Pole;0;1;8;0;Panda Stoel Coco (Set van 2)
 panda-stoel-witte-parel-set-van-2;gid://shopify/Product/10447089893715;DRAFT;Pole To Pole;0;1;8;0;Panda Stoel Witte Parel (Set van 2)
 regenboogstoel-beige-set-van-2;gid://shopify/Product/10447090614611;DRAFT;Pole To Pole;0;1;8;0;Regenboogstoel Beige (Set van 2)
-rock-stoelcreme-set-van-2;gid://shopify/Product/10447098478931;DRAFT;Pole To Pole;100;1;8;0;Rock stoelcrème (set van 2)
 ronde-eettafel-urban-chique;gid://shopify/Product/10447100019027;DRAFT;Pole To Pole;3;1;2;0;Urban Chique ronde eettafel van 120 cm in marmerlook
 sake-stoel-2;gid://shopify/Product/11031555342675;DRAFT;Pole To Pole;0;1;5;0;Sake-stoel
 salontafel-craft;gid://shopify/Product/10447097102675;DRAFT;Pole To Pole;100;1;4;0;Craft salontafel groot in keramiek met travertijnlook
-scandi-stoel-tan-set-van-2;gid://shopify/Product/10447100248403;ACTIVE;Pole To Pole;452;4;5;5;Scandi stoel Tan (set van 2)
+scandi-stoel-tan-set-van-2;gid://shopify/Product/10447100248403;ACTIVE;Pole To Pole;648;4;5;5;Scandi eetkamerstoel in vier kleuren, set van 2
 schaal-babi;gid://shopify/Product/10447094186323;DRAFT;Pole To Pole;27;1;5;0;Babi schaal van aluminium in brons, groot
 schelpenketting-a2-1;gid://shopify/Product/10447102280019;DRAFT;Pole To Pole;47;1;3;0;A2.1 schelpenketting in beige
+schelpenketting-h1;gid://shopify/Product/10447102837075;DRAFT;Pole To Pole;47;2;3;0;H1 kleine schelpenketting · maat M
 schelpenketting-j37;gid://shopify/Product/10447103000915;DRAFT;Pole To Pole;19;1;4;0;J37 kleine schelpenketting in wit
 schelpenketting-j47;gid://shopify/Product/10447095759187;DRAFT;Pole To Pole;56;1;3;0;J47 schelpenketting op standaard
 schelpenketting-j63;gid://shopify/Product/10447095398739;DRAFT;Pole To Pole;43;1;3;0;J63 schelpenketting
@@ -191,26 +193,24 @@ schelpenketting-j65;gid://shopify/Product/10447098216787;DRAFT;Pole To Pole;181;
 schelpenketting-j66;gid://shopify/Product/10447098282323;DRAFT;Pole To Pole;238;1;3;0;J66 kleine schelpenketting in grijs
 schelpenketting-j69;gid://shopify/Product/10447095660883;DRAFT;Pole To Pole;31;1;3;0;J69 schelpenketting
 schelpentoren-pearl;gid://shopify/Product/10447097725267;DRAFT;Pole To Pole;173;2;4;0;Pearl schelpentoren L
-slide-surf-way;gid://shopify/Product/10388935573843;DRAFT;Jupiduu - Designed for Kids;100;1;2;0;Slide & Surf Way
-speel-chill-schaukel;gid://shopify/Product/10388935377235;DRAFT;Jupiduu - Designed for Kids;500;5;9;0;Speel & Chill Schaukel
-springplek-binnen;gid://shopify/Product/10388933345619;ACTIVE;Jupiduu - Designed for Kids;1444;5;8;5;Jumpspot voor Binnen
-surfboard;gid://shopify/Product/10388935803219;DRAFT;Jupiduu - Designed for Kids;28;1;3;0;Surfboard
-transformeerhoes-voor-outdoor-jumpspot;gid://shopify/Product/10388935410003;DRAFT;Jupiduu - Designed for Kids;300;3;6;0;Transformeerhoes voor Outdoor Jumpspot
-travertine-agano-vaas;gid://shopify/Product/9957680054611;ACTIVE;MOOISA;0;2;5;5;Travertine Agano Vaas
+schommel-play-chill;gid://shopify/Product/10388935377235;DRAFT;Jupiduu - Designed for Kids;500;5;9;0;Play & Chill schommel van katoenen wafelbreisel
+slide-surf-way;gid://shopify/Product/10388935573843;DRAFT;Jupiduu - Designed for Kids;100;1;2;0;Slide & Surf Way, glijbaan en surfbaan voor de tuin
+springplek-binnen;gid://shopify/Product/10388933345619;ACTIVE;Jupiduu - Designed for Kids;1442;5;8;5;Jumpspot voor binnen, ronde springplek met katoenen hoes
+surfboard;gid://shopify/Product/10388935803219;DRAFT;Jupiduu - Designed for Kids;28;1;3;0;Surfboard van multiplexhout voor de Slide & Surf Way
+travertine-agano-vaas;gid://shopify/Product/9957680054611;DRAFT;MOOISA;0;2;5;0;Travertine Agano Vaas
 vaas-agano-travertijn;gid://shopify/Product/11027182879059;DRAFT;MOOISA;0;2;5;0;Agano vaas van travertijn
 vaas-bubble;gid://shopify/Product/10447094219091;DRAFT;Pole To Pole;17;1;3;0;Bubble vaas van aluminium in brons
 vaas-meduse;gid://shopify/Product/10447094317395;DRAFT;Pole To Pole;73;1;4;0;Meduse lage vaas van aluminium in brons
 vaas-swoop-set-van-6;gid://shopify/Product/10447094284627;DRAFT;Pole To Pole;12;1;4;0;Swoop vaas van aluminium in brons (set van 6)
-verwisselbare-hoes-voor-indoor-jumpspot;gid://shopify/Product/10388935442771;DRAFT;Jupiduu - Designed for Kids;303;5;5;0;Verwisselbare hoes voor indoor jumpspot
 wave-stoel-zandwit-set-van-2;gid://shopify/Product/10447091761491;DRAFT;Pole To Pole;0;1;7;0;Wave stoel zandwit (Set van 2)
 wave-stoel-zwart-set-van-2;gid://shopify/Product/10447091827027;DRAFT;Pole To Pole;0;1;10;0;Wave stoel zwart (Set van 2)
 waxinelichthouder-marmer;gid://shopify/Product/11027182977363;DRAFT;MOOISA;0;3;5;0;Marmeren waxinelichthouder
-whale-stoel-beige-set-van-2;gid://shopify/Product/10447089762643;ACTIVE;Pole To Pole;100;1;8;5;Whale Stoel Beige (Set van 2)
-whale-stoel-coco-set-van-2;gid://shopify/Product/10447089828179;ACTIVE;Pole To Pole;200;3;8;5;Whale Stoel Coco (Set van 2)
+whale-stoel-beige-set-van-2;gid://shopify/Product/10447089762643;ACTIVE;Pole To Pole;100;1;8;5;Whale eetkamerstoel · beige, set van 2
+whale-stoel-coco-set-van-2;gid://shopify/Product/10447089828179;ACTIVE;Pole To Pole;200;3;8;5;Whale eetkamerstoel in coco of beige, set van 2
 whale-stoel-witte-parel-set-van-2;gid://shopify/Product/11031555408211;DRAFT;Pole To Pole;0;1;8;0;Whale Stoel Witte Parel (Set van 2)
-wolkenbar-stoel-karamel;gid://shopify/Product/10447098610003;ACTIVE;Pole To Pole;0;1;8;5;Wolken barstoel karamel
-wolkenkeukenbar-stoel-karamel;gid://shopify/Product/10624276955475;ACTIVE;Pole To Pole;0;1;8;5;Wolken keukenbarstoel karamel
+wolkenbar-stoel-karamel;gid://shopify/Product/10447098610003;ACTIVE;Pole To Pole;0;1;8;5;Cloud barkruk · karamel, met rugleuning
+wolkenkeukenbar-stoel-karamel;gid://shopify/Product/10624276955475;ACTIVE;Pole To Pole;0;1;8;5;Cloud keukenbarkruk · karamel, met rugleuning
 yanai-dining-chair-slide-black;gid://shopify/Product/9959806337363;DRAFT;Jesper Home;0;4;4;0;Yanai Dining chair Slide Black
 yanai-dining-chair-slide-gold;gid://shopify/Product/9959901102419;DRAFT;Jesper Home;0;4;4;0;Yanai Dining chair Slide Gold
 zwaai-stoel;gid://shopify/Product/11031555539283;DRAFT;Pole To Pole;0;1;14;0;Zwaai stoel
-zwembad;gid://shopify/Product/10490276741459;ACTIVE;Jupiduu - Designed for Kids;300;3;6;5;zwembad
+zwembad;gid://shopify/Product/10490276741459;ACTIVE;Jupiduu - Designed for Kids;300;3;6;5;Zwembad van Jupiduu met stevige dropstitch-wand

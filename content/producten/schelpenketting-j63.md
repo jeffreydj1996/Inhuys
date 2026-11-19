@@ -28,7 +28,7 @@ De J63 bestaat uit schelpen, touw en metaal en wordt in Indonesië met de hand g
 ### Combineren
 Op een dressoir van eiken naast de Agano-vaas van travertijn vormt het wit van de schelpen een zacht contrast met de beige steen. In een woonkamer met een lichte bank zoals de Amsterdam herhaalt de ketting op een kast de lichte tinten van de stof, zodat de twee zones van de kamer bij elkaar gaan horen. Naast de Pearl schelpentoren of de Peninsula lantaarn ontstaat een rustige groep in natuurlijke materialen.
 
-Zoek je een andere vorm of kleur, dan staan de andere schelpenkettingen elk als apart product klaar: [schelpenketting J69](/products/schelpenketting-j69), [J47](/products/schelpenketting-j47), [J65](/products/schelpenketting-j65), [J66](/products/schelpenketting-j66), [A2.1](/products/schelpenketting-a2-1) en [J37](/products/schelpenketting-j37).
+Zoek je een andere vorm of kleur, dan staan de andere schelpenkettingen elk als apart product klaar: [schelpenketting J69](/products/schelpenketting-j69), [J47](/products/schelpenketting-j47), [J65](/products/schelpenketting-j65), [J66](/products/schelpenketting-j66), [A2.1](/products/schelpenketting-h1) en [J37](/products/schelpenketting-j37).
 
 ## Specificaties (metavelden `inhuys.*`)
 

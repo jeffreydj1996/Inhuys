@@ -26,7 +26,7 @@ In taupe zet de Rainbow een rustige grijsbruine toon aan tafel, die goed samenga
 Je zit op een frame van gepoedercoat Q195-staal, metaal en multiplex, dat tot 120 kg per stoel draagt. Onder de taupe stof geeft een zitting van schuim met een dichtheid van 25 kg/m³ je steun tijdens een lange maaltijd. Met 6 kg per stoel til je de Rainbow makkelijk op als je onder de tafel wilt stofzuigen. Een vlek neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
 
 ### Combineren
-Taupe aan de Urban Chique eettafel geeft een zachte overgang naar het keramische blad in marmerlook; aan de Sycomore eettafel van aluminium brengt de stof juist warmte tegen het koele metaal. Een marmeren waxinelichthouder op tafel laat de grijze ondertoon van taupe terugkomen. Alle uitvoeringen en het volledige advies vind je bij [Rainbow eetkamerstoel in zandwit, set van 2](/products/eetkamerstoel-rainbow-set-van-2).
+Taupe aan de Urban Chique eettafel geeft een zachte overgang naar het keramische blad in marmerlook; aan de Sycomore eettafel van aluminium brengt de stof juist warmte tegen het koele metaal. Een marmeren waxinelichthouder op tafel laat de grijze ondertoon van taupe terugkomen. Alle uitvoeringen en het volledige advies vind je bij [Rainbow eetkamerstoel in zandwit, set van 2](/products/eetkamerstoel-rainbow-coco-set-van-2).
 
 ## Specificaties (metavelden `inhuys.*`)
 
@@ -44,7 +44,7 @@ Taupe aan de Urban Chique eettafel geeft een zachte overgang naar het keramische
 | herkomst | Pole To Pole |
 | levertijd | [AANVULLEN] |
 | garantie | [AANVULLEN] |
-| hoofdproduct | eetkamerstoel-rainbow-set-van-2 |
+| hoofdproduct | eetkamerstoel-rainbow-coco-set-van-2 |
 
 ## Advies van InHuys
 

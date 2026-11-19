@@ -48,7 +48,7 @@ Aan een eiland met een eiken of essen blad houdt het slanke metalen frame het ei
 
 ## Advies van InHuys
 
-Ik raad deze keukenbarkruk aan als je blad op gewone keukenhoogte zit: meet de bovenkant en trek er 25 tot 30 cm af, en kom je dan op de zithoogte van deze kruk uit, dan zit je goed. Staat je bar of statafel hoger, kies dan de [Japandi barkruk](/products/barkruk-japandi); het volledige advies lees je bij de Japandi keukenbarkruk in okura.
+Ik raad deze keukenbarkruk aan als je blad op gewone keukenhoogte zit: meet de bovenkant en trek er 25 tot 30 cm af, en kom je dan op de zithoogte van deze kruk uit, dan zit je goed. Staat je bar of statafel hoger, kies dan de [Japandi barkruk](/products/barkruk-japandi-tan-set-van-2); het volledige advies lees je bij de Japandi keukenbarkruk in okura.
 
 ## Veelgestelde vragen
 
