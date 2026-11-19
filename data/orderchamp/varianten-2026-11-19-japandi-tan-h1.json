@@ -1,0 +1,42 @@
+{
+ "barkruk-japandi-tan-set-van-2": [
+  {
+   "title": "Bruinen",
+   "sku": "871974353233",
+   "price": "479.80",
+   "inventoryQuantity": 100
+  },
+  {
+   "title": "Oatly",
+   "sku": "872160652006",
+   "price": "279.95",
+   "inventoryQuantity": 100
+  },
+  {
+   "title": "Omber",
+   "sku": "871974353232",
+   "price": "279.95",
+   "inventoryQuantity": 100
+  },
+  {
+   "title": "Okura",
+   "sku": "871974353231",
+   "price": "279.95",
+   "inventoryQuantity": 100
+  }
+ ],
+ "schelpenketting-h1": [
+  {
+   "title": "M",
+   "sku": "871917285804",
+   "price": "69.95",
+   "inventoryQuantity": 47
+  },
+  {
+   "title": "L",
+   "sku": "871917285819",
+   "price": "129.95",
+   "inventoryQuantity": 0
+  }
+ ]
+}

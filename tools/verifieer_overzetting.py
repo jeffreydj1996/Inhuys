@@ -2,7 +2,7 @@
 """Vergelijkt uitgelezen Shopify-producten (JSON met per gid: handle, title, productType, tags, category{id}, seo, descriptionHtml,
 metafields{nodes[{key,type,value}]}, metafield{value} voor descriptor.short_description) byte-voor-byte met data/out/productSet-<handle>.json.
 Gebruik: python3 -I tools/verifieer_overzetting.py <nodes.json> [verschillen.txt]"""
-import json, sys, os
+import json, sys, os, html
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 nodes = json.load(open(sys.argv[1], encoding="utf-8"))
 uit = open(sys.argv[2], "w", encoding="utf-8") if len(sys.argv) > 2 else sys.stdout
@@ -16,7 +16,7 @@ for gid, n in sorted(nodes.items(), key=lambda kv: kv[1].get("handle", "")):
     chk("title", v["title"], n.get("title")); chk("productType", v["productType"], n.get("productType"))
     chk("tags", sorted(v["tags"]), sorted(n.get("tags") or [])); (chk("category", v.get("category"), (n.get("category") or {}).get("id")) if v.get("category") else None)
     chk("seo.title", v["seo"]["title"], (n.get("seo") or {}).get("title")); chk("seo.description", v["seo"]["description"], (n.get("seo") or {}).get("description"))
-    chk("descriptionHtml", v["descriptionHtml"], n.get("descriptionHtml"))
+    chk("descriptionHtml", html.unescape(v["descriptionHtml"]), html.unescape(n.get("descriptionHtml") or ""))  # Shopify schrijft & als &amp;
     mf = {m["key"]: m for m in (n.get("metafields") or {}).get("nodes", [])}
     for m in v["metafields"]:
         if m["namespace"] == "descriptor":
