@@ -14,7 +14,8 @@ Meta-description (139): Cloud barkruk in crème met rugleuning en een ronde, zac
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Crème | € 299,90 | 871974353027 | `cloud-barstoel-creme` |
+| Karamel | € 349,95 | 871974353090 | `wolkenbar-stoel-karamel` |
+| room | € 299,90 | 871974353027 | `cloud-barstoel-creme` |
 
 ## Beschrijving
 
@@ -47,7 +48,7 @@ Twee krukken in crème aan een bar van eikenhout geven een licht en warm geheel,
 
 ## Advies van InHuys
 
-Ik raad deze barkruk alleen aan als je blad echt op barhoogte zit: meet de bovenkant en trek er 25 tot 30 cm af, en kom je dan op de zithoogte van deze kruk uit, dan zit je goed. Crème kies ik voor een keuken met lichte fronten en een rustig gebruik; staat de bar op een plek waar dagelijks wordt gemorst, dan is karamel vergevingsgezinder. Het volledige advies lees je bij de Cloud keukenbarkruk in crème.
+Ik raad deze barkruk alleen aan als je blad echt op barhoogte zit: meet de bovenkant en trek er 25 tot 30 cm af, en kom je dan op de zithoogte van deze kruk uit, dan zit je goed. Crème kies ik voor een keuken met lichte fronten en een rustig gebruik; staat de bar op een plek waar dagelijks wordt gemorst, neem een vlek dan meteen af, voordat hij in de lichte stof trekt. Het volledige advies lees je bij de Cloud keukenbarkruk in crème.
 
 ## Veelgestelde vragen
 
@@ -66,7 +67,11 @@ De 8 beelden in crème (800 px breed) komen van het Orderchamp-product `cloud-ba
 
 ## Opmerking
 
-Afmetingen, zithoogte, zitdiepte, gewicht, de maximale belasting van 120 kg, het frame, de stofsamenstelling, de schuimdichtheid en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871974353027, geopend op 5 november 2026); de eigen export noemt deze waarden niet. Het bronproduct heet in de export "Cloud Barstoel Crème". De vroegere tabel noemde een voetsteun, "2 tot 3 weken" levertijd, "2 jaar" garantie en herkomst "Nederland"; de fabrikant bevestigt dat niet, dus die waarden staan niet in deze tekst. Volgens Pole To Pole komt de kruk uit China, is hij niet brandvertragend, niet stapelbaar en niet in hoogte verstelbaar. De prijs van € 299,90 is ongewijzigd uit het bronproduct overgenomen. Dit is een live Orderchamp-product; de regel `Handle:` is de geplande handle. Varianten, SKU's, prijzen, voorraad en beelden blijven van Orderchamp.
+Afmetingen, zithoogte, zitdiepte, gewicht, de maximale belasting van 120 kg, het frame, de stofsamenstelling, de schuimdichtheid en het onderhoud komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871974353027, geopend op 5 november 2026); de eigen export noemt deze waarden niet. Het bronproduct heet in de export "Cloud Barstoel Crème". De vroegere tabel noemde een voetsteun, "2 tot 3 weken" levertijd, "2 jaar" garantie en herkomst "Nederland"; de fabrikant bevestigt dat niet, dus die waarden staan niet in deze tekst. Volgens Pole To Pole komt de kruk uit China, is hij niet brandvertragend, niet stapelbaar en niet in hoogte verstelbaar. Dit is een live Orderchamp-product; de regel `Handle:` is de geplande handle. Varianten, SKU's, prijzen, voorraad en beelden blijven van Orderchamp.
+
+Varianten bijgewerkt naar de stand in Orderchamp op 19 november 2026: Karamel (karamel, geen voorraad, alleen in de variantentabel) en room (crème); het aparte product `wolkenbar-stoel-karamel` is nu de variant Karamel.
+
+De prijzen zijn de Orderchamp-prijzen (Karamel € 349,95, room € 299,90); de oude export gaf voor de barkruk in karamel € 299,90.
 
 ## Aan te vullen door de eigenaar
 

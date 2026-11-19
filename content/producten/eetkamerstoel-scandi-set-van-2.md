@@ -1,21 +1,24 @@
-# Scandi eetkamerstoel in tan, set van 2
+# Scandi eetkamerstoel in vier kleuren, set van 2
 
 Handle: `/products/eetkamerstoel-scandi-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
-Tags: eetkamerstoel, set van 2, armleuning, staal, tan, pole-to-pole  
+Tags: eetkamerstoel, set van 2, armleuning, staal, tan, umber, okura, oatly, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
 Collecties: -
 
-Meta-titel (48): Scandi eetkamerstoel in tan · set van 2 · InHuys  
-Meta-description (139): Scandi eetkamerstoel in tan, set van 2: rechte lijnen, armleuningen en een warm lichtbruine stoffering op een frame van gepoedercoat staal.
+Meta-titel (57): Scandi eetkamerstoel in vier kleuren · set van 2 · InHuys  
+Meta-description (130): Scandi eetkamerstoel, set van 2, in tan, umber, okura of oatly: rechte lijnen en armleuningen op een frame van gepoedercoat staal.
 
-**Zin onder de titel:** Rechte, rustige eetkamerstoel met armleuningen in tan; de stoel die bij alles past.
+**Zin onder de titel:** Rechte, rustige eetkamerstoel met armleuningen in tan, umber, okura of oatly; de stoel die bij alles past.
 
 ## Varianten en prijzen
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Tan | € 379,80 | 871974353219 | `scandi-stoel-tan-set-van-2` |
+| Omber | € 219,95 | 871974353218 | `scandi-stoel-tan-set-van-2` |
+| Okura | € 219,95 | 871974353217 | `scandi-stoel-tan-set-van-2` |
+| Oatly | € 219,95 | 872160652011 | `scandi-stoel-tan-set-van-2` |
+| Bruinen | € 379,80 | 871974353219 | `scandi-stoel-tan-set-van-2` |
 
 ## Beschrijving
 
@@ -23,9 +26,7 @@ Meta-description (139): Scandi eetkamerstoel in tan, set van 2: rechte lijnen, a
 De Scandi is de stille kracht van de collectie: rechte lijnen, een rustige rug en armleuningen die je onderarmen steun geven tijdens een lange maaltijd. Hij valt niet op, en dat is juist zijn kwaliteit in een eethoek waar de tafel of de lamp het verhaal vertelt. Op een zithoogte van 48,5 cm zit je rechtop aan tafels als de Urban Chique en de Ellipse, met genoeg ruimte tussen zitting en blad voor je benen. Met zijn 59 cm breedte krijgt elke gast een royale plek, dus aan de lange Urban Chique zet je er comfortabel drie aan elke zijde. Let bij het aanschuiven op de armleuningen: met hun 70 cm hoogte schuiven ze alleen onder het blad door als de onderkant van je tafel hoger ligt. Reken bij het plannen met 58 cm diepte en houd achter de stoelen een strook vrij, zodat iemand langs kan lopen terwijl de anderen zitten.
 
 ### Materiaal en maakwijze
-Onder de stoffering zit een frame van gepoedercoat Q195-staal, multiplex en metaal, dat tot 120 kg per stoel draagt. Tan is een warme, lichtbruine tint die bij vrijwel elke houtsoort past, en de stof is van 100% polyester. Het schuim in de stoel heeft een dichtheid van 25 kg/m³, een opgave waarmee je de Scandi kunt vergelijken met andere gestoffeerde stoelen. Een vlek neem je af met een vochtige, niet natte doek; harde schoonmaakmiddelen en doorweken laat je achterwege. Met 7,6 kg per stoel schuif je hem makkelijk aan en weer achteruit. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
-
-Dezelfde stoel is er ook in <a href="/products/eetkamerstoel-scandi-okura-set-van-2">okura</a> en in <a href="/products/eetkamerstoel-scandi-umber-set-van-2">umber</a>; elk is een eigen product met een eigen pagina.
+Onder de stoffering zit een frame van gepoedercoat Q195-staal, multiplex en metaal, dat tot 120 kg per stoel draagt. Je kiest de stoffering in tan, umber, okura of oatly, en in elke kleur is de stof van 100% polyester. Tan is een warme, lichtbruine tint die bij vrijwel elke houtsoort past. Het schuim in de stoel heeft een dichtheid van 25 kg/m³, een opgave waarmee je de Scandi kunt vergelijken met andere gestoffeerde stoelen. Een vlek neem je af met een vochtige, niet natte doek; harde schoonmaakmiddelen en doorweken laat je achterwege. Met 7,6 kg per stoel schuif je hem makkelijk aan en weer achteruit. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
 
 ### Combineren
 Tan bij eiken of essen is een klassieke, Scandinavische combinatie, omdat stof en hout dezelfde warme ondertoon hebben; bij een zwarte tafel krijgt de stoel juist contrast. Aan de lange Urban Chique-tafel brengt tan warmte tegen het koele keramische blad in marmerlook. Combineer met een linnen tafelkleed en een Agano-vaas van travertijn voor een eethoek die rustig blijft, ook als er veel op tafel staat. Wil je twee tinten, zet dan de Scandi in umber aan de kopse kanten en tan aan de lange zijden.
@@ -40,7 +41,7 @@ Tan bij eiken of essen is een klassieke, Scandinavische combinatie, omdat stof e
 | gewicht | 7,6 kg per stoel |
 | materiaal_frame | Gepoedercoat Q195-staal, multiplex en metaal |
 | materiaal_bekleding | Stof, 100% polyester; schuim 25 kg/m³ |
-| afwerking | Tan |
+| afwerking | Tan, umber, okura of oatly |
 | set_inhoud | 2 stoelen (in één doos, zelf te monteren) |
 | onderhoud | Afnemen met een vochtige, niet natte doek; geen harde schoonmaakmiddelen; de stof niet laten doorweken |
 | herkomst | Pole To Pole |
@@ -54,7 +55,7 @@ Als je twijfelt, kies de Scandi. Hij maakt geen statement, maar hij maakt ook no
 ## Veelgestelde vragen
 
 **Zijn er meer kleuren dan tan?**  
-Ja, de Scandi is er ook in okura en umber, elk als eigen product met een eigen pagina.
+Ja, naast tan kies je in dit product ook umber, okura of oatly. De afmetingen, het frame en de stof van 100% polyester zijn in elke kleur gelijk.
 
 **Hoeveel stoelen passen er aan een tafel van 180 cm?**  
 Drie aan elke lange zijde, maar dan zit je dicht op elkaar, want de Scandi is 59 cm breed. Aan een langere tafel, zoals de Urban Chique, zit iedereen ruim.
@@ -63,7 +64,7 @@ Drie aan elke lange zijde, maar dan zit je dicht op elkaar, want de Scandi is 59
 Nee, de Scandi is niet stapelbaar en niet in hoogte verstelbaar.
 
 **Wordt de stoel per set geleverd?**  
-Ja, de prijs geldt per set van twee; de stoelen komen in één doos en je monteert ze zelf.
+Ja, je krijgt twee stoelen; ze komen in één doos en je monteert ze zelf.
 
 ## Beelden
 

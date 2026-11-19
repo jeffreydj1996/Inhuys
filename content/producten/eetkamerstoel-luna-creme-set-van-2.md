@@ -6,17 +6,18 @@ Tags: eetkamerstoel, set van 2, armleuning, staal, crème, goud, pole-to-pole
 Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
 Collecties: -
 
-Meta-titel (48): Luna eetkamerstoel in crème · set van 2 · InHuys  
-Meta-description (137): Luna eetkamerstoel in crème, set van 2, met armleuningen en een zachte rug. Een lichte stoel voor een eethoek waar je lang blijft zitten.
+Meta-titel (53): Luna eetkamerstoel crème of goud · set van 2 · InHuys  
+Meta-description (138): Luna eetkamerstoel in crème of goud, set van 2, met armleuningen en een zachte rug. Een stoel voor een eethoek waar je lang blijft zitten.
 
-**Zin onder de titel:** De Luna met armleuningen in een zachte crème, voor een lichte eethoek waar je na het eten nog even blijft zitten.
+**Zin onder de titel:** De Luna met armleuningen in een zachte crème of een warm goud, voor een eethoek waar je na het eten nog even blijft zitten.
 
 ## Varianten en prijzen
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Crème | € 419,80 | 871974353108 | `luna-stoelcreme-set-van-2` |
+| room | € 419,80 | 871974353108 | `luna-stoelcreme-set-van-2` |
 | Goud | € 239,95 | 871974353111 | `luna-stoelcreme-set-van-2` |
+| Karamel | € 239,95 | 871974353109 | `luna-stoelcreme-set-van-2` |
 
 ## Beschrijving
 
@@ -27,7 +28,7 @@ In crème houdt de Luna een eethoek licht, ook in een kamer met weinig daglicht 
 Je zit op een frame dat tot 120 kg per stoel draagt, met poten van gepoedercoat Q195-staal en verder multiplex en metaal. Een vlek op de crème stof van 100% polyester neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. Wil je de Luna naast andere gestoffeerde stoelen leggen, kijk dan naar het schuim onder de stof, met een dichtheid van 25 kg/m³. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
 
 ### Combineren
-Crème naast een lichte eiken tafel geeft een zachte eethoek in één kleurfamilie; tegen het keramische blad in marmerlook van de Urban Chique-tafel wordt de stoel juist een lichte rand rond de tafel. Een Agano-vaas van travertijn in het midden van het blad sluit aan bij de lichte stof en geeft de tafel een rustpunt. Alle uitvoeringen en het volledige advies vind je bij [Luna eetkamerstoel in karamel, set van 2](/products/eetkamerstoel-luna-set-van-2).
+Crème naast een lichte eiken tafel geeft een zachte eethoek in één kleurfamilie; tegen het keramische blad in marmerlook van de Urban Chique-tafel wordt de stoel juist een lichte rand rond de tafel. Een Agano-vaas van travertijn in het midden van het blad sluit aan bij de lichte stof en geeft de tafel een rustpunt.
 
 ## Specificaties (metavelden `inhuys.*`)
 
@@ -49,7 +50,7 @@ Crème naast een lichte eiken tafel geeft een zachte eethoek in één kleurfamil
 
 ## Advies van InHuys
 
-Ik raad de Luna in crème aan voor een eethoek die licht moet blijven, bijvoorbeeld naast een open keuken met witte kasten of onder een raam op het noorden. Zitten er vaak kinderen aan tafel, dan laat een warmere tint een vlek minder snel zien; kijk dan naar goud, of lees het volledige advies bij de Luna in karamel.
+Ik raad de Luna in crème aan voor een eethoek die licht moet blijven, bijvoorbeeld naast een open keuken met witte kasten of onder een raam op het noorden. Zitten er vaak kinderen aan tafel, dan laat een warmere tint een vlek minder snel zien; kijk dan naar goud.
 
 ## Veelgestelde vragen
 
@@ -60,7 +61,7 @@ Alleen de kleur van de stof: maten, frame en vulling zijn gelijk, en beide stoff
 Dat hangt af van de armleuningen, die tot 72 cm hoogte komen. Ligt de onderkant van je tafelblad hoger, dan schuift de stoel er helemaal onder.
 
 **Wordt de stoel per set geleverd?**  
-Ja, de prijs geldt per set van twee; de stoelen komen in één doos en je monteert ze zelf.
+Ja, je krijgt twee stoelen; ze komen in één doos en je monteert ze zelf.
 
 ## Beelden
 
@@ -68,7 +69,9 @@ De 8 beelden (1200 px breed) komen van het Orderchamp-product `luna-stoelcreme-s
 
 ## Opmerking
 
-Afmetingen, zithoogte, zitdiepte, gewicht, de maximale belasting van 120 kg, het frame, de stofsamenstelling, de schuimdichtheid en het onderhoud komen van de productpagina's van Pole To Pole (poletopole.nl, SKU 871974353108 crème en SKU 871974353111 goud, geopend op 5 november 2026); de waarden zijn voor beide kleuren gelijk. Het Orderchamp-product `luna-stoelcreme-set-van-2` heeft twee varianten: crème (€ 419,80) en goud (€ 239,95). De prijs van goud wijkt af van die van crème en van de andere Luna-kleuren (€ 419,80); dat verschil is door de eigenaar te verifiëren en beide prijzen zijn ongewijzigd uit het bronproduct overgenomen. De Orderchamp-importtekst noemt eiken en hout bij het materiaal; dat staat niet in de fabrikantbron en is niet gebruikt. Volgens Pole To Pole komt de stoel uit China, is hij niet brandvertragend en niet stapelbaar. Dit is een live Orderchamp-product; de regel `Handle:` is de geplande handle. Varianten, SKU's, prijzen, voorraad en beelden blijven van Orderchamp.
+Varianten bijgewerkt naar de stand in Orderchamp op 19 november 2026: room = crème (SKU 871974353108, voorraad 100), Goud = goud (SKU 871974353111, voorraad 100), Karamel = karamel (SKU 871974353109, voorraad 0, daarom niet in de tekst); karamel is geen apart product meer.
+De prijzen zijn de Orderchamp-prijzen: room € 419,80, Goud en Karamel € 239,95; het verschil (set tegenover stuk) is door de eigenaar te verifiëren.
+Afmetingen, zithoogte, zitdiepte, gewicht, de maximale belasting van 120 kg, het frame, de stofsamenstelling, de schuimdichtheid en het onderhoud komen van de productpagina's van Pole To Pole (poletopole.nl, SKU 871974353108 crème en SKU 871974353111 goud, geopend op 5 november 2026); de waarden zijn voor beide kleuren gelijk. De Orderchamp-importtekst noemt eiken en hout bij het materiaal; dat staat niet in de fabrikantbron en is niet gebruikt. Volgens Pole To Pole komt de stoel uit China, is hij niet brandvertragend en niet stapelbaar. Dit is een live Orderchamp-product; de regel `Handle:` is de geplande handle. Varianten, SKU's, prijzen, voorraad en beelden blijven van Orderchamp.
 
 ## Aan te vullen door de eigenaar
 
