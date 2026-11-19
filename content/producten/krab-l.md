@@ -14,7 +14,7 @@ Meta-description (139): H19 krab van brons, groot en met de hand gemaakt. Een st
 
 | Uitvoering | Prijs | SKU | Bronproduct |
 |---|---|---|---|
-| L | € 90,00 | 871974353388 | `h19-krab-l` |
+| L | € 90,00 | 871974353389 | `h19-krab-l` |
 
 ## Beschrijving
 

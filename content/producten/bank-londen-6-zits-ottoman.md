@@ -16,7 +16,7 @@ Meta-description (141): Bank Londen als 6-zits met ottoman in tan of umber: 392 
 | Opstelling | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|---|
 | 6-zits met ottoman | Tan | € 5740,00 | 871974353300 | `london-6-seater-ottoman-tan` |
-| 6-zits met ottoman | Umber | € 5740,00 | 871974353301 | `london-6-seater-ottoman-tan` |
+| 6-zits met ottoman | Umber | € 5.739,95 | 871974353301 | `london-6-seater-ottoman-tan` |
 
 ## Beschrijving
 
