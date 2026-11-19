@@ -85,7 +85,7 @@ def controleer(query, variables, env):
         for p in (variables or {}).values():
             if isinstance(p, dict) and (set(p) != {"id", "status"} or str(p.get("status")).upper() != "DRAFT"): fouten.append("naar concept: alleen id en status DRAFT zijn toegestaan")
         if not fouten: ids = ids | set(nc_in_input)
-    live_in_input = [g for g in live_tekst if g in mutatie_ids]
+    live_in_input = [g for g in live_tekst if g in mutatie_ids and g not in naar_concept]   # een dubbel dat naar concept gaat valt onder de regel hierboven
     if live_in_input:
         # Besluit eigenaar 19 november 2026: tekst op de live producten uit 'live_tekst' mag zonder omgevingsvariabele; alleen de velden hieronder.
         if namen != {"productUpdate"}: fouten.append("live product: alleen productUpdate is toegestaan met INHUYS_LIVE_TEKST=1")
