@@ -6,7 +6,7 @@ Tags: eetkamerstoel, set van 2, staal, coco, zandwit, pole-to-pole
 Categorie: gid://shopify/TaxonomyCategory/fr-7-9  
 Collecties: gid://shopify/Collection/704710541651
 
-Meta-titel (60): Rainbow eetkamerstoel in coco of zandwit · set van 2 · InHuys  
+Meta-titel (56): Rainbow eetkamerstoel · coco of zandwit · set van 2 · InHuys  
 Meta-description (152): Rainbow eetkamerstoel in coco of zandwit, set van 2, op een frame van gepoedercoat staal, voor een eethoek bij een eiken tafel of de bank New York.
 
 **Zin onder de titel:** De Rainbow in warm coco of licht zandwit, voor een eethoek die de tinten van je woonkamer voortzet.
