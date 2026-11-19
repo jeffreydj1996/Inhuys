@@ -54,7 +54,7 @@ Ik hang de Play & Chill alleen op als ik zeker weet dat het plafond van massief 
 Aan een plafond van massief beton of massief hout, met een hoogte tussen 2,20 en 2,80 m. De speciale plug voor de bevestiging zit erbij.
 
 **Hoe zwaar mag je kind zijn?**  
-De schommel is geschikt tot een belasting van 50 kg. Jupiduu raadt hem aan vanaf 3 jaar, met een volwassene in de buurt.
+Jupiduu raadt de schommel aan vanaf 3 jaar en tot een belasting van 50 kg, met een volwassene in de buurt.
 
 **Kun je de schommel wassen?**  
 Ja, alles behalve de schuimeinlage mag in de was. Het liggedeel is afneembaar, dus je haalt het schuim er eerst uit.

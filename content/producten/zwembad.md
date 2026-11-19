@@ -20,7 +20,7 @@ Meta-description (139): Zwembad van Jupiduu met een wand van PVC-folie in dropst
 ## Beschrijving
 
 ### Zo werkt het in de ruimte
-Een zwembad met rechte wanden geeft spelen met water een duidelijke grens: wat spat, blijft binnen de rand, en de rest van de kamer blijft rustig. Met een zijwand van 35 cm stappen kinderen er makkelijk in en uit, en kijk je vanaf de bank of de keukentafel gewoon over de rand mee. De maat kies je op de plek die je hebt. In 150 cm diameter past het bad in een speelkamer of een serre, tegen een muur of naast een lage kast. Met 200 cm vul je het midden van een ruimere kamer. De 250 cm vraagt om een vloer waar kinderen er rondom ook nog kunnen lopen. Omdat het bad opblaasbaar is, laat je na het spelen het water en de lucht eruit en berg je het opgevouwen op tot de volgende keer.
+Een zwembad met rechte wanden geeft spelen met water een duidelijke grens: wat spat, blijft binnen de rand, en de rest van de kamer blijft rustig. Met een zijwand van 35 cm stappen kinderen er makkelijk in en uit, en kijk je vanaf de bank of de keukentafel gewoon over de rand mee. De maat kies je op de plek die je hebt. In 150 cm diameter past het bad in een speelkamer of een serre, tegen een muur of naast een lage kast. Met 200 cm vul je het midden van een ruimere kamer. De 250 cm vraagt om een vloer waar kinderen er rondom ook nog kunnen lopen.
 
 ### Materiaal en maakwijze
 De wand is opgebouwd uit PVC-folie in een dropstitch-opbouw van drie lagen, en daardoor houdt het bad zijn vorm in plaats van mee te deinen als een kind tegen de rand leunt. Die stevigheid zie je ook als het bad leeg in de kamer staat: de rand blijft strak, zodat het er opgeruimd uitziet. Jupiduu verlijmt het bad met de hand en gebruikt materiaal dat BPA-vrij is, een punt waar veel ouders bij speelgoed op letten. Met 8,0 kg draag je het lege bad zonder hulp van de berging naar de kamer waar het die dag staat. Jupiduu geeft er vijf jaar garantie op.
@@ -49,7 +49,7 @@ Ik zet dit zwembad binnen alleen op een vloer die tegen water kan, zoals tegels,
 ## Veelgestelde vragen
 
 **Welke maten zijn er?**  
-Je kiest uit drie diameters: 150, 200 of 250 cm. De zijwand is bij elke maat 35 cm hoog.
+Je kiest uit drie diameters: 150, 200 of 250 cm, elk met een zijwand van 35 cm waar een kind zelf overheen stapt.
 
 **Waar is het zwembad van gemaakt?**  
 Van PVC-folie in een dropstitch-opbouw van drie lagen, met de hand verlijmd. Het materiaal is BPA-vrij.

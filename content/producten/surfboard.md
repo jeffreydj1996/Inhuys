@@ -21,7 +21,7 @@ Meta-description (148): Surfboard van multiplexhout met een stroeve bovenkant, t
 Een surfplank van multiplexhout hoeft na het spelen niet weggestopt te worden: tegen de muur van de schuur, in de gang of naast de achterdeur ziet hij eruit als een stuk hout en niet als plastic speelgoed. Het Surfboard hoort bij de Slide & Surf Way van Jupiduu, de baan met een laagje water waarover je kind in de tuin op de plank glijdt. Zo krijgt een stuk gazon in de zomer een eigen spel, en verhuist de plank in het najaar met de baan mee naar binnen. Met zijn 3,0 kg draagt je kind het Surfboard zelf van de schuur naar het gras en weer terug.
 
 ### Materiaal en maakwijze
-Jupiduu maakt het Surfboard van multiplexhout, dunne lagen hout die kruislings op elkaar zijn verlijmd, en dat geeft de plank stevigheid zonder dat hij zwaar wordt. De bovenkant is stroef afgewerkt, wat je op een natte glijbaan goed kunt gebruiken. Jupiduu heeft de plank ergonomisch vormgegeven, met als doel dat je kind al spelend zijn balans en coördinatie oefent. De plank draagt een belasting tot 100 kg, en Jupiduu geeft er vijf jaar garantie op. In grijs valt de plank weg tegen tegels, grind en de houten wand van een schuur, waar een felgekleurde plank juist de aandacht zou trekken.
+Jupiduu maakt het Surfboard van multiplexhout, en dat geeft de plank stevigheid zonder dat hij zwaar wordt. De bovenkant is stroef afgewerkt, wat je op een natte glijbaan goed kunt gebruiken. Jupiduu heeft de plank ergonomisch vormgegeven, met als doel dat je kind al spelend zijn balans en coördinatie oefent. De plank draagt een belasting tot 100 kg, en Jupiduu geeft er vijf jaar garantie op. In grijs valt de plank weg tegen tegels, grind en de houten wand van een schuur, waar een felgekleurde plank juist de aandacht zou trekken.
 
 ### Combineren
 Op het gras naast de Slide & Surf Way leg je het Surfboard aan het begin van de baan klaar, zodat de plank en de baan samen één speelplek vormen. Staat de Jumpspot voor buiten ook in de tuin, dan sluit het grijs van de plank aan bij de grijze springplek, en blijft de speelhoek één rustig geheel op het gazon. Bij een terras van hout of natuursteen houdt een houten plank in grijs het geheel kalm, ook als hij een middag op de rand van het terras ligt te drogen.
@@ -50,7 +50,7 @@ Ik raad het Surfboard aan als je de Slide & Surf Way al hebt of er meteen bij ne
 Van multiplexhout, met een stroeve bovenkant. Jupiduu kiest hout in plaats van plastic.
 
 **Hoeveel gewicht kan de plank dragen?**  
-De plank is belastbaar tot 100 kg. Zelf weegt hij 3,0 kg.
+De plank draagt tot 100 kg, en met zijn eigen gewicht van 3,0 kg til je hem makkelijk op.
 
 **Waarvoor gebruik je het Surfboard?**  
 Als accessoire bij de Slide & Surf Way van Jupiduu. Je kind oefent er al spelend balans en coördinatie mee.

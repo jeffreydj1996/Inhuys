@@ -50,7 +50,7 @@ Ik zet de Climb & Jump alleen in een tuin waar je rondom de koepel echt 1,5 m vr
 Jupiduu noemt vanaf 3 jaar. Een volwassene houdt toezicht tijdens het spelen.
 
 **Hoeveel ruimte heb je nodig?**  
-De koepel heeft een doorsnede van 190 cm. Houd daaromheen 1,5 m vrij van voorwerpen.
+Reken op de doorsnede van 190 cm van de koepel zelf en houd daaromheen 1,5 m vrij van voorwerpen.
 
 **Hoe blaas je de koepel op?**  
 Met een pomp en de meegeleverde adapter met autoventiel blaas je hem op tot 0,7 bar. De inbussleutel voor de montage zit erbij.

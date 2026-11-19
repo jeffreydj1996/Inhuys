@@ -56,7 +56,7 @@ Ja, je neemt de hoes af via de verborgen rits aan de achterkant en wast hem los 
 Je gebruikt hem als zitbank, of je klapt hem om tot een groot, vlak speelvlak. Daarop speelt, springt of slaapt je kind.
 
 **Hoe zwaar is de bank?**  
-De bank weegt 5,0 kg. Je verplaatst hem dus zelf naar een andere kamer.
+Met zijn 5,0 kg verplaats je de bank zelf naar een andere kamer.
 
 ## Beelden
 
