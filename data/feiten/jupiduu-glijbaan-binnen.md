@@ -29,9 +29,7 @@ Varianten (optie "kleur"): Blau "Blauwe vinvis" (LY-TNZP-YPP6), Weiß "Witte Oli
 | maximale belasting | niet gevonden | Orderchamp-export; fabrikantpagina niet gevonden | 2026-11-19 |
 | montage | niet gevonden | Orderchamp-export; fabrikantpagina niet gevonden | 2026-11-19 |
 | bijzonderheden: binnen of buiten | binnen (titel "Glijbaan voor Binnen"; export: "een design glijbaan die past in een rustig interieur") | Orderchamp-export (data/raw/products-2.json) | 2026-11-19 |
-| bijzonderheden: fabrikantpagina | jupiduu.com-pagina voor deze glijbaan niet gevonden. Zoekopdrachten leverden alleen dealerpagina's op, die niet als bron zijn gebruikt; de dealerpagina's noemen een andere afmeting dan de export (zie Opmerking) | WebSearch zonder treffer op jupiduu.com; URL-pogingen op jupiduu.com gaven 404 | 2026-11-19 |
-
-Opmerking: dealerzoekresultaten noemen voor de Weiße Olifant (binnenglijbaan van hetzelfde merk) de maten 145 × 43 × 68 cm en MDF als materiaal. Dat is niet van een toegestane bron en is daarom niet in de tabel opgenomen. Te verifiëren bij de fabrikant.
+| bijzonderheden: fabrikantpagina | jupiduu.com-pagina voor deze glijbaan niet gevonden. Zoekopdrachten leverden alleen dealerpagina's op, die niet als bron zijn gebruikt | WebSearch zonder treffer op jupiduu.com; URL-pogingen op jupiduu.com gaven 404 | 2026-11-19 |
 
 Fabrikant wijkt af: niet vergeleken (geen fabrikantpagina gevonden).
 
