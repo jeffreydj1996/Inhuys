@@ -15,18 +15,16 @@ Meta-description (146): Cloud keukenbarkruk in crème met rugleuning en een zach
 
 | Hoogte | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|---|
-| Keukenbarkruk | Crème | € 279,90 | 871974353026 | `cloud-kitchen-barstoel-creme` |
+| Keukenbarkruk | Karamel | € 329,95 | 871974353089 | `wolkenkeukenbar-stoel-karamel` |
+| Keukenbarkruk | room | € 279,90 | 871974353026 | `cloud-kitchen-barstoel-creme` |
 
 ## Beschrijving
 
 ### Zo werkt het in de ruimte
-Aan een keukeneiland zit je vaak langer dan je denkt: ontbijt, een glas wijn tijdens het koken, een uur werken op je laptop. De Cloud keukenbarkruk heeft daarom een echte rugleuning en dezelfde ronde, zachte kuip als de Cloud eetkamerstoel, zodat je ook op hoogte goed blijft zitten. In crème houdt hij het eiland licht, en dat werkt vooral naast lichte kasten of een licht werkblad. Met zijn 56 cm breedte vraagt de kruk een eigen strook langs het blad, dus houd de kopse kant van het eiland vrij om langs te lopen. Reken bij het plannen met 54 cm diepte, plus ruimte om de kruk naar achteren te schuiven als je opstaat. Kies de hoogte op basis van je blad: tussen zitting en blad hoort 25 tot 30 cm, en de zithoogte van deze kruk vind je in de specificaties. Is je blad hoger, zoals bij een bar of een statafel, dan past de hogere <a href="/products/barkruk-cloud-barkruk-karamel">Cloud barkruk in karamel</a> beter.
+Aan een keukeneiland zit je vaak langer dan je denkt: ontbijt, een glas wijn tijdens het koken, een uur werken op je laptop. De Cloud keukenbarkruk heeft daarom een echte rugleuning en dezelfde ronde, zachte kuip als de Cloud eetkamerstoel, zodat je ook op hoogte goed blijft zitten. In crème houdt hij het eiland licht, en dat werkt vooral naast lichte kasten of een licht werkblad. Met zijn 56 cm breedte vraagt de kruk een eigen strook langs het blad, dus houd de kopse kant van het eiland vrij om langs te lopen. Reken bij het plannen met 54 cm diepte, plus ruimte om de kruk naar achteren te schuiven als je opstaat. Kies de hoogte op basis van je blad: tussen zitting en blad hoort 25 tot 30 cm, en de zithoogte van deze kruk vind je in de specificaties. Is je blad hoger, zoals bij een bar of een statafel, dan past de hogere <a href="/products/barkruk-cloud-barkruk-creme">Cloud barkruk in crème</a> beter.
 
 ### Materiaal en maakwijze
 Het frame combineert gepoedercoat Q195-staal met multiplex en metaal, en draagt tot 120 kg per kruk. De stoffering in crème is van 100% polyester en heeft een gladde, rustige uitstraling. Het schuim in de kuip heeft een dichtheid van 25 kg/m³, een opgave waarmee je de kruk kunt vergelijken met andere gestoffeerde barkrukken. Een vlek van koffie of saus neem je af met een vochtige, niet natte doek; agressieve middelen en doorweken laat je achterwege. Met 6,4 kg is de kruk licht genoeg om hem even op te tillen als je de vloer onder het eiland schoonmaakt. De kruk wordt per stuk geleverd en je zet hem zelf in elkaar.
-
-Dezelfde keukenbarkruk is er ook in <a href="/products/barkruk-cloud-keukenbarkruk-karamel">karamel</a>, en voor een hoger blad is er de <a href="/products/barkruk-cloud-barkruk-karamel">Cloud barkruk in karamel</a>; elk is een eigen product met een eigen pagina.
-
 ### Combineren
 Twee of drie krukken aan een eiland in hout of keramiek, in dezelfde kleur als de Cloud eetkamerstoelen verderop in de ruimte, maken van keuken en eetkamer één geheel. Crème past bij lichte kasten en een eiken vloer; naast een donker of groen keukenblok wordt de kruk juist een lichte rand die het blad laat oplichten. Een Agano-vaas van travertijn op het eiland en een linnen theedoek in dezelfde lichte tint maken de keuken af.
 

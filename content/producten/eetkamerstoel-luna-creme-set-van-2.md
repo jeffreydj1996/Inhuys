@@ -1,4 +1,4 @@
-# Luna eetkamerstoel · crème, set van 2
+# Luna eetkamerstoel · crème of goud, set van 2
 
 Handle: `/products/eetkamerstoel-luna-creme-set-van-2` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Stoelen
 
