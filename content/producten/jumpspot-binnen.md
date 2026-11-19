@@ -46,7 +46,7 @@ In een kinderkamer met een eiken vloer en een wollen vloerkleed kies je kameel o
 
 ## Advies van InHuys
 
-Ik leg de Jumpspot het liefst midden in een kinderkamer met een vrije vloer, en niet in een smalle gang of tussen de bank en de salontafel, waar je de vrije ruimte rondom niet haalt. Kies een kleur die al in de kamer terugkomt, in een kussen, een gordijn of het hout van de vloer, dan blijft het een rustig stuk dat ook blijft liggen als er bezoek komt. Twijfel je tussen twee kleuren, neem dan de rustigste voor de springplek zelf en bewaar de andere voor een tweede hoes.
+Ik leg de Jumpspot het liefst midden in een kinderkamer met een vrije vloer, en niet in een smalle gang of tussen de bank en de salontafel, waar je de vrije ruimte rondom niet haalt. Kies een kleur die al in de kamer terugkomt, in een kussen, een gordijn of het hout van de vloer, dan blijft het een rustig stuk dat ook blijft liggen als er bezoek komt. Twijfel je tussen twee kleuren, neem dan de rustigere voor de springplek zelf en bewaar de andere voor een tweede hoes.
 
 ## Veelgestelde vragen
 
