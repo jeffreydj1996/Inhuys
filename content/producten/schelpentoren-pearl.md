@@ -15,6 +15,7 @@ Meta-description (141): Pearl schelpentoren L van schelp, metaal en hout, met de
 | Uitvoering | Prijs | SKU | Bronproduct |
 |---|---|---|---|
 | L | € 29,90 | 871917285768 | `j73-schelptoren-parel-l` |
+| S | € 39,95 | 871917285767 | `j73-schelptoren-parel-l` |
 
 ## Beschrijving
 
@@ -68,7 +69,11 @@ De 4 beelden (1200 px breed) horen bij het Orderchamp-concept `j73-schelptoren-p
 
 ## Opmerking
 
-Afmetingen, gewicht, materialen, set-inhoud, onderhoud, herkomst en het handwerk komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285768, "J73 Shell Tower Pearl On Stand L", geopend op 5 november 2026). "Pearl" staat alleen in de productnaam; de materiaalvermelding noemt geen parelmoer. Het kleurveld van de fabrikant zegt "Other Color" zonder omschrijving en er is geen afwerking genoemd; daarom staat afwerking op [AANVULLEN] en noemen de tekst en de tags geen kleur. De bron vermeldt "Shell, Metal, Wood" zonder onderdeelindeling: het metaal is niet nader benoemd en het hout is niet expliciet aan de voet gekoppeld. De standaard volgt uit de fabrikantnaam "Shell Tower Pearl On Stand"; de importtekst van het oude product noemt een metalen standaard, maar het materiaal van de standaard bevestigt de fabrikant niet, dus de tekst noemt alleen een standaard. Doosmaten zijn niet gevonden. In dezelfde serie bestaat de J72 S van 28 cm (`j72-shell-toren-parel-s`, € 25,90), die hier niet als variant is opgenomen. Dit product is het Orderchamp-concept `j73-schelptoren-parel-l`; varianten, voorraad en beelden blijven van Orderchamp. De prijs van € 29,90 komt ongewijzigd uit het bronproduct.
+Afmetingen, gewicht, materialen, set-inhoud, onderhoud, herkomst en het handwerk komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285768, "J73 Shell Tower Pearl On Stand L", geopend op 5 november 2026). "Pearl" staat alleen in de productnaam; de materiaalvermelding noemt geen parelmoer. Het kleurveld van de fabrikant zegt "Other Color" zonder omschrijving en er is geen afwerking genoemd; daarom staat afwerking op [AANVULLEN] en noemen de tekst en de tags geen kleur. De bron vermeldt "Shell, Metal, Wood" zonder onderdeelindeling: het metaal is niet nader benoemd en het hout is niet expliciet aan de voet gekoppeld. De standaard volgt uit de fabrikantnaam "Shell Tower Pearl On Stand"; de importtekst van het oude product noemt een metalen standaard, maar het materiaal van de standaard bevestigt de fabrikant niet, dus de tekst noemt alleen een standaard. Doosmaten zijn niet gevonden. De variant S (J72, SKU 871917285767, 28 cm hoog volgens Pole To Pole, eerder het aparte product `j72-shell-toren-parel-s`) heeft in Orderchamp voorraad 0; daarom staat hij alleen in de variantentabel, en gaan titel, tekst en metavelden over L. Dit product is het Orderchamp-concept `j73-schelptoren-parel-l`; varianten, voorraad en beelden blijven van Orderchamp.
+
+Varianten bijgewerkt naar de stand in Orderchamp op 19 november 2026: L en S (voorraad 0); de maatnamen zijn niet vertaald.
+
+De prijzen zijn de Orderchamp-prijzen: L € 29,90 en S € 39,95 (de oude export noemde voor S € 25,90); dat S duurder is dan L, is te verifiëren.
 
 ## Aan te vullen door de eigenaar
 
