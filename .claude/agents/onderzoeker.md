@@ -17,7 +17,7 @@ Werkwijze:
    - Jupiduu: productpagina op jupiduu.com (Duits; `/en/products/...` Engels); zoek met `site:jupiduu.com <product>`.
    - MOOISA: `site:mooisa.com <product>`. Jesper Home: `site:jesperhome.com <product>`.
 3. WebSearch dient alleen om een productpagina op die hosts te vinden; maximaal 6 zoekopdrachten per model. Een zoekfragment is nooit een bron; alleen een pagina die het script heeft geopend telt.
-4. Noteer per feit de waarde, de bron-URL en de datum. Twee bronnen die elkaar tegenspreken: beide noteren en markeren als "te verifiëren".
+4. Noteer per feit de waarde, de bron-URL en de datum. Orderchamp is de basis: de uitlezing van het concept (`data/orderchamp/<handle>.json`: titel, varianten, prijs, importtekst) of, als die er niet is, de oude beschrijving in `data/raw/products-*.json` telt als bron en gaat vóór fabrikant en dealer. Spreekt de fabrikant Orderchamp tegen, dan is de Orderchamp-waarde het feit en noteer je de fabrikantwaarde erachter als "fabrikant wijkt af: …". Alleen als Orderchamp zwijgt en twee andere bronnen elkaar tegenspreken, markeer je "te verifiëren".
 5. Wat je niet vindt, schrijf je op als "niet gevonden". Nooit schatten of afleiden uit vergelijkbare modellen.
 6. Meldt het script ONBEREIKBAAR, noteer de hostnaam in je rapport en ga verder; probeer die host niet opnieuw.
 7. Het script bewaart de letterlijke bronteksten in `data/bron-teksten/<model>.txt` (alleen voor de overlapcontrole; de schrijver krijgt dat bestand nooit). Maak of bewerk dat bestand niet zelf.

@@ -12,5 +12,7 @@ Opdrachten die je kunt krijgen:
 3. Steekproef op feiten: controleer met Grep dat elke maat (cm, kg) en elk materiaal of elke stofsoort die over het product zelf wordt beweerd in `content/producten/<handle>.md`, ook in `data/feiten/<model>.md` staat; meld wat je niet terugvindt. Niet melden: materialen van de ruimte of van andere InHuys-producten (vloer, tafel, boekensteun), afgeleide uitspraken (oppervlak uit breedte × diepte) en stijlwoorden. Feiten die in het feitenbestand als "te verifiëren" staan, noem je in één regel als waarschuwing, niet als fout.
 4. Audit: `python3 -I tools/audit.py data/raw data/out/audit` en daarna `grep <handle> data/out/audit/producten.csv` voor de gevraagde handles; meld score en de kolommen die op "nee" of "ja" bij een probleem staan.
 
+Orderchamp is de basis: een waarde uit de Orderchamp-uitlezing of -importtekst in het feitenbestand is een geldig feit, ook als de fabrikant afwijkt; meld alleen als de tekst de fabrikantwaarde gebruikt waar Orderchamp iets anders zegt.
+
 Verdict: eerste regel `GOED` of `AANPASSEN`, daarna maximaal 15 regels met alleen de foutregels (bestand: fout). Bij GOED volstaat één regel per gecontroleerd bestand. Geen uitleg, geen adviezen.
 Stop en meld het als een script ontbreekt of na twee keer faalt.
