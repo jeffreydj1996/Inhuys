@@ -1,0 +1,3314 @@
+{
+ "travertine-agano-vaas": {
+  "gid": "gid://shopify/Product/9957680054611",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "M Ø20x23cm",
+    "sku": null,
+    "price": "194.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "L Ø20x31cm",
+    "sku": null,
+    "price": "219.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "yanai-dining-chair-slide-black": {
+  "gid": "gid://shopify/Product/9959806337363",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Biscuit Beach",
+    "sku": null,
+    "price": "309.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Soft Sage",
+    "sku": null,
+    "price": "309.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Tuscan Terra",
+    "sku": null,
+    "price": "309.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Pigeon",
+    "sku": null,
+    "price": "309.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "yanai-dining-chair-slide-gold": {
+  "gid": "gid://shopify/Product/9959901102419",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Biscuit Beach",
+    "sku": null,
+    "price": "319.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Soft Sage",
+    "sku": null,
+    "price": "319.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Tuscan Terra",
+    "sku": null,
+    "price": "319.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Pigeon",
+    "sku": null,
+    "price": "319.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "marmer-waxinelichthouder": {
+  "gid": "gid://shopify/Product/9966390739283",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Ø6x4cm",
+    "sku": "8720648589966",
+    "price": "16.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Ø6x7cm",
+    "sku": "8720648589959",
+    "price": "25.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Ø6x10cm",
+    "sku": "8720648589973",
+    "price": "31.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "boekhouder": {
+  "gid": "gid://shopify/Product/9978474430803",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": null,
+    "price": "59.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "holzrutsche-binnen": {
+  "gid": "gid://shopify/Product/10388933312851",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Grün - \"Groene Uil\"",
+    "sku": "8Z-7PH1-2A2K",
+    "price": "279.90",
+    "inventoryQuantity": 480
+   },
+   {
+    "title": "Roze - \"Roze Konijn\"",
+    "sku": "VP-S4VP-W1F5",
+    "price": "279.90",
+    "inventoryQuantity": 677
+   },
+   {
+    "title": "Blau - \"Blauwe vinvis\"",
+    "sku": "LY-TNZP-YPP6",
+    "price": "279.90",
+    "inventoryQuantity": 490
+   },
+   {
+    "title": "Weiß - \"Witte Olifant\"",
+    "sku": "8R-6C64-Z955",
+    "price": "279.90",
+    "inventoryQuantity": 129
+   }
+  ]
+ },
+ "springplek-binnen": {
+  "gid": "gid://shopify/Product/10388933345619",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "OLIJF",
+    "sku": "JUSPOL",
+    "price": "269.90",
+    "inventoryQuantity": 197
+   },
+   {
+    "title": "KAMEEL",
+    "sku": "JUSPCA",
+    "price": "269.90",
+    "inventoryQuantity": 168
+   },
+   {
+    "title": "roos",
+    "sku": "JUSPRO",
+    "price": "269.90",
+    "inventoryQuantity": 137
+   },
+   {
+    "title": "Beige (bestseller)",
+    "sku": "JUSPDB",
+    "price": "269.90",
+    "inventoryQuantity": 736
+   },
+   {
+    "title": "BLAUW",
+    "sku": "JUSPLB",
+    "price": "269.90",
+    "inventoryQuantity": 204
+   }
+  ]
+ },
+ "ballenbak": {
+  "gid": "gid://shopify/Product/10388933476691",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "roos",
+    "sku": "JUBB4MB",
+    "price": "249.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "KAMEEL",
+    "sku": "JUBB2MB",
+    "price": "249.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "beige",
+    "sku": "JUBB1MB",
+    "price": "249.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "OLIJF",
+    "sku": "JUBB3MB",
+    "price": "249.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "BLAUW",
+    "sku": "JUBB5MB",
+    "price": "249.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "jumpspot-buiten": {
+  "gid": "gid://shopify/Product/10388935213395",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "JUOD",
+    "price": "349.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "glijbaan-white-dolphin": {
+  "gid": "gid://shopify/Product/10388935311699",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "KRODWD",
+    "price": "349.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "schommel-play-chill": {
+  "gid": "gid://shopify/Product/10388935377235",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Olijf",
+    "sku": "SWEG5",
+    "price": "199.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Kameel",
+    "sku": "SWEG2",
+    "price": "199.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "beige",
+    "sku": "SWEG1",
+    "price": "199.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "lichtblauw",
+    "sku": "SWEG3",
+    "price": "199.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Roos",
+    "sku": "SWEG4",
+    "price": "199.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "hoes-jumpspot-buiten": {
+  "gid": "gid://shopify/Product/10388935410003",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Zwart",
+    "sku": "Tra/Sch",
+    "price": "99.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Grau",
+    "sku": "Tra/Gra",
+    "price": "99.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Braun",
+    "sku": "Tra/Bra",
+    "price": "99.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "hoes-jumpspot-binnen": {
+  "gid": "gid://shopify/Product/10388935442771",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "OLIJF",
+    "sku": "Wec-Oli",
+    "price": "69.90",
+    "inventoryQuantity": 52
+   },
+   {
+    "title": "Roos",
+    "sku": "Wec-Ros",
+    "price": "69.90",
+    "inventoryQuantity": 83
+   },
+   {
+    "title": "BLAUW",
+    "sku": "Wec-Bla",
+    "price": "69.90",
+    "inventoryQuantity": 82
+   },
+   {
+    "title": "beige",
+    "sku": "Wec-Bei",
+    "price": "69.90",
+    "inventoryQuantity": 53
+   },
+   {
+    "title": "Kameel",
+    "sku": "Wec-Cam",
+    "price": "69.90",
+    "inventoryQuantity": 33
+   }
+  ]
+ },
+ "klimkoepel-climb-jump": {
+  "gid": "gid://shopify/Product/10388935541075",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "Dome1",
+    "price": "799.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "slide-surf-way": {
+  "gid": "gid://shopify/Product/10388935573843",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "Slisurf/gre/out",
+    "price": "289.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "artboard": {
+  "gid": "gid://shopify/Product/10388935672147",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Multiplex",
+    "sku": "Art/Board-1",
+    "price": "99.90",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Wit",
+    "sku": "Art/Board-2",
+    "price": "99.90",
+    "inventoryQuantity": 2
+   }
+  ]
+ },
+ "flip-play-bank": {
+  "gid": "gid://shopify/Product/10388935770451",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "Fli/bei",
+    "price": "299.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "surfboard": {
+  "gid": "gid://shopify/Product/10388935803219",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "Surf/Grey",
+    "price": "79.90",
+    "inventoryQuantity": 28
+   }
+  ]
+ },
+ "flitsadvies": {
+  "gid": "gid://shopify/Product/10425596870995",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": null,
+    "price": "0.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-rock-bruin-set-van-2": {
+  "gid": "gid://shopify/Product/10447089434963",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285449",
+    "price": "479.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "eetkamerstoel-rock-taupe-set-van-2": {
+  "gid": "gid://shopify/Product/10447089467731",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285451",
+    "price": "479.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "cloud-stoel-creme-set-van-2": {
+  "gid": "gid://shopify/Product/10447089566035",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285924",
+    "price": "439.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cloud-stoel-karamel-set-van-2": {
+  "gid": "gid://shopify/Product/10447089598803",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285925",
+    "price": "439.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cloud-stoel-beige-set-van-2": {
+  "gid": "gid://shopify/Product/10447089664339",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285928",
+    "price": "439.80",
+    "inventoryQuantity": 86
+   }
+  ]
+ },
+ "cloud-stoel-safiya-terracotta-set-van-2": {
+  "gid": "gid://shopify/Product/10447089697107",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285927",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "whale-stoel-beige-set-van-2": {
+  "gid": "gid://shopify/Product/10447089762643",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285669",
+    "price": "479.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "whale-stoel-coco-set-van-2": {
+  "gid": "gid://shopify/Product/10447089828179",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Retro",
+    "sku": "871974353088",
+    "price": "279.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Beige",
+    "sku": "871917285669",
+    "price": "279.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Kokos",
+    "sku": "871917285668",
+    "price": "519.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "panda-stoel-beige-set-van-2": {
+  "gid": "gid://shopify/Product/10447089860947",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285792",
+    "price": "359.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "panda-stoel-witte-parel-set-van-2": {
+  "gid": "gid://shopify/Product/10447089893715",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285791",
+    "price": "359.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "panda-stoel-coco-set-van-2": {
+  "gid": "gid://shopify/Product/10447089926483",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "7CD80A24EEFF06C5",
+    "price": "399.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "panda-fauteuil-beige": {
+  "gid": "gid://shopify/Product/10447089959251",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285783",
+    "price": "199.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "panda-fauteuil-witte-parel": {
+  "gid": "gid://shopify/Product/10447089992019",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285782",
+    "price": "199.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "panda-fauteuil-coco": {
+  "gid": "gid://shopify/Product/10447090024787",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285784",
+    "price": "219.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "breeze-stoel-beige-set-van-2": {
+  "gid": "gid://shopify/Product/10447090057555",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Beige",
+    "sku": "871974353020",
+    "price": "599.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Pastelroze",
+    "sku": "871974353022",
+    "price": "349.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "breeze-stoel-latte-set-van-2": {
+  "gid": "gid://shopify/Product/10447090090323",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353021",
+    "price": "599.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "breeze-stoel-pastel-roze-set-van-2": {
+  "gid": "gid://shopify/Product/10447090123091",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353022",
+    "price": "599.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "breeze-stoel-pistache-set-van-2": {
+  "gid": "gid://shopify/Product/10447090155859",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353025",
+    "price": "599.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "draaistoel-pebble-beige": {
+  "gid": "gid://shopify/Product/10447090188627",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353005",
+    "price": "359.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "draaistoel-pebble": {
+  "gid": "gid://shopify/Product/10447090254163",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Beige",
+    "sku": "871974353005",
+    "price": "429.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "LATTE",
+    "sku": "871974353013",
+    "price": "359.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "draaistoel-storm": {
+  "gid": "gid://shopify/Product/10447090286931",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Kokos",
+    "sku": "871917285737",
+    "price": "349.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Beige",
+    "sku": "871917285524",
+    "price": "279.90",
+    "inventoryQuantity": 186
+   }
+  ]
+ },
+ "draaistoel-storm-bruin": {
+  "gid": "gid://shopify/Product/10447090352467",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285525",
+    "price": "279.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "draaistoel-storm-coco": {
+  "gid": "gid://shopify/Product/10447090516307",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285737",
+    "price": "299.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-rainbow-set-van-2": {
+  "gid": "gid://shopify/Product/10447090549075",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285667",
+    "price": "439.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "regenboogstoel-beige-set-van-2": {
+  "gid": "gid://shopify/Product/10447090614611",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285663",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-rainbow-taupe-set-van-2": {
+  "gid": "gid://shopify/Product/10447090876755",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285665",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-rainbow-coco-set-van-2": {
+  "gid": "gid://shopify/Product/10447090975059",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Zand Wit",
+    "sku": "871917285667",
+    "price": "249.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Kokos",
+    "sku": "871917285661",
+    "price": "519.80",
+    "inventoryQuantity": 141
+   }
+  ]
+ },
+ "eetkamerstoel-tusk-zandwit-set-van-2": {
+  "gid": "gid://shopify/Product/10447091138899",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285540",
+    "price": "439.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-tusk-set-van-2": {
+  "gid": "gid://shopify/Product/10447091335507",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285538",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-tusk-bruin-set-van-2": {
+  "gid": "gid://shopify/Product/10447091466579",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285539",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-tusk-coco-set-van-2": {
+  "gid": "gid://shopify/Product/10447091630419",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285729",
+    "price": "519.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-fjord-set-van-2": {
+  "gid": "gid://shopify/Product/10447091663187",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285546",
+    "price": "359.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "wave-stoel-zandwit-set-van-2": {
+  "gid": "gid://shopify/Product/10447091761491",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353838",
+    "price": "359.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "fjord-stoel-coco-set-van-2": {
+  "gid": "gid://shopify/Product/10447091794259",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285721",
+    "price": "379.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "wave-stoel-zwart-set-van-2": {
+  "gid": "gid://shopify/Product/10447091827027",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353839",
+    "price": "359.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-wave-set-van-2": {
+  "gid": "gid://shopify/Product/10447091892563",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285354",
+    "price": "439.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "oorfauteuil-zandwit-set-van-2": {
+  "gid": "gid://shopify/Product/10447091925331",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285224",
+    "price": "359.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-high-five-set-van-2": {
+  "gid": "gid://shopify/Product/10447091958099",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353084",
+    "price": "399.80",
+    "inventoryQuantity": 215
+   }
+  ]
+ },
+ "eetkamerstoel-wing-zwart-set-van-2": {
+  "gid": "gid://shopify/Product/10447091990867",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285225",
+    "price": "359.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-wing-set-van-2": {
+  "gid": "gid://shopify/Product/10447092056403",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285226",
+    "price": "399.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "olifant-stoel-steen": {
+  "gid": "gid://shopify/Product/10447092089171",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285542",
+    "price": "179.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mars-lounge-chair-beige": {
+  "gid": "gid://shopify/Product/10447092121939",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285522",
+    "price": "359.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mars-loungestoel-coco": {
+  "gid": "gid://shopify/Product/10447092154707",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285726",
+    "price": "399.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york-2-5-zits-beige": {
+  "gid": "gid://shopify/Product/10447092220243",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285937",
+    "price": "2240.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mars-tweezitsbank-beige": {
+  "gid": "gid://shopify/Product/10447092253011",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285523",
+    "price": "639.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york-2-5-zits-sand-boucle": {
+  "gid": "gid://shopify/Product/10447092285779",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285929",
+    "price": "2240.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york-2-5-zits-coco": {
+  "gid": "gid://shopify/Product/10447092318547",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285933",
+    "price": "2480.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york-2-5-zits-rechter-lounge-sand-boucle": {
+  "gid": "gid://shopify/Product/10447092351315",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285930",
+    "price": "2740.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york-4-zits-zand-boucle": {
+  "gid": "gid://shopify/Product/10447092416851",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285931",
+    "price": "3200.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york-2-5-zits-lounge-coco": {
+  "gid": "gid://shopify/Product/10447092449619",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285934",
+    "price": "2980.00",
+    "inventoryQuantity": 12
+   }
+  ]
+ },
+ "bank-new-york-4-zits-beige": {
+  "gid": "gid://shopify/Product/10447092482387",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285939",
+    "price": "3200.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york-4-zits-coco": {
+  "gid": "gid://shopify/Product/10447092515155",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285935",
+    "price": "3480.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york-4-zits-lounge-coco": {
+  "gid": "gid://shopify/Product/10447092547923",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285936",
+    "price": "3980.00",
+    "inventoryQuantity": 11
+   }
+  ]
+ },
+ "fauteuil-cairo": {
+  "gid": "gid://shopify/Product/10447092646227",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285905",
+    "price": "1480.00",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "cairo-loungestoel-sand-boucle": {
+  "gid": "gid://shopify/Product/10447092711763",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285902",
+    "price": "1480.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-cairo-6-zits-sand-boucle": {
+  "gid": "gid://shopify/Product/10447092842835",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285953",
+    "price": "4980.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-marbella-4-zits-safiya-naturel": {
+  "gid": "gid://shopify/Product/10447092875603",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285959",
+    "price": "2390.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "kathmandu-loungestoel-amon-terracotta": {
+  "gid": "gid://shopify/Product/10447092908371",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285911",
+    "price": "950.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-marbella-4-zits-safiya-terracotta": {
+  "gid": "gid://shopify/Product/10447092941139",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285976",
+    "price": "2390.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-kathmandu-3-zits-amon-naturel": {
+  "gid": "gid://shopify/Product/10447093203283",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285955",
+    "price": "1910.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-kathmandu-3-zits-amon-terracotta": {
+  "gid": "gid://shopify/Product/10447093268819",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285956",
+    "price": "1910.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "schaal-babi": {
+  "gid": "gid://shopify/Product/10447094186323",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285392",
+    "price": "79.95",
+    "inventoryQuantity": 27
+   }
+  ]
+ },
+ "vaas-bubble": {
+  "gid": "gid://shopify/Product/10447094219091",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285374",
+    "price": "23.95",
+    "inventoryQuantity": 17
+   }
+  ]
+ },
+ "bowl-babi-m": {
+  "gid": "gid://shopify/Product/10447094251859",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285393",
+    "price": "43.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "vaas-swoop-set-van-6": {
+  "gid": "gid://shopify/Product/10447094284627",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285386",
+    "price": "107.70",
+    "inventoryQuantity": 12
+   }
+  ]
+ },
+ "vaas-meduse": {
+  "gid": "gid://shopify/Product/10447094317395",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285385",
+    "price": "39.90",
+    "inventoryQuantity": 73
+   }
+  ]
+ },
+ "eettafel-sycomore-l": {
+  "gid": "gid://shopify/Product/10447094546771",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285650",
+    "price": "599.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "h109-shell-ketting": {
+  "gid": "gid://shopify/Product/10447095333203",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353588",
+    "price": "90.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "schelpenketting-j63": {
+  "gid": "gid://shopify/Product/10447095398739",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285691",
+    "price": "39.90",
+    "inventoryQuantity": 43
+   }
+  ]
+ },
+ "keramische-kaarsenhouder-atlas-set-van-2": {
+  "gid": "gid://shopify/Product/10447095628115",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285361",
+    "price": "67.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "schelpenketting-j69": {
+  "gid": "gid://shopify/Product/10447095660883",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285720",
+    "price": "49.90",
+    "inventoryQuantity": 31
+   }
+  ]
+ },
+ "n1-kleine-schelp-ketting": {
+  "gid": "gid://shopify/Product/10447095693651",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353825",
+    "price": "35.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "schelpenketting-j47": {
+  "gid": "gid://shopify/Product/10447095759187",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285688",
+    "price": "39.90",
+    "inventoryQuantity": 56
+   }
+  ]
+ },
+ "messing-dodo-m": {
+  "gid": "gid://shopify/Product/10447095857491",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285322",
+    "price": "219.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "juju-rasta": {
+  "gid": "gid://shopify/Product/10447096185171",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285747",
+    "price": "39.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cloud-kitchen-barstoel-creme": {
+  "gid": "gid://shopify/Product/10447096316243",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Karamel",
+    "sku": "871974353089",
+    "price": "329.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "room",
+    "sku": "871974353026",
+    "price": "279.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "bank-amsterdam-4-zits-poef-wit-glyphs": {
+  "gid": "gid://shopify/Product/10447096381779",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353036",
+    "price": "4700.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cloud-barstoel-creme": {
+  "gid": "gid://shopify/Product/10447096447315",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Karamel",
+    "sku": "871974353090",
+    "price": "349.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "room",
+    "sku": "871974353027",
+    "price": "299.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "bank-amsterdam-2-5-zits-ottoman-wit-glyphs": {
+  "gid": "gid://shopify/Product/10447096545619",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353034",
+    "price": "3700.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-amsterdam-4-zits-wit-glyphs": {
+  "gid": "gid://shopify/Product/10447096709459",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353035",
+    "price": "4000.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-amsterdam-6-zits-hoekbank-ottoman-bank-wit-glyphs": {
+  "gid": "gid://shopify/Product/10447096807763",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353113",
+    "price": "7000.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eettafel-urban-chique": {
+  "gid": "gid://shopify/Product/10447096840531",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285994",
+    "price": "2150.00",
+    "inventoryQuantity": 11
+   }
+  ]
+ },
+ "eettafel-ellipse": {
+  "gid": "gid://shopify/Product/10447097037139",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285993",
+    "price": "2150.00",
+    "inventoryQuantity": 6
+   }
+  ]
+ },
+ "salontafel-craft": {
+  "gid": "gid://shopify/Product/10447097102675",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285996",
+    "price": "479.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "craft-salontafel-klein-keramiek-travertijn": {
+  "gid": "gid://shopify/Product/10447097200979",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285995",
+    "price": "219.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "loterijen-lantaarn-m": {
+  "gid": "gid://shopify/Product/10447097233747",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285786",
+    "price": "109.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "lantaarn-raffles": {
+  "gid": "gid://shopify/Product/10447097463123",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "S",
+    "sku": "871917285785",
+    "price": "129.95",
+    "inventoryQuantity": 28
+   },
+   {
+    "title": "XL",
+    "sku": "871917285788",
+    "price": "319.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "L",
+    "sku": "871917285787",
+    "price": "119.95",
+    "inventoryQuantity": 9
+   }
+  ]
+ },
+ "lantaarn-raffles-s": {
+  "gid": "gid://shopify/Product/10447097528659",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285785",
+    "price": "99.90",
+    "inventoryQuantity": 28
+   }
+  ]
+ },
+ "j72-shell-toren-parel-s": {
+  "gid": "gid://shopify/Product/10447097692499",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285767",
+    "price": "25.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "schelpentoren-pearl": {
+  "gid": "gid://shopify/Product/10447097725267",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "L",
+    "sku": "871917285768",
+    "price": "29.90",
+    "inventoryQuantity": 173
+   },
+   {
+    "title": "S",
+    "sku": "871917285767",
+    "price": "39.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "lantaarn-peninsula": {
+  "gid": "gid://shopify/Product/10447098184019",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285789",
+    "price": "89.90",
+    "inventoryQuantity": 47
+   }
+  ]
+ },
+ "schelpenketting-j65": {
+  "gid": "gid://shopify/Product/10447098216787",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285693",
+    "price": "29.90",
+    "inventoryQuantity": 181
+   }
+  ]
+ },
+ "schelpenketting-j66": {
+  "gid": "gid://shopify/Product/10447098282323",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285694",
+    "price": "29.90",
+    "inventoryQuantity": 238
+   }
+  ]
+ },
+ "golfstoel-karamel-set-van-2": {
+  "gid": "gid://shopify/Product/10447098347859",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353102",
+    "price": "439.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "boogstoel-karamel-set-van-2": {
+  "gid": "gid://shopify/Product/10447098380627",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353094",
+    "price": "319.80",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "boogstoelcreme-set-van-2": {
+  "gid": "gid://shopify/Product/10447098413395",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "room",
+    "sku": "871974353091",
+    "price": "319.80",
+    "inventoryQuantity": 52
+   },
+   {
+    "title": "Karamel",
+    "sku": "871974353094",
+    "price": "179.95",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "eetkamerstoel-rock-creme-set-van-2": {
+  "gid": "gid://shopify/Product/10447098478931",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353085",
+    "price": "479.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "eetkamerstoel-rock-karamel-set-van-2": {
+  "gid": "gid://shopify/Product/10447098511699",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353087",
+    "price": "479.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "wolkenbar-stoel-karamel": {
+  "gid": "gid://shopify/Product/10447098610003",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353090",
+    "price": "299.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-whale-retro-set-van-2": {
+  "gid": "gid://shopify/Product/10447098642771",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353088",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eierstoel-karamel-set-van-2": {
+  "gid": "gid://shopify/Product/10447098970451",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353104",
+    "price": "319.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-egg-set-van-2": {
+  "gid": "gid://shopify/Product/10447099003219",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Nerts",
+    "sku": "871974353105",
+    "price": "179.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Goud",
+    "sku": "871974353106",
+    "price": "319.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "luna-stoel-caramel-set-van-2": {
+  "gid": "gid://shopify/Product/10447099035987",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353109",
+    "price": "419.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "luna-stoelcreme-set-van-2": {
+  "gid": "gid://shopify/Product/10447099068755",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "room",
+    "sku": "871974353108",
+    "price": "419.80",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Goud",
+    "sku": "871974353111",
+    "price": "239.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Karamel",
+    "sku": "871974353109",
+    "price": "239.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eierstoelcreme-set-van-2": {
+  "gid": "gid://shopify/Product/10447099101523",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353103",
+    "price": "319.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "octo-ketting-black-tiger": {
+  "gid": "gid://shopify/Product/10447099134291",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353122",
+    "price": "59.90",
+    "inventoryQuantity": 111
+   }
+  ]
+ },
+ "luna-chair-mink-set-van-2": {
+  "gid": "gid://shopify/Product/10447099167059",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353110",
+    "price": "419.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "high-five-chair-mink-set-van-2": {
+  "gid": "gid://shopify/Product/10447099232595",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353126",
+    "price": "399.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "octo-ketting-zwart-wit-s": {
+  "gid": "gid://shopify/Product/10447099265363",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353123",
+    "price": "39.90",
+    "inventoryQuantity": 14
+   }
+  ]
+ },
+ "eetkamerstoel-edo-set-van-2": {
+  "gid": "gid://shopify/Product/10447099298131",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353114",
+    "price": "599.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "eetkamerstoel-edo-reddish-set-van-2": {
+  "gid": "gid://shopify/Product/10447099330899",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Zwart",
+    "sku": "871974353114",
+    "price": "349.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Roodachtig",
+    "sku": "871974353115",
+    "price": "599.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "barkruk-japandi-tan-set-van-2": {
+  "gid": "gid://shopify/Product/10447099363667",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Omber",
+    "sku": "871974353232",
+    "price": "279.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Bruinen",
+    "sku": "871974353233",
+    "price": "479.80",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Okura",
+    "sku": "871974353231",
+    "price": "279.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Oatly",
+    "sku": "872160652006",
+    "price": "279.95",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "eetkamerstoel-mera-set-van-2": {
+  "gid": "gid://shopify/Product/10447099560275",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353235",
+    "price": "249.95",
+    "inventoryQuantity": 121
+   }
+  ]
+ },
+ "eetkamerstoel-scandi-okura-set-van-2": {
+  "gid": "gid://shopify/Product/10447099593043",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353217",
+    "price": "379.80",
+    "inventoryQuantity": 172
+   }
+  ]
+ },
+ "keukenbarkruk-japandi-set-van-2": {
+  "gid": "gid://shopify/Product/10447099625811",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353228",
+    "price": "439.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-avena-karamel-set-van-2": {
+  "gid": "gid://shopify/Product/10447099658579",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353224",
+    "price": "439.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "eetkamerstoel-avena-mink-set-van-2": {
+  "gid": "gid://shopify/Product/10447099822419",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353223",
+    "price": "439.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "eetkamerstoel-mera-karamel-set-van-2": {
+  "gid": "gid://shopify/Product/10447099887955",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "room",
+    "sku": "871974353234",
+    "price": "249.95",
+    "inventoryQuantity": 211
+   },
+   {
+    "title": "Karamel",
+    "sku": "871974353236",
+    "price": "439.80",
+    "inventoryQuantity": 123
+   }
+  ]
+ },
+ "eetkamerstoel-nox-umber-set-van-2": {
+  "gid": "gid://shopify/Product/10447099920723",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Omber",
+    "sku": "871974353220",
+    "price": "519.80",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Bruinen",
+    "sku": "871974353221",
+    "price": "299.95",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "eetkamerstoel-nox-set-van-2": {
+  "gid": "gid://shopify/Product/10447099953491",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353221",
+    "price": "519.80",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "ronde-eettafel-urban-chique": {
+  "gid": "gid://shopify/Product/10447100019027",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353216",
+    "price": "1319.90",
+    "inventoryQuantity": 3
+   }
+  ]
+ },
+ "eetkamerstoel-scandi-umber-set-van-2": {
+  "gid": "gid://shopify/Product/10447100182867",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353218",
+    "price": "379.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "japandi-bar-chair-umber-set-van-2": {
+  "gid": "gid://shopify/Product/10447100215635",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353232",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "scandi-stoel-tan-set-van-2": {
+  "gid": "gid://shopify/Product/10447100248403",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Omber",
+    "sku": "871974353218",
+    "price": "219.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Bruinen",
+    "sku": "871974353219",
+    "price": "379.80",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Okura",
+    "sku": "871974353217",
+    "price": "219.95",
+    "inventoryQuantity": 172
+   },
+   {
+    "title": "Oatly",
+    "sku": "872160652011",
+    "price": "219.95",
+    "inventoryQuantity": 180
+   }
+  ]
+ },
+ "eetkamerstoel-rock-set-van-2": {
+  "gid": "gid://shopify/Product/10447100510547",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Karamel",
+    "sku": "871974353087",
+    "price": "279.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Beige",
+    "sku": "871917285353",
+    "price": "479.80",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Bruin",
+    "sku": "871917285449",
+    "price": "279.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Taupe",
+    "sku": "871917285451",
+    "price": "279.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "room",
+    "sku": "871974353085",
+    "price": "279.95",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "messing-dodo-s": {
+  "gid": "gid://shopify/Product/10447100543315",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285321",
+    "price": "129.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "a6-2-shell-ketting": {
+  "gid": "gid://shopify/Product/10447101034835",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285819",
+    "price": "98.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "keramische-kaarsenhouder-soleil-set-van-2": {
+  "gid": "gid://shopify/Product/10447101067603",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285360",
+    "price": "63.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "oorfauteuil-coco-set-van-2": {
+  "gid": "gid://shopify/Product/10447101165907",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285728",
+    "price": "439.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "mand-miso-set-van-3": {
+  "gid": "gid://shopify/Product/10447101264211",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285615",
+    "price": "85.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "high-five-chair-cream-set-van-2": {
+  "gid": "gid://shopify/Product/10447101329747",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353135",
+    "price": "399.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-avena-set-van-2": {
+  "gid": "gid://shopify/Product/10447101395283",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Karamel",
+    "sku": "871974353224",
+    "price": "249.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Nerts",
+    "sku": "871974353223",
+    "price": "249.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "room",
+    "sku": "871974353222",
+    "price": "439.80",
+    "inventoryQuantity": 131
+   }
+  ]
+ },
+ "high-five-chair-caramel-set-van-2": {
+  "gid": "gid://shopify/Product/10447101428051",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353136",
+    "price": "399.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york": {
+  "gid": "gid://shopify/Product/10447101460819",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Kokos",
+    "sku": "871917285934",
+    "price": "2989.95",
+    "inventoryQuantity": 12
+   },
+   {
+    "title": "Beige",
+    "sku": "871917285938",
+    "price": "2740.00",
+    "inventoryQuantity": 16
+   }
+  ]
+ },
+ "bank-new-york-4-zits-lounge-beige": {
+  "gid": "gid://shopify/Product/10447101526355",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285952",
+    "price": "3740.00",
+    "inventoryQuantity": 11
+   }
+  ]
+ },
+ "bank-new-york-4-zits-rechter-lounge-sand-boucle": {
+  "gid": "gid://shopify/Product/10447101559123",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "71917285932",
+    "price": "3740.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "kathmandu-loungestoel-amon-naturel": {
+  "gid": "gid://shopify/Product/10447101591891",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285910",
+    "price": "950.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "cloud-stoel-safiya-naturel-set-van-2": {
+  "gid": "gid://shopify/Product/10447101624659",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "7FCA77ABFB3DBD7B",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-londen-3-zits-ottoman-umber": {
+  "gid": "gid://shopify/Product/10447101755731",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Bruinen",
+    "sku": "871974353296",
+    "price": "4489.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Omber",
+    "sku": "871974353297",
+    "price": "4500.00",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "bank-londen": {
+  "gid": "gid://shopify/Product/10447101788499",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353295",
+    "price": "3500.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-londen-3-zits-ottoman-tan": {
+  "gid": "gid://shopify/Product/10447101821267",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353296",
+    "price": "4500.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-londen-6-zits-umber": {
+  "gid": "gid://shopify/Product/10447101886803",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353299",
+    "price": "4740.00",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "londen-6-zitter-ottoman-umber": {
+  "gid": "gid://shopify/Product/10447101952339",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "8719743533011",
+    "price": "5740.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-londen-6-zits-ottoman": {
+  "gid": "gid://shopify/Product/10447101985107",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Omber",
+    "sku": "871974353301",
+    "price": "5739.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Bruinen",
+    "sku": "871974353300",
+    "price": "5740.00",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "bank-londen-6-zits-tan": {
+  "gid": "gid://shopify/Product/10447102017875",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Omber",
+    "sku": "871974353299",
+    "price": "4739.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Bruinen",
+    "sku": "871974353298",
+    "price": "4740.00",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "g9-kleine-schelp-ketting": {
+  "gid": "gid://shopify/Product/10447102050643",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353495",
+    "price": "35.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "i22-schelp-ketting": {
+  "gid": "gid://shopify/Product/10447102083411",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353635",
+    "price": "78.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "schelpenketting-a2-1": {
+  "gid": "gid://shopify/Product/10447102280019",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285804",
+    "price": "49.90",
+    "inventoryQuantity": 47
+   }
+  ]
+ },
+ "krab-messing": {
+  "gid": "gid://shopify/Product/10447102640467",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353389",
+    "price": "38.00",
+    "inventoryQuantity": 5
+   }
+  ]
+ },
+ "schelpenketting-h1": {
+  "gid": "gid://shopify/Product/10447102837075",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "M",
+    "sku": "871917285804",
+    "price": "69.95",
+    "inventoryQuantity": 47
+   },
+   {
+    "title": "L",
+    "sku": "871917285819",
+    "price": "129.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "krab-l": {
+  "gid": "gid://shopify/Product/10447102935379",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353389",
+    "price": "90.00",
+    "inventoryQuantity": 5
+   }
+  ]
+ },
+ "schelpenketting-j37": {
+  "gid": "gid://shopify/Product/10447103000915",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353992",
+    "price": "35.00",
+    "inventoryQuantity": 19
+   }
+  ]
+ },
+ "k33-zwart-wit-octo-ketting-l": {
+  "gid": "gid://shopify/Product/10447103131987",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353699",
+    "price": "59.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "k32-zwarte-tijger-octo-ketting-s": {
+  "gid": "gid://shopify/Product/10447103164755",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353698",
+    "price": "39.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "j36-schelp-ketting": {
+  "gid": "gid://shopify/Product/10447103230291",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353991",
+    "price": "79.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "j62-schelpenketting": {
+  "gid": "gid://shopify/Product/10447103295827",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285690",
+    "price": "39.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "zwembad": {
+  "gid": "gid://shopify/Product/10490276741459",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "200 cm (bestseller)",
+    "sku": "Pool/grey-2",
+    "price": "369.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "250 cm",
+    "sku": "Pool/grey-3",
+    "price": "469.90",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "150 cm",
+    "sku": "Pool/grey-1",
+    "price": "299.90",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "wolkenkeukenbar-stoel-karamel": {
+  "gid": "gid://shopify/Product/10624276955475",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353089",
+    "price": "279.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-breeze-set-van-2": {
+  "gid": "gid://shopify/Product/11027132940627",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Beige",
+    "sku": "871974353020",
+    "price": "599.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Latte",
+    "sku": "871974353021",
+    "price": "599.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Pastelroze",
+    "sku": "871974353022",
+    "price": "599.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Pistache",
+    "sku": "871974353025",
+    "price": "599.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-cloud-set-van-2": {
+  "gid": "gid://shopify/Product/11027133038931",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Beige",
+    "sku": "871917285928",
+    "price": "439.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Crème",
+    "sku": "871917285924",
+    "price": "439.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Karamel",
+    "sku": "871917285925",
+    "price": "439.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Safiya naturel",
+    "sku": "7FCA77ABFB3DBD7B",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Safiya terracotta",
+    "sku": "871917285927",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "barkruk-cloud": {
+  "gid": "gid://shopify/Product/11027133202771",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Keukenbarkruk / Crème",
+    "sku": "871974353026",
+    "price": "279.90",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Barkruk / Crème",
+    "sku": "871974353027",
+    "price": "299.90",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Keukenbarkruk / Karamel",
+    "sku": "871974353089",
+    "price": "279.90",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Barkruk / Karamel",
+    "sku": "871974353090",
+    "price": "299.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "boekensteun-mangohout": {
+  "gid": "gid://shopify/Product/11027158434131",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Donker mangohout",
+    "sku": null,
+    "price": "59.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-whale-set-van-2": {
+  "gid": "gid://shopify/Product/11027175571795",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Beige",
+    "sku": "871917285669",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Coco",
+    "sku": "871917285668",
+    "price": "519.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-luna-set-van-2": {
+  "gid": "gid://shopify/Product/11027175702867",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Mink",
+    "sku": "871974353110",
+    "price": "419.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Karamel",
+    "sku": "871974353109",
+    "price": "419.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Crème",
+    "sku": "871974353108",
+    "price": "419.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-boog-set-van-2": {
+  "gid": "gid://shopify/Product/11027175833939",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Karamel",
+    "sku": "871974353094",
+    "price": "319.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Crème",
+    "sku": "871974353091",
+    "price": "319.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-scandi-set-van-2": {
+  "gid": "gid://shopify/Product/11027175932243",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Tan",
+    "sku": "871974353219",
+    "price": "379.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "vaas-agano-travertijn": {
+  "gid": "gid://shopify/Product/11027182879059",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "M · Ø 20 × 23 cm",
+    "sku": null,
+    "price": "194.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "L · Ø 20 × 31 cm",
+    "sku": null,
+    "price": "219.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "waxinelichthouder-marmer": {
+  "gid": "gid://shopify/Product/11027182977363",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Ø 6 × 4 cm",
+    "sku": "8720648589966",
+    "price": "16.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Ø 6 × 7 cm",
+    "sku": "8720648589959",
+    "price": "25.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Ø 6 × 10 cm",
+    "sku": "8720648589973",
+    "price": "31.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-amsterdam-eigen": {
+  "gid": "gid://shopify/Product/11027197755731",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "2,5-zits met ottoman",
+    "sku": "871974353034",
+    "price": "3700.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "4-zits",
+    "sku": "871974353035",
+    "price": "4000.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "4-zits met poef",
+    "sku": "871974353036",
+    "price": "4700.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "6-zits hoekbank met ottoman",
+    "sku": "871974353113",
+    "price": "7000.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-londen-eigen": {
+  "gid": "gid://shopify/Product/11027197886803",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "3-zits / Umber",
+    "sku": "871974353295",
+    "price": "3500.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "3-zits met ottoman / Tan",
+    "sku": "871974353296",
+    "price": "4500.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "3-zits met ottoman / Umber",
+    "sku": "871974353297",
+    "price": "4500.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "6-zits / Tan",
+    "sku": "871974353298",
+    "price": "4740.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "6-zits / Umber",
+    "sku": "871974353299",
+    "price": "4740.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "6-zits met ottoman / Tan",
+    "sku": "871974353300",
+    "price": "5740.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "6-zits met ottoman / Umber",
+    "sku": "8719743533011",
+    "price": "5740.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-new-york-eigen": {
+  "gid": "gid://shopify/Product/11027220595027",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "2,5-zits / Beige",
+    "sku": "871917285937",
+    "price": "2240.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "2,5-zits / Coco",
+    "sku": "871917285933",
+    "price": "2480.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "2,5-zits / Zand boucle",
+    "sku": "871917285929",
+    "price": "2240.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "2,5-zits met lounge rechts / Beige",
+    "sku": "871917285938",
+    "price": "2740.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "2,5-zits met lounge rechts / Coco",
+    "sku": "871917285934",
+    "price": "2980.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "2,5-zits met lounge rechts / Zand boucle",
+    "sku": "871917285930",
+    "price": "2740.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "4-zits / Beige",
+    "sku": "871917285939",
+    "price": "3200.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "4-zits / Coco",
+    "sku": "871917285935",
+    "price": "3480.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "4-zits / Zand boucle",
+    "sku": "871917285931",
+    "price": "3200.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "4-zits met lounge rechts / Beige",
+    "sku": "871917285952",
+    "price": "3740.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "fauteuil-panda": {
+  "gid": "gid://shopify/Product/11028600258899",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Beige",
+    "sku": "871917285783",
+    "price": "199.90",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Coco",
+    "sku": "871917285784",
+    "price": "219.90",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Witte parel",
+    "sku": "871917285782",
+    "price": "199.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-amsterdam-6-zits-hoek-ottoman-bank-latte": {
+  "gid": "gid://shopify/Product/11031554818387",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353112",
+    "price": "7000.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-amsterdam": {
+  "gid": "gid://shopify/Product/11031554851155",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353040",
+    "price": "3989.95",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "bank-amsterdam-5-delige-hoekbank-latte": {
+  "gid": "gid://shopify/Product/11031554883923",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "8719743530423",
+    "price": "6000.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "bank-amsterdam-4-zits-ottoman-latte": {
+  "gid": "gid://shopify/Product/11031554916691",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "8719743530416",
+    "price": "4700.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-japandi": {
+  "gid": "gid://shopify/Product/11031554949459",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Tan",
+    "sku": "871974353227",
+    "price": "199.95",
+    "inventoryQuantity": 650
+   },
+   {
+    "title": "Okura",
+    "sku": "871974353225",
+    "price": "199.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Oatly",
+    "sku": "872160652004",
+    "price": "199.95",
+    "inventoryQuantity": 111
+   },
+   {
+    "title": "Umber",
+    "sku": "871974353226",
+    "price": "199.95",
+    "inventoryQuantity": 986
+   }
+  ]
+ },
+ "eetkamerstoel-sake": {
+  "gid": "gid://shopify/Product/11031555014995",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Omber",
+    "sku": "871974353303",
+    "price": "249.95",
+    "inventoryQuantity": 176
+   },
+   {
+    "title": "Oatly",
+    "sku": "872160652008",
+    "price": "249.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Okura",
+    "sku": "871974353302",
+    "price": "249.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Bruinen",
+    "sku": "871974353304",
+    "price": "249.95",
+    "inventoryQuantity": 127
+   }
+  ]
+ },
+ "keukenbarkruk-japandi-umber-set-van-2": {
+  "gid": "gid://shopify/Product/11031555047763",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353229",
+    "price": "249.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-osaka": {
+  "gid": "gid://shopify/Product/11031555080531",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Oatly",
+    "sku": "872160652009",
+    "price": "229.95",
+    "inventoryQuantity": 191
+   },
+   {
+    "title": "Omber",
+    "sku": "871974353309",
+    "price": "229.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Okura",
+    "sku": "871974353305",
+    "price": "229.95",
+    "inventoryQuantity": 100
+   },
+   {
+    "title": "Bruinen",
+    "sku": "871974353310",
+    "price": "229.95",
+    "inventoryQuantity": 197
+   }
+  ]
+ },
+ "barkruk-japandi": {
+  "gid": "gid://shopify/Product/11031555113299",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353231",
+    "price": "279.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-sake-umber": {
+  "gid": "gid://shopify/Product/11031555146067",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353303",
+    "price": "249.95",
+    "inventoryQuantity": 176
+   }
+  ]
+ },
+ "eetkamerstoel-osaka-okura": {
+  "gid": "gid://shopify/Product/11031555178835",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353305",
+    "price": "229.95",
+    "inventoryQuantity": 100
+   }
+  ]
+ },
+ "eetkamerstoel-osaka-umber": {
+  "gid": "gid://shopify/Product/11031555211603",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353309",
+    "price": "229.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-fuji": {
+  "gid": "gid://shopify/Product/11031555244371",
+  "status": "ACTIVE",
+  "varianten": [
+   {
+    "title": "Oatly",
+    "sku": "872160652010",
+    "price": "249.95",
+    "inventoryQuantity": 5
+   },
+   {
+    "title": "Okura",
+    "sku": "871974353311",
+    "price": "249.95",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Bruinen",
+    "sku": "871974353313",
+    "price": "249.95",
+    "inventoryQuantity": 124
+   },
+   {
+    "title": "Omber",
+    "sku": "871974353312",
+    "price": "249.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-fuji-umber": {
+  "gid": "gid://shopify/Product/11031555277139",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353312",
+    "price": "249.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "sake-stoel-2": {
+  "gid": "gid://shopify/Product/11031555342675",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353302",
+    "price": "249.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "fuji-stoel-2": {
+  "gid": "gid://shopify/Product/11031555375443",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353311",
+    "price": "249.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "whale-stoel-witte-parel-set-van-2": {
+  "gid": "gid://shopify/Product/11031555408211",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871917285671",
+    "price": "479.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eierstoel-nertsen-set-van-2": {
+  "gid": "gid://shopify/Product/11031555440979",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "8719743531055",
+    "price": "319.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "zwaai-stoel": {
+  "gid": "gid://shopify/Product/11031555539283",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "871974353101",
+    "price": "249.95",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "luna-chair-gold-set-van-2": {
+  "gid": "gid://shopify/Product/11031555572051",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Default Title",
+    "sku": "8719743531116",
+    "price": "419.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "fauteuil-kathmandu": {
+  "gid": "gid://shopify/Product/11060983824723",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Amon naturel",
+    "sku": "871917285910",
+    "price": "950.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Amon terracotta",
+    "sku": "871917285911",
+    "price": "950.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "fauteuil-cairo-eigen": {
+  "gid": "gid://shopify/Product/11060987789651",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Beige",
+    "sku": "871917285905",
+    "price": "1480.00",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Zand boucle",
+    "sku": "871917285902",
+    "price": "1480.00",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "fauteuil-mars": {
+  "gid": "gid://shopify/Product/11060989067603",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Beige",
+    "sku": "871917285522",
+    "price": "359.90",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Coco",
+    "sku": "871917285726",
+    "price": "399.90",
+    "inventoryQuantity": 0
+   }
+  ]
+ },
+ "eetkamerstoel-panda-set-van-2": {
+  "gid": "gid://shopify/Product/11060991131987",
+  "status": "DRAFT",
+  "varianten": [
+   {
+    "title": "Beige",
+    "sku": "871917285792",
+    "price": "359.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Coco",
+    "sku": "7CD80A24EEFF06C5",
+    "price": "399.80",
+    "inventoryQuantity": 0
+   },
+   {
+    "title": "Witte parel",
+    "sku": "871917285791",
+    "price": "359.80",
+    "inventoryQuantity": 0
+   }
+  ]
+ }
+}
