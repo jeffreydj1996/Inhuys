@@ -63,7 +63,7 @@ De beelden horen bij het Orderchamp-concept `h19-krab-l` en blijven van Ordercha
 
 ## Opmerking
 
-Titel, prijs, SKU, gewicht, het materiaal brons, de set-inhoud en het handwerk komen uit de Orderchamp-export (`data/raw/products-2.json`, 19 november 2026). De SKU 871974353388 staat niet op poletopole.nl en de dealersites gaven geen treffers, dus het materiaal is niet door een tweede bron bevestigd. Bij de kleine H20 noemde de export ook brons, terwijl Pole To Pole daar messing vermeldt; of de H19 van brons of van messing is, is te verifiëren, en de handle `krab-l` noemt messing terwijl de tekst brons volgt. Niet gevonden: afmetingen, kleur, onderhoud en land van herkomst (de export noemt alleen handwerk). De export noemt geen levertermijn, alleen dat de levertijd per item kan verschillen; garantie is niet gevonden. Varianten, SKU's, prijzen, voorraad en beelden blijven van Orderchamp.
+Titel, prijs, SKU, gewicht, het materiaal brons, de set-inhoud en het handwerk komen uit de Orderchamp-export (`data/raw/products-2.json`, 19 november 2026). De SKU 871974353388 staat niet op poletopole.nl en de dealersites gaven geen treffers, dus het materiaal is niet door een tweede bron bevestigd. Bij de kleine H20 noemde de export ook brons, terwijl Pole To Pole daar messing vermeldt; de tekst volgt voor de H19 de export, dus brons. Niet gevonden: afmetingen, kleur, onderhoud en land van herkomst (de export noemt alleen handwerk). De export noemt geen levertermijn, alleen dat de levertijd per item kan verschillen; garantie is niet gevonden. Varianten, SKU's, prijzen, voorraad en beelden blijven van Orderchamp.
 
 ## Aan te vullen door de eigenaar
 
