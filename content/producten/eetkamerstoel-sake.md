@@ -15,7 +15,10 @@ Meta-description (156): Sake eetkamerstoel in tan, umber of oatly: slanke armleu
 
 | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|
-| Tan | € 249,95 | 871974353304 | `sake-stoel` |
+| Omber | € 249,95 | 871974353303 | `sake-stoel` |
+| Oatly | € 249,95 | 872160652008 | `sake-stoel` |
+| Okura | € 249,95 | 871974353302 | `sake-stoel` |
+| Bruinen | € 249,95 | 871974353304 | `sake-stoel` |
 
 ## Beschrijving
 

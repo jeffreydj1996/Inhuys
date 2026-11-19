@@ -29,7 +29,7 @@ Beige is hier een warme, lichte tint die rustig wegvalt tegen hout, linnen en li
 Wil je meer zitplaatsen, kies dan de 4-zits met lounge rechts in <a href="/products/bank-new-york-4-zits-lounge-beige">beige</a> of in <a href="/products/bank-new-york-4-zits-lounge-coco">coco</a>; elk is een eigen product met een eigen pagina.
 
 ### Combineren
-Naast de Craft salontafel groot in beige travertijnlook krijgt de zithoek één warme, lichte toon, en de afgeronde vorm van de tafel past bij de zachte lijnen van de bank. Zet er een Cairo loungestoel in beige schuin tegenover voor een zithoek in één kleurfamilie, of kies juist een donkere eiken vloer en een wollen kleed in roest of terracotta om het beige te laten oplichten. Tegen een witte muur blijft het geheel licht; tegen taupe of olijfgroen wordt het rustiger en dieper. Een Agano-vaas op de salontafel en een paar kussens in linnen maken de zithoek af.
+Naast de Craft salontafel groot in beige travertijnlook krijgt de zithoek met een bank in beige één warme, lichte toon, en de afgeronde vorm van de tafel past bij de zachte lijnen van de bank. Zet er een Cairo loungestoel in beige schuin tegenover voor een zithoek in één kleurfamilie, of kies juist een donkere eiken vloer en een wollen kleed in roest of terracotta om het beige te laten oplichten. Tegen een witte muur blijft het geheel licht; tegen taupe of olijfgroen wordt het rustiger en dieper. Een Agano-vaas op de salontafel en een paar kussens in linnen maken de zithoek af.
 
 ## Specificaties (metavelden `inhuys.*`)
 

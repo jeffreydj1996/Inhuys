@@ -1,12 +1,12 @@
-# Raffles lantaarn van rotan, maat L
+# Raffles lantaarn van rotan, maat S en L
 
 Handle: `/products/lantaarn-raffles` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Decoratie
 
 Tags: lantaarn, rotan, naturel, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/hg-3-79
 
-Meta-titel (48): Raffles lantaarn van rotan, 42 cm hoog · InHuys  
-Meta-description (149): Raffles lantaarn van rotan, metaal, glas en leer, 42 cm hoog. Met de hand gemaakt in Myanmar, voor binnen en buiten, op de vloer of een lage tafel.
+Meta-titel (53): Raffles lantaarn van rotan, 35 en 42 cm hoog · InHuys  
+Meta-description (153): Raffles lantaarn van rotan, metaal, glas en leer, 35 of 42 cm hoog. Met de hand gemaakt in Myanmar, voor binnen en buiten, op de vloer of een lage tafel.
 
 **Zin onder de titel:** Een lantaarn van rotan en glas die naast de bank of op het terras een warme plek maakt.
 
@@ -14,26 +14,27 @@ Meta-description (149): Raffles lantaarn van rotan, metaal, glas en leer, 42 cm 
 
 | Maat | Prijs | SKU | Bronproduct |
 |---|---|---|---|
-| L | € 119,95 | 871917285787 | `loterij-lantaarn-l` |
+| S | € 129,95 | 871917285785 | `loterij-lantaarn-l` |
 | XL | € 319,95 | 871917285788 | `loterij-lantaarn-l` |
+| L | € 119,95 | 871917285787 | `loterij-lantaarn-l` |
 
 ## Beschrijving
 
 ### Zo werkt het in de ruimte
-Een lantaarn op de vloer maakt van een lege hoek een plek: naast de bank, bij de openslaande deuren of aan het begin van een trap. Met zijn 42 cm hoogte staat de Raffles daar laag genoeg om niet in de weg te staan, en hoog genoeg om vanaf de bank in het oog te vallen. Op een breedte van 30 cm past hij ook op een salontafel of een brede vensterbank, waar hij het midden vormt van een groepje. Het rotan geeft de lantaarn een naturel, warme kleur die het mooist uitkomt tegen kalkverf, linnen en licht eiken. Je gebruikt hem binnen en buiten, dus in de zomer verhuist hij zonder moeite naar het terras of het balkon.
+Een lantaarn op de vloer maakt van een lege hoek een plek: naast de bank, bij de openslaande deuren of aan het begin van een trap. In maat L staat de Raffles met zijn 42 cm hoogte daar laag genoeg om niet in de weg te staan, en hoog genoeg om vanaf de bank in het oog te vallen. Op een breedte van 30 cm past maat L ook op een salontafel of een brede vensterbank, waar hij het midden vormt van een groepje. Maat S vraagt met zijn 22 cm breedte nog minder plek, zodat je hem kwijt kunt op een smalle vensterbank, een plank in de gang of een bijzettafel naast een fauteuil. Het rotan geeft de lantaarn een naturel, warme kleur die het mooist uitkomt tegen kalkverf, linnen en licht eiken. Je gebruikt hem binnen en buiten, dus in de zomer verhuist hij zonder moeite naar het terras of het balkon.
 
 ### Materiaal en maakwijze
-De Raffles brengt rotan, metaal, glas en leer samen, en die mix van zachte en harde materialen laat hem passen bij zowel hout als steen. De lantaarn wordt met de hand gemaakt in Myanmar. Met 3 kg staat hij rustig op de vloer of op het terras, en toch draag je hem aan één hand mee naar binnen. Je hoeft niets in elkaar te zetten, want de lantaarn heeft geen montage nodig. Afnemen doe je met een vochtige doek die niet nat is; laat het materiaal nooit weken en gebruik geen agressieve schoonmaakmiddelen.
+De Raffles brengt rotan, metaal, glas en leer samen, en die mix van zachte en harde materialen laat hem passen bij zowel hout als steen. Beide maten worden met de hand gemaakt in Myanmar. Met 3 kg staat maat L rustig op de vloer of op het terras, en toch draag je hem aan één hand mee naar binnen. Maat S til je met zijn 2,3 kg net zo makkelijk van de vensterbank naar de tafel buiten. Je hoeft niets in elkaar te zetten, want de lantaarn heeft in beide maten geen montage nodig. Afnemen doe je met een vochtige doek die niet nat is; laat het materiaal nooit weken en gebruik geen agressieve schoonmaakmiddelen.
 
 ### Combineren
-Naast de Amsterdam bank in latte vormt de naturel kleur van het rotan een zachte overgang van de stof naar een houten vloer. Op de Craft salontafel met zijn blad in travertijnlook zet je de lantaarn aan één kant, met een paar marmeren waxinelichthouders ernaast, zodat het geheel een rustige groep wordt. Wil je een duo maken, zet hem dan naast de kleinere [Raffles lantaarn S](/products/lantaarn-raffles-s): het verschil in hoogte geeft een hoek of een terras diepte.
+Naast de Amsterdam bank in latte vormt de naturel kleur van het rotan een zachte overgang van de stof naar een houten vloer. Op de Craft salontafel met zijn blad in travertijnlook zet je de lantaarn aan één kant, met een paar marmeren waxinelichthouders ernaast, zodat het geheel een rustige groep wordt. Wil je een duo maken, zet maat S dan naast maat L: het verschil in hoogte geeft een hoek of een terras diepte.
 
 ## Specificaties (metavelden `inhuys.*`)
 
 | Veld | Waarde |
 |---|---|
-| afmetingen | 42 × 30 × 30 cm (h × b × d) |
-| gewicht | 3 kg |
+| afmetingen | S: 35 × 22 × 22 cm; L: 42 × 30 × 30 cm (h × b × d) |
+| gewicht | S: 2,3 kg; L: 3 kg |
 | materiaal_frame | Rotan, metaal, glas en leer |
 | afwerking | Naturel |
 | set_inhoud | 1 lantaarn (geen montage nodig) |
@@ -44,7 +45,7 @@ Naast de Amsterdam bank in latte vormt de naturel kleur van het rotan een zachte
 
 ## Advies van InHuys
 
-Ik zet de Raffles het liefst op de vloer, schuin naast een bank of een fauteuil zoals de Kathmandu, waar hij een hoek afmaakt die anders leeg blijft. Op een eettafel vind ik hem te hoog, omdat hij het zicht tussen de gasten onderbreekt. Buiten zet ik hem bij de deur naar de tuin, zodat dezelfde lantaarn de overgang van binnen naar buiten markeert.
+Ik zet de Raffles het liefst op de vloer, schuin naast een bank of een fauteuil zoals de Kathmandu, waar hij een hoek afmaakt die anders leeg blijft. Op een eettafel vind ik hem in beide maten te hoog, omdat hij het zicht tussen de gasten onderbreekt. Buiten zet ik hem bij de deur naar de tuin, zodat dezelfde lantaarn de overgang van binnen naar buiten markeert.
 
 ## Veelgestelde vragen
 
