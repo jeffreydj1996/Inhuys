@@ -142,10 +142,16 @@ ADVIES_LIQUID = """{%- if product.metafields.inhuys.advies != blank -%}
 <style>.inhuys-advies{margin-top:24px;padding:20px 22px;background:#f4f0ea}.inhuys-advies h3{margin-bottom:8px}.inhuys-advies p:last-child{margin-bottom:0}</style>
 <div class="inhuys-advies"><h3 class="h5">Advies van InHuys</h3>{{ product.metafields.inhuys.advies | metafield_tag }}</div>
 {%- endif -%}"""
+UITVOERINGEN_LIQUID = """{%- assign hoofd = product.metafields.inhuys.hoofdproduct.value -%}
+{%- if hoofd != blank and hoofd.id != product.id and hoofd.published_at != blank and hoofd.available -%}
+<style>.inhuys-uitvoeringen{margin-top:16px;font-size:14px}.inhuys-uitvoeringen h3{margin-bottom:6px}.inhuys-uitvoeringen p{margin-bottom:0}.inhuys-uitvoeringen a{text-decoration:underline}</style>
+<div class="inhuys-uitvoeringen"><h3 class="h5">Andere uitvoeringen</h3><p>Onderdeel van <a href="{{ hoofd.url }}">{{ hoofd.title }}</a></p></div>
+{%- endif -%}"""
 main["blocks"]["short_description_inhuys"] = {"type": "short_description", "settings": {}}
 main["blocks"]["specificaties_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": SPECS_LIQUID}}
 main["blocks"]["advies_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": ADVIES_LIQUID}}
-main["block_order"] = ["badge_ChqgGj", "title", "short_description_inhuys", "price", "variant_picker", "ai_room_preview_dygHXd", "inventory_status_wbzGXC", "buy_buttons", "shipping_VBJFtx", "trust_badge_NyBMd4", "description_d6MgGK", "specificaties_inhuys", "advies_inhuys"]
+main["blocks"]["uitvoeringen_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": UITVOERINGEN_LIQUID}}
+main["block_order"] = ["badge_ChqgGj", "title", "short_description_inhuys", "uitvoeringen_inhuys", "price", "variant_picker", "ai_room_preview_dygHXd", "inventory_status_wbzGXC", "buy_buttons", "shipping_VBJFtx", "trust_badge_NyBMd4", "description_d6MgGK", "specificaties_inhuys", "advies_inhuys"]
 ib = pj["sections"]["icon_box_9UtNky"]; ib["settings"]["heading"] = "Waarom InHuys"
 texts = [("Advies inbegrepen", "<p>Twijfel je over maat, kleur of combinatie? Plan een gratis Flitsadvies, online of in de showroom.</p>", "/pages/interieuradvies"),
          ("Levering via onze merkpartners", "<p>De levertijd staat bij elk product. Bij een inrichting via InHuys zijn we bij de levering aanwezig.</p>", "/pages/veelgestelde-vragen"),
@@ -161,6 +167,7 @@ pj["sections"]["recent-viewed-products"]["settings"]["heading"] = "Recent bekeke
 pj["sections"]["product-recommendations"]["settings"]["heading"] = "Anderen bekeken ook"
 pj["order"] = ["breadcrumb", "main", "product-details-tabs", "collapsible_tabs_JndiBV", "product-recommendations", "icon_box_9UtNky", "recent-viewed-products"]
 log("templates/product.json", "Productpagina: labels in het Nederlands ('Maat', 'Op bestelling', 'Verwachte levering', verzendtekst zonder dollars); korte omschrijving onder de titel (metaveld descriptor.short_description); specificatietabel en 'Advies van InHuys' uit de inhuys-metavelden; FAQ-sectie ingeschakeld met productvragen uit metaveld inhuys.faq; 'Why Minimog?' vervangen door drie echte beloftes; 'Recently Viewed Products' → 'Recent bekeken'.")
+log("templates/product.json", "Productpagina: blok 'Andere uitvoeringen' onder de korte omschrijving; leest metaveld inhuys.hoofdproduct (product_reference) en toont 'Onderdeel van <titel>' met link, alleen als het hoofdproduct bestaat, een ander product is, gepubliceerd en beschikbaar is; anders niets. Canonical blijft ongemoeid.")
 dump("templates/product.json", pj)
 
 # ---------------- templates/page.contact.json ----------------

@@ -50,6 +50,12 @@ Datum: 26 oktober 2026 · Status: **werkversie, niet gepubliceerd**. Het live th
 | `sections/footer-group.json` | Showroomblok: regel "InHuys is een handelsnaam van Kluster" boven KvK en btw |
 | `snippets/inhuys-schema.liquid` | LocalBusiness: `legalName` Kluster, `vatID`, KvK als `identifier`; openingstijden "alleen op afspraak, ook 's avonds; zaterdag in overleg" |
 
+## Aanvulling 19 november 2026
+
+| Bestand | Wijziging |
+|---|---|
+| `templates/product.json` | Nieuw blok 'Andere uitvoeringen' onder de korte omschrijving: leest `inhuys.hoofdproduct` en toont "Onderdeel van <titel>" met link, alleen als het hoofdproduct gepubliceerd en beschikbaar is; canonical ongewijzigd |
+
 ## Opmerkingen
 
 - **Lettertype koppen.** Het voorstel noemde Cormorant Garamond als eerste keus. Die familie is niet als Shopify-fonthandle te verifiëren vanuit deze omgeving; EB Garamond (`ebgaramond_n5`, gewicht 500) staat wel in de Shopify-bibliotheek en is in de kopie ingesteld. Wil je Cormorant Garamond, dan is dat in de thema-editor een keuze van één klik onder Thema-instellingen → Typografie.
