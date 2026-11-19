@@ -127,7 +127,16 @@
     "schelpenketting-a2-1": "gid://shopify/Product/10447102280019",
     "schelpenketting-j37": "gid://shopify/Product/10447103000915",
     "octo-ketting-black-tiger": "gid://shopify/Product/10447099134291",
-    "octo-ketting-zwart-wit-s": "gid://shopify/Product/10447099265363"
+    "octo-ketting-zwart-wit-s": "gid://shopify/Product/10447099265363",
+    "glijbaan-white-dolphin": "gid://shopify/Product/10388935311699",
+    "schommel-play-chill": "gid://shopify/Product/10388935377235",
+    "hoes-jumpspot-buiten": "gid://shopify/Product/10388935410003",
+    "hoes-jumpspot-binnen": "gid://shopify/Product/10388935442771",
+    "klimkoepel-climb-jump": "gid://shopify/Product/10388935541075",
+    "slide-surf-way": "gid://shopify/Product/10388935573843",
+    "artboard": "gid://shopify/Product/10388935672147",
+    "flip-play-bank": "gid://shopify/Product/10388935770451",
+    "surfboard": "gid://shopify/Product/10388935803219"
   },
   "artikelen": {
     "boucle-onderhouden-zo-blijft-je-bank-mooi": "gid://shopify/Article/617286107475",
@@ -164,7 +173,12 @@
     "eetkamerstoel-whale-set-van-2": "gid://shopify/Product/10447089828179",
     "barkruk-cloud": "gid://shopify/Product/10447096316243",
     "barkruk-cloud-keukenbarkruk-karamel": "gid://shopify/Product/10624276955475",
-    "barkruk-cloud-barkruk-karamel": "gid://shopify/Product/10447098610003"
+    "barkruk-cloud-barkruk-karamel": "gid://shopify/Product/10447098610003",
+    "houten-glijbaan-binnen": "gid://shopify/Product/10388933312851",
+    "jumpspot-binnen": "gid://shopify/Product/10388933345619",
+    "ballenbak": "gid://shopify/Product/10388933476691",
+    "jumpspot-buiten": "gid://shopify/Product/10388935213395",
+    "zwembad": "gid://shopify/Product/10490276741459"
   },
   "orderchamp_handles": {
     "fauteuil-cairo": "cairo-loungestoel-beige",
@@ -255,6 +269,20 @@
     "schelpenketting-a2-1": "a2-1-schelp-ketting",
     "schelpenketting-j37": "j37-kleine-schelp-ketting",
     "octo-ketting-black-tiger": "k34-zwarte-tijger-octo-ketting-l",
-    "octo-ketting-zwart-wit-s": "k35-zwart-wit-octo-ketting-s"
+    "octo-ketting-zwart-wit-s": "k35-zwart-wit-octo-ketting-s",
+    "glijbaan-white-dolphin": "glijbaan-white-dolphin-buiten",
+    "schommel-play-chill": "speel-chill-schaukel",
+    "hoes-jumpspot-buiten": "transformeerhoes-voor-outdoor-jumpspot",
+    "hoes-jumpspot-binnen": "verwisselbare-hoes-voor-indoor-jumpspot",
+    "klimkoepel-climb-jump": "klim-en-springkoepel",
+    "slide-surf-way": "slide-surf-way",
+    "artboard": "mantel",
+    "flip-play-bank": "flip-play-bank",
+    "surfboard": "surfboard",
+    "houten-glijbaan-binnen": "holzrutsche-binnen",
+    "jumpspot-binnen": "springplek-binnen",
+    "ballenbak": "ballenbak",
+    "jumpspot-buiten": "jumpspot-buiten",
+    "zwembad": "zwembad"
   }
 }
