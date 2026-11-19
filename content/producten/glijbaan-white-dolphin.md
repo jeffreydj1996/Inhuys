@@ -42,7 +42,7 @@ Op een houten vlonder of naast terrastegels in een zandkleur vormt de glijbaan e
 
 ## Advies van InHuys
 
-Ik zet de White Dolphin het liefst op het gras en niet op de tegels, omdat hij daar onderdeel wordt van de tuin in plaats van het terras te vullen. Kijk vooraf vanuit je keuken of woonkamer naar buiten: de plek die je vanaf daar goed ziet, is meestal ook de plek waar je kind graag speelt. Heb je binnen meer ruimte dan buiten, kies dan de [houten glijbaan voor binnen](/products/holzrutsche-binnen), want deze is gemaakt voor de tuin.
+Ik zet de White Dolphin het liefst op het gras en niet op de tegels, omdat hij daar onderdeel wordt van de tuin in plaats van het terras te vullen. Kijk vooraf vanuit je keuken of woonkamer naar buiten: de plek die je vanaf daar goed ziet, is meestal ook de plek waar je kind graag speelt. Heb je binnen meer ruimte dan buiten, kies dan de [houten glijbaan voor binnen](/products/holzrutsche-binnen), want de White Dolphin zelf is gemaakt voor de tuin.
 
 ## Veelgestelde vragen
 
