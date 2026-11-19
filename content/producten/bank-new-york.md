@@ -1,24 +1,22 @@
-# Bank New York, 2,5-zits met lounge rechts in beige
+# Bank New York, 2,5-zits met lounge rechts in beige of coco
 
 Handle: `/products/bank-new-york` · Status: **concept** (DRAFT) in Shopify · Merk: Pole To Pole · Producttype: Banken
 
-Tags: bank, loungebank, 2,5-zits, beige, pole-to-pole  
+Tags: bank, loungebank, 2,5-zits, beige, coco, pole-to-pole  
 Categorie: gid://shopify/TaxonomyCategory/fr-22  
 Collecties: gid://shopify/Collection/704710508883
 
-Meta-titel (58): Bank New York 2,5-zits met lounge rechts in beige · InHuys  
-Meta-description (151): Lage New York bank in beige, 2,5-zits met een lounge-element aan de rechterkant om je uit te strekken. Frame van beukenhout en multiplex, 204 cm breed.
+Meta-titel (60): Bank New York 2,5-zits lounge rechts, beige of coco · InHuys  
+Meta-description (159): Lage New York bank in beige of coco, 2,5-zits met een lounge-element aan de rechterkant om je uit te strekken. Frame van beukenhout en multiplex, 204 cm breed.
 
-**Zin onder de titel:** Een lage, zachte 2,5-zits met een lounge-element aan de rechterkant, in een warm en licht beige.
+**Zin onder de titel:** Een lage, zachte 2,5-zits met een lounge-element aan de rechterkant, in beige of coco.
 
 ## Varianten en prijzen
 
 | Opstelling | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|---|
+| 2,5-zits met lounge rechts | Kokos | € 2989,95 | 871917285934 | `bank-new-york-2-5-zits-rechter-lounge-coco` |
 | 2,5-zits met lounge rechts | Beige | € 2740,00 | 871917285938 | `bank-new-york-2-5-zits-rechter-lounge-beige` |
-| 2,5-zits met lounge rechts | Coco | € 2980,00 | 871917285934 | `bank-new-york-2-5-zits-rechter-lounge-coco` |
-| 4-zits met lounge rechts | Beige | € 3740,00 | 871917285952 | `bank-new-york-4-zits-rechter-lounge-beige` |
-| 4-zits met lounge rechts | Coco | € 3980,00 | 871917285936 | `bank-new-york-4-zits-rechter-lounge-coco` |
 
 ## Beschrijving
 
@@ -26,9 +24,9 @@ Meta-description (151): Lage New York bank in beige, 2,5-zits met een lounge-ele
 De New York is een bank om in weg te zakken: de armen komen bijna tot de hoogte van de rug, en de zachte lijnen houden de zithoek rustig. In deze opstelling zit aan de rechterkant een lounge-element, zodat je naast de gewone zitplaatsen ook een plek hebt om je uit te strekken. Met zijn 204 cm breedte past de bank tegen een gemiddelde wand in de woonkamer, zonder dat hij de hele kamer opeist. Houd bij het plannen rekening met 172 cm diepte, zodat er langs de bank nog een vrije looproute overblijft. Met een zithoogte van 37 cm zit je laag, en dat maakt de New York een bank voor lange avonden met een boek of een film, minder voor rechtop zitten met visite. Omdat de bank niet hoger komt dan 67 cm, kun je hem ook vrij in de ruimte zetten zonder dat hij het zicht door de kamer afsluit.
 
 ### Materiaal en maakwijze
-Beige is hier een warme, lichte tint die rustig wegvalt tegen hout, linnen en lichte muren. Op de zitting en de armen zit een stof van 96% polyester en 4% acryl, die je bij een vlek afneemt met een vochtige, niet natte doek; agressieve middelen en doorweken laat je achterwege. Onder de bekleding zit een frame van beukenhout en multiplex, met schuim van 38 kg/m³ in de zitting, een dichtheid waarmee je de New York kunt vergelijken met andere banken.
+Beige is hier een warme, lichte tint die rustig wegvalt tegen hout, linnen en lichte muren. In beige zit er op de zitting en de armen een stof van 96% polyester en 4% acryl, in coco een stof van 93% polyester en 7% viscose. Beide stoffen neem je bij een vlek af met een vochtige, niet natte doek; agressieve middelen en doorweken laat je achterwege. Onder de bekleding zit een frame van beukenhout en multiplex, met schuim van 38 kg/m³ in de zitting, een dichtheid waarmee je de New York kunt vergelijken met andere banken.
 
-Dezelfde opstelling is er ook in coco, als <a href="/products/bank-new-york-2-5-zits-lounge-coco">New York 2,5-zits met lounge rechts in coco</a>. Wil je meer zitplaatsen, kies dan de 4-zits met lounge rechts in <a href="/products/bank-new-york-4-zits-lounge-beige">beige</a> of in <a href="/products/bank-new-york-4-zits-lounge-coco">coco</a>; elk is een eigen product met een eigen pagina.
+Wil je meer zitplaatsen, kies dan de 4-zits met lounge rechts in <a href="/products/bank-new-york-4-zits-lounge-beige">beige</a> of in <a href="/products/bank-new-york-4-zits-lounge-coco">coco</a>; elk is een eigen product met een eigen pagina.
 
 ### Combineren
 Naast de Craft salontafel groot in beige travertijnlook krijgt de zithoek één warme, lichte toon, en de afgeronde vorm van de tafel past bij de zachte lijnen van de bank. Zet er een Cairo loungestoel in beige schuin tegenover voor een zithoek in één kleurfamilie, of kies juist een donkere eiken vloer en een wollen kleed in roest of terracotta om het beige te laten oplichten. Tegen een witte muur blijft het geheel licht; tegen taupe of olijfgroen wordt het rustiger en dieper. Een Agano-vaas op de salontafel en een paar kussens in linnen maken de zithoek af.
@@ -42,8 +40,8 @@ Naast de Craft salontafel groot in beige travertijnlook krijgt de zithoek één 
 | zitdiepte | [AANVULLEN] |
 | gewicht | 66 kg |
 | materiaal_frame | Beukenhout en multiplex |
-| materiaal_bekleding | Stof met schuimvulling (38 kg/m³); 96% polyester en 4% acryl |
-| afwerking | Beige |
+| materiaal_bekleding | Stof met schuimvulling (38 kg/m³); beige 96% polyester en 4% acryl, coco 93% polyester en 7% viscose |
+| afwerking | Beige of coco |
 | set_inhoud | 1 bank, 2,5-zits met lounge-element rechts |
 | onderhoud | Afnemen met een vochtige, niet natte doek; geen agressieve middelen; de stof niet laten doorweken |
 | herkomst | Pole To Pole |
@@ -63,18 +61,21 @@ Aan de rechterkant van deze opstelling zit een lounge-element, naast de gewone z
 De bank is 204 cm breed, passend voor een zithoek aan een gemiddelde wand. Reken bij het plannen op 172 cm diepte en houd ernaast een vrije looproute aan.
 
 **Zijn er andere uitvoeringen?**  
-Ja, dezelfde opstelling bestaat in coco, en de 4-zits met lounge rechts is er in beige en in coco. Elk is een eigen product.
+Deze 2,5-zits kies je in beige of in coco. De 4-zits met lounge rechts is er ook in beige en in coco, als eigen product.
 
 **Kan ik langskomen voor advies?**  
 Ja, in de showroom in Purmerend, op afspraak. Neem een plattegrond van je woonkamer mee, dan kijken we samen waar de New York het best staat.
 
 ## Beelden
 
-De 5 beelden (800 px breed) van deze uitvoering komen van het door Orderchamp geïmporteerde concept; hun alt-teksten blijven gedeeld en ongewijzigd.
+De 5 beelden in beige en de 4 in coco (800 px breed) komen van het door Orderchamp geïmporteerde concept; hun alt-teksten blijven gedeeld en ongewijzigd.
 
 ## Opmerking
 
-Afmetingen, zitbreedte, zithoogte, gewicht, het frame van beukenhout en multiplex, de schuimdichtheid, de stofsamenstelling, het onderhoud, herkomst (China) en brandvertraging (nee) komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285938, geopend op 5 november 2026). De zitdiepte staat in de bron als "70 Lounge: 142 cm"; die lezing is onduidelijk en staat daarom niet in de tekst of de specificaties. Wat "lounge rechts" precies inhoudt (vorm, maten van het element) is in de bron niet beschreven; de tekst noemt alleen een lounge-element aan de rechterkant. Levertijd: volgens de Orderchamp-import verschilt die per item; een termijn is niet gevonden. Dit product is het door Orderchamp geïmporteerde concept `bank-new-york-2-5-zits-rechter-lounge-beige`; varianten, voorraad en beelden blijven van Orderchamp. De drie andere uitvoeringen met voorraad (2,5-zits lounge rechts coco, SKU 871917285934; 4-zits lounge rechts beige, SKU 871917285952, 67 × 294 × 172 cm, 90 kg; 4-zits lounge rechts coco, SKU 871917285936) zijn eigen Orderchamp-producten en krijgen een korte variant; coco is 93% polyester en 7% viscose. Ze staan ook in de variantentabel; de hoofdsessie beslist of die tabel één rij moet worden. De koppelingen in de tekst zijn als HTML geschreven omdat `md_naar_vars.py` geen markdown-links omzet. Geen voorraad, geen tekst: 2,5-zits beige (SKU 871917285937, € 2240,00), 2,5-zits coco (871917285933, € 2480,00), 2,5-zits zand boucle (871917285929, € 2240,00), 2,5-zits lounge rechts zand boucle (871917285930, € 2740,00), 4-zits beige (871917285939, € 3200,00), 4-zits coco (871917285935, € 3480,00), 4-zits zand boucle (871917285931, € 3200,00) en 4-zits lounge rechts zand boucle (SKU `71917285932` met 11 cijfers, € 3740,00; te controleren). De vorige tekst noemde een massief frame, vulling van schuim en vezel, levertijd 6 tot 8 weken, 2 jaar garantie en herkomst Nederland; die gegevens staan niet in het feitenbestand en zijn vervallen.
+Afmetingen, zitbreedte, zithoogte, gewicht, het frame van beukenhout en multiplex, de schuimdichtheid, de stofsamenstelling, het onderhoud, herkomst (China) en brandvertraging (nee) komen van de productpagina van Pole To Pole (poletopole.nl, SKU 871917285938, geopend op 5 november 2026). De zitdiepte staat in de bron als "70 Lounge: 142 cm"; die lezing is onduidelijk en staat daarom niet in de tekst of de specificaties. Wat "lounge rechts" precies inhoudt (vorm, maten van het element) is in de bron niet beschreven; de tekst noemt alleen een lounge-element aan de rechterkant. Levertijd: volgens de Orderchamp-import verschilt die per item; een termijn is niet gevonden. Dit product is het door Orderchamp geïmporteerde concept `bank-new-york-2-5-zits-rechter-lounge-beige`; varianten, voorraad en beelden blijven van Orderchamp. De stofsamenstelling van coco komt van poletopole.nl (SKU 871917285934); maten en gewicht van de 2,5-zits zijn in coco gelijk aan beige. De 4-zits met lounge rechts in beige (SKU 871917285952, 67 × 294 × 172 cm, 90 kg) en in coco (SKU 871917285936) zijn eigen Orderchamp-producten met een korte tekst. De koppelingen in de tekst zijn als HTML geschreven omdat `md_naar_vars.py` geen markdown-links omzet. Geen voorraad, geen tekst: 2,5-zits beige (SKU 871917285937, € 2240,00), 2,5-zits coco (871917285933, € 2480,00), 2,5-zits zand boucle (871917285929, € 2240,00), 2,5-zits lounge rechts zand boucle (871917285930, € 2740,00), 4-zits beige (871917285939, € 3200,00), 4-zits coco (871917285935, € 3480,00), 4-zits zand boucle (871917285931, € 3200,00) en 4-zits lounge rechts zand boucle (SKU `71917285932` met 11 cijfers, € 3740,00; te controleren). De vorige tekst noemde een massief frame, vulling van schuim en vezel, levertijd 6 tot 8 weken, 2 jaar garantie en herkomst Nederland; die gegevens staan niet in het feitenbestand en zijn vervallen.
+
+Varianten bijgewerkt naar de stand in Orderchamp op 19 november 2026: Kokos (coco, SKU 871917285934) en Beige (SKU 871917285938).
+De prijzen in de variantentabel zijn de Orderchamp-prijzen: € 2989,95 voor coco en € 2740,00 voor beige.
 
 ## Aan te vullen door de eigenaar
 

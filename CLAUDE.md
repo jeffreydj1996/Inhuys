@@ -6,6 +6,7 @@ De hoofdsessie doet regie en beoordeling en delegeert via de skills in `.claude/
 ## Harde regels (gelden voor elke sessie en elke agent)
 1. Niets gaat live. Alleen DRAFT-producten, ongepubliceerde pagina's, collecties en artikelen en de thema-kopie `gid://shopify/OnlineStoreTheme/210233098579` mogen wijzigen.
 2. Verboden zonder `INHUYS_GOLIVE=1` van de eigenaar: themePublish, elke publish of unpublish, urlRedirect*, elke delete of archivering, `status: ACTIVE`, prijzen, voorraad, kortingen, het live thema, de live menu's. `tools/guard_shopify.py` blokkeert dit; omzeil de hook nooit.
+2a. Uitzondering (besluit eigenaar 19 november 2026): op de live producten onder `live_tekst` in `data/ids.json` mag `productUpdate` alleen titel, tekst, SEO, type, tags, categorie en metavelden zetten; handle, status, varianten, prijzen en beelden blijven verboden. Momentopname vóór en na.
 3. Raad nooit een ID. Alle concept-ID's staan in `data/ids.json`; nieuwe ID's registreer je met `python3 -I tools/status.py set <handle> gid=<gid>`.
 4. Alt-tekst van een bestaand beeldbestand nooit wijzigen of weglaten: Shopify deelt bestanden tussen producten. Geef de huidige alt ongewijzigd mee (`md_naar_vars.py` doet dat).
 5. Redirects blijven in `analyse/redirects.csv` tot de eigenaar go-live geeft.

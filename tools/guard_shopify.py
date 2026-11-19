@@ -65,8 +65,8 @@ def controleer(query, variables, env):
         if g in mutatie_ids: fouten.append(f"{g} is live (live_niet_aanraken) en wordt nooit aangeraakt")
     live_in_input = [g for g in live_tekst if g in mutatie_ids]
     if live_in_input:
-        if env.get("INHUYS_LIVE_TEKST") != "1": fouten.append("live product: alleen met INHUYS_LIVE_TEKST=1 van de eigenaar (titel, tekst, seo, metavelden)")
-        elif namen != {"productUpdate"}: fouten.append("live product: alleen productUpdate is toegestaan met INHUYS_LIVE_TEKST=1")
+        # Besluit eigenaar 19 november 2026: tekst op de live producten uit 'live_tekst' mag zonder omgevingsvariabele; alleen de velden hieronder.
+        if namen != {"productUpdate"}: fouten.append("live product: alleen productUpdate is toegestaan met INHUYS_LIVE_TEKST=1")
         else:
             for p in (variables or {}).values():
                 if isinstance(p, dict) and set(p) - LIVE_TEKST_VELDEN: fouten.append(f"live product: velden niet toegestaan: {sorted(set(p) - LIVE_TEKST_VELDEN)}")
@@ -97,7 +97,9 @@ def main():
         _orig = concept_ids
         globals()["concept_ids"] = lambda: (_orig()[0], _orig()[1], _orig()[2], _orig()[3] | {LIVE})
         upd = 'mutation($p: ProductUpdateInput!) { productUpdate(product: $p) { product { id } userErrors { message } } }'
-        proef = [("live zonder", upd, {"p": {"id": LIVE, "title": "x"}}, True, {}),
+        proef = [("live tekst zo", upd, {"p": {"id": LIVE, "title": "x"}}, False, {}),
+                 ("live status", upd, {"p": {"id": LIVE, "status": "DRAFT"}}, True, {}),
+                 ("live varianten", upd, {"p": {"id": LIVE, "variants": []}}, True, {}),
                  ("live tekst ok", upd, {"p": {"id": LIVE, "title": "x", "descriptionHtml": "<p>x</p>", "metafields": []}}, False, {"INHUYS_LIVE_TEKST": "1"}),
                  ("live handle", upd, {"p": {"id": LIVE, "handle": "x"}}, True, {"INHUYS_LIVE_TEKST": "1"}),
                  ("verwijzing ok", upd, {"p": {"id": "gid://shopify/Product/10447099593043", "metafields": [{"namespace": "inhuys", "key": "hoofdproduct", "type": "product_reference", "value": LIVE}]}}, False, {}),

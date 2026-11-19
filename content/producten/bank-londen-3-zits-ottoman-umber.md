@@ -15,7 +15,8 @@ Meta-description (138): Londen 3-zits met ottoman in umber, voor wie wil liggen 
 
 | Opstelling | Kleur | Prijs | SKU | Bron (oud product) |
 |---|---|---|---|---|
-| 3-zits met ottoman | Umber | € 4500,00 | 871974353297 | `londen-3-zits-ottoman-umber` |
+| 3-zits met ottoman | Bruinen | € 4489,95 | 871974353296 | `londen-3-zits-ottoman-tan` |
+| 3-zits met ottoman | Omber | € 4500,00 | 871974353297 | `londen-3-zits-ottoman-umber` |
 
 ## Beschrijving
 
@@ -55,8 +56,8 @@ Ik raad deze opstelling aan als je in de avond graag languit ligt, maar overdag 
 **Hoeveel ruimte neemt de 3-zits met ottoman in?**  
 Reken op 282 bij 212 cm vloer, plus een vrije looproute eromheen. Met zijn 67 cm hoogte blijft de opstelling laag in de kamer.
 
-**Is deze opstelling ook in tan leverbaar?**  
-Ja, de 3-zits met ottoman bestaat ook in tan, als eigen product. Prijs en maten zijn gelijk aan deze uitvoering in umber.
+**Hoe hoog zit je op de 3-zits met ottoman?**  
+Op 42 cm zithoogte staan je voeten plat op de vloer, en ook vanaf de ottoman kom je zonder moeite overeind.
 
 **Hoe onderhoud ik de stof?**  
 Neem bank en ottoman af met een vochtige, niet natte doek. Gebruik geen agressieve schoonmaakmiddelen en laat de stof nooit weken.
@@ -68,6 +69,9 @@ De 4 beelden van het bronproduct `londen-3-zits-ottoman-umber` (1200 px breed) b
 ## Opmerking
 
 Dit product is het door Orderchamp geïmporteerde concept `londen-3-zits-ottoman-umber`; varianten, voorraad en beelden blijven van Orderchamp. Maten, zithoogte, armleuninghoogte, bekleding en onderhoud komen van poletopole.nl (SKU 871974353297, geopend op 5 november 2026). Het gewicht van 125 kg is de fabrikantwaarde; de Orderchamp-import noemt 0,12 kg, te verifiëren. De kleurnaam umber is de fabrikantnaam en te verifiëren tegenover de Orderchamp-import; de tint zelf staat niet in de bron. De zitbreedte van 218 cm geldt volgens de bron voor de 3-zits en is hier niet herhaald. Volgens Pole To Pole niet brandvertragend.
+
+Varianten bijgewerkt naar de stand in Orderchamp op 19 november 2026: Bruinen (tan, SKU 871974353296, bron `londen-3-zits-ottoman-tan`) met voorraad 0 en daarom niet in de tekst, en Omber (umber, SKU 871974353297).
+De prijzen in de variantentabel zijn de Orderchamp-prijzen: € 4489,95 voor tan en € 4500,00 voor umber.
 
 ## Aan te vullen door de eigenaar
 
