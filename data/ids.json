@@ -136,7 +136,11 @@
     "slide-surf-way": "gid://shopify/Product/10388935573843",
     "artboard": "gid://shopify/Product/10388935672147",
     "flip-play-bank": "gid://shopify/Product/10388935770451",
-    "surfboard": "gid://shopify/Product/10388935803219"
+    "surfboard": "gid://shopify/Product/10388935803219",
+    "eetkamerstoel-rock-creme-set-van-2": "gid://shopify/Product/10447098478931",
+    "barkruk-japandi-tan-set-van-2": "gid://shopify/Product/10447099363667",
+    "schelpenketting-h1": "gid://shopify/Product/10447102837075",
+    "krab-messing-l": "gid://shopify/Product/10447102935379"
   },
   "artikelen": {
     "boucle-onderhouden-zo-blijft-je-bank-mooi": "gid://shopify/Article/617286107475",
@@ -178,7 +182,11 @@
     "jumpspot-binnen": "gid://shopify/Product/10388933345619",
     "ballenbak": "gid://shopify/Product/10388933476691",
     "jumpspot-buiten": "gid://shopify/Product/10388935213395",
-    "zwembad": "gid://shopify/Product/10490276741459"
+    "zwembad": "gid://shopify/Product/10490276741459",
+    "eetkamerstoel-boog-creme-set-van-2": "gid://shopify/Product/10447098413395",
+    "eetkamerstoel-boog-karamel-set-van-2": "gid://shopify/Product/10447098380627",
+    "eetkamerstoel-whale-beige-set-van-2": "gid://shopify/Product/10447089762643",
+    "barkruk-cloud-barkruk-creme": "gid://shopify/Product/10447096447315"
   },
   "orderchamp_handles": {
     "fauteuil-cairo": "cairo-loungestoel-beige",
@@ -283,6 +291,14 @@
     "jumpspot-binnen": "springplek-binnen",
     "ballenbak": "ballenbak",
     "jumpspot-buiten": "jumpspot-buiten",
-    "zwembad": "zwembad"
+    "zwembad": "zwembad",
+    "eetkamerstoel-rock-creme-set-van-2": "rock-stoelcreme-set-van-2",
+    "barkruk-japandi-tan-set-van-2": "japandi-bar-chair-tan-set-van-2",
+    "schelpenketting-h1": "h1-kleine-schelp-ketting",
+    "krab-messing-l": "h19-krab-l",
+    "eetkamerstoel-boog-creme-set-van-2": "boogstoelcreme-set-van-2",
+    "eetkamerstoel-boog-karamel-set-van-2": "boogstoel-karamel-set-van-2",
+    "eetkamerstoel-whale-beige-set-van-2": "whale-stoel-beige-set-van-2",
+    "barkruk-cloud-barkruk-creme": "cloud-barstoel-creme"
   }
 }
