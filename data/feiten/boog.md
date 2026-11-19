@@ -45,5 +45,5 @@ Geen concept in `data/orderchamp/` voor deze handles; de oude beschrijving uit `
 ## Bronnen
 - https://poletopole.nl/en/product/871974353091/arc-chair-cream/ · fabrikant, crème: afmetingen, zit-, materiaal-, doos- en compliancegegevens · geraadpleegd op 2026-11-19
 - https://poletopole.nl/en/product/871974353094/arc-chair-caramel/ · fabrikant, karamel: zelfde gegevens als crème, kleur Caramel · geraadpleegd op 2026-11-19
-- https://www.in-huys.nl/products/boogstoelcreme-set-van-2 · eigen export (beschrijving, gewicht, levering, retour; updatedAt 2026-08-12, export data/raw/products-1.json) · export 2026-11-19
+- https://www.in-huys.nl/products/boogstoelcreme-set-van-2 · eigen export (beschrijving, gewicht, levering, retour; updatedAt 2026-06-03, export data/raw/products-1.json) · export 2026-11-19
 - https://www.in-huys.nl/products/boogstoel-karamel-set-van-2 · eigen export (beschrijving, gewicht, levering, retour; updatedAt 2026-08-12) · export 2026-11-19
