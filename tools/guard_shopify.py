@@ -11,6 +11,7 @@ TOEGESTAAN = {"productSet", "productUpdate", "productCreate", "pageCreate", "pag
 VERBODEN_RE = re.compile(r"(delete|publish|unpublish|archive|urlredirect|themepublish|themecreate|themeupdate|inventory|pricelist|discount|customer|order|fulfillment|webhook|bulkoperation|stagedupload)", re.I)
 THEMA_KOPIE = "gid://shopify/OnlineStoreTheme/210233098579"
 
+TESTMODUS = False
 LIVE_TEKST_VELDEN = {"id", "title", "descriptionHtml", "seo", "productType", "tags", "category", "metafields", "collectionsToJoin"}
 
 def concept_ids():
@@ -63,6 +64,17 @@ def controleer(query, variables, env):
     mutatie_ids = set(id_waarden(variables or {})) | set(re.findall(r"gid://shopify/[A-Za-z]+/\d+", query))
     for g in live_blok:
         if g in mutatie_ids: fouten.append(f"{g} is live (live_niet_aanraken) en wordt nooit aangeraakt")
+    # Besluit eigenaar: de gids onder 'live_naar_concept' mogen van ACTIVE naar DRAFT, met uitsluitend id en status DRAFT.
+    try: naar_concept = set(json.load(open(IDS, encoding="utf-8")).get("live_naar_concept", []))
+    except Exception: naar_concept = set()
+    if TESTMODUS: naar_concept = set(env.get("_TEST_NAAR_CONCEPT", "").split())  # alleen in --test, nooit vanuit de echte omgeving
+    ids -= naar_concept
+    nc_in_input = [g for g in naar_concept if g in mutatie_ids]
+    if nc_in_input:
+        if namen != {"productUpdate"}: fouten.append("naar concept: alleen productUpdate is toegestaan")
+        for p in (variables or {}).values():
+            if isinstance(p, dict) and (set(p) != {"id", "status"} or str(p.get("status")).upper() != "DRAFT"): fouten.append("naar concept: alleen id en status DRAFT zijn toegestaan")
+        if not fouten: ids = ids | set(nc_in_input)
     live_in_input = [g for g in live_tekst if g in mutatie_ids]
     if live_in_input:
         # Besluit eigenaar 19 november 2026: tekst op de live producten uit 'live_tekst' mag zonder omgevingsvariabele; alleen de velden hieronder.
@@ -93,11 +105,16 @@ def controleer(query, variables, env):
 def main():
     if "--test" in sys.argv:
         ids, _, _, _ = concept_ids()
-        LIVE = "gid://shopify/Product/999999999999"
+        globals()["TESTMODUS"] = True
+        LIVE ="gid://shopify/Product/999999999999"
         _orig = concept_ids
         globals()["concept_ids"] = lambda: (_orig()[0], _orig()[1], _orig()[2], _orig()[3] | {LIVE})
         upd = 'mutation($p: ProductUpdateInput!) { productUpdate(product: $p) { product { id } userErrors { message } } }'
         proef = [("live tekst zo", upd, {"p": {"id": LIVE, "title": "x"}}, False, {}),
+                 ("naar concept ok", upd, {"p": {"id": "gid://shopify/Product/888888888888", "status": "DRAFT"}}, False, {"_TEST_NAAR_CONCEPT": "gid://shopify/Product/888888888888"}),
+                 ("naar concept actief", upd, {"p": {"id": "gid://shopify/Product/888888888888", "status": "ACTIVE"}}, True, {"_TEST_NAAR_CONCEPT": "gid://shopify/Product/888888888888"}),
+                 ("naar concept extra", upd, {"p": {"id": "gid://shopify/Product/888888888888", "status": "DRAFT", "title": "x"}}, True, {"_TEST_NAAR_CONCEPT": "gid://shopify/Product/888888888888"}),
+                 ("ander live concept", upd, {"p": {"id": "gid://shopify/Product/888888888888", "status": "DRAFT"}}, True, {}),
                  ("live status", upd, {"p": {"id": LIVE, "status": "DRAFT"}}, True, {}),
                  ("live varianten", upd, {"p": {"id": LIVE, "variants": []}}, True, {}),
                  ("live tekst ok", upd, {"p": {"id": LIVE, "title": "x", "descriptionHtml": "<p>x</p>", "metafields": []}}, False, {"INHUYS_LIVE_TEKST": "1"}),
