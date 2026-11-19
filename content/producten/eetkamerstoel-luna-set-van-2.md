@@ -25,7 +25,7 @@ De Luna is een eetkamerstoel met korte armleuningen en een gestoffeerde rug die 
 ### Materiaal en maakwijze
 De poten zijn van gepoedercoat Q195-staal, en in de rest van het frame zitten multiplex en metaal; samen dragen ze tot 120 kg per stoel. De stoffering in karamel is van 100% polyester en voelt glad aan de hand. Het schuim in de stoel heeft een dichtheid van 25 kg/m³, een opgave waarmee je de Luna kunt vergelijken met andere gestoffeerde stoelen. Een vlek neem je af met een vochtige, niet natte doek; agressieve middelen en doorweken laat je achterwege. Met 6,8 kg per stoel til je hem makkelijk op als je de vloer onder de tafel schoonmaakt. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
 
-Wil je de eethoek lichter houden, dan is dezelfde stoel er ook in crème en in goud, samen als één eigen product: de <a href="/products/eetkamerstoel-luna-creme-set-van-2">Luna eetkamerstoel in crème of goud</a>.
+Wil je de eethoek lichter houden, dan is dezelfde stoel er ook in crème en in goud, samen als één eigen product: de <a href="/products/luna-stoelcreme-set-van-2">Luna eetkamerstoel in crème of goud</a>.
 
 ### Combineren
 Karamel naast een eiken tafel op een lichte vloer geeft een eethoek in één warme kleurfamilie; tegen een zwarte of olijfgroene wand krijgt het bruin juist meer diepte. Aan de lange Urban Chique-tafel brengt karamel warmte tegen het koele keramische blad in marmerlook, en een Agano-vaas van travertijn in het midden verbindt de twee tinten. Omdat de Luna slank oogt, kun je aan de kopse kanten een forsere stoel zetten, zoals de Breeze, zodat de uiteinden van de tafel meer gewicht krijgen.

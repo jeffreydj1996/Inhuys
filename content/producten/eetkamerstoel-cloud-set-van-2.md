@@ -25,7 +25,7 @@ De Cloud is de stoel voor een eethoek waar je wilt blijven hangen: de ronde kuip
 ### Materiaal en maakwijze
 Onder de stoffering zit een frame van gepoedercoat Q195-staal, multiplex en metaal, dat tot 120 kg per stoel draagt. De crème stof is van 100% polyester en heeft een gladde, rustige uitstraling. Het schuim in de kuip heeft een dichtheid van 25 kg/m³, een opgave waarmee je de Cloud kunt vergelijken met andere gestoffeerde stoelen. Een vlek neem je af met een vochtige, niet natte doek, zonder agressieve middelen en zonder de stof te laten doorweken. Met 7,5 kg per stoel schuif je de Cloud makkelijk aan en weer weg. De twee stoelen komen samen in één doos en je zet ze zelf in elkaar.
 
-Dezelfde stoel is er ook in <a href="/products/eetkamerstoel-cloud-karamel-set-van-2">Cloud eetkamerstoel in karamel</a> en in <a href="/products/eetkamerstoel-cloud-beige-set-van-2">beige</a>; elk is een eigen product met een eigen pagina.
+Dezelfde stoel is er ook in <a href="/products/cloud-stoel-karamel-set-van-2">Cloud eetkamerstoel in karamel</a> en in <a href="/products/cloud-stoel-beige-set-van-2">beige</a>; elk is een eigen product met een eigen pagina.
 
 ### Combineren
 Crème bij een lichte eiken tafel geeft een zachte, monochrome eethoek; tegen het keramische blad in marmerlook van de Urban Chique wordt de stoel juist een lichte rand rond de tafel. Combineer de Cloud aan tafel met de Cloud keukenbarkruk in crème aan het keukeneiland, zodat keuken en eetkamer één vormtaal spreken. Een Agano-vaas van travertijn en een linnen tafelkleed houden het geheel warm, ook als de muren wit zijn.
