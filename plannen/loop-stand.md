@@ -34,3 +34,5 @@ Stap 1 tot en met 3 van "Te doen" zijn klaar: 21 herziene concepten en 19 live t
 
 ## Producten live (19 november, regel 2c)
 56 concepten staan actief en gepubliceerd op vijf kanalen; 6 dubbelen staan op concept. Stand na afloop: 77 actieve producten (76 Orderchamp plus Flitsadvies), alle met 5 publicaties, geen concept met publicaties, geen gewijzigde varianten. Lijst: `analyse/12-live-gezet-2026-11-19.md`. De opening in de beveiliging is gesloten (lijsten leeg, 24 van 24 tests). Voorbereid, niet gepubliceerd: `analyse/13-redirects-controle.md`, `analyse/14-collecties-controle.md`, concept `plannen/fase-4.md`. De uitvoerder-agent weigert live zetten op grond van zijn vaste instructie; de hoofdsessie deed de statusmutaties zelf.
+
+Thema-kopie 210233098579 (UNPUBLISHED): blok 'Andere uitvoeringen' geüpload op 19 november; voorbeeld https://www.in-huys.nl/?preview_theme_id=210233098579. Search Console-nulmeting: analyse/gsc-rapport-2026-11-19.md (57 pagina's in de sitemap, 0 geïndexeerd). Open: akkoord eigenaar op plannen/fase-4.md voor de omschakeling.
