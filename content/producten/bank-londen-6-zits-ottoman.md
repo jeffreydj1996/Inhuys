@@ -27,7 +27,7 @@ De 6-zits met ottoman is de opstelling van de Londen voor een open woonkamer waa
 De bekleding is van stof, en je kiest deze opstelling in tan of in umber, voor beide kleuren tegen dezelfde prijs. Volgens de fabrikant is de Londen opgebouwd uit losse elementen, en de ottoman is daar een van. Voor het onderhoud neem je de stof af met een vochtige, niet natte doek; gebruik geen agressieve schoonmaakmiddelen en laat de bekleding nooit weken. Met een zithoogte van 42 cm zit je op deze opstelling net zo als op de andere uitvoeringen van de Londen.
 
 ### Combineren
-Zet een Craft salontafel in keramiek met travertijnlook naast de ottoman, zodat je koffie binnen handbereik staat terwijl je benen omhoog liggen. Een Cairo loungestoel in beige aan de korte kant maakt van de lange bank een zithoek met een eigen plek voor wie liever rechtop zit. Op een eiken vloer met een groot wollen kleed onder bank en ottoman wordt de opstelling één geheel. Alle uitvoeringen en het volledige advies vind je bij [Bank Londen, 3-zits in umber](/products/bank-londen).
+Zet een Craft salontafel in keramiek met travertijnlook naast de ottoman, zodat je koffie binnen handbereik staat terwijl je benen omhoog liggen. Een Cairo loungestoel in beige aan de korte kant maakt van de lange bank een zithoek met een eigen plek voor wie liever rechtop zit. Op een eiken vloer met een groot wollen kleed onder bank en ottoman wordt de opstelling één geheel. Alle uitvoeringen en het volledige advies vind je bij Bank Londen, 3-zits in umber.
 
 ## Specificaties (metavelden `inhuys.*`)
 

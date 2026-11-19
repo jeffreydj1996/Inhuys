@@ -27,7 +27,7 @@ Deze opstelling geeft je de zitplaatsen van een 3-zits en de ligplek van een cha
 Bank en ottoman zijn in umber bekleed met stof, dezelfde soort bekleding als bij alle andere uitvoeringen van de Londen. Je houdt ze schoon door ze af te nemen met een vochtige, niet natte doek, zonder agressieve schoonmaakmiddelen en zonder de stof te laten weken. Wie de ottoman veel gebruikt, merkt dat de zithoogte van 42 cm het opstaan makkelijk houdt.
 
 ### Combineren
-Een Mars loungestoel op metalen poten aan de open kant houdt de zithoek licht, omdat je onder de stoel door de vloer blijft zien. Een Agano-vaas van travertijn op de salontafel brengt steen naast de stof. Alle uitvoeringen en het volledige advies vind je bij <a href="/products/bank-londen">Bank Londen, 3-zits in umber</a>.
+Een Mars loungestoel op metalen poten aan de open kant houdt de zithoek licht, omdat je onder de stoel door de vloer blijft zien. Een Agano-vaas van travertijn op de salontafel brengt steen naast de stof. Alle uitvoeringen en het volledige advies vind je bij Bank Londen, 3-zits in umber.
 
 ## Specificaties (metavelden `inhuys.*`)
 

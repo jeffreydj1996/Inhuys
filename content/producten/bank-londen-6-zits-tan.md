@@ -27,7 +27,7 @@ De 6-zits maakt van de Londen een bank voor een open woonkamer, waar je met het 
 Ook de 6-zits is bekleed met stof, hier in tan of in umber, net als de andere uitvoeringen van de Londen. Voor het onderhoud neem je de bank af met een vochtige, niet natte doek; gebruik geen agressieve schoonmaakmiddelen en laat de stof nooit weken. Met een zithoogte van 42 cm zit je op deze bank net zo als op de 3-zits, alleen met drie plaatsen meer.
 
 ### Combineren
-Bij een bank van deze lengte houdt een Cairo loungestoel in beige aan de korte kant van de zithoek het geheel in balans. Een eiken vloer met een groot wollen kleed onder bank en salontafel maakt van de lange lijn één zithoek. Alle uitvoeringen en het volledige advies vind je bij <a href="/products/bank-londen">Bank Londen, 3-zits in umber</a>.
+Bij een bank van deze lengte houdt een Cairo loungestoel in beige aan de korte kant van de zithoek het geheel in balans. Een eiken vloer met een groot wollen kleed onder bank en salontafel maakt van de lange lijn één zithoek. Alle uitvoeringen en het volledige advies vind je bij Bank Londen, 3-zits in umber.
 
 ## Specificaties (metavelden `inhuys.*`)
 
