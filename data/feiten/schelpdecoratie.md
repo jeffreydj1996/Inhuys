@@ -79,3 +79,28 @@ Alle drie de SKU's zijn op poletopole.nl gevonden; de dealerfase (gigameubel, hu
 - https://poletopole.nl/en/product/871974353389/h20-crab-s/ · productpagina H20 (SKU-gegevens, messingcollectie, herkomst, onderhoud) · geraadpleegd 2026-11-05
 - https://poletopole.nl/en/product/871917285815/j77-shell-tower/ · J77 (verzendtekst sitebreed, aanvullende vondst) · geraadpleegd 2026-11-05
 - https://poletopole.nl/en/product/871917285810/j83-shell-tower/ · J83 (aanvullende vondst) · geraadpleegd 2026-11-05
+
+## Aanvulling 2026-11-19 · H19 Krab L
+
+| bronhandle | titel | status | prijs | sku |
+|---|---|---|---|---|
+| `h19-krab-l` | H19 Krab L | DRAFT | € 90,00 | 871974353388 |
+
+| feit | waarde | bron | datum |
+|---|---|---|---|
+| afmetingen (h × b × d) | niet gevonden | data/raw/products-2.json; bron_ophalen sku: niet op poletopole.nl (exit 1); bron_ophalen dealer H19: 0 treffers; WebSearch site:gigameubel.nl: geen productpagina | 2026-11-19 |
+| gewicht | 2,2 kg (export: "Gewicht: 2,2 kg") | data/raw/products-2.json | 2026-11-19 |
+| materiaal | brons (export: "bronzen handgemaakte krab") | data/raw/products-2.json | 2026-11-19 |
+| kleur | niet gevonden | data/raw/products-2.json | 2026-11-19 |
+| set-inhoud | 1 krab (export; één variant) | data/raw/products-2.json | 2026-11-19 |
+| onderhoud | niet gevonden | data/raw/products-2.json | 2026-11-19 |
+| herkomst | niet gevonden (export noemt "handgemaakt", geen land van herkomst) | data/raw/products-2.json | 2026-11-19 |
+| maximale belasting | niet van toepassing | data/raw/products-2.json | 2026-11-19 |
+| levertijd (leverancier) | verzonden via een zorgvuldig geselecteerde partner; levertijd kan per item verschillen (export) | data/raw/products-2.json | 2026-11-19 |
+| garantie | niet gevonden | data/raw/products-2.json | 2026-11-19 |
+| bijzonderheden | retour: standaard retourvoorwaarden, maatwerk uitgezonderd (export) | data/raw/products-2.json | 2026-11-19 |
+
+Bronnen:
+- data/raw/products-2.json · Orderchamp-export, handle h19-krab-l (titel, prijs, SKU, gewicht, materiaal) · 2026-11-19
+- bron_ophalen sku 871974353388: niet op poletopole.nl (exit 1) · 2026-11-19
+- bron_ophalen dealer H19: 0 treffers op gigameubel.nl, huismerken.nl, homka-living.de · 2026-11-19

@@ -45,3 +45,32 @@ Opmerking: de crème-variant (871974353085) staat in de export en op de fabrikan
 - Zoekopdracht "rock" op poletopole.nl: vijf productpagina's gevonden (inclusief crème 871974353085, niet onderzocht) · geraadpleegd op 2026-11-05
 - Zoekopdracht "rocking" op poletopole.nl: 0 treffers · geraadpleegd op 2026-11-05
 - Dealerpagina's: niet nodig, alle vier SKU's staan op poletopole.nl
+
+## Aanvulling 2026-11-19 · crème
+
+| bronhandle | titel | status | prijs | sku |
+|---|---|---|---|---|
+| `rock-stoelcreme-set-van-2` | Rock stoelcrème (set van 2) | DRAFT | € 479,80 | 871974353085 |
+
+| feit | waarde | bron | datum |
+|---|---|---|---|
+| afmetingen (h × b × d) | 77 × 60 × 60 cm (fabrikant; export noemt geen maten) | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| zithoogte | 48 cm | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| zitdiepte | 43 cm; zitbreedte 45 cm; zitdikte 5 cm | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| armleuninghoogte | 74 cm; armleuningbreedte 7,5 cm; rugleuninghoogte 31,5 cm | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| gewicht | 8,8 kg (export: "Gewicht: 8,8 kg"; fabrikant: 8.8 kg, overeenkomend) | data/raw/products-3.json; https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| doos (b × d × h, gewicht) | 73 × 55,5 × 62 cm, 20,3 kg (fabrikant) | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| materiaal frame | hout (ply wood), metaal (poedercoat Q195-staal) (export: "hout, metaal, staal"; fabrikant: zelfde materialen) | data/raw/products-3.json; https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| materiaal bekleding | stof 100% polyester; materiaallijst fabrikant noemt daarnaast schuim 25 kg/m³ (plaats in de stoel niet vastgesteld) | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| kleur | Cream (fabrikant); export noemt alleen "crème" in de titel | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| set-inhoud | 2 stoelen (export: titel "set van 2"; fabrikant: doosinhoud 2) | data/raw/products-3.json; https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| onderhoud | met een vochtige (niet natte) doek schoonmaken; geen harde chemicaliën, niet laten weken (fabrikant) | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| herkomst | China (fabrikant) | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| maximale belasting | 120 kg (fabrikant, "Maximum Weight Support"; eenheid per stoel of per set niet omschreven) | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| levertijd (leverancier) | verzonden via een zorgvuldig geselecteerde partner; levertijd kan per item verschillen (export) | data/raw/products-3.json | 2026-11-19 |
+| garantie | niet gevonden | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+| bijzonderheden | montage vereist; niet stapelbaar; hoogte niet verstelbaar; brandvertragend: nee (fabrikant) | https://poletopole.nl/en/product/871974353085/rock-chair-cream/ | 2026-11-19 |
+
+Bronnen:
+- https://poletopole.nl/en/product/871974353085/rock-chair-cream/ · productpagina Rock Chair Cream (SKU 871974353085) · geraadpleegd op 2026-11-19
+- data/raw/products-3.json · Orderchamp-export, handle rock-stoelcreme-set-van-2 (titel, prijs, gewicht, materiaal, set) · 2026-11-19

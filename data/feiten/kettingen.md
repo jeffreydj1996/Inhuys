@@ -56,3 +56,28 @@ Opmerkingen bij de tabel:
 - https://poletopole.nl/en/product/871974353992/j37-small-shell-necklace/ · specificaties J37 (kleur White, variant S, doosmaten) · geraadpleegd 2026-11-05
 - https://poletopole.nl/en/products/discontinued/ · categoriepagina uitlopend; geen productlijst met deze modellen · geraadpleegd 2026-11-05
 - Zoekactie op de sitemap van poletopole.nl: "necklace" (15 treffers) en "garland" (0 treffers) · geraadpleegd 2026-11-05
+
+## Aanvulling 2026-11-19 · H1 kleine schelp ketting
+
+| bronhandle | titel | status | prijs | sku |
+|---|---|---|---|---|
+| `h1-kleine-schelp-ketting` | H1 kleine schelp ketting | DRAFT | € 39,95 | 871974353562 |
+
+| feit | waarde | bron | datum |
+|---|---|---|---|
+| afmetingen (h × b × d) | niet gevonden | data/raw/products-2.json; bron_ophalen sku: niet op poletopole.nl (exit 1); bron_ophalen dealer H1: 0 treffers; WebSearch site:gigameubel.nl: geen productpagina | 2026-11-19 |
+| gewicht | 0,50 kg (export: "Gewicht: 0,50 kg") | data/raw/products-2.json | 2026-11-19 |
+| materiaal | metaal (export: "met metaal"; handgemaakte schaalketting op een metalen standaard) | data/raw/products-2.json | 2026-11-19 |
+| kleur | niet gevonden | data/raw/products-2.json | 2026-11-19 |
+| set-inhoud | 1 schaalketting op metalen standaard (export; één variant) | data/raw/products-2.json | 2026-11-19 |
+| onderhoud | niet gevonden | data/raw/products-2.json | 2026-11-19 |
+| herkomst | niet gevonden (export noemt "handgemaakt" en "essentie van Indonesië", geen land van herkomst) | data/raw/products-2.json | 2026-11-19 |
+| maximale belasting | niet van toepassing | data/raw/products-2.json | 2026-11-19 |
+| levertijd (leverancier) | verzonden via een zorgvuldig geselecteerde partner; levertijd kan per item verschillen (export) | data/raw/products-2.json | 2026-11-19 |
+| garantie | niet gevonden | data/raw/products-2.json | 2026-11-19 |
+| bijzonderheden | retour: standaard retourvoorwaarden, maatwerk uitgezonderd (export) | data/raw/products-2.json | 2026-11-19 |
+
+Bronnen:
+- data/raw/products-2.json · Orderchamp-export, handle h1-kleine-schelp-ketting (titel, prijs, SKU, gewicht, materiaal) · 2026-11-19
+- bron_ophalen sku 871974353562: niet op poletopole.nl (exit 1) · 2026-11-19
+- bron_ophalen dealer H1: 0 treffers op gigameubel.nl, huismerken.nl, homka-living.de · 2026-11-19
