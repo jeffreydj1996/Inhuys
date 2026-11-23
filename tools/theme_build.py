@@ -262,6 +262,10 @@ dump("templates/page.collecties.json", pcol)
 # ---------------- templates/page.inspiratie.json ----------------
 pi = load_json("templates/page.inspiratie.json")
 pi["sections"]["blog_posts_hnM7z9"]["settings"].update({"subheading": "Inspiratie", "description": "Elke maand nieuwe tips en inzichten over verbouwen, inrichten en de keuzes die daarbij horen.", "button_text": "Meer artikelen", "blog": "trends", "button_link": "/blogs/trends"})
+pi["sections"]["main"].pop("disabled", None)
+pi["sections"]["image_with_text_2_bzEN9V"]["disabled"] = True
+pi["sections"]["breadcrumb_4A3C6A"]["disabled"] = True
+log("templates/page.inspiratie.json", "Inspiratie-pagina: paginasectie 'main' weer aan (toont paginatitel als enige h1 en de paginatekst page.content boven de artikelen; de breadcrumb zit in die sectie); hero-sectie met de letterlijke tekst '{{ page.content }}' en losse breadcrumb uitgeschakeld.")
 log("templates/page.inspiratie.json", "Inspiratie-pagina: ontbrekend woord in de introzin hersteld, knop 'View More' → 'Meer artikelen', artikelen uit blog Trends.")
 dump("templates/page.inspiratie.json", pi)
 
