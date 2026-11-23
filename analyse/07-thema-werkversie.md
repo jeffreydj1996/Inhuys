@@ -56,6 +56,34 @@ Datum: 26 oktober 2026 · Status: **werkversie, niet gepubliceerd**. Het live th
 |---|---|
 | `templates/product.json` | Nieuw blok 'Andere uitvoeringen' onder de korte omschrijving: leest `inhuys.hoofdproduct` en toont "Onderdeel van <titel>" met link, alleen als het hoofdproduct gepubliceerd en beschikbaar is; canonical ongewijzigd |
 
+## Aanvulling 23 november 2026 (fase B, B1 t/m B7; alleen gebouwd, nog niet geüpload)
+
+| Bestand | Wijziging |
+|---|---|
+| `config/settings_data.json` | B5: zoeksuggesties 'T-Shirt, Blue, Jacket' vervangen door Nederlandse categorieen (Eetkamerstoel, Bank, Fauteuil, Eettafel, Vaas). |
+| `sections/footer-group.json` | B5: leeftijdscheck (age-verifier-popup, Engelse tekst 'Confirm your age') uit de footer-groep verwijderd. |
+| `templates/index.json` | B5: projectenblok met plaatshouders ('[Project 1 · plaats]') uitgeschakeld (disabled) tot er echte projecten en foto's zijn; sectie blijft staan zodat de eigenaar hem later aanzet. |
+| `templates/product.json` | B4: leverdatumblok ('Verwachte levering' met vaste 14 dagen en berekende datum) vervangen door blok 'levertijd_inhuys': toont 'Levertijd: <tekst>' uit het productmetaveld inhuys.levertijd en niets als dat leeg is; geen berekende datum. De rij 'Levertijd' is uit de specificatietabel gehaald om dubbel tonen te voorkomen. |
+| `templates/product.json` | B6: tab 'Levering en retour' en FAQ 'Levering, retour en advies' gelijkgetrokken: 14 dagen bedenktijd na ontvangst, retourkosten voor de klant (pakket € 6,95, meubel € 49), maatwerk uitgezonderd, link naar /policies/refund-policy; geen 'in originele staat'; geen 'wettelijke termijn' meer zonder getal. |
+| `layout/theme.liquid` | B7: noindex voor winkelwagen en zoeken (meta robots noindex als template 'cart' of 'search' bevat); zoeken en cart blijven bereikbaar, maar komen niet in de index. |
+| `sections/image-with-text-2.liquid` | B7: de titel van de hero is nu een <h1> in plaats van <h2> (zelfde klassen, dus zelfde opmaak). Dit geeft /pages/interieuradvies ('Interieuradvies') en /pages/inspiratie een H1; op beide pagina's is de 'main'-paginasectie uitgeschakeld en staat er maar één hero aan. Er is geen page.json of andere hero-gebruiker in de kopie. |
+| `templates/collection.json` | B3: merkenslider (sectie brands-list met mooisa, jesper-home en 28 andere kapotte links) verwijderd; B5: 'Recently Viewed Products' wordt 'Recent bekeken'. |
+| `templates/collection.merk-collectie.json` | B5: 'Recently Viewed Products' wordt 'Recent bekeken'. |
+| `sections/header.liquid` | B2: Minimog-blokken Organization (met sameAs vol lege social-links) en WebSite uit de header verwijderd; alleen snippet inhuys-schema levert nog Organization/LocalBusiness en WebSite. |
+| `locales/nl.json` | B5: winkelwagenlade-knop 'Redden' (letterlijke vertaling van 'Save') wordt 'Opslaan'. |
+| `snippets/inhuys-schema.liquid` | B1: breadcrumb-JSON geldig gemaakt: de titels gaan eerst door de json-filter in een eigen variabele (t_product, t_collection, t_page, t_blog, t_article) en worden daarna aan de string toegevoegd; product-URL in de kruimel is altijd /products/<handle>. Geldt voor product, collectie, pagina en artikel. |
+| `snippets/inhuys-schema.liquid` | B2: een Organization-blok (type Organization + LocalBusiness) en een WebSite-blok; geen sameAs, want er zijn nog geen echte profielen (toevoegen zodra die er zijn). |
+
+Nog te doen buiten het thema, voor de eigenaar of de pagina-inhoud:
+
+- **Homepage-titel en -omschrijving (B7).** Het thema neemt ze uit Online Store, Voorkeuren; ze staan niet in `templates/index.json` of de config. Voorstel titel (51 tekens): `InHuys · interieuradvies en inrichting in Amsterdam`; omschrijving (136 tekens): `Gratis Flitsadvies en 3D-interieurontwerp voor je verbouwing. Meubels en decoratie bekijk je in onze showroom in Purmerend, op afspraak.`
+- **H1 op /pages/interieuradvies (B7).** Opgelost in het thema (hero-titel `Interieuradvies` is nu een H1); de pagina-inhoud hoeft niet te wijzigen.
+- **Retourtekst op de pagina Veelgestelde vragen.** `content/paginas/veelgestelde-vragen.md` (r. 41) zegt nog "in originele staat" en geen retourkosten; de pagina-inhoud valt buiten het thema en is niet aangepast.
+- **Breadcrumb op pagina en artikel (B1).** De kopie bevat geen `templates/page.json` en geen artikelsectie; de snippet bedient beide pagina-typen met de gerepareerde JSON, maar de eigen JSON-LD van de artikelsectie (`Article`) kon niet worden nagekeken.
+- **sameAs (B2).** Weggelaten; toevoegen zodra er echte profielen zijn.
+- **B4.** Het blok toont alleen iets als het metaveld `inhuys.levertijd` per product gevuld is; de eigenaar moet de waarden per merk bevestigen.
+- **Upload.** Nieuwe of gewijzigde bestanden voor `themeFilesUpsert`: zie `data/out/theme-vars-4.json` (nieuw) en de bestaande batches 1 tot en met 3.
+
 ## Opmerkingen
 
 - **Lettertype koppen.** Het voorstel noemde Cormorant Garamond als eerste keus. Die familie is niet als Shopify-fonthandle te verifiëren vanuit deze omgeving; EB Garamond (`ebgaramond_n5`, gewicht 500) staat wel in de Shopify-bibliotheek en is in de kopie ingesteld. Wil je Cormorant Garamond, dan is dat in de thema-editor een keuze van één klik onder Thema-instellingen → Typografie.
