@@ -43,6 +43,9 @@ cur["cookie_consent_allow"] = "Akkoord"; cur["cookie_consent_decline"] = "Weiger
 log("config/settings_data.json", "Placeholder-sociallinks en neplabels verwijderd (WhatsApp blijft); telefoonnummer en e-mail ingevuld; cookiebanner licht en in het Nederlands.")
 cur["popular_search_queries"] = "Eetkamerstoel, Bank, Fauteuil, Eettafel, Vaas"
 log("config/settings_data.json", "B5: zoeksuggesties 'T-Shirt, Blue, Jacket' vervangen door Nederlandse categorieen (Eetkamerstoel, Bank, Fauteuil, Eettafel, Vaas).")
+# Spoor A 23 november: demo-instellingen
+cur.update({"cart_estimate_shipping": False, "show_delivery_days": False, "use_theme_currencies": False, "theme_currencies": "EUR"})
+log("config/settings_data.json", "Spoor A: verzendindicatie in het winkelwagentje (cart_estimate_shipping) en 'bezorgdagen' (show_delivery_days) uit: ze rekenen met tarieven die de eigenaar nog niet heeft bevestigd; de checkout toont de echte verzendkosten na het adres. Valutawisselaar (use_theme_currencies, was USD | EUR | GBP | VND) uit en theme_currencies op EUR, want InHuys rekent alleen in euro.")
 dump("config/settings_data.json", sd)
 
 # ---------------- sections/header-group.json ----------------
@@ -101,7 +104,7 @@ new["projecten"] = {"type": "multiple-image-with-text", "blocks": {
     "settings": {"heading": "Projecten", "heading_size": "h3", "subheading": "Wat we maken, van plattegrond tot laatste vaas", "header_alignment": "center", "container": "container-fluid", "color_scheme": "", "column_gap": 60, "column_gap_mobile": 16, "show_pagination": False, "show_navigation": True, "autorotate": False, "padding_top": 40, "padding_bottom": 40, "custom_class": "", "animations": "inherit"}}
 new["projecten"]["disabled"] = True
 log("templates/index.json", "B5: projectenblok met plaatshouders ('[Project 1 · plaats]') uitgeschakeld (disabled) tot er echte projecten en foto's zijn; sectie blijft staan zodat de eigenaar hem later aanzet.")
-colls = [("banken", "Banken"), ("stoelen", "Stoelen"), ("fauteuils", "Fauteuils en loungestoelen"), ("barkrukken", "Barkrukken"), ("tafels", "Tafels"), ("vazen", "Vazen"), ("windlichten-en-kaarsenhouders", "Windlichten en kaarsenhouders"), ("decoratie", "Decoratie"), ("maatwerk", "Maatwerk")]
+colls = [("banken", "Banken"), ("stoelen", "Stoelen"), ("fauteuils", "Fauteuils en loungestoelen"), ("barkrukken", "Barkrukken"), ("tafels", "Tafels"), ("vazen", "Vazen"), ("windlichten-en-kaarsenhouders", "Windlichten en kaarsenhouders"), ("decoratie", "Decoratie"), ("kinderkamer", "Kinderkamer")]
 cl = copy.deepcopy(old["collection_list_tjXYY7"])
 cl["blocks"] = {f"col_{h.replace('-', '_')}": {"type": "collection_block", "settings": {"collection": h, "title": t}} for h, t in colls}
 cl["block_order"] = list(cl["blocks"].keys())
@@ -229,6 +232,13 @@ pj["sections"]["product-recommendations"]["settings"]["heading"] = "Anderen beke
 pj["order"] = ["breadcrumb", "main", "product-details-tabs", "collapsible_tabs_JndiBV", "product-recommendations", "icon_box_9UtNky", "recent-viewed-products"]
 log("templates/product.json", "Productpagina: labels in het Nederlands ('Maat', 'Op bestelling', 'Verwachte levering', verzendtekst zonder dollars); korte omschrijving onder de titel (metaveld descriptor.short_description); specificatietabel en 'Advies van InHuys' uit de inhuys-metavelden; FAQ-sectie ingeschakeld met productvragen uit metaveld inhuys.faq; 'Why Minimog?' vervangen door drie echte beloftes; 'Recently Viewed Products' → 'Recent bekeken'.")
 log("templates/product.json", "Productpagina: blok 'Andere uitvoeringen' onder de korte omschrijving; leest metaveld inhuys.hoofdproduct (product_reference) en toont 'Onderdeel van <titel>' met link, alleen als het hoofdproduct bestaat, een ander product is, gepubliceerd en beschikbaar is; anders niets. Canonical blijft ongemoeid.")
+# Spoor A 23 november: variantfoto's en levertijdzin
+pj["sections"]["main"]["settings"].update({"show_featured_media": False, "enable_variant_group_images": False})
+log("templates/product.json", "Spoor A, variantfoto's: show_featured_media uit (de galerij springt bij het laden naar de featured_media van de gekozen variant in plaats van naar de eerste foto) en enable_variant_group_images uit (geen groepering op alt-tekst of foxecom-metaveld; de koppeling loopt via de featured_media van elke variant, ook als Orderchamp de alt-tekst terugzet).")
+LEVERZIN = "{% if product.metafields.inhuys.levertijd != blank %}De levertijd staat bij het product. {% endif %}"
+ct["blocks"]["faq_algemeen"] = {"type": "liquid", "settings": {"header": "Levering, retour en advies", "custom_liquid": '<div class="rte"><p>' + LEVERZIN + RETOUR + " Meer antwoorden vind je op de pagina Veelgestelde vragen.</p></div>"}}
+pj["sections"]["product-details-tabs"]["blocks"]["tab"] = {"type": "liquid", "settings": {"header": "Levering en retour", "custom_liquid": '<div class="rte"><h3>Levering & retour</h3><p>Dit item wordt geleverd via onze merkpartner. ' + LEVERZIN + RETOUR + "</p></div>"}}
+log("templates/product.json", "Spoor A, levertijd: de zin 'De levertijd staat bij het product zodra die bekend is' staat niet meer vast in de tab 'Levering en retour' en de FAQ. Is het metaveld inhuys.levertijd gevuld, dan staat er 'De levertijd staat bij het product.', anders niets. Tab en FAQ-blok zijn daarvoor liquid-blokken geworden.")
 dump("templates/product.json", pj)
 
 # ---------------- templates/page.contact.json ----------------
@@ -243,7 +253,7 @@ dump("templates/page.contact.json", pc)
 pcol = load_json("templates/page.collecties.json")
 pcol["sections"]["custom_content_eJNxbn"]["disabled"] = True
 cl2 = pcol["sections"]["collection_list_YpVbzr"]
-cl2["blocks"] = {f"col_{h.replace('-', '_')}": {"type": "collection_block", "settings": {"collection": h, "title": t}} for h, t in colls + [("kinderkamer", "Kinderkamer")]}
+cl2["blocks"] = {f"col_{h.replace('-', '_')}": {"type": "collection_block", "settings": {"collection": h, "title": t}} for h, t in colls}
 cl2["block_order"] = list(cl2["blocks"].keys())
 cl2["settings"].update({"heading": "Collectie", "text_alignment": "center", "show_product_count": False})
 log("templates/page.collecties.json", "Collecties-pagina: vier 'Example collection title'-tegels vervangen door de tien categoriecollecties; blok met de plaatshoudertekst 'lijst met collecties' uitgeschakeld.")
@@ -400,16 +410,117 @@ log("snippets/inhuys-schema.liquid", "B2: een Organization-blok (type Organizati
 log("snippets/inhuys-schema.liquid", "Nieuw: LocalBusiness-markup (naam, tagline als alternateName, adres showroom, telefoon, werkgebied), WebSite met SearchAction en BreadcrumbList voor product-, collectie-, pagina- en artikelpagina's.")
 dump("snippets/inhuys-schema.liquid", SCHEMA, as_json=False)
 
+# ---------------- Spoor A 23 november ----------------
+# slider: h1 voor de eerste slide op de homepage
+sl_src = open(f"{SRC}/sections/slider.liquid", encoding="utf-8").read()
+h2_old = '<h2 class="m-richtext__title m-slide__title m:text-{{ text_color }} {{ heading_text_size }}">\n                          {{ block.settings.title }}\n                        </h2>'
+assert sl_src.count(h2_old) == 1
+h2_new = "{%- assign slide_h = 'h2' -%}{%- if template.name == 'index' and forloop.first -%}{%- assign slide_h = 'h1' -%}{%- endif -%}\n                        <{{ slide_h }} class=\"m-richtext__title m-slide__title m:text-{{ text_color }} {{ heading_text_size }}\">\n                          {{ block.settings.title }}\n                        </{{ slide_h }}>"
+log("sections/slider.liquid", "Spoor A: de titel van de eerste slide is op de homepage een <h1> (elders blijft het <h2>); de homepage had geen h1.")
+dump("sections/slider.liquid", sl_src.replace(h2_old, h2_new), as_json=False)
+
+# collection-card: tegel valt terug op collectiebeeld
+cc_src = open(f"{SRC}/snippets/collection-card.liquid", encoding="utf-8").read()
+cc_old = "{%- liquid\n  assign aspect_ratio = image.aspect_ratio\n"
+assert cc_src.count(cc_old) == 1
+cc_new = "{%- liquid\n  if image == blank\n    assign image = collection.image\n  endif\n  if image == blank\n    assign image = collection.products.first.featured_image\n  endif\n  assign aspect_ratio = image.aspect_ratio\n"
+log("snippets/collection-card.liquid", "Spoor A: een collectietegel zonder eigen beeld toont het collectiebeeld, en anders de hoofdfoto van het eerste product in de collectie, in plaats van de grijze plaatshouder. Het aria-label 'collection' is 'collectie'. De homepagetegels (collection-list) hadden alleen een eigen tegelbeeld en toonden daarom altijd de plaatshouder; ook de kaarten op /collections en de collectiepagina profiteren ervan.")
+cc_out = cc_src.replace(cc_old, cc_new).replace('default: "collection"  }}', 'default: "collectie"  }}')
+assert cc_out.count('default: "collectie"  }}') == 4
+dump("snippets/collection-card.liquid", cc_out, as_json=False)
+
+# header-logo: het logo is geen h1 meer (de homepage krijgt de h1 van de hero)
+hl = open(f"{SRC}/snippets/header-logo.liquid", encoding="utf-8").read()
+hl_open = "{% if request.page_type == 'index' and is_in_search != true %}\n<h1 class=\"{{ class | strip_newlines }}\">\n{% else %}\n<div class=\"{{ class | strip_newlines }}\">\n{% endif %}"
+hl_close = "{% if request.page_type == 'index' and is_in_search != true %}\n</h1>\n{% else %}\n</div>\n{% endif %}"
+assert hl.count(hl_open) == 1 and hl.count(hl_close) == 1
+log("snippets/header-logo.liquid", "Spoor A: het logo staat op de homepage niet langer in een <h1> maar in een <div> (alleen met een afbeelding als inhoud, dus een h1 zonder tekst); de homepage heeft nu precies een h1: de titel van de hero.")
+dump("snippets/header-logo.liquid", hl.replace(hl_open, '<div class="{{ class | strip_newlines }}">').replace(hl_close, "</div>"), as_json=False)
+
+# /collections
+lc = load_json("templates/list-collections.json")
+lcs = lc["sections"]["main"]["settings"]
+lcs.update({"title": "Collectie", "description": "<p>Van banken en stoelen tot vazen en kinderkamer. Kies een categorie en bekijk wat InHuys voor je heeft geselecteerd. Weet je niet waar je moet beginnen? Plan een adviesgesprek.</p>", "display_type": "selected", "show_product_count": False, "count_inline_title": False})
+lc["sections"]["main"]["blocks"] = {f"col_{h.replace('-', '_')}": {"type": "collection_item", "settings": {"collection": h}} for h, t in colls}
+lc["sections"]["main"]["block_order"] = list(lc["sections"]["main"]["blocks"].keys())
+log("templates/list-collections.json", "Spoor A: /collections heeft kop 'Collectie' en een Nederlandse intro (de demotekst over garderobe is weg) en toont alleen de negen categoriecollecties (banken, stoelen, fauteuils, barkrukken, tafels, vazen, windlichten-en-kaarsenhouders, decoratie, kinderkamer) in plaats van alle collecties, zonder aantal producten.")
+dump("templates/list-collections.json", lc)
+
+# winkelwagen: 'Recently Viewed Products'
+ct_ = load_json("templates/cart.json")
+ct_["sections"]["recent-viewed-products"]["settings"]["heading"] = "Recent bekeken"
+log("templates/cart.json", "Spoor A: koptekst van 'Recently Viewed Products' op de winkelwagenpagina wordt 'Recent bekeken' (de sectie nam de Engelse standaardtekst uit het schema over).")
+dump("templates/cart.json", ct_)
+
+# blog
+bj = load_json("templates/blog.json")
+for _sid, _sec in bj["sections"].items():
+    st = _sec.get("settings", {})
+    if st.get("heading") == "Blog posts": st["heading"] = "Inspiratie"
+    if st.get("button_text") == "View More": st["button_text"] = "Meer artikelen"
+    for _b in _sec.get("blocks", {}).values():
+        _t = _b.get("settings", {}).get("title")
+        if _t in ("Categories", "Recent Post", "Tags"): _b["settings"]["title"] = {"Categories": "Categorieën", "Recent Post": "Recente artikelen", "Tags": "Tags"}[_t]
+log("templates/blog.json", "Spoor A: blogoverzicht: kop 'Blog posts' wordt 'Inspiratie', knop 'View More' wordt 'Meer artikelen' en de zijbalkkoppen 'Categories' en 'Recent Post' worden 'Categorieën' en 'Recente artikelen'.")
+dump("templates/blog.json", bj)
+
+# cookiebanner op mobiel compacter
+cb = open(f"{SRC}/snippets/cookie-banner.liquid", encoding="utf-8").read()
+cb_css = "{{ 'cookie-banner.css' | asset_url | stylesheet_tag }}\n<style>\n@media (max-width: 767px) {\n  .m-cookie-banner { font-size: 13px; line-height: 1.4; }\n  .m-cookie-banner--bottom { padding: 0.75rem 1rem; }\n  .m-cookie-banner--bottom .m-cookie-banner__message { margin-bottom: 0.5rem; }\n  .m-cookie-banner__learn-more { padding: 0; }\n  .m-cookie-banner__buttons { width: 100%; }\n  .m-cookie-banner__buttons > button { flex: 1 1 0; font-size: 13px; padding: 0.5em 0.6em; }\n}\n</style>"
+cb_old = "{{ 'cookie-banner.css' | asset_url | stylesheet_tag }}"
+assert cb.count(cb_old) == 1
+log("snippets/cookie-banner.liquid", "Spoor A: cookiebanner op mobiel compacter: kleinere tekst (13 px), minder vulling, de twee knoppen naast elkaar over de volle breedte.")
+dump("snippets/cookie-banner.liquid", cb.replace(cb_old, cb_css), as_json=False)
+
+# locale: u-vorm, Engels en vertaalfouten
+loc_txt = open(f"{OUT}/locales/nl.json", encoding="utf-8").read()
+_m = re.match(r"^(/\*.*?\*/\s*)?(.*)$", loc_txt, flags=re.S)
+loc_head, loc_obj = (_m.group(1) or ""), json.loads(_m.group(2))
+def _set(path, val):
+    d = loc_obj
+    for k in path.split(".")[:-1]: d = d[k]
+    assert path.split(".")[-1] in d, path
+    d[path.split(".")[-1]] = val
+LOC = {
+ "customer.register.title": "Account aanmaken",
+ "customer.account.dashboard": "Overzicht",
+ "customer.register.description": "Maak een account aan om je bestellingen en gegevens op één plek te zien.",
+ "customer.recover_password.subtext": "We sturen je een e-mail om je wachtwoord opnieuw in te stellen.",
+ "homepage.onboarding.blog_tag": "InHuys",
+ "products.product.volume_pricing.each": "{{ money }}/st",
+ "products.product.volume_pricing.each_html": "{{ money }}/st",
+ "general.notifications.required_field": "Vul alle verplichte velden in (*) voordat je het product aan de winkelwagen toevoegt.",
+ "sections.quick_order_list.remove_all_items_confirmation": "Alle {{ quantity }} items uit je winkelwagen verwijderen?",
+ "cart.general.gift_wrapping_html": "Voor {{ price }} verpakken we de producten in deze bestelling.",
+ "cart.general.cart_error": "Er is een fout opgetreden bij het bijwerken van je winkelwagen. Probeer het opnieuw.",
+ "products.product.xr_button": "Bekijk in je ruimte",
+ "products.product.xr_button_label": "Bekijk in je ruimte, laadt het product in een augmented reality-venster",
+ "products.product.select_variant": "Kies een variant voordat je het product aan de winkelwagen toevoegt.",
+ "products.product.inventory_low_quantity_html": "Nog maar <span class =\"m-product-inventory__quantity\"> {{ quantity }} </span> beschikbaar",
+ "products.product.quantity_in_cart_html": "<span class =\"quantity-cart\"> {{ quantity }} </span> in je winkelwagen",
+ "products.product.zoom_in": "Inzoomen",
+ "products.product.product_quantity": "Aantal",
+ "general.accessibility.close": "Sluiten",
+ "sections.video.play": "Afspelen",
+ "layout.back": "Terug",
+}
+for _k, _v in LOC.items(): _set(_k, _v)
+log("locales/nl.json", "Spoor A: u-vorm vervangen door je-vorm en Engelse of foute vertalingen hersteld: 'Register' (nu 'Account aanmaken'), 'Dashboard' ('Overzicht'), demotekst over 'uitverkoop en nieuwkomers' bij registreren, 'Links' voor 'nog beschikbaar', 'in kar', 'In zoomen', 'Product kwantiteit', '/ea' ('/st'), 'Dichtbij' ('Sluiten'), 'Toneelstuk' ('Afspelen'), 'Rug' ('Terug'), 'uw' en 'u' in meldingen, XR-knop en winkelwagenteksten.")
+dump("locales/nl.json", loc_head + json.dumps(loc_obj, ensure_ascii=False, indent=2) + "\n", as_json=False)
+
 # ---------------- batches ----------------
 files = {}
 for rel in ["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid", "snippets/inhuys-uitvoeringen.liquid",
             "templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json", "templates/page.interieuradvies.json", "templates/product.json",
-            "sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json"]:
+            "sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json",
+            "sections/slider.liquid", "snippets/collection-card.liquid", "snippets/header-logo.liquid", "templates/list-collections.json", "templates/cart.json", "templates/blog.json", "snippets/cookie-banner.liquid"]:
     files[rel] = open(f"{OUT}/{rel}", encoding="utf-8").read()
 batches = [["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid"],
            ["templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json"],
            ["snippets/inhuys-uitvoeringen.liquid", "templates/page.interieuradvies.json", "templates/product.json"],
-           ["sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json"]]
+           ["sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json"],
+           ["sections/slider.liquid", "snippets/collection-card.liquid", "snippets/header-logo.liquid"],
+           ["templates/list-collections.json", "templates/cart.json", "templates/blog.json", "snippets/cookie-banner.liquid"]]
 for i, b in enumerate(batches, 1):
     v = {"files": [{"filename": f, "body": {"type": "TEXT", "value": files[f]}} for f in b]}
     json.dump(v, open(f"{OUT}/../theme-vars-{i}.json", "w", encoding="utf-8"), ensure_ascii=False)
