@@ -92,3 +92,14 @@ Nog te doen buiten het thema, voor de eigenaar of de pagina-inhoud:
 - **Controle.** Alle `themeFilesUpsert`-aanroepen gaven geen `userErrors`; de kopie heeft rol UNPUBLISHED; het live thema heeft dezelfde `updatedAt` als in de momentopname vóór fase 2 (zie `analyse/04-voorstel-fase-2.md`, statusblok).
 
 - **Kaarten Interieuradvies en merkcollectie (23 november 2026).** `templates/page.interieuradvies.json`: het veld `button_link` staat niet in het schema van `text_card_with_image` (alleen `link`); beide kaarten (3D-ontwerp, Flitsadvies) gebruiken nu `link` naar `/pages/interieuradvies#shopify-section-17709804707992f0a4` (het formulier). `templates/collection.merk-collectie.json`: bannerblok "SALE UP TO 25% OFF" verwijderd. Beide bestanden met `themeFilesUpsert` naar de kopie (rol voor en na UNPUBLISHED, geen `userErrors`) en teruggelezen; de `link`-waarden staan erin.
+
+- **Uitvoeringen per modelgroep (23 november 2026).** Nieuw snippet `snippets/inhuys-uitvoeringen.liquid` met een vaste lijst modelgroepen in Liquid (geen metavelden), gerenderd door het blok `uitvoeringen_inhuys` in `templates/product.json` (de oude regel 'Onderdeel van <hoofdproduct>' blijft eronder staan). Kleuren blijven varianten; andere opstellingen of maten zijn knoppen naar `/products/<handle>`. De knop van het huidige product is gevuld; andere knoppen verschijnen alleen als `all_products[handle]` bestaat en `available` is; de rij verschijnt bij minstens twee knoppen. Groepen (alleen ACTIEVE producten):
+  - Bank Londen: `bank-londen-3-zits-ottoman-umber` (3-zits met ottoman), `bank-londen-6-zits-tan` (6-zits), `bank-londen-6-zits-ottoman` (6-zits met ottoman)
+  - Bank New York: `bank-new-york` (2,5-zits lounge), `bank-new-york-4-zits-lounge-beige`, `bank-new-york-4-zits-lounge-coco`
+  - Cloud: `cloud-kitchen-barstoel-creme` (Keukenbarkruk), `cloud-barstoel-creme` (Barkruk), `cloud-stoel-creme-set-van-2` (Eetkamerstoel)
+  - Japandi: `eetkamerstoel-japandi` (Eetkamerstoel), `barkruk-japandi-tan-set-van-2` (Barkruk); Sake, Osaka en Fuji zijn eigen modellen en staan niet in een groep
+  - Jumpspot: `springplek-binnen`, `jumpspot-buiten`, `hoes-jumpspot-binnen`, `hoes-jumpspot-buiten`
+  - Glijbanen: `holzrutsche-binnen` (binnen), `glijbaan-white-dolphin` (buiten)
+  - Octo-kettingen: `octo-ketting-zwart-wit-s` (Maat S), `octo-ketting-black-tiger` (Maat L)
+  - Schelpenkettingen: `schelpenketting-j63`, `-j69`, `-j47`, `-j65`, `-j66`, `-j37`, `-h1` (label = code)
+  Avena, Mera en Nox zijn aparte modellen en staan er niet in. Groep wijzigen: `UITV_GROEPEN` in `tools/theme_build.py`.

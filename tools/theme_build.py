@@ -153,10 +153,53 @@ UITVOERINGEN_LIQUID = """{%- assign hoofd = product.metafields.inhuys.hoofdprodu
 <style>.inhuys-uitvoeringen{margin-top:16px;font-size:14px}.inhuys-uitvoeringen h3{margin-bottom:6px}.inhuys-uitvoeringen p{margin-bottom:0}.inhuys-uitvoeringen a{text-decoration:underline}</style>
 <div class="inhuys-uitvoeringen"><h3 class="h5">Andere uitvoeringen</h3><p>Onderdeel van <a href="{{ hoofd.url }}">{{ hoofd.title }}</a></p></div>
 {%- endif -%}"""
+UITV_GROEPEN = [
+    [("bank-londen-3-zits-ottoman-umber", "3-zits met ottoman"), ("bank-londen-6-zits-tan", "6-zits"), ("bank-londen-6-zits-ottoman", "6-zits met ottoman")],
+    [("bank-new-york", "2,5-zits lounge"), ("bank-new-york-4-zits-lounge-beige", "4-zits lounge beige"), ("bank-new-york-4-zits-lounge-coco", "4-zits lounge coco")],
+    [("cloud-kitchen-barstoel-creme", "Keukenbarkruk"), ("cloud-barstoel-creme", "Barkruk"), ("cloud-stoel-creme-set-van-2", "Eetkamerstoel")],
+    [("eetkamerstoel-japandi", "Eetkamerstoel"), ("barkruk-japandi-tan-set-van-2", "Barkruk")],
+    [("springplek-binnen", "Jumpspot binnen"), ("jumpspot-buiten", "Jumpspot buiten"), ("hoes-jumpspot-binnen", "Hoes binnen"), ("hoes-jumpspot-buiten", "Hoes buiten")],
+    [("holzrutsche-binnen", "Glijbaan binnen"), ("glijbaan-white-dolphin", "Glijbaan buiten")],
+    [("octo-ketting-zwart-wit-s", "Maat S"), ("octo-ketting-black-tiger", "Maat L")],
+    [("schelpenketting-j63", "J63"), ("schelpenketting-j69", "J69"), ("schelpenketting-j47", "J47"), ("schelpenketting-j65", "J65"), ("schelpenketting-j66", "J66"), ("schelpenketting-j37", "J37"), ("schelpenketting-h1", "H1")],
+]
+UITV_LIQUID_TPL = """{%- comment -%} Knoppen naar andere opstellingen en maten van hetzelfde model; kleuren blijven varianten. Alleen beschikbare, gepubliceerde producten. {%- endcomment -%}
+{%- assign groepen = "@@GROEPEN@@" | split: ";" -%}
+{%- assign zoek = "|" | append: product.handle | append: "=" -%}
+{%- for groep in groepen -%}
+  {%- if groep contains zoek -%}
+    {%- assign items = groep | split: "|" -%}
+    {%- capture knoppen -%}
+      {%- assign n = 0 -%}
+      {%- for item in items -%}
+        {%- if item != blank -%}
+          {%- assign dl = item | split: "=" -%}
+          {%- assign h = dl[0] -%}
+          {%- if h == product.handle -%}
+            <span class="inhuys-uitv-knop is-actief" aria-current="true">{{ dl[1] }}</span>{%- assign n = n | plus: 1 -%}
+          {%- else -%}
+            {%- assign p = all_products[h] -%}
+            {%- if p != blank and p.available -%}<a class="inhuys-uitv-knop" href="{{ p.url | within: collection | default: p.url }}">{{ dl[1] }}</a>{%- assign n = n | plus: 1 -%}{%- endif -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endcapture -%}
+    {%- if n > 1 -%}
+<style>.inhuys-uitv{margin-top:16px;font-size:14px}.inhuys-uitv h3{margin-bottom:8px}.inhuys-uitv-rij{display:flex;flex-wrap:wrap;gap:8px}.inhuys-uitv-knop{display:inline-block;padding:6px 14px;border:1px solid #695b4d;border-radius:0;color:#695b4d;text-decoration:none;line-height:1.3}a.inhuys-uitv-knop:hover{background:#dfd5c7}.inhuys-uitv-knop.is-actief{background:#695b4d;color:#fff}</style>
+<div class="inhuys-uitv"><h3 class="h5">Andere uitvoeringen</h3><div class="inhuys-uitv-rij">{{ knoppen }}</div></div>
+    {%- endif -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}"""
+UITV_LIQUID = UITV_LIQUID_TPL.replace("@@GROEPEN@@", ";".join("|" + "|".join(f"{h}={l}" for h, l in g) for g in UITV_GROEPEN))
+UITV_LIQUID = UITV_LIQUID.replace("{{ p.url | within: collection | default: p.url }}", "/products/{{ h }}")
 main["blocks"]["short_description_inhuys"] = {"type": "short_description", "settings": {}}
 main["blocks"]["specificaties_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": SPECS_LIQUID}}
 main["blocks"]["advies_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": ADVIES_LIQUID}}
-main["blocks"]["uitvoeringen_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": UITVOERINGEN_LIQUID}}
+main["blocks"]["uitvoeringen_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": "{% render 'inhuys-uitvoeringen' %}\n" + UITVOERINGEN_LIQUID}}
+dump("snippets/inhuys-uitvoeringen.liquid", UITV_LIQUID, as_json=False)
+log("snippets/inhuys-uitvoeringen.liquid", "Nieuw: rij knoppen 'Andere uitvoeringen' voor modelgroepen met een vaste lijst {handle, label} in Liquid (geen metavelden): bank Londen, bank New York, Cloud, Japandi, Jumpspot met hoezen, glijbanen, octo-kettingen, schelpenkettingen. De knop van het huidige product is gevuld; de andere linken naar /products/<handle> en verschijnen alleen als all_products[handle] bestaat en beschikbaar is; de rij verschijnt bij minstens twee knoppen. Kleuren blijven varianten.")
+log("templates/product.json", "Blok 'uitvoeringen_inhuys' rendert eerst snippet inhuys-uitvoeringen (modelgroepen) en daarna de bestaande 'Onderdeel van <hoofdproduct>'-regel.")
 main["block_order"] = ["badge_ChqgGj", "title", "short_description_inhuys", "uitvoeringen_inhuys", "price", "variant_picker", "ai_room_preview_dygHXd", "inventory_status_wbzGXC", "buy_buttons", "shipping_VBJFtx", "trust_badge_NyBMd4", "description_d6MgGK", "specificaties_inhuys", "advies_inhuys"]
 RETOUR = "Je hebt 14 dagen bedenktijd na ontvangst. Retourneren kost je € 6,95 voor een pakket en € 49 voor een meubel; maatwerk is uitgezonderd. Alle voorwaarden staan in het <a href='/policies/refund-policy'>retourbeleid</a>."
 LEVERTIJD_LIQUID = """{%- assign levertijd = product.metafields.inhuys.levertijd -%}
@@ -359,13 +402,13 @@ dump("snippets/inhuys-schema.liquid", SCHEMA, as_json=False)
 
 # ---------------- batches ----------------
 files = {}
-for rel in ["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid",
+for rel in ["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid", "snippets/inhuys-uitvoeringen.liquid",
             "templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json", "templates/page.interieuradvies.json", "templates/product.json",
             "sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json"]:
     files[rel] = open(f"{OUT}/{rel}", encoding="utf-8").read()
 batches = [["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid"],
            ["templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json"],
-           ["templates/page.interieuradvies.json", "templates/product.json"],
+           ["snippets/inhuys-uitvoeringen.liquid", "templates/page.interieuradvies.json", "templates/product.json"],
            ["sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json"]]
 for i, b in enumerate(batches, 1):
     v = {"files": [{"filename": f, "body": {"type": "TEXT", "value": files[f]}} for f in b]}
