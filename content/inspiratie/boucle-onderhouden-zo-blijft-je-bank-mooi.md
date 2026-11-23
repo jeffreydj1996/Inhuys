@@ -1,11 +1,11 @@
 # Boucle onderhouden: zo blijft je bank of stoel jaren mooi
 
-Handle: `/blogs/trends/boucle-onderhouden-zo-blijft-je-bank-mooi` · Status: **concept** (niet gepubliceerd) in blog Trends · Auteur: Sylvana, InHuys · 506 woorden
+Handle: `/blogs/trends/boucle-onderhouden-zo-blijft-je-bank-mooi` · Status: **concept** (niet gepubliceerd) in blog Trends · Auteur: Sylvana, InHuys · 484 woorden
 
 Meta-titel (52): Boucle onderhouden · zo blijft je bank mooi · InHuys  
 Samenvatting / meta-description: Boucle is zacht en sterk, maar vraagt een andere aanpak dan een gladde stof. Dit is wat wel en niet werkt, uit de praktijk van onze inrichtingen.
 
-Interne links in het artikel (gezet 23 november 2026, 4): `/collections/banken`, `/products/cloud-stoel-creme-set-van-2`, `/pages/showroom`, `/pages/contact`. Geen link op "Bank New York in zand": de boucle-uitvoeringen zijn concept en het live product `bank-new-york` is beige of coco.
+Interne links in het artikel (gezet 23 november 2026, 4): `/collections/banken`, `/pages/interieuradvies`, `/pages/showroom`, `/pages/contact`. Geen productlink: geen enkel live product is boucle (besluit eigenaar 23 november 2026); de boucle-uitvoeringen van Bank New York en Cairo zijn concept, de Cloud is van polyester.
 
 ## Wat boucle is en waarom het zo lekker zit
 
@@ -37,8 +37,8 @@ Boucle verkleurt licht in direct zonlicht, net als de meeste stoffen. Staat de b
 
 Schud de kussens elke week op. Een bank met schuim en vezelvulling blijft dan diep en veerkrachtig, ook na jaren.
 
-## Welke boucle wij gebruiken
+## Boucle bij InHuys
 
-In [onze collectie](/collections/banken) staat boucle onder meer op de Bank New York in zand en op de [Cloud-serie](/products/cloud-stoel-creme-set-van-2). De weefstof die Pole To Pole gebruikt is dichtgeweven en stevig; met het onderhoud hierboven gaat hij lang mee. Twijfel je of boucle bij je huishouden past, bijvoorbeeld met jonge kinderen of huisdieren, dan adviseren we de gladde weefstof in beige of coco. Die is er in dezelfde modellen.
+Boucle staat op dit moment niet in ons assortiment. Wil je toch een bank of stoel in boucle, dan denken we met je mee via [interieuradvies](/pages/interieuradvies). Twijfel je of boucle bij je huishouden past, bijvoorbeeld met jonge kinderen of huisdieren, bekijk dan de banken in [onze collectie](/collections/banken).
 
 Wil je de stoffen in het echt zien en voelen? In de [showroom in Purmerend](/pages/showroom) liggen alle stalen. Maak een afspraak via de [contactpagina](/pages/contact).
