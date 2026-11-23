@@ -13,6 +13,7 @@ def dump(rel, data, as_json=True):
 LOG = []
 def log(f, what): LOG.append((f, what))
 
+ANCHOR_URL = "/pages/interieuradvies#shopify-section-17709804707992f0a4"
 ANCHOR = "#shopify-section-17709804707992f0a4"  # formulier-sectie op de Interieuradvies-pagina
 TAGLINE = "ontwerp, advies en inrichting"
 
@@ -214,8 +215,9 @@ dump("templates/page.inspiratie.json", pi)
 # ---------------- templates/page.interieuradvies.json ----------------
 pa = load_json("templates/page.interieuradvies.json")
 cards = pa["sections"]["custom_content_rVw6MQ"]["blocks"]
-cards["text_card_with_image_UQL9Jn"]["settings"].update({"link": "/pages/werkwijze", "title": "<strong>3D-interieurontwerp compleet</strong>", "text": "<p>Prijs op aanvraag; het bedrag verrekenen we bij aankoop van de inrichting via InHuys.</p><h4>Opmeting en plattegrond</h4><p>Indeling, looproutes en de plek van elk meubel.</p><h4>Ontwerp in 3D</h4><p>Je ziet hoe de ruimte wordt voordat er iets besteld is.</p><h4>Meubelvoorstel en moodboard</h4><p>Passend bij je wensen en budget, met materiaal- en kleuradvies.</p>", "button_label": "Vraag het 3D-ontwerp aan", "button_link": ANCHOR})
-cards["text_card_with_image_B87UDz"]["settings"].update({"link": "/pages/werkwijze", "title": "<strong>Flitsadvies</strong>", "text": "<p>Gratis. Online of in de showroom in Purmerend, ongeveer een uur.</p><h4>Eén vraag, direct antwoord</h4><p>Stijl, materiaal, kleur of een meubel dat niet wil passen.</p><h4>2D-vloerplan als dat helpt</h4><p>Een basisplattegrond om een nieuwe indeling te zien.</p>", "button_label": "Plan een Flitsadvies", "button_link": ANCHOR})
+cards["text_card_with_image_UQL9Jn"]["settings"].update({"link": ANCHOR_URL, "title": "<strong>3D-interieurontwerp compleet</strong>", "text": "<p>Prijs op aanvraag; het bedrag verrekenen we bij aankoop van de inrichting via InHuys.</p><h4>Opmeting en plattegrond</h4><p>Indeling, looproutes en de plek van elk meubel.</p><h4>Ontwerp in 3D</h4><p>Je ziet hoe de ruimte wordt voordat er iets besteld is.</p><h4>Meubelvoorstel en moodboard</h4><p>Passend bij je wensen en budget, met materiaal- en kleuradvies.</p>", "button_label": "Vraag het 3D-ontwerp aan", })
+cards["text_card_with_image_B87UDz"]["settings"].update({"link": ANCHOR_URL, "title": "<strong>Flitsadvies</strong>", "text": "<p>Gratis. Online of in de showroom in Purmerend, ongeveer een uur.</p><h4>Eén vraag, direct antwoord</h4><p>Stijl, materiaal, kleur of een meubel dat niet wil passen.</p><h4>2D-vloerplan als dat helpt</h4><p>Een basisplattegrond om een nieuwe indeling te zien.</p>", "button_label": "Plan een Flitsadvies"})
+log("templates/page.interieuradvies.json", "Kaarten 3D-ontwerp en Flitsadvies: veld button_link (niet in schema text_card_with_image) vervangen door het bestaande veld link naar het formulier op /pages/interieuradvies.")
 pa["sections"]["rich_text_rWADei"]["blocks"]["text_" + list(pa["sections"]["rich_text_rWADei"]["blocks"].keys())[0].split("_", 1)[1]] if False else None
 for bid, b in pa["sections"]["rich_text_rWADei"]["blocks"].items():
     if b["type"] == "text": b["settings"]["text"] = "<h3><em>Kies de vorm die bij je vraag past</em></h3>"
@@ -253,6 +255,11 @@ log("templates/collection.json", "B3: merkenslider (sectie brands-list met moois
 dump("templates/collection.json", cj)
 cm = load_json("templates/collection.merk-collectie.json")
 cm["sections"]["recent-viewed"]["settings"]["heading"] = "Recent bekeken"
+for _sid, _sec in cm["sections"].items():
+    for _bid, _b in list(_sec.get("blocks", {}).items()):
+        if _b.get("settings", {}).get("title") == "SALE UP TO 25% OFF":
+            del _sec["blocks"][_bid]; _sec["block_order"] = [x for x in _sec.get("block_order", []) if x != _bid]
+            log("templates/collection.merk-collectie.json", "Bannerblok 'SALE UP TO 25% OFF' (banner_promotion) verwijderd.")
 log("templates/collection.merk-collectie.json", "B5: 'Recently Viewed Products' wordt 'Recent bekeken'.")
 dump("templates/collection.merk-collectie.json", cm)
 

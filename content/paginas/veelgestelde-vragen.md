@@ -38,7 +38,7 @@ Die staat bij elk product. Stoelen en accessoires zijn meestal binnen twee tot d
 Meubels worden geleverd door de merkpartner of een transporteur die wij inschakelen. Bij een inrichting via InHuys zijn we bij de levering aanwezig en zetten we alles op zijn plek.
 
 **Kan ik retourneren?**  
-Ja, binnen de wettelijke termijn van veertien dagen na ontvangst, in originele staat. Maatwerk en producten die speciaal voor jou zijn gemaakt, zijn uitgesloten. De volledige voorwaarden staan in het retourbeleid.
+Ja, je hebt veertien dagen bedenktijd na ontvangst. De retourkosten zijn voor jou: € 6,95 voor een pakket en € 49 voor een meubel. Maatwerk en producten die speciaal voor jou zijn gemaakt, zijn uitgesloten. De volledige voorwaarden staan in het [retourbeleid](/policies/refund-policy).
 
 **Hoe kan ik betalen?**  
 Via iDEAL, creditcard en de andere betaalmethoden in de webshop. Bij een inrichting via InHuys ontvang je een offerte en factuur.
