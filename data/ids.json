@@ -1,5 +1,5 @@
 {
-  "_uitleg": "Alle Shopify-ID's van concepten die in fase 2 zijn aangemaakt. tools/guard_shopify.py staat mutaties alleen toe op deze ID's (plus nieuwe objecten). Bijwerken via tools/status.py of met de hand na elke aanmaak. bestanden_eigen bevat ook de 39 Orderchamp-beelden met lege alt die alleen bij hun eigen product staan (stap 7, 23 november 2026), zodat ze een Nederlandse alt krijgen.",
+  "_uitleg": "Alle Shopify-ID's van concepten die in fase 2 zijn aangemaakt. tools/guard_shopify.py staat mutaties alleen toe op deze ID's (plus nieuwe objecten). Bijwerken via tools/status.py of met de hand na elke aanmaak. bestanden_eigen bevat ook de 39 Orderchamp-beelden met lege alt die alleen bij hun eigen product staan (stap 7, 23 november 2026), zodat ze een Nederlandse alt krijgen. menu_items: de items van de concept-menu's onder 'menus' (momentopname 23 november 2026), zodat menuUpdate ze ongewijzigd kan meegeven.",
   "thema_kopie": "gid://shopify/OnlineStoreTheme/210233098579",
   "live_niet_aanraken": {
     "thema": "gid://shopify/OnlineStoreTheme/200751743315",
@@ -743,5 +743,25 @@
     "gid://shopify/Product/11031555014995",
     "gid://shopify/Product/11031555080531",
     "gid://shopify/Product/11031555244371"
+  ],
+  "menu_items": [
+    "gid://shopify/MenuItem/866914926931",
+    "gid://shopify/MenuItem/866914959699",
+    "gid://shopify/MenuItem/866914992467",
+    "gid://shopify/MenuItem/866915025235",
+    "gid://shopify/MenuItem/866915058003",
+    "gid://shopify/MenuItem/866915090771",
+    "gid://shopify/MenuItem/866915123539",
+    "gid://shopify/MenuItem/866915156307",
+    "gid://shopify/MenuItem/866915189075",
+    "gid://shopify/MenuItem/866915221843",
+    "gid://shopify/MenuItem/866915254611",
+    "gid://shopify/MenuItem/866915287379",
+    "gid://shopify/MenuItem/866915320147",
+    "gid://shopify/MenuItem/866915352915",
+    "gid://shopify/MenuItem/866915582291",
+    "gid://shopify/MenuItem/866915615059",
+    "gid://shopify/MenuItem/866915647827",
+    "gid://shopify/MenuItem/866915680595"
   ]
 }
