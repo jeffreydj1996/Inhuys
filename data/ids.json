@@ -302,5 +302,16 @@
     "krab-l": "h19-krab-l"
   },
   "live_naar_concept": [],
-  "naar_live": []
+  "naar_live": [],
+  "collectie_bronnen": {
+    "banken": "gid://shopify/CollectionConditionsSource/52031914323",
+    "stoelen": "gid://shopify/CollectionConditionsSource/52031947091",
+    "fauteuils": "gid://shopify/CollectionConditionsSource/52031979859",
+    "barkrukken": "gid://shopify/CollectionConditionsSource/52032012627",
+    "tafels": "gid://shopify/CollectionConditionsSource/52032045395",
+    "vazen": "gid://shopify/CollectionConditionsSource/52032078163",
+    "windlichten-en-kaarsenhouders": "gid://shopify/CollectionConditionsSource/52032110931",
+    "decoratie": "gid://shopify/CollectionConditionsSource/52032143699",
+    "kinderkamer": "gid://shopify/CollectionConditionsSource/52032176467"
+  }
 }
