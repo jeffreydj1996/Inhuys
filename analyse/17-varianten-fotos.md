@@ -122,3 +122,10 @@ Totalen: al gekoppeld 17, geen bron 29, koppelen 26, toevoegen en koppelen 35
 - Alt-teksten: 165 van de 269 nieuwe beelden kregen een kortere alt ("Osaka eetkamerstoel in Tan"); de nieuwe bestanden staan onder `bestanden_eigen`.
 - Kleurnamen: bij 5 producten (holzrutsche-binnen, ballenbak, whale-stoel-coco-set-van-2, bank-londen-3-zits-ottoman-umber, bank-londen-6-zits-ottoman) had Orderchamp op 23 november de optiewaarden opnieuw aangemaakt met de oude namen; opnieuw hernoemd. Optienaam van eetkamerstoel-japandi naar "Kleur". Controle op 24 november; komen de namen terug, dan moet het in Orderchamp zelf (eigenaar).
 - `media_varianten` blijft gevuld tot de controle van 24 november.
+
+## Stap 7 · 23 november 2026
+
+- Lege alt-teksten: 39 beelden bij 5 live producten (Japandi 21, Sake, Osaka en Fuji elk 5, Bank Amsterdam 3), alle alleen bij hun eigen product, kregen een Nederlandse alt via `fileUpdate` ("Japandi eetkamerstoel", "Bank Amsterdam 4-zits in latte"). Geen kleur waar het beeld niet aan een variant hangt.
+- Weinig foto's: Peninsula en ronde Urban Chique hebben op poletopole.nl ook maar 2 beelden, die al op het product staan; Jupiduu heeft voor Slide & Surf Way alleen Duitstalige infographics extra (`data/tmp/fotos-aanvullen.json`), niet toegevoegd. Flitsadvies blijft met één beeld. Aanvullen kan alleen met eigen foto's van de eigenaar.
+- Raffles: titel "maat S en L" blijft (XL niet leverbaar, maat onbevestigd). Prijs S € 129,95 boven L € 119,95: eigenaar kijkt na in Orderchamp.
+- Schelpenketting H1: M = A2.1 Shell Necklace (Pole To Pole), L = A6.2 Shell ketting (niet op poletopole.nl). Regel onder "Opmerking" in `content/producten/schelpenketting-h1.md`; keuze voor de eigenaar.
