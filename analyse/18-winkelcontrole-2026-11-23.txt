@@ -1,0 +1,7 @@
+ballenbak: machinevertaalde namen ['KAMEEL', 'OLIJF', 'BLAUW', 'beige', 'roos']
+holzrutsche-binnen: machinevertaalde namen ['kleur', 'Weiß - "Witte Olifant"', 'Roze - "Roze Konijn"', 'Blau - "Blauwe vinvis"', 'Grün - "Groene Uil"']
+schommel-play-chill: machinevertaalde namen ['kleur', 'lichtblauw', 'Roos', 'beige']
+springplek-binnen: machinevertaalde namen ['KAMEEL', 'BLAUW', 'OLIJF', 'roos', 'Beige (bestseller)']
+whale-stoel-coco-set-van-2: machinevertaalde namen ['Kokos']
+
+Totalen: producten 77, fotos_fout 0, namen_fout 5, onbereikbaar 0
