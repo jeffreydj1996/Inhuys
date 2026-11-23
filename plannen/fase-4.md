@@ -86,3 +86,59 @@ Volgorde met reden: eerst de inhoud die niemand tot nu toe ziet, dan de URL-wijz
 ## 6. Agents en kosten
 
 De bestaande zeven agents volstaan. Nieuw voorgesteld: `redirect-uitvoerder` (alleen schrijfrechten voor de stappen 2 en 3, alleen met `INHUYS_GOLIVE=1` of de guard-opening); akkoord van de eigenaar vooraf. Raming: momentopnames per stap 160.000 tokens (haiku), uitvoering per stap 30.000 tokens (sonnet), meting per twee weken 25.000 tokens.
+
+## 7. Runbook (toegevoegd 23 november 2026)
+
+Geldt per stap uit sectie 3; de besluiten daar blijven staan. Uitvoering door de shopify-uitvoerder; de eigenaar geeft per stap het akkoord en zet `INHUYS_GOLIVE=1` in de omgeving van die ene aanroep (de guard kent geen openingen voor deze stappen; een opening vraagt apart akkoord). Na de stap zet de eigenaar de variabele weer uit.
+
+**Vooraf, elke stap**
+1. `git status` schoon; `python3 -I tools/redirects_check.py` (24 regels met `/collections/...` als `onbekend_doel` zijn verwacht, zie `analyse/13`) en `/controle alles` zonder fouten.
+2. Momentopname vóór: lezer-agent draait `tools/gql/snapshot.graphql` en schrijft `data/snapshots/snapshot-<datum>-voor-stap<n>.txt`.
+3. Stop bij elke afwijking; na twee mislukte aanroepen rapporteren, niet doorgaan.
+
+**Na elke stap**
+1. Momentopname na naar `data/snapshots/snapshot-<datum>-na-stap<n>.txt`; `python3 tools/snapshot.py voor na` (exit 1 = live object dat niet in de stap hoort is gewijzigd of verdwenen: terugdraaien).
+2. Controle van de stap (hieronder), `python3 -I tools/status.py` bijwerken, commit in het Nederlands. Daarna pas de volgende stap.
+
+### Stap 0 · producten actief, dubbelen naar concept
+- Volgorde: eerst de 6 dubbelen (`live_naar_concept` vullen met hun gids uit `analyse/11-dubbele-producten.md`, `productUpdate {id, status: DRAFT}` één per aanroep), dan de 56 gids uit `naar_live`: `productUpdate {id, status: ACTIVE}` één per aanroep, daarna `publishablePublish` naar de vijf kanalen, aliassen max 5.
+- Guard: bestaande openingen (regel 2b en 2c); geen `INHUYS_GOLIVE`. Lijsten leeg zetten na afloop.
+- Controle: `status` en `publishedOnCurrentPublication` per gid via `verifieer-product.graphql`; telling actief = 76 plus Flitsadvies; `live_actief` in `data/ids.json` bijwerken.
+- Terug: `productUpdate {id, status: DRAFT}` voor de gids onder `live_naar_concept`; de dubbelen weer ACTIVE vraagt `INHUYS_GOLIVE=1`.
+
+### Stap 1 · collecties
+- Ids: tien gids onder `collecties` in `data/ids.json`; Maatwerk blijft ongepubliceerd.
+- Volgorde: `collectionUpdate` voor de wijzigingen uit `analyse/14-collecties-controle.md` (mag nu), dan `publishablePublish` op Online Store, één collectie per aanroep, eerst de collecties die redirect-doel zijn (stoelen, fauteuils, tafels, vazen, windlichten-en-kaarsenhouders, decoratie).
+- Guard: `INHUYS_GOLIVE=1`.
+- Controle: `https://www.in-huys.nl/collections/<handle>` geeft 200 voor negen collecties, `/collections/maatwerk` 404; productaantallen gelijk aan `analyse/14`.
+- Terug: `publishableUnpublish` per collectie (`INHUYS_GOLIVE=1`).
+
+### Stap 2 · pagina's en artikelen
+- Ids: vijf gids onder `paginas`, vier onder `artikelen` in `data/ids.json`.
+- Volgorde: pagina's (werkwijze, showroom, over-inhuys, projecten, veelgestelde-vragen), dan de artikelen; `pageUpdate` en `articleUpdate {isPublished: true}`, één per aanroep.
+- Guard: `INHUYS_GOLIVE=1`.
+- Controle: URL's `/pages/<handle>` en `/blogs/.../<handle>` geven 200; geen `[AANVULLEN]` in de HTML; interne links werken (`tools/links_live.py`).
+- Terug: zelfde mutatie met `isPublished: false`.
+
+### Stap 3 · handles en redirects
+- Vooraf: `python3 -I tools/redirects_check.py` zonder andere melding dan de verwachte collectiedoelen; besluit 6 en 3 uit sectie 4 genomen (Breeze, Safiya, Luna mink eerst naar concept, anders hun regel schrappen); `data/tmp/redirects-voor-2026-11-23.csv` is de oude stand.
+- Bestanden en ids: `analyse/redirects.csv` (141 regels, doel `/collections/<handle>` of een handle), geplande handles uit `producten` en `live_tekst`, oude handles uit `data/orderchamp/varianten-2026-11-19.json`.
+- Volgorde: (a) per live product met plan `productUpdate {id, handle, redirectNewHandle: true}`, één per aanroep; (b) per CSV-regel waarvan de oude handle niet bij (a) is aangemaakt `urlRedirectCreate {path: /products/<oud>, target: /products/<nieuw>}` (collectiedoel: `/collections/<handle>`), aliassen max 5; (c) niet zichtbaar uitvoeren zolang een doel nog concept is.
+- Guard: `INHUYS_GOLIVE=1`.
+- Controle: `curl -sI` op alle oude URL's: 301 naar het doel, doel 200, geen keten; `urlRedirects`-lijst heeft evenveel regels als de CSV plus de door `redirectNewHandle` gemaakte; Search Console 404's de eerste week.
+- Terug: `urlRedirectDelete` per aangemaakte id; `productUpdate {id, handle: <oud>}` met oude handle uit het varianten-bestand (`redirectNewHandle: false`).
+
+### Stap 4 · menu's
+- Ids: `hoofdmenu-fase-2`, `footer-inhuys`, `footer-service` (bestaan al, geen mutatie); live `menu_hoofd` en `menu_footer` onder `live_niet_aanraken` blijven ongewijzigd.
+- Controle vooraf: elk menulink-doel uit stap 1 en 2 geeft 200 (`tools/links_live.py` op de thema-preview).
+- Guard: geen. Terug: stap 5 terugdraaien.
+
+### Stap 5 · thema
+- Id: `thema_kopie` `gid://shopify/OnlineStoreTheme/210233098579`; huidig thema `200751743315`.
+- Vooraf: `/controle thema`, preview `?preview_theme_id=210233098579` op telefoon en desktop, `analyse/pagespeed-2026-10-26.md` als maatstaf, momentopname menu's en thema-id's.
+- Mutatie: `themePublish(id: 210233098579)` (`INHUYS_GOLIVE=1`) of in de beheeromgeving Thema's, Publiceren.
+- Controle: homepage, een categoriepagina, een productpagina met "Andere uitvoeringen", header en footer met de nieuwe menu's; sitemap opnieuw aanmelden.
+- Terug: `themePublish(id: 200751743315)`; het kopie-thema blijft staan.
+
+### Na de laatste stap
+`INHUYS_GOLIVE` uit; `data/ids.json` lijsten (`naar_live`, `live_naar_concept`, `fase_ab`) leeg; `live_actief` bijgewerkt; nazorg uit sectie 5 start.

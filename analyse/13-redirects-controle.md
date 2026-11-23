@@ -27,3 +27,54 @@ Uitgevoerd met `python3 -I tools/redirects_check.py` op `analyse/redirects.csv` 
 ## Opnieuw draaien
 
 `python3 -I tools/redirects_check.py` toont de tellingen; met `--fix` worden ketens platgeslagen en exacte dubbelen verwijderd (de CSV wordt herschreven, controleer de diff). Draai het na elke aanvulling en vlak vóór de import.
+
+## Aanpassing 23 november 2026 (punten 38, 39, 40)
+
+Kopie van de oude stand: `data/tmp/redirects-voor-2026-11-23.csv`. Rekengrond: `data/ids.json` `live_actief` (77 gids) met de geplande handles uit `producten` en `live_tekst`. Volgorde van de keuze: live product van hetzelfde model, anders de categoriecollectie, anders `/collections/all` (niet nodig geweest). Collecties moeten in fase 4 stap 1 live zijn vóór stap 3.
+
+Aantal gewijzigd: 34 van 141 regels. 10 naar een live product, 24 naar een collectie. Per punt: 38 = 1, 39 = 31, 40 = 2.
+
+| Oude handle | Oud doel | Nieuw doel | Reden |
+|---|---|---|---|
+| `breeze-stoel-beige-set-van-2` | `eetkamerstoel-breeze-set-van-2` | `/collections/stoelen` | doel concept; collectie, geen live product van dit model |
+| `breeze-stoel-latte-set-van-2` | `eetkamerstoel-breeze-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `breeze-stoel-pastel-roze-set-van-2` | `eetkamerstoel-breeze-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `breeze-stoel-pistache-set-van-2` | `eetkamerstoel-breeze-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `cloud-barstoel-creme` | `barkruk-cloud` | `barkruk-cloud-barkruk-creme` | doel was ander product dan eigen geplande handle; live product van hetzelfde model |
+| `boogstoel-karamel-set-van-2` | `eetkamerstoel-boog-set-van-2` | `eetkamerstoel-boog-creme-set-van-2` | doel blijft concept; live product van hetzelfde model |
+| `boogstoelcreme-set-van-2` | `eetkamerstoel-boog-set-van-2` | `eetkamerstoel-boog-creme-set-van-2` | doel concept en niet de eigen geplande handle; live product van hetzelfde model |
+| `travertine-agano-vaas` | `vaas-agano-travertijn` | `/collections/vazen` | doel blijft concept; collectie, geen live product van dit model |
+| `marmer-waxinelichthouder` | `waxinelichthouder-marmer` | `/collections/windlichten-en-kaarsenhouders` | doel blijft concept; collectie, geen live product van dit model |
+| `boekhouder` | `boekensteun-mangohout` | `/collections/decoratie` | doel blijft concept; collectie, geen live product van dit model |
+| `londen-3-zits-umber` | `bank-londen` | `bank-londen-3-zits-ottoman-umber` | doel blijft concept; live product van hetzelfde model |
+| `londen-6-zitter-ottoman-umber` | `bank-londen` | `bank-londen-6-zits-ottoman` | doel blijft concept; live product van hetzelfde model |
+| `panda-fauteuil-beige` | `fauteuil-panda` | `/collections/fauteuils` | doel blijft concept; collectie, geen live product van dit model |
+| `panda-fauteuil-coco` | `fauteuil-panda` | `/collections/fauteuils` | doel blijft concept; collectie, geen live product van dit model |
+| `panda-fauteuil-witte-parel` | `fauteuil-panda` | `/collections/fauteuils` | doel blijft concept; collectie, geen live product van dit model |
+| `kathmandu-loungestoel-amon-naturel` | `fauteuil-kathmandu` | `/collections/fauteuils` | doel blijft concept; collectie, geen live product van dit model |
+| `kathmandu-loungestoel-amon-terracotta` | `fauteuil-kathmandu` | `/collections/fauteuils` | doel blijft concept; collectie, geen live product van dit model |
+| `mars-lounge-chair-beige` | `fauteuil-mars` | `/collections/fauteuils` | doel blijft concept; collectie, geen live product van dit model |
+| `mars-loungestoel-coco` | `fauteuil-mars` | `/collections/fauteuils` | doel blijft concept; collectie, geen live product van dit model |
+| `panda-stoel-beige-set-van-2` | `eetkamerstoel-panda-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `panda-stoel-coco-set-van-2` | `eetkamerstoel-panda-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `panda-stoel-witte-parel-set-van-2` | `eetkamerstoel-panda-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `eettafel-sycomore-l` | `eettafel-sycomore` | `/collections/tafels` | doel onbekend (Sycomore niet geïmporteerd); collectie, geen live product van dit model |
+| `japandi-keukenbar-stoel-okura-set-van-2` | `keukenbarkruk-japandi-set-van-2` | `barkruk-japandi-tan-set-van-2` | doel blijft concept; live product van hetzelfde model |
+| `japandi-keukenbar-stoel-umber-set-van-2` | `keukenbarkruk-japandi-umber-set-van-2` | `barkruk-japandi-tan-set-van-2` | doel blijft concept; live product van hetzelfde model |
+| `tusk-stoel-beige-brandvertragend-set-van-2` | `eetkamerstoel-tusk-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `tusk-stoel-zandwit-brandvertragend-set-van-2` | `eetkamerstoel-tusk-zandwit-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `tusk-stoel-bruin-brandvertragend-set-van-2` | `eetkamerstoel-tusk-bruin-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `tusk-stoel-coco-brandvertragend-set-van-2` | `eetkamerstoel-tusk-coco-set-van-2` | `/collections/stoelen` | doel blijft concept; collectie, geen live product van dit model |
+| `rainbow-stoel-taupe-set-van-2` | `eetkamerstoel-rainbow-taupe-set-van-2` | `eetkamerstoel-rainbow-coco-set-van-2` | doel blijft concept; live product van hetzelfde model |
+| `storm-draaistoel-bruin` | `draaistoel-storm-bruin` | `draaistoel-storm` | doel blijft concept; live product van hetzelfde model |
+| `vleugelstoel-zwart-set-van-2` | `eetkamerstoel-wing-zwart-set-van-2` | `eetkamerstoel-wing-set-van-2` | doel blijft concept; live product van hetzelfde model |
+| `h20-krab-s` | `krab-messing` | `/collections/decoratie` | doel blijft concept; collectie, geen live product van dit model |
+| `h19-krab-l` | `krab-messing` | `/collections/decoratie` | doel blijft concept; collectie, geen live product van dit model |
+
+Niet gewijzigd (doel is wel live): Cloud (Safiya, wolkenbar, wolkenkeukenbar), Whale beige, Luna caramel en Luna mink wijzen naar een live product van hetzelfde model. Wolkenkeukenbar karamel, wolkenbar karamel, Whale beige, Luna caramel en Boogstoel karamel zijn volgens `live_actief` inmiddels geen actief product meer.
+
+Let op:
+- `redirects_check.py` kent alleen handles als doel en meldt de 24 collectiedoelen als `onbekend_doel`. Dat is verwacht; het script (buiten dit werk) hoort `/collections/<handle>` te herkennen vóór de import. Alle 24 collecties staan in `data/ids.json` `collecties`.
+- Breeze beige, latte en pistache, de twee Safiya en Luna mink staan nu live zonder geplande handle. Hun redirect werkt pas als het product naar concept gaat (stap 0, besluit 6 in `fase-4.md`). Blijft zo'n product actief, schrap dan zijn regel.
+- Krab messing en Krab L delen een SKU (besluit 3); de collectie is tijdelijk, tot de eigenaar de Krab-vraag beantwoordt.
+- Geen ketens, geen zelfverwijzing; geen enkel doel is zelf een bron.

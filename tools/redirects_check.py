@@ -23,7 +23,7 @@ uit["dubbel_exact"] = ex
 uit["dubbel_strijdig"] = sorted(h for h, d in doel.items() if len(d) > 1)
 uit["zelfverwijzing"] = [r for r in regels if r[0] == r[1]]
 uit["keten"] = [r for r in regels if r[1] in oude and r[0] != r[1]]
-bekend = set(gepland) | set(var)
+bekend = set(gepland) | set(var) | {f"/collections/{h}" for h in ids.get("collecties", {})} | {"/collections/all"}
 uit["oude_is_geplande_handle"] = [r for r in regels if r[0] in gepland and gepland[r[0]] != var.get(r[0], {}).get("gid")]
 uit["onbekend_doel"] = [r for r in regels if r[1] not in bekend]
 uit["ontbrekend"] = []
