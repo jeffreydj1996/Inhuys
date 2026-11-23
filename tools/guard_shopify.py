@@ -29,8 +29,10 @@ def concept_ids():
         if k == "bestanden_eigen" and isinstance(v, list): files.update(v)
         elif k == "live_niet_aanraken": gids(v, live_blok)
         elif k == "live_tekst": gids(v, live_tekst)
-        elif k in ("media_varianten", "naar_live", "live_naar_concept"): continue   # uitzonderingslijsten voor live producten, nooit concepten
+        elif k in ("media_varianten", "naar_live", "live_naar_concept", "live_actief"): continue   # uitzonderingslijsten en live producten, nooit concepten
         else: gids(v, ids)
+    # Besluit eigenaar 23 november 2026: elk actief product telt als live, ook als zijn gid nog onder 'producten' staat.
+    ids -= set(d.get("live_actief", []))
     return ids, files, live_blok, live_tekst
 
 def veldnamen(query):
@@ -77,7 +79,16 @@ def controleer(query, variables, env):
     try: mv = set(json.load(open(IDS, encoding="utf-8")).get("media_varianten", []))
     except Exception: mv = set()
     if TESTMODUS: mv = set(env.get("_TEST_MEDIA_VARIANTEN", "").split())
-    if mv and nm0 and nm0 <= {"productCreateMedia", "productVariantAppendMedia", "productOptionUpdate"}:
+    if mv and nm0 == {"productUpdate"} and re.search(r"productUpdate\s*\([^)]*\bmedia\s*:", query):
+        # beelden toevoegen via productUpdate(product: {id}, media: [...]) (productCreateMedia is verouderd); de productinput bevat alleen het id
+        vs = list((variables or {}).values())
+        prod_in = [v for v in vs if isinstance(v, dict)]
+        media_in = [v for v in vs if isinstance(v, list)]
+        if (len(prod_in) == 1 and set(prod_in[0]) == {"id"} and prod_in[0]["id"] in mv and media_in
+                and all(isinstance(m, dict) and set(m) <= {"originalSource", "mediaContentType", "alt"} for lst in media_in for m in lst)
+                and not re.search(r"(delete|archive|publish|inventory|discount|status|variants)", query, re.I)):
+            return []
+    if mv and nm0 and nm0 <= {"productCreateMedia", "productVariantAppendMedia", "productVariantDetachMedia", "productOptionUpdate"}:
         tekst = json.dumps(variables or {}) + query
         prod = set(re.findall(r"gid://shopify/Product/\d+", tekst))
         verboden_sleutels = {"optionValuesToAdd", "optionValuesToDelete", "variantStrategy", "position", "price", "sku", "inventoryQuantities", "status"}
@@ -151,6 +162,9 @@ def main():
         LIVE ="gid://shopify/Product/999999999999"
         _orig = concept_ids
         globals()["concept_ids"] = lambda: (_orig()[0], _orig()[1], _orig()[2], _orig()[3] | {LIVE})
+        _d = json.load(open(IDS, encoding="utf-8"))
+        _act = [g for g in _d.get("live_actief", []) if g in set(_d.get("producten", {}).values()) and g not in set(_d.get("live_tekst", {}).values())]
+        ACTIEF = _act[0] if _act else "gid://shopify/Product/333333333333"
         upd = 'mutation($p: ProductUpdateInput!) { productUpdate(product: $p) { product { id } userErrors { message } } }'
         proef = [("live tekst zo", upd, {"p": {"id": LIVE, "title": "x"}}, False, {}),
                  ("naar concept ok", upd, {"p": {"id": "gid://shopify/Product/888888888888", "status": "DRAFT"}}, False, {"_TEST_NAAR_CONCEPT": "gid://shopify/Product/888888888888"}),
@@ -169,6 +183,11 @@ def main():
                  ("media ander product", 'mutation($p: ID!, $m: [CreateMediaInput!]!) { productCreateMedia(productId: $p, media: $m) { mediaUserErrors { message } } }', {"p": "gid://shopify/Product/444444444444", "m": []}, True, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
                  ("optie hernoemen ok", 'mutation($p: ID!, $o: OptionUpdateInput!, $v: [OptionValueUpdateInput!]) { productOptionUpdate(productId: $p, option: $o, optionValuesToUpdate: $v) { userErrors { message } } }', {"p": "gid://shopify/Product/555555555555", "o": {"id": "gid://shopify/ProductOption/1", "name": "Kleur"}, "v": [{"id": "gid://shopify/ProductOptionValue/1", "name": "Umber"}]}, False, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
                  ("optie toevoegen", 'mutation($p: ID!, $o: OptionUpdateInput!, $a: [OptionValueCreateInput!]) { productOptionUpdate(productId: $p, option: $o, optionValuesToAdd: $a) { userErrors { message } } }', {"p": "gid://shopify/Product/555555555555", "o": {"id": "gid://shopify/ProductOption/1"}, "optionValuesToAdd": [{"name": "x"}]}, True, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
+                 ("media via update ok", 'mutation($p: ProductUpdateInput!, $m: [CreateMediaInput!]) { productUpdate(product: $p, media: $m) { product { id } userErrors { message } } }', {"p": {"id": "gid://shopify/Product/555555555555"}, "m": [{"originalSource": "https://cdn.shopify.com/x.jpg", "mediaContentType": "IMAGE", "alt": "x"}]}, False, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
+                 ("media via update titel", 'mutation($p: ProductUpdateInput!, $m: [CreateMediaInput!]) { productUpdate(product: $p, media: $m) { product { id } userErrors { message } } }', {"p": {"id": "gid://shopify/Product/555555555555", "title": "x"}, "m": [{"originalSource": "https://cdn.shopify.com/x.jpg", "mediaContentType": "IMAGE", "alt": "x"}]}, True, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
+                 ("losmaken ok", 'mutation($p: ID!, $v: [ProductVariantDetachMediaInput!]!) { productVariantDetachMedia(productId: $p, variantMedia: $v) { userErrors { message } } }', {"p": "gid://shopify/Product/555555555555", "v": [{"variantId": "gid://shopify/ProductVariant/1", "mediaIds": ["gid://shopify/MediaImage/1"]}]}, False, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
+                 ("losmaken ander", 'mutation($p: ID!, $v: [ProductVariantDetachMediaInput!]!) { productVariantDetachMedia(productId: $p, variantMedia: $v) { userErrors { message } } }', {"p": "gid://shopify/Product/444444444444", "v": []}, True, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
+                 ("actief product", upd, {"p": {"id": ACTIEF, "title": "x"}}, True, {}),
                  ("live status", upd, {"p": {"id": LIVE, "status": "DRAFT"}}, True, {}),
                  ("live varianten", upd, {"p": {"id": LIVE, "variants": []}}, True, {}),
                  ("live tekst ok", upd, {"p": {"id": LIVE, "title": "x", "descriptionHtml": "<p>x</p>", "metafields": []}}, False, {"INHUYS_LIVE_TEKST": "1"}),

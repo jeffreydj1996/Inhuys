@@ -89,9 +89,15 @@
     "sku": "871974353296",
     "voorraad": 0,
     "gekoppeld": false,
-    "actie": "koppelen",
-    "media": "gid://shopify/MediaImage/58871382901075",
-    "bron": "eigen beeld"
+    "actie": "toevoegen en koppelen",
+    "bron": "bank-londen-3-zits-ottoman-tan",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0b22e88e-9da1-4815-a3cb-2e989d89e186_1200x1200_fill.jpg?v=1771839711",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/aca7a2a5-f2b9-49a3-a620-b39f9873d78b_1200x1200_fill.jpg?v=1771839711",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/967ab08d-f676-4abf-a3da-1bbcba78315c_1200x1200_fill.jpg?v=1771839711",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b7ddcd62-193c-49a1-960f-42616998d8fa_1200x1200_fill.jpg?v=1771839711"
+    ],
+    "gekoppeld_fout": "gid://shopify/MediaImage/58871382901075"
    },
    {
     "variant": "gid://shopify/ProductVariant/53093255414099",
@@ -146,9 +152,14 @@
     "sku": "871974353299",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "koppelen",
-    "media": "gid://shopify/MediaImage/58871385424211",
-    "bron": "eigen beeld"
+    "actie": "toevoegen en koppelen",
+    "bron": "bank-londen-6-zits-umber",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/3f9b6291-0546-4ceb-924d-e66a86699552_1200x1200_fill.jpg?v=1771839716",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bbb7bd8e-9d27-4075-ad58-c3cec1b4a896_1200x1200_fill.jpg?v=1771839716",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ae8f99af-5997-47e4-b3ae-df6f48252dad_1200x1200_fill.jpg?v=1771839717"
+    ],
+    "gekoppeld_fout": "gid://shopify/MediaImage/58871385424211"
    },
    {
     "variant": "gid://shopify/ProductVariant/53093255807315",
@@ -172,9 +183,15 @@
     "sku": "871917285934",
     "voorraad": 12,
     "gekoppeld": false,
-    "actie": "koppelen",
-    "media": "gid://shopify/MediaImage/58871378248019",
-    "bron": "eigen beeld"
+    "actie": "toevoegen en koppelen",
+    "bron": "bank-new-york-2-5-zits-lounge-coco",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/62baec28-e797-4edb-88da-645c132eec18_1200x1200_fill.jpg?v=1771839144",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a25a5a47-7463-4916-a7e4-dda299ad2976_1200x1200_fill.jpg?v=1771839144",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b3aafe2a-95bb-47bf-9455-dada533fe466_1200x1200_fill.jpg?v=1771839144",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1e29ae0c-3fb5-4607-a33a-f6eaff7033ad_1200x1200_fill.jpg?v=1771839144"
+    ],
+    "gekoppeld_fout": "gid://shopify/MediaImage/58871378248019"
    },
    {
     "variant": "gid://shopify/ProductVariant/53093254267219",
@@ -263,9 +280,17 @@
     "sku": "871974353094",
     "voorraad": 3,
     "gekoppeld": false,
-    "actie": "koppelen",
-    "media": "gid://shopify/MediaImage/58871329587539",
-    "bron": "eigen beeld"
+    "actie": "toevoegen en koppelen",
+    "bron": "boogstoel-karamel-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f3ac3c61-135b-480d-8013-e9301d910789_1200x1200_fill.jpg?v=1771839470",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/35dfa1b1-9a9e-44c9-8ee4-0f129fed034f_1200x1200_fill.jpg?v=1771839470",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f397d1f8-7dce-431e-ad7f-87c3d3fab81f_1200x1200_fill.jpg?v=1771839470",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9cd1d49d-d759-49d9-a46d-02c682aabf3c_1200x1200_fill.jpg?v=1771839470",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/af07a1c5-9c2a-45d6-8c3a-b712b993ed09_1200x1200_fill.jpg?v=1771839470",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f3bad5c2-a7f5-44b0-87f3-cea0cab08e68_1200x1200_fill.jpg?v=1771839470"
+    ],
+    "gekoppeld_fout": "gid://shopify/MediaImage/58871329587539"
    },
    {
     "variant": "gid://shopify/ProductVariant/53093247091027",
@@ -299,9 +324,16 @@
     "sku": "871974353022",
     "voorraad": 0,
     "gekoppeld": false,
-    "actie": "koppelen",
-    "media": "gid://shopify/MediaImage/58871215391059",
-    "bron": "eigen beeld"
+    "actie": "toevoegen en koppelen",
+    "bron": "breeze-stoel-pastel-roze-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c2aef035-bbdf-4183-af16-a5f0afa2c0da_1200x1200_fill.jpg?v=1771839051",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/32fd21cf-ff1a-465f-b19b-be53a456e126_1200x1200_fill.jpg?v=1771839051",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5a120dea-aaec-4246-a0b1-409692770811_1200x1200_fill.jpg?v=1771839051",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ff3e80ea-6cfe-4bda-8282-f75095125732_1200x1200_fill.jpg?v=1771839052",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/97c18d25-5a17-4f95-a6c6-94eb995dc7d3_1200x1200_fill.jpg?v=1771839051"
+    ],
+    "gekoppeld_fout": "gid://shopify/MediaImage/58871215391059"
    }
   ]
  },
@@ -325,9 +357,17 @@
     "sku": "871974353090",
     "voorraad": 0,
     "gekoppeld": false,
-    "actie": "koppelen",
-    "media": "gid://shopify/MediaImage/58871308222803",
-    "bron": "eigen beeld"
+    "actie": "toevoegen en koppelen",
+    "bron": "wolkenbar-stoel-karamel",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fe65b6d3-1bb0-44f7-a9c0-6d0ba37c9bea_1200x1200_fill.jpg?v=1771839475",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/79244d48-605b-4da6-9596-1b13cc27c100_1200x1200_fill.jpg?v=1771839475",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/3bf3eb5d-3e95-4a47-a3fb-06518660ae3a_1200x1200_fill.jpg?v=1771839475",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4fc31754-d8a4-44c9-914e-b2a4f92958c3_1200x1200_fill.jpg?v=1771839474",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4bb69489-9896-4c03-989f-33c04735fc03_1200x1200_fill.jpg?v=1771839475",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/81ffc093-3108-465c-9b78-bcac648302b8_1200x1200_fill.jpg?v=1771839474"
+    ],
+    "gekoppeld_fout": "gid://shopify/MediaImage/58871308222803"
    }
   ]
  },
@@ -351,9 +391,17 @@
     "sku": "871974353089",
     "voorraad": 0,
     "gekoppeld": false,
-    "actie": "koppelen",
-    "media": "gid://shopify/MediaImage/58871307043155",
-    "bron": "eigen beeld"
+    "actie": "toevoegen en koppelen",
+    "bron": "wolkenkeukenbar-stoel-karamel",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/2eb4e2c2-c435-4f2e-baa6-f727808cb7a6_1200x1200_fill.jpg?v=1780476938",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fcbb12b6-4771-41b8-b644-d4e3644a03db_1200x1200_fill.jpg?v=1780476938",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1cc5f781-9ef6-4f46-99b1-a654a9683bee_1200x1200_fill.jpg?v=1780476938",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5f7c0d92-d6bf-4aa1-a218-6eb0f7ed6c3a_1200x1200_fill.jpg?v=1780476939",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ade0ab67-98d2-4d11-9c49-8b11c0bb0dcb_1200x1200_fill.jpg?v=1780476939",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e451b4cb-3980-4dc9-8f26-c58dadf95e4d_1200x1200_fill.jpg?v=1780476939"
+    ],
+    "gekoppeld_fout": "gid://shopify/MediaImage/58871307043155"
    }
   ]
  },
@@ -1201,9 +1249,17 @@
     "sku": "871974353109",
     "voorraad": 0,
     "gekoppeld": false,
-    "actie": "koppelen",
-    "media": "gid://shopify/MediaImage/58871348199763",
-    "bron": "eigen beeld"
+    "actie": "toevoegen en koppelen",
+    "bron": "luna-stoel-caramel-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ab311f25-56d6-4e07-b45c-25ae5519fe23_1200x1200_fill.jpg?v=1771839561",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0599d34d-5e3c-47f1-9d16-cb097d6b2357_1200x1200_fill.jpg?v=1771839562",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/804f9838-8359-4818-a917-3131fd5fc63a_1200x1200_fill.jpg?v=1771839561",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d5fb4e76-51fa-4c49-a029-24b8756c28b1_1200x1200_fill.jpg?v=1771839561",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/08ab334f-c125-4830-934c-eca3d168e782_1200x1200_fill.jpg?v=1771839561",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/72c8ab42-81e1-442b-901e-4218ee31c997_1200x1200_fill.jpg?v=1771839561"
+    ],
+    "gekoppeld_fout": "gid://shopify/MediaImage/58871348199763"
    },
    {
     "variant": "gid://shopify/ProductVariant/54570012115283",
@@ -1518,9 +1574,17 @@
     "sku": "871917285669",
     "voorraad": 0,
     "gekoppeld": false,
-    "actie": "koppelen",
-    "media": "gid://shopify/MediaImage/58871211131219",
-    "bron": "eigen beeld"
+    "actie": "toevoegen en koppelen",
+    "bron": "whale-stoel-beige-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0c943d00-4127-4538-a486-5e8c8e64dab5_1200x1200_fill.jpg?v=1771839030",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e1636054-8350-477d-ac85-849500acd539_1200x1200_fill.jpg?v=1771839027",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/906b63f6-64be-43e4-acc7-7b24bb28a044_1200x1200_fill.jpg?v=1771839030",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b9a0de31-a2fc-40d5-87f4-0356e46f20f0_1200x1200_fill.jpg?v=1771839028",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/248ace85-8b28-4132-8111-e9fcbc6a95de_1200x1200_fill.jpg?v=1771839027",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/96c6c4bf-22ad-42f1-858b-4adcb76bbda9_1200x1200_fill.jpg?v=1771839027"
+    ],
+    "gekoppeld_fout": "gid://shopify/MediaImage/58871211131219"
    }
   ]
  },

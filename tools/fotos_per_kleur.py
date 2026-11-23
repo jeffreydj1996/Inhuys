@@ -28,6 +28,9 @@ def main():
         for v in vs:
             r = {"variant": v["id"], "titel": v["title"], "sku": v.get("sku"), "voorraad": v.get("inventoryQuantity"), "gekoppeld": bool(v["media"]["nodes"])}
             bronnen = [o for o in per_sku.get(str(v.get("sku")), []) if o != g]
+            # een bron met meerdere varianten (samengevoegd of ons eigen fase 2-concept) bevat de foto's van alle kleuren; alleen een losse kleur telt
+            enkel = [o for o in bronnen if len(P[o]["variants"]["nodes"]) == 1]
+            if enkel or bronnen: bronnen = enkel
             treffer = None
             for o in bronnen:
                 for _, u in beelden(P[o]):
