@@ -342,7 +342,13 @@ SCHEMA = """{%- comment -%} InHuys · Organization/LocalBusiness, WebSite en Bre
     when 'product'
       assign c = collection
       if c == blank
-        assign c = product.collections.first
+        assign cat_handles = 'banken,stoelen,fauteuils,barkrukken,tafels,vazen,windlichten-en-kaarsenhouders,decoratie,kinderkamer' | split: ','
+        for pc in product.collections
+          if cat_handles contains pc.handle
+            assign c = pc
+            break
+          endif
+        endfor
       endif
       assign t_product = product.title | json
       assign u_product = '/products/' | append: product.handle
@@ -413,6 +419,33 @@ log("snippets/inhuys-schema.liquid", "B1: breadcrumb-JSON geldig gemaakt: de tit
 log("snippets/inhuys-schema.liquid", "B2: een Organization-blok (type Organization + LocalBusiness) en een WebSite-blok; geen sameAs, want er zijn nog geen echte profielen (toevoegen zodra die er zijn).")
 log("snippets/inhuys-schema.liquid", "Nieuw: LocalBusiness-markup (naam, tagline als alternateName, adres showroom, telefoon, werkgebied), WebSite met SearchAction en BreadcrumbList voor product-, collectie-, pagina- en artikelpagina's.")
 dump("snippets/inhuys-schema.liquid", SCHEMA, as_json=False)
+
+# broodkruimel: categoriecollectie in plaats van eerste (modelcollectie)
+bc = open(f"{SRC}/snippets/breadcrumb.liquid", encoding="utf-8").read()
+bc_old = """    assign current_collection = null
+    if collection
+      assign current_collection = collection
+    elsif product and product.collections.size > 0
+      assign current_collection = product.collections.first
+    endif
+"""
+bc_new = """    assign current_collection = null
+    if collection
+      assign current_collection = collection
+    elsif product and product.collections.size > 0
+      assign cat_handles = 'banken,stoelen,fauteuils,barkrukken,tafels,vazen,windlichten-en-kaarsenhouders,decoratie,kinderkamer' | split: ','
+      for pc in product.collections
+        if cat_handles contains pc.handle
+          assign current_collection = pc
+          break
+        endif
+      endfor
+    endif
+"""
+assert bc.count(bc_old) == 1
+dump("snippets/breadcrumb.liquid", bc.replace(bc_old, bc_new), as_json=False)
+log("snippets/breadcrumb.liquid", "Broodkruimel op productpagina: collectie uit de URL, anders de eerste collectie van het product met een handle uit banken, stoelen, fauteuils, barkrukken, tafels, vazen, windlichten-en-kaarsenhouders, decoratie, kinderkamer; anders alleen Home > (merk) > productnaam. Geen modelcollecties (rocking, whale, cloud, luna) meer.")
+log("snippets/inhuys-schema.liquid", "BreadcrumbList op productpagina: zelfde keuze als de zichtbare broodkruimel (URL-collectie, anders eerste categoriecollectie, anders Home > productnaam).")
 
 # ---------------- Spoor A 23 november ----------------
 # slider: h1 voor de eerste slide op de homepage
@@ -514,7 +547,7 @@ dump("locales/nl.json", loc_head + json.dumps(loc_obj, ensure_ascii=False, inden
 
 # ---------------- batches ----------------
 files = {}
-for rel in ["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid", "snippets/inhuys-uitvoeringen.liquid",
+for rel in ["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid", "snippets/inhuys-uitvoeringen.liquid", "snippets/breadcrumb.liquid",
             "templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json", "templates/page.interieuradvies.json", "templates/product.json",
             "sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json",
             "sections/slider.liquid", "snippets/collection-card.liquid", "snippets/header-logo.liquid", "templates/list-collections.json", "templates/cart.json", "templates/blog.json", "snippets/cookie-banner.liquid"]:
