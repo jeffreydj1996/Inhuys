@@ -5,7 +5,7 @@ Handle: `/blogs/trends/interieur-inrichten-na-een-verbouwing` · Status: **conce
 Meta-titel (56): Inrichten na een verbouwing · zo pak je het aan · InHuys  
 Samenvatting / meta-description: De muren staan, de vloer ligt, en dan? Dit is de volgorde die we aanhouden als we een verbouwd huis inrichten, en het moment waarop advies het meeste oplevert.
 
-Interne links in het artikel (te zetten bij publicatie, zodra de doelpagina's live zijn): `/pages/interieuradvies`, `/pages/werkwijze`, `/collections/banken`, `/collections/vazen`, `/pages/showroom`
+Interne links in het artikel (gezet 23 november 2026, 4): `/collections/banken`, `/pages/interieuradvies`, `/pages/werkwijze`, `/pages/showroom`. `/collections/vazen` vervalt door het maximum van 4.
 
 ## Begin eerder dan je denkt
 
@@ -19,7 +19,7 @@ Vuistregels die we aanhouden: 80 cm looproute rondom tafel en bank, een bank nie
 
 ## Grote stukken eerst, in deze volgorde
 
-1. De bank. Die bepaalt de zithoek en de looplijn in de woonkamer.
+1. [De bank](/collections/banken). Die bepaalt de zithoek en de looplijn in de woonkamer.
 2. De eettafel en de stoelen. Samen de grootste groep meubels in huis.
 3. Verlichting. Een hanglamp boven tafel moet op de juiste plek hangen; dat regel je met de elektricien, niet achteraf.
 4. Kasten en opbergen.
@@ -33,6 +33,6 @@ Een rustig interieur heeft een palet van drie materialen en drie kleuren. Bijvoo
 
 ## Wat advies oplevert
 
-Een Flitsadvies is gratis: stuur een plattegrond en foto's, en je krijgt binnen een paar dagen een opzet van de indeling en een voorstel voor de belangrijkste stukken. Een 3D-interieurontwerp gaat verder: je ziet de ruimte met de gekozen meubels, stoffen en lichtval voordat je iets koopt. De kosten daarvan verrekenen we bij aankoop van de inrichting.
+Een [Flitsadvies](/pages/interieuradvies) is gratis: stuur een plattegrond en foto's, en je krijgt binnen een paar dagen een opzet van de indeling en een voorstel voor de belangrijkste stukken. Een [3D-interieurontwerp](/pages/werkwijze) gaat verder: je ziet de ruimte met de gekozen meubels, stoffen en lichtval voordat je iets koopt. De kosten daarvan verrekenen we bij aankoop van de inrichting.
 
-We werken in de regio Amsterdam en ontvangen je in de showroom in Purmerend, waar de banken, stoelen en materialen uit dit artikel staan.
+We werken in de regio Amsterdam en ontvangen je in de [showroom in Purmerend](/pages/showroom), waar de banken, stoelen en materialen uit dit artikel staan.

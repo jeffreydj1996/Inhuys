@@ -5,7 +5,7 @@ Handle: `/blogs/trends/eetkamerstoelen-bij-een-ronde-tafel` · Status: **concept
 Meta-titel (54): Stoelen bij een ronde tafel · aantal en keuze · InHuys  
 Samenvatting / meta-description: Een ronde tafel is gezelliger, maar vergeeft minder. Dit zijn de maten die we in onze inrichtingen aanhouden en de stoelen die er goed bij staan.
 
-Interne links in het artikel (te zetten bij publicatie, zodra de doelpagina's live zijn): `/collections/stoelen`, `/products/eetkamerstoel-cloud-set-van-2`, `/products/eetkamerstoel-whale-set-van-2`, `/products/eetkamerstoel-breeze-set-van-2`, `/pages/interieuradvies`
+Interne links in het artikel (gezet 23 november 2026, 4): `/products/cloud-stoel-creme-set-van-2`, `/products/whale-stoel-coco-set-van-2`, `/products/breeze-stoel-beige-set-van-2`, `/pages/interieuradvies` (live handles uit `data/orderchamp/media-2026-11-23.json`; de handles `eetkamerstoel-cloud/whale/breeze-set-van-2` zijn geen `live_actief`). `/collections/stoelen` vervalt door het maximum van 4.
 
 ## Waarom een ronde tafel anders werkt
 
@@ -25,9 +25,9 @@ Houd rondom de tafel 80 cm vrij om te kunnen aanschuiven en langslopen. Een tafe
 
 ## Welke stoelen goed staan
 
-Bij een ronde tafel werkt een stoel met een ronde of gebogen rug het best; de vorm komt terug in het blad. De Cloud met zijn ronde kuip en de Whale met zijn doorlopende gebogen rug zijn hier voor gemaakt. Een rechte stoel zoals de Scandi kan ook, maar oogt aan een ronde tafel wat strenger.
+Bij een ronde tafel werkt een stoel met een ronde of gebogen rug het best; de vorm komt terug in het blad. De [Cloud](/products/cloud-stoel-creme-set-van-2) met zijn ronde kuip en de [Whale](/products/whale-stoel-coco-set-van-2) met zijn doorlopende gebogen rug zijn hier voor gemaakt. Een rechte stoel zoals de Scandi kan ook, maar oogt aan een ronde tafel wat strenger.
 
-Een stoel met armleuning, zoals de Breeze, neemt meer ruimte en past daarom pas vanaf Ø 130 cm. Hij zit wel het langst comfortabel.
+Een stoel met armleuning, zoals de [Breeze](/products/breeze-stoel-beige-set-van-2), neemt meer ruimte en past daarom pas vanaf Ø 130 cm. Hij zit wel het langst comfortabel.
 
 ## Eén soort stoel of mengen
 
@@ -39,4 +39,4 @@ De meeste eettafels zijn 75 tot 78 cm hoog. Daar hoort een zithoogte van 46 tot 
 
 ## Hulp bij de keuze
 
-Stuur de maat van je tafel en een foto van de eethoek mee met een Flitsadvies, dan rekenen we het aantal en het model voor je uit. In de showroom in Purmerend staan de modellen uit dit artikel; je kunt ze er aan een ronde tafel proberen.
+Stuur de maat van je tafel en een foto van de eethoek mee met een [Flitsadvies](/pages/interieuradvies), dan rekenen we het aantal en het model voor je uit. In de showroom in Purmerend staan de modellen uit dit artikel; je kunt ze er aan een ronde tafel proberen.

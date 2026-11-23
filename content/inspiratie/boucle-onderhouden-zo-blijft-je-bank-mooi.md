@@ -5,7 +5,7 @@ Handle: `/blogs/trends/boucle-onderhouden-zo-blijft-je-bank-mooi` · Status: **c
 Meta-titel (52): Boucle onderhouden · zo blijft je bank mooi · InHuys  
 Samenvatting / meta-description: Boucle is zacht en sterk, maar vraagt een andere aanpak dan een gladde stof. Dit is wat wel en niet werkt, uit de praktijk van onze inrichtingen.
 
-Interne links in het artikel (te zetten bij publicatie, zodra de doelpagina's live zijn): `/collections/banken`, `/products/bank-new-york`, `/products/eetkamerstoel-cloud-set-van-2`, `/pages/showroom`
+Interne links in het artikel (gezet 23 november 2026, 4): `/collections/banken`, `/products/cloud-stoel-creme-set-van-2`, `/pages/showroom`, `/pages/contact`. Geen link op "Bank New York in zand": de boucle-uitvoeringen zijn concept en het live product `bank-new-york` is beige of coco.
 
 ## Wat boucle is en waarom het zo lekker zit
 
@@ -39,6 +39,6 @@ Schud de kussens elke week op. Een bank met schuim en vezelvulling blijft dan di
 
 ## Welke boucle wij gebruiken
 
-In onze collectie staat boucle onder meer op de Bank New York in zand en op de Cloud-serie. De weefstof die Pole To Pole gebruikt is dichtgeweven en stevig; met het onderhoud hierboven gaat hij lang mee. Twijfel je of boucle bij je huishouden past, bijvoorbeeld met jonge kinderen of huisdieren, dan adviseren we de gladde weefstof in beige of coco. Die is er in dezelfde modellen.
+In [onze collectie](/collections/banken) staat boucle onder meer op de Bank New York in zand en op de [Cloud-serie](/products/cloud-stoel-creme-set-van-2). De weefstof die Pole To Pole gebruikt is dichtgeweven en stevig; met het onderhoud hierboven gaat hij lang mee. Twijfel je of boucle bij je huishouden past, bijvoorbeeld met jonge kinderen of huisdieren, dan adviseren we de gladde weefstof in beige of coco. Die is er in dezelfde modellen.
 
-Wil je de stoffen in het echt zien en voelen? In de showroom in Purmerend liggen alle stalen. Maak een afspraak via de contactpagina.
+Wil je de stoffen in het echt zien en voelen? In de [showroom in Purmerend](/pages/showroom) liggen alle stalen. Maak een afspraak via de [contactpagina](/pages/contact).
