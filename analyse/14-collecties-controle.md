@@ -211,3 +211,18 @@ Handmatige lijst:
 | `schelpenketting-j65` | Decoratie | J65 kleine schelpenketting | nieuw live, type Decoratie valt in geen regel |
 | `schelpenketting-j66` | Decoratie | J66 kleine schelpenketting in grijs | nieuw live, type Decoratie valt in geen regel |
 | `schelpenketting-j69` | Decoratie | J69 schelpenketting | nieuw live, type Decoratie valt in geen regel |
+
+## Uitgevoerd 23 november
+
+**Status: voorbereid, NIET uitgevoerd.** De beveiliging blokkeerde de eerste mutatie (Fauteuils) met: `GEBLOKKEERD door tools/guard_shopify.py: - .c.sourcesToUpdate[0].condition.id gid://shopify/CollectionConditionsSource/52031979859 staat niet in data/ids.json als concept. Alleen concepten en de thema-kopie mogen wijzigen.` Elke wijziging hieronder vraagt een `CollectionConditionsSource`-gid (bron-id), die niet in `data/ids.json` staat; de rest is daarom niet geprobeerd. Bron-id's (uit query van 23 november): banken 52031914323, stoelen 52031947091, fauteuils 52031979859, barkrukken 52032012627, tafels 52032045395, vazen 52032078163, windlichten 52032110931, decoratie 52032143699, kinderkamer 52032176467 (maatwerk heeft geen bron). Vervolg: de hoofdsessie laat de guard bron-id's toestaan (registratie in `data/ids.json` of aanpassing van `tools/guard_shopify.py`), waarna onderstaande lijst uitvoerbaar is.
+
+Stand vóór: de collecties bleken ruimer gevuld dan op 19 november (de aantallen tellen ook concepten mee) en de Admin API (2026-10) kent geen `ruleSet`, `collectionAddProducts` of `collectionRemoveProducts` meer; wijzigen gaat via `collectionUpdate` met `sourcesToUpdate` (condities en handmatige selecties). Alle tien collecties staan op `resourcePublicationsCount` 0 en blijven zo.
+
+Wijzigingen (alleen op de ongepubliceerde concept-collecties, geen product en geen publicatie geraakt):
+
+1. **Fauteuils**: de titelregel (fauteuil, Loungestoel, Lounge Chair) vervangen door `TYPE EQUALS Fauteuils`; de vier handmatig toegevoegde concepten (Panda, Kathmandu, Cairo-eigen, Mars) uit de selectie, want Kathmandu, Mars en Panda vallen nu op type. Cairo (live) valt op type. Toegevoegd als selectie: `draaistoel-pebble` en `draaistoel-storm` (live, type Stoelen, draaistoelen per stuk); ze blijven ook in Stoelen. Beslispunt voor de eigenaar: niet als fauteuil benoemd in titel of type, dus terugdraaien kan door de twee selecties te verwijderen.
+2. **Decoratie**: kettingen toegevoegd (schelpenketting h1, j37, j47, j65, j66, j69 en octo-ketting zwart-wit S; j63 en Black Tiger zaten er al). Eruit als concept: boekhouder, boekensteun-mangohout, bowl-babi-m, mand-miso-set-van-3, messing-dodo-m en -s, juju-rasta, krab-messing, krab-l (kan weg), j72-shell-toren-parel-s (kan weg). Over: schaal-babi, schelpentoren-pearl en negen kettingen, 11 live.
+3. **Vazen**: eruit `travertine-agano-vaas` en `vaas-agano-travertijn` (concept). Over: Bubble, Swoop, Meduse.
+4. **Windlichten en kaarsenhouders**: eruit marmer-waxinelichthouder, waxinelichthouder-marmer, Atlas, Soleil, loterijen-lantaarn-m (concept) en lantaarn-raffles-s (kan weg). Over: Raffles en Peninsula.
+5. **Maatwerk**: ongewijzigd, leeg en ongepubliceerd; niet publiceren tot er projectfoto's zijn.
+6. Banken, Stoelen, Barkrukken, Tafels, Kinderkamer: ongewijzigd (regels op type of merk).
