@@ -59,3 +59,80 @@ Omvang: 32 URL's x 2 schermformaten, 7 productpagina's (kleur- en maatvarianten 
 | 13 | Cookiebanner op mobiel compacter (kleinere tekst of balk onderin) en na go-live nogmaals op desktop controleren | klein | Shopify-instelling (Customer privacy) en thema-CSS | thema-agent, eigenaar |
 | 14 | Verzendinfo bij de checkout controleren met een testadres (verzendtarieven, levertijden) | belangrijk | Shopify-instelling (verzending) | eigenaar |
 | 15 | Mobiele winkelwagen en checkout met Playwright herhalen na het oplossen van punt 1 tot 6 | klein | testwerk | uitvoerder |
+
+## Ronde 2 (23 november 2026)
+
+Zelfde werkwijze als ronde 1 (Playwright, `?preview_theme_id=210233098579`, `Shopify.theme.id` op elke pagina 210233098579, desktop 1366x900 en iPhone 13, pauzes tussen pagina's). Niets in Shopify gewijzigd. Scripts en uitvoer: `/tmp/claude-0/-home-user-Inhuys/260fa1f5-5941-5916-9ab1-87df4acf54d3/scratchpad/t/r2/` (`v-<handle>-desk|mob.txt`, `ld.out`, `shots/`). De winkelwagen bestond alleen in de testbrowser en is daarna geleegd.
+
+### Uitkomst per punt uit ronde 1
+
+| Nr | Punt | Uitkomst |
+|---|---|---|
+| 1 | Pagina's 404 | Nog open, verwacht: pagina's zijn ongepubliceerd. Footer heeft nu ook `/pages/herroepen` (404, zelfde reden; `content/paginas/herroepen.md` bestaat). Menu verwijst nog naar `/collections/maatwerk`, dat in de nieuwe lijst van negen niet meer voorkomt (alleen het menu, geen thema). |
+| 2 | Collecties 404 | Nog open (ongepubliceerd). |
+| 3 | `/collections` | Opgelost: h1 "Collectie", Nederlandse intro, geen demotekst. Meta description is nog de oude standaardtekst (zie 9). |
+| 4 | Retourbeleid | Nog open: `/policies/refund-policy`, `terms-of-service` en `shipping-policy` geven 404; productteksten en FAQ linken ernaar. Shopify-instelling van de eigenaar. |
+| 5 | Collectietegels homepage | Nog open, pas na publicatie te toetsen. De tegels hebben in de voorvertoning `href="#"` en geen beeld omdat de collecties ongepubliceerd zijn. De terugval op collectiebeeld of eerste productfoto is dus niet te verifiëren. |
+| 6 | Variantfoto's (nr 5 hierboven) | Grotendeels opgelost, zie het blok hieronder. |
+| 7 | Flitsadvies | Nog open: titel en meta description van het demo-product, prijs 0, JSON-LD `price` 0 (ongeldig voor Google). |
+| 8 | "Recently Viewed" in winkelwagen | Opgelost: "Recent bekeken" (desktop en mobiel). |
+| 9 | Levertijd | Opgelost wat de zin betreft: "De levertijd staat bij het product" komt niet meer voor; op bank Londen alleen "Levering via onze merkpartners". Het veld `inhuys.levertijd` is nog leeg, dus geen levertijdregel op producten (beslissing eigenaar open). |
+| 10 | Meta descriptions en h1 | Gedeeltelijk. Homepage heeft nu één echte h1 ("Een verbouwing is pas af als de ruimte klopt"; de twee lege h1's in de DOM zijn slider-klonen). Interieuradvies heeft h1. **`/pages/inspiratie` heeft nog geen h1 en geen h2** (in de gerenderde pagina). Meta description nog de oude tekst op `/`, `/collections`, zoeken; ontbreekt op `/collections/all`, contact, beleidspagina's (homepage-titel en omschrijving moeten in Voorkeuren; open). |
+| 11 | Producttypen | Niet getoetst in de filters; breadcrumb op Play & Chill toont wel het type "rocking" (Engels), zie nieuw 4. |
+| 12 | Cookiebanner | **Niet opgelost op mobiel.** De banner komt uit Shopify Customer privacy (`shopify-pc__banner__dialog`), niet uit het thema; hij is 450 van 664 px hoog (68 procent) met kopje, lange tekst, Accepteren en Afwijzen. De thema-CSS in `snippets/cookie-banner.liquid` raakt hem niet. Na Accepteren verdwijnt hij en blijft weg. Alleen te verkleinen in Shopify (Instellingen, Klantprivacy, tekst inkorten). |
+| 13 | Console | Geen thema-JavaScript-fouten. Alleen 404's van de ongepubliceerde collectie-links in het menu, `shop.app` frame-CSP, 403 en monorail (extern), en 401/403 op de checkout (normaal). |
+| 14 | Mobiele winkelwagen | Zie hieronder: werkt. |
+
+### Variantfoto's (bij laden en na elke keuze, heen en terug)
+
+Eigen toets: het grote beeld moet het `featured_image` van de gekozen variant zijn. Desktop en iPhone 13 gelijk.
+
+| Product | Resultaat |
+|---|---|
+| bank-londen-6-zits-tan | Opgelost: Umber en Tan hebben elk een eigen beeld (alt "Bank Londen 6-zits in Umber"), laden toont Umber. |
+| bank-new-york | Opgelost: Coco en Beige verschillend, laden toont Coco. |
+| lantaarn-raffles | S en L goed, laden toont S. **XL heeft nog geen `featured_image`**: bij XL blijft het vorige beeld staan. Gegevensgat, geen themafout (koppelen via regel 2e). De L-foto heeft nog de alt "Loterij Lantaarn L InHuys" (bestaande alt, regel 4). |
+| ballenbak | Alle vijf varianten (OLIJF, beige, roos, BLAUW, KAMEEL) tonen een eigen foto, ook bij laden. Olijf is nu echt een olijfgroene bak. De alt van het olijfbeeld is nog "Ballenbak beige InHuys" (gedeeld bestand, regel 4). Kleurnamen nog inconsistent (OLIJF, beige, roos, BLAUW, KAMEEL). |
+| eetkamerstoel-sake | Opgelost voor vier kleuren; laden toont Oatly. |
+| eetkamerstoel-japandi | Goed: vier kleuren, eigen foto en alt. Optienaam is nog Engels ("color"). |
+| cloud-barstoel-creme | Goed (Crème en Karamel). |
+| schommel-play-chill | Goed, vijf kleuren, eigen foto's. Optienaam "kleur" met kleine letter, waarden "beige", "lichtblauw" klein tegen "Kameel", "Olijf", "Roos". Roos-foto heeft alt "in Roze". |
+
+### Mobiel: winkelwagen en checkout (iPhone 13, Octo-ketting Black Tiger L)
+
+- Toevoegen: knop "Voeg toe aan winkelkar", lade met artikel, subtotaal, Uitchecken en Bekijk winkelwagen. Winkelwagen telt 1 (badge in header).
+- `/cart`: plus brengt aantal 1 naar 2 (totaal 119,80), min terug naar 1, "Verwijderen" leegt de wagen ("Je winkelwagen is momenteel leeg", Recent bekeken blijft staan). Alles zonder fouten.
+- Uitchecken leidt naar `/checkouts/cn/...` (InHuys Checkout, snelle checkout, contact, bezorging, verzendwijze zegt "Voer je bezorgadres in"); niets ingevuld. Console alleen 401/403 van Shopify zelf.
+- Cookiebanner (Shopify) dekt op mobiel eerst twee derde van de pagina; na Accepteren werkt alles.
+
+### Overig (punt 4 van de opdracht)
+
+- Homepage: eerst h1 in server-HTML klopt (zie 10). `/collections`: h1 "Collectie". Winkelwagen: "Recent bekeken".
+- Footer: Interieuradvies, Werkwijze, Showroom Purmerend, Projecten, Over InHuys, Contact, Veelgestelde vragen, Kinderkamer, Privacybeleid, Contactgegevens, Herroepen, telefoon, e-mail. Werkend: Interieuradvies, Contact, Privacybeleid, Contactgegevens (200). 404 in voorvertoning: Werkwijze, Showroom, Projecten, Over InHuys, Veelgestelde vragen, Kinderkamer, Herroepen (ongepubliceerd). Footer toont geen Retourbeleid of Voorwaarden.
+- Levertijdzin: zie 9.
+
+### JSON-LD (homepage, bank Londen, Raffles, Play & Chill, Flitsadvies, `/collections/all`, interieuradvies)
+
+Alle blokken zijn geldige JSON. Homepage: Organization/LocalBusiness en WebSite, geen dubbelen meer. Producten: BreadcrumbList en Product met name, image, description, offers, `priceCurrency` EUR, `availability` InStock en prijs per variant (Londen 2 offers vanaf 4739,95; Raffles 3 vanaf 129,95; Play & Chill 5 vanaf 199,90). Fouten: **Flitsadvies `price` 0**; Product heeft telkens één `image`; broodkruimel Raffles en Play & Chill toont productnaam in de kruimel zonder collectie, Flitsadvies "Adviezen" (oude collectie), Play & Chill "rocking" (Engels producttype); Raffles-titel "maat S en L" terwijl er ook XL is.
+
+### Nieuwe problemen door de aanpassingen
+
+Geen verslechtering gevonden. Wel nieuw zichtbaar: (a) footerlink naar `/pages/herroepen` (404 tot publicatie); (b) hoofdmenu bevat nog `/collections/maatwerk` terwijl de homepage nu `kinderkamer` gebruikt; (c) `/pages/inspiratie` zonder h1; (d) Engelse producttype "rocking" in de broodkruimel en JSON-LD van Play & Chill. In de volledige-paginascreenshot van de winkelwagen (mobiel) lijkt de nieuwsbriefkop in de footer leeg: waarschijnlijk een scrollanimatie, niet bevestigd.
+
+### Nog te doen (bijgewerkt)
+
+| Nr | Punt | Ernst | Waar | Wie |
+|---|---|---|---|---|
+| 1 | Pagina's Projecten, Over InHuys, Werkwijze, Showroom, Veelgestelde vragen, Herroepen publiceren vóór of met het thema | blokkeert publicatie | pagina's | eigenaar (go-live), uitvoerder |
+| 2 | Negen collecties publiceren; menu `/collections/maatwerk` vervangen of uit het menu; daarna tegels en beelden op de homepage toetsen | blokkeert publicatie | collecties, menu | eigenaar, uitvoerder |
+| 3 | Retourbeleid, verzend- en algemene voorwaarden in Shopify (`/policies/refund-policy` 404) | blokkeert publicatie | Shopify-instelling | eigenaar |
+| 4 | Flitsadvies: eigen titel, meta description, tekst; prijs 0 (ook JSON-LD) en winkelwagenknop herzien | blokkeert publicatie | product | schrijver, eigenaar (prijs) |
+| 5 | Raffles XL: beeld aan variant koppelen; titel "maat S en L" nalopen | belangrijk | product (media, titel) | uitvoerder (regel 2e) |
+| 6 | Cookiebanner mobiel: tekst Customer privacy inkorten (nu 68 procent van het scherm) | belangrijk | Shopify-instelling | eigenaar |
+| 7 | Homepage-titel en -omschrijving (Voorkeuren), meta descriptions van `/collections`, `/collections/all`, contact en beleid; h1 op `/pages/inspiratie` | belangrijk | Shopify-instelling, thema/pagina | eigenaar, thema-agent |
+| 8 | Levertijd: waarden `inhuys.levertijd` per merk bevestigen en vullen | belangrijk | product (metaveld) | eigenaar, uitvoerder |
+| 9 | Verzendinfo in de checkout toetsen met een testadres | belangrijk | Shopify-instelling | eigenaar |
+| 10 | Kleurnamen gelijktrekken: Ballenbak (Olijf, Beige, Roos, Blauw, Kameel), Play & Chill (Beige, Lichtblauw), optienaam Japandi "Kleur" | klein | product (optiewaarden) | uitvoerder (`productOptionUpdate`, regel 2e) |
+| 11 | Producttypen opschonen ("rocking", Barstoel, Accessoires, Kinderkamer) zodat kruimel, JSON-LD en filter kloppen | klein | product (type) | schrijver, uitvoerder (regel 2a) |
+| 12 | Alt-teksten "Loterij Lantaarn L" en "Ballenbak beige" (olijfbeeld) corrigeren | klein | bestandsalt | eigenaar beslist (regel 4: gedeelde bestanden) |
+| 13 | Na publicatie opnieuw: collectietegels, footerlinks, menu, kruimels, cookiebanner op desktop | klein | testwerk | uitvoerder |
