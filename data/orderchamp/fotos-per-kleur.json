@@ -19,8 +19,12 @@
     "sku": "Art/Board-2",
     "voorraad": 2,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/files/Artboard_white_plexi_HD.jpg?v=1755557954"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    }
   ]
  },
@@ -111,8 +115,14 @@
     "sku": "871974353301",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/london-6-seater-with-ottoman-sofa-umber/1?itemCode=871974353301&hash=A813AE0C03115AF5E9D4A828A404CE3A",
+     "https://poletopole.nl/image/london-6-seater-with-ottoman-sofa-umber/2?itemCode=871974353301&hash=2392B198794F5C05BB0B49EE4DE73DB4",
+     "https://poletopole.nl/image/london-6-seater-with-ottoman-sofa-umber/3?itemCode=871974353301&hash=6D30F08716BBEC4AE172FE3E2BE2C4B8",
+     "https://poletopole.nl/image/london-6-seater-with-ottoman-sofa-umber/4?itemCode=871974353301&hash=81BB6FBB8620C675C11DBAD84E01875B"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/53093255774547",
@@ -204,8 +214,15 @@
     "sku": "872160652006",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/japandi-bar-chair-oatly/1?itemCode=872160652006&hash=F6C58B9019E1F18DE1231896308F2CCC",
+     "https://poletopole.nl/image/japandi-bar-chair-oatly/2?itemCode=872160652006&hash=600E68D4E6032E466E3A59978EC1A248",
+     "https://poletopole.nl/image/japandi-bar-chair-oatly/3?itemCode=872160652006&hash=8AA0BE5ECAD59F68162DBD25351B4014",
+     "https://poletopole.nl/image/japandi-bar-chair-oatly/4?itemCode=872160652006&hash=D60460A0A2F6BDB583F55909A8BA4A2C",
+     "https://poletopole.nl/image/japandi-bar-chair-oatly/5?itemCode=872160652006&hash=322B7941026E667FE6AF0AD6C912014D"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/55818619453779",
@@ -496,8 +513,15 @@
     "sku": "871974353105",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/egg-chair-mink/1?itemCode=871974353105&hash=17350619B5CAE559C87FA4CDFDF5C5C4",
+     "https://poletopole.nl/image/egg-chair-mink/2?itemCode=871974353105&hash=CE30367F8E034EEC7F0B98CE8B67CF56",
+     "https://poletopole.nl/image/egg-chair-mink/3?itemCode=871974353105&hash=8449A13E24DEDAE81FC2F72479AB5C91",
+     "https://poletopole.nl/image/egg-chair-mink/4?itemCode=871974353105&hash=F2F16496F266CDFBAD5457FDD7B15136",
+     "https://poletopole.nl/image/egg-chair-mink/5?itemCode=871974353105&hash=D3EE399CDEF6FA2ABABADE5FEACF75ED"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/53093249679699",
@@ -537,8 +561,15 @@
     "sku": "871974353313",
     "voorraad": 116,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/fuji-chair-tan/1?itemCode=871974353313&hash=FC9D9603A239FDD30BAD92B58B15FC3B",
+     "https://poletopole.nl/image/fuji-chair-tan/2?itemCode=871974353313&hash=253AF92233DDA7965A4DE7359F50480A",
+     "https://poletopole.nl/image/fuji-chair-tan/3?itemCode=871974353313&hash=799BCD92F9F55F3548AB253D30D27491",
+     "https://poletopole.nl/image/fuji-chair-tan/4?itemCode=871974353313&hash=49649B54DB6A9D5CF87E6FEB10757687",
+     "https://poletopole.nl/image/fuji-chair-tan/5?itemCode=871974353313&hash=EF6EA8917F151D845BA2CB5D2474AE9A"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/55817810641235",
@@ -562,8 +593,15 @@
     "sku": "872160652010",
     "voorraad": 15,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/fuji-chair-oatly/1?itemCode=872160652010&hash=F900225BFC13F04A124AC0DF25913B72",
+     "https://poletopole.nl/image/fuji-chair-oatly/2?itemCode=872160652010&hash=85AE07FF3909C7BBA4539E4D7DFA37DE",
+     "https://poletopole.nl/image/fuji-chair-oatly/3?itemCode=872160652010&hash=C696982A088264B878BD7DA612A0FA14",
+     "https://poletopole.nl/image/fuji-chair-oatly/4?itemCode=872160652010&hash=8A9BD3F834DEFE980F99F37126A4F20D",
+     "https://poletopole.nl/image/fuji-chair-oatly/5?itemCode=872160652010&hash=3F6FA4C12D69B3775FB30D8043108FEC"
+    ]
    }
   ]
  },
@@ -577,8 +615,15 @@
     "sku": "871974353226",
     "voorraad": 984,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/japandi-chair-umber/1?itemCode=871974353226&hash=A2539D3BB483434A3771197ED8914979",
+     "https://poletopole.nl/image/japandi-chair-umber/2?itemCode=871974353226&hash=DE1BD27BDEF358E15FC57282CC4E7D27",
+     "https://poletopole.nl/image/japandi-chair-umber/3?itemCode=871974353226&hash=AC91A48EBFCD5EBD750B9EEF0173C08A",
+     "https://poletopole.nl/image/japandi-chair-umber/4?itemCode=871974353226&hash=F56A307DB50E54E1AE1AE791F268D9DA",
+     "https://poletopole.nl/image/japandi-chair-umber/5?itemCode=871974353226&hash=FED03D78ACDDC02AF1F810D2BFB078B1"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/55627542069587",
@@ -586,8 +631,15 @@
     "sku": "871974353227",
     "voorraad": 650,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/japandi-chair-tan/1?itemCode=871974353227&hash=906543671912942FF25F73C0DCF2E458",
+     "https://poletopole.nl/image/japandi-chair-tan/2?itemCode=871974353227&hash=4D009C45B0A8A3FF652E6D7CC9AEAF10",
+     "https://poletopole.nl/image/japandi-chair-tan/3?itemCode=871974353227&hash=753960AED3BF7600A1CF8FBBD64AAE71",
+     "https://poletopole.nl/image/japandi-chair-tan/4?itemCode=871974353227&hash=CAF8518EFFB5D75A042DDEB6D52E5BF8",
+     "https://poletopole.nl/image/japandi-chair-tan/5?itemCode=871974353227&hash=8426232CDF97606E33A7E04AAA4A6688"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/55627542004051",
@@ -595,8 +647,15 @@
     "sku": "872160652004",
     "voorraad": 107,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/japandi-chair-oatly/1?itemCode=872160652004&hash=5511C6437076A64BE154B0A7F7720046",
+     "https://poletopole.nl/image/japandi-chair-oatly/2?itemCode=872160652004&hash=9AC93EEA44182C03F7F97190E05995B7",
+     "https://poletopole.nl/image/japandi-chair-oatly/3?itemCode=872160652004&hash=990C49D9F09290BADC10CB1EFEAC91E6",
+     "https://poletopole.nl/image/japandi-chair-oatly/4?itemCode=872160652004&hash=D939AE11AAB4133BD0CA99EF18A3B92D",
+     "https://poletopole.nl/image/japandi-chair-oatly/5?itemCode=872160652004&hash=BB3201F5D4D9A4C35FF72A4471393475"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/55627542102355",
@@ -604,8 +663,15 @@
     "sku": "871974353225",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/japandi-chair-okura/1?itemCode=871974353225&hash=C04CD3D2549AF7C0EBAD657ABF33592C",
+     "https://poletopole.nl/image/japandi-chair-okura/2?itemCode=871974353225&hash=024A985279684ACB0E84993F6761C33B",
+     "https://poletopole.nl/image/japandi-chair-okura/3?itemCode=871974353225&hash=AFF7F148631C52CF3E155B16CE89CA4B",
+     "https://poletopole.nl/image/japandi-chair-okura/4?itemCode=871974353225&hash=C3C933CF28184F6FB22ED8F4AFB1833E",
+     "https://poletopole.nl/image/japandi-chair-okura/5?itemCode=871974353225&hash=5875D1D0A6A9375E003AA2E9D326F9ED"
+    ]
    }
   ]
  },
@@ -629,8 +695,15 @@
     "sku": "871974353234",
     "voorraad": 205,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/mera-chair-cream/1?itemCode=871974353234&hash=B4363426A93FFB021A07FB8C2368678C",
+     "https://poletopole.nl/image/mera-chair-cream/2?itemCode=871974353234&hash=E13CB85960F5227D20563CF9E8FCAE21",
+     "https://poletopole.nl/image/mera-chair-cream/3?itemCode=871974353234&hash=D9B706BC4E6BB37FAF9616CBD9FD790F",
+     "https://poletopole.nl/image/mera-chair-cream/4?itemCode=871974353234&hash=AE0225F89F021B153EE5FAF2A70A154C",
+     "https://poletopole.nl/image/mera-chair-cream/5?itemCode=871974353234&hash=8B98837C1A8834C2A2F039AD40C85738"
+    ]
    }
   ]
  },
@@ -676,8 +749,15 @@
     "sku": "871974353310",
     "voorraad": 193,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/osaka-chair-tan/1?itemCode=871974353310&hash=483ED5E27761137D51C90C3E887B4A65",
+     "https://poletopole.nl/image/osaka-chair-tan/2?itemCode=871974353310&hash=92863347B6FEBEFED44A99469602A0F4",
+     "https://poletopole.nl/image/osaka-chair-tan/3?itemCode=871974353310&hash=C7055A5FEC192B6655C58F68D198065A",
+     "https://poletopole.nl/image/osaka-chair-tan/4?itemCode=871974353310&hash=C127C938A4B49205B9655E89C1D80A77",
+     "https://poletopole.nl/image/osaka-chair-tan/5?itemCode=871974353310&hash=19BB365043AFC4AA32222B7FABF5A0B5"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/55762012275027",
@@ -685,8 +765,15 @@
     "sku": "872160652009",
     "voorraad": 191,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/osaka-chair-oatly/1?itemCode=872160652009&hash=CA6B6812F91F8A5DA826EAF154CCB439",
+     "https://poletopole.nl/image/osaka-chair-oatly/2?itemCode=872160652009&hash=309ED27D599878AEA555FD30407B0B21",
+     "https://poletopole.nl/image/osaka-chair-oatly/3?itemCode=872160652009&hash=A40CD33B28AD14DE30BD36D9B20CD103",
+     "https://poletopole.nl/image/osaka-chair-oatly/4?itemCode=872160652009&hash=2267391C9A1CF71A180720C92F410910",
+     "https://poletopole.nl/image/osaka-chair-oatly/5?itemCode=872160652009&hash=B650A834E499FFA2C73224F06C6834C2"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/55762012209491",
@@ -865,8 +952,15 @@
     "sku": "872160652008",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/sake-chair-oatly/1?itemCode=872160652008&hash=50FF5764C43A918053FD552F58427A3E",
+     "https://poletopole.nl/image/sake-chair-oatly/2?itemCode=872160652008&hash=784B5C41002C4F51A41F0A4E189821BE",
+     "https://poletopole.nl/image/sake-chair-oatly/3?itemCode=872160652008&hash=078C14E54C3C115CA9E38AEE7052C05E",
+     "https://poletopole.nl/image/sake-chair-oatly/4?itemCode=872160652008&hash=15B08B3A8B76009EBD9B5DFC1073E5BA",
+     "https://poletopole.nl/image/sake-chair-oatly/5?itemCode=872160652008&hash=EC7FA611E66F4E92AB80EE7F7ACFF68F"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/55762014699859",
@@ -890,8 +984,15 @@
     "sku": "871974353304",
     "voorraad": 127,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/sake-chair-tan/1?itemCode=871974353304&hash=B9AD516422AF7FC9FD8472B2570BC27E",
+     "https://poletopole.nl/image/sake-chair-tan/2?itemCode=871974353304&hash=8D0B1F3CE690BF20020DE6486FBB583B",
+     "https://poletopole.nl/image/sake-chair-tan/3?itemCode=871974353304&hash=E4EDDED6E663425CF4F5EA1AB33EFB5C",
+     "https://poletopole.nl/image/sake-chair-tan/4?itemCode=871974353304&hash=EE811964A128A0A960739706D716E269",
+     "https://poletopole.nl/image/sake-chair-tan/5?itemCode=871974353304&hash=B0662FD45C14381F70B2F490C33FFC0E"
+    ]
    }
   ]
  },
@@ -905,8 +1006,12 @@
     "sku": "Wec-Oli",
     "voorraad": 52,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/products/wechselcover-fur-indoor-jumpspot-711970.jpg?v=1726040294"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    },
    {
     "variant": "gid://shopify/ProductVariant/52854700343635",
@@ -914,8 +1019,12 @@
     "sku": "Wec-Bei",
     "voorraad": 52,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/products/wechselcover-fur-indoor-jumpspot-132635.jpg?v=1726040294"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    },
    {
     "variant": "gid://shopify/ProductVariant/52854700409171",
@@ -923,8 +1032,12 @@
     "sku": "Wec-Ros",
     "voorraad": 83,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/products/wechselcover-fur-indoor-jumpspot-855513.jpg?v=1726040294"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    },
    {
     "variant": "gid://shopify/ProductVariant/52854700441939",
@@ -942,8 +1055,12 @@
     "sku": "Wec-Bla",
     "voorraad": 82,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/products/wechselcover-fur-indoor-jumpspot-468693.jpg?v=1726040294"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    }
   ]
  },
@@ -957,8 +1074,12 @@
     "sku": "Tra/Bra",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/files/transformcover-fur-outdoor-jumpspot-541801.jpg?v=1726040413"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    },
    {
     "variant": "gid://shopify/ProductVariant/52854700245331",
@@ -966,8 +1087,12 @@
     "sku": "Tra/Sch",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/files/transformcover-fur-outdoor-jumpspot-899919.jpg?v=1726040413"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    },
    {
     "variant": "gid://shopify/ProductVariant/52854700278099",
@@ -975,8 +1100,12 @@
     "sku": "Tra/Gra",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/files/transformcover-fur-outdoor-jumpspot-570331.jpg?v=1726040413"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    }
   ]
  },
@@ -1047,7 +1176,8 @@
     "voorraad": 0,
     "gekoppeld": false,
     "actie": "geen bron",
-    "bron": ""
+    "bron": "",
+    "reden": "SKU 871917285788 niet op poletopole.nl (niet in product-sitemap); geen merkbron gevonden"
    },
    {
     "variant": "gid://shopify/ProductVariant/53093238604115",
@@ -1081,8 +1211,15 @@
     "sku": "871974353111",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/luna-chair-gold/1?itemCode=871974353111&hash=60ABF6C8E08C81016FD4187F41DA2883",
+     "https://poletopole.nl/image/luna-chair-gold/2?itemCode=871974353111&hash=00397C96B2EE0E54A2A32359A47DD86B",
+     "https://poletopole.nl/image/luna-chair-gold/3?itemCode=871974353111&hash=56A82ED0F6B2795601223D6A373A010B",
+     "https://poletopole.nl/image/luna-chair-gold/4?itemCode=871974353111&hash=CF5BC22D354CBA40FF3AD851FC131FC1",
+     "https://poletopole.nl/image/luna-chair-gold/5?itemCode=871974353111&hash=3BA382719B4E5DFD89509BE4710E4038"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/53093249778003",
@@ -1106,8 +1243,15 @@
     "sku": "872160652011",
     "voorraad": 180,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite poletopole.nl",
+    "urls": [
+     "https://poletopole.nl/image/scandi-chair-oatly/1?itemCode=872160652011&hash=19DADDE33A459844192D08F65EC3F70B",
+     "https://poletopole.nl/image/scandi-chair-oatly/2?itemCode=872160652011&hash=76004E92F1747D42426CC6F7710D81F1",
+     "https://poletopole.nl/image/scandi-chair-oatly/3?itemCode=872160652011&hash=833AA4C1D27439BE1CA8E0A2B5BD4E07",
+     "https://poletopole.nl/image/scandi-chair-oatly/4?itemCode=872160652011&hash=F0BDDE522B274BB1AC3A99BF0F807575",
+     "https://poletopole.nl/image/scandi-chair-oatly/5?itemCode=872160652011&hash=E4C0EFE089FD9C93451FD6239941A57D"
+    ]
    },
    {
     "variant": "gid://shopify/ProductVariant/55762003493203",
@@ -1228,8 +1372,12 @@
     "sku": "SWEG2",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/files/play-chill-schaukel-573117.jpg?v=1762529953"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    },
    {
     "variant": "gid://shopify/ProductVariant/52854700114259",
@@ -1237,8 +1385,12 @@
     "sku": "SWEG3",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/files/play-chill-schaukel-878774.jpg?v=1762529953"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    },
    {
     "variant": "gid://shopify/ProductVariant/52854700212563",
@@ -1256,8 +1408,12 @@
     "sku": "SWEG4",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/files/play-chill-schaukel-554920.jpg?v=1726040134"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    },
    {
     "variant": "gid://shopify/ProductVariant/52854700179795",
@@ -1265,8 +1421,12 @@
     "sku": "SWEG5",
     "voorraad": 100,
     "gekoppeld": false,
-    "actie": "geen bron",
-    "bron": ""
+    "actie": "toevoegen en koppelen",
+    "bron": "merksite jupiduu.com",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0001/8251/7807/files/play-chill-schaukel-573993.jpg?v=1762529953"
+    ],
+    "reden": "merksite heeft maar 1 foto voor deze kleur"
    }
   ]
  },

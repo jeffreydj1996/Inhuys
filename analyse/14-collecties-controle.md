@@ -226,3 +226,22 @@ Wijzigingen (alleen op de ongepubliceerde concept-collecties, geen product en ge
 4. **Windlichten en kaarsenhouders**: eruit marmer-waxinelichthouder, waxinelichthouder-marmer, Atlas, Soleil, loterijen-lantaarn-m (concept) en lantaarn-raffles-s (kan weg). Over: Raffles en Peninsula.
 5. **Maatwerk**: ongewijzigd, leeg en ongepubliceerd; niet publiceren tot er projectfoto's zijn.
 6. Banken, Stoelen, Barkrukken, Tafels, Kinderkamer: ongewijzigd (regels op type of merk).
+
+## Collectiebeelden 23 november
+
+Gekozen: eerste (hoofd)foto van een actief product met voorraad, minstens 1000 px breed; bestandsnamen en alt bevatten geen sfeer-aanwijzing, dus geen sfeerselectie mogelijk. Maatwerk is leeg en blijft zonder beeld.
+
+| Collectie | Product | Foto-URL |
+|---|---|---|
+| Banken | bank-londen-3-zits-ottoman-umber | https://cdn.shopify.com/s/files/1/0965/8128/8275/files/10529336-ee25-4a1a-922c-e6439c1eb799_1200x1200_fill.jpg |
+| Stoelen | whale-stoel-coco-set-van-2 | https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ead8db8a-ea1b-41e7-8f8e-2b661f0a679a_1200x1200_fill.jpg |
+| Fauteuils en loungestoelen | draaistoel-storm | https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c8ebd725-f275-49bf-bba3-e760ac19ce68_1200x1200_fill.jpg |
+| Barkrukken | barkruk-japandi-tan-set-van-2 | https://cdn.shopify.com/s/files/1/0965/8128/8275/files/da0b717d-14e1-4628-933c-4ae5eab3b1a1_1200x1200_fill.jpg |
+| Tafels | eettafel-ellipse | https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1de62680-a666-4747-b1fe-6e6a4287ae7c_1200x1200_fill.jpg |
+| Vazen | vaas-meduse | https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b6333d44-ba5a-4a46-83b3-b8e181eae198_1200x1200_fill.jpg |
+| Windlichten en kaarsenhouders | lantaarn-raffles | https://cdn.shopify.com/s/files/1/0965/8128/8275/files/edb1dd52-7527-403f-8680-b472532c2413_1200x1200_fill.jpg |
+| Decoratie | schelpentoren-pearl | https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f188afb1-242b-41c6-a393-cfb7d9c7a7d0_1200x1200_fill.jpg |
+| Maatwerk | (leeg, geen beeld) | - |
+| Kinderkamer | ballenbak | https://cdn.shopify.com/s/files/1/0965/8128/8275/files/71f55b3b-82cb-4b86-b218-c3f8120e0991_1200x1200_fill.jpg |
+
+Alt-tekst per collectie: "<Collectienaam> · InHuys". Mutatie: collectionUpdate(collection: {id, image}) (het argument `input` is deprecated in deze API-versie).
