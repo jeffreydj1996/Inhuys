@@ -16,7 +16,7 @@ Kluster, handelend onder de naam InHuys, is de verwerkingsverantwoordelijke.
 Netwerk 124, 1446 WR Purmerend · info@in-huys.nl · +31 6 12932148  
 KvK 88545857 · btw NL8680053B01
 
-Wij hebben geen functionaris voor gegevensbescherming aangewezen. Met vragen kun je terecht bij het e-mailadres hierboven.
+Met vragen over je gegevens kun je terecht bij het e-mailadres hierboven.
 
 ## Welke gegevens, waarvoor en op welke grond
 
@@ -62,8 +62,8 @@ Sommige van deze partijen zitten buiten de Europese Economische Ruimte. Dan zorg
 | Gegevens | Bewaartermijn |
 |---|---|
 | Gegevens van bestellingen en facturen | 7 jaar, de wettelijke fiscale bewaarplicht |
-| Contactformulieren, e-mail en klachten | tot twee jaar na afhandeling |
-| Gegevens van een adviestraject | tot twee jaar na afronding, tenzij je eerder verzoekt om verwijdering |
+| Contactformulieren, e-mail en klachten | [AANVULLEN: bewaartermijn] |
+| Gegevens van een adviestraject | [AANVULLEN: bewaartermijn] |
 | Nieuwsbrief | tot je je uitschrijft |
 | Foto's voor de AI-kamerpreview | [AANVULLEN] |
 

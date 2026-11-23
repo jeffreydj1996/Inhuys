@@ -313,5 +313,11 @@
     "windlichten-en-kaarsenhouders": "gid://shopify/CollectionConditionsSource/52032110931",
     "decoratie": "gid://shopify/CollectionConditionsSource/52032143699",
     "kinderkamer": "gid://shopify/CollectionConditionsSource/52032176467"
+  },
+  "fase_ab": {
+    "mutaties": [
+      "shopPolicyUpdate"
+    ],
+    "live_thema_bestanden": []
   }
 }

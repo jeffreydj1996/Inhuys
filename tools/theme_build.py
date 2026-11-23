@@ -40,6 +40,8 @@ cur["cookie_consent_theme"] = "white"
 cur["cookie_consent_message"] = "We gebruiken cookies om de site te laten werken en om te zien welke pagina's bezocht worden. Geen advertentiecookies zonder je toestemming."
 cur["cookie_consent_allow"] = "Akkoord"; cur["cookie_consent_decline"] = "Weigeren"; cur["cookie_consent_learnmore"] = "Privacybeleid"; cur["cookie_consent_learnmore_link"] = "/policies/privacy-policy"
 log("config/settings_data.json", "Placeholder-sociallinks en neplabels verwijderd (WhatsApp blijft); telefoonnummer en e-mail ingevuld; cookiebanner licht en in het Nederlands.")
+cur["popular_search_queries"] = "Eetkamerstoel, Bank, Fauteuil, Eettafel, Vaas"
+log("config/settings_data.json", "B5: zoeksuggesties 'T-Shirt, Blue, Jacket' vervangen door Nederlandse categorieen (Eetkamerstoel, Bank, Fauteuil, Eettafel, Vaas).")
 dump("config/settings_data.json", sd)
 
 # ---------------- sections/header-group.json ----------------
@@ -57,6 +59,8 @@ dump("sections/header-group.json", hg)
 
 # ---------------- sections/footer-group.json ----------------
 fg = load_json("sections/footer-group.json"); ft = fg["sections"]["footer"]
+fg["sections"].pop("age-verifier-popup", None); fg["order"] = [x for x in fg["order"] if x != "age-verifier-popup"]
+log("sections/footer-group.json", "B5: leeftijdscheck (age-verifier-popup, Engelse tekst 'Confirm your age') uit de footer-groep verwijderd.")
 ft["settings"].update({"copyright": f"© InHuys 2026 · {TAGLINE}", "show_social_links": False, "show_payment_icons": True, "show_menu_item_divider": False})
 menus_seen = 0
 for bid, b in ft["blocks"].items():
@@ -94,6 +98,8 @@ new["projecten"] = {"type": "multiple-image-with-text", "blocks": {
     "project2": {"type": "image_with_text", "settings": {"image": "shopify://shop_images/Kopie_van_Schetsindeling_meubels.jpg", "title": "[Project 2 · plaats]", "sub_title": "3D-ontwerp en maatwerk", "text": "<p>[Plaatshouder: opgave, keuzes en resultaat in drie zinnen.]</p>", "text_size": "medium", "text_alignment": "left", "button_label": "Bekijk het project", "button_link": "/pages/projecten", "button_style": "m-button--link"}}},
     "block_order": ["project1", "project2"],
     "settings": {"heading": "Projecten", "heading_size": "h3", "subheading": "Wat we maken, van plattegrond tot laatste vaas", "header_alignment": "center", "container": "container-fluid", "color_scheme": "", "column_gap": 60, "column_gap_mobile": 16, "show_pagination": False, "show_navigation": True, "autorotate": False, "padding_top": 40, "padding_bottom": 40, "custom_class": "", "animations": "inherit"}}
+new["projecten"]["disabled"] = True
+log("templates/index.json", "B5: projectenblok met plaatshouders ('[Project 1 · plaats]') uitgeschakeld (disabled) tot er echte projecten en foto's zijn; sectie blijft staan zodat de eigenaar hem later aanzet.")
 colls = [("banken", "Banken"), ("stoelen", "Stoelen"), ("fauteuils", "Fauteuils en loungestoelen"), ("barkrukken", "Barkrukken"), ("tafels", "Tafels"), ("vazen", "Vazen"), ("windlichten-en-kaarsenhouders", "Windlichten en kaarsenhouders"), ("decoratie", "Decoratie"), ("maatwerk", "Maatwerk")]
 cl = copy.deepcopy(old["collection_list_tjXYY7"])
 cl["blocks"] = {f"col_{h.replace('-', '_')}": {"type": "collection_block", "settings": {"collection": h, "title": t}} for h, t in colls}
@@ -126,10 +132,9 @@ dump("templates/index.json", ix)
 pj = load_json("templates/product.json"); main = pj["sections"]["main"]
 main["blocks"]["variant_picker"]["settings"]["size_title"] = "Maat"
 main["blocks"]["inventory_status_wbzGXC"]["settings"].update({"backordered_text": "<p>Op bestelling</p>", "low_text": "", "normal_text": "", "outofstock_text": "<p>Tijdelijk niet leverbaar</p>"})
-main["blocks"]["shipping_VBJFtx"]["settings"].update({"deliver_text": "Verwachte levering:", "deliver_days": "14", "date_format": "%d %b", "shipping_text": "<p><strong>Levering</strong> via onze merkpartner; de levertijd staat bij elk product. <strong>Vragen?</strong> Plan een gratis Flitsadvies.</p>"})
 main["blocks"]["trust_badge_NyBMd4"]["settings"]["trust_badges_text"] = "<p>Veilig afrekenen met iDEAL, creditcard en meer</p>"
-SPECS_LIQUID = """{%- assign keys = "afmetingen|zithoogte|zitdiepte|gewicht|materiaal_frame|materiaal_bekleding|afwerking|set_inhoud|onderhoud|herkomst|levertijd|garantie" | split: "|" -%}
-{%- assign labels = "Afmetingen (h × b × d)|Zithoogte|Zitdiepte|Gewicht|Materiaal frame|Materiaal bekleding|Kleur en afwerking|Set-inhoud|Onderhoud|Herkomst|Levertijd|Garantie" | split: "|" -%}
+SPECS_LIQUID = """{%- assign keys = "afmetingen|zithoogte|zitdiepte|gewicht|materiaal_frame|materiaal_bekleding|afwerking|set_inhoud|onderhoud|herkomst|garantie" | split: "|" -%}
+{%- assign labels = "Afmetingen (h × b × d)|Zithoogte|Zitdiepte|Gewicht|Materiaal frame|Materiaal bekleding|Kleur en afwerking|Set-inhoud|Onderhoud|Herkomst|Garantie" | split: "|" -%}
 {%- assign has = false -%}
 {%- for k in keys -%}{%- assign v = product.metafields.inhuys[k] -%}{%- if v != blank -%}{%- assign has = true -%}{%- endif -%}{%- endfor -%}
 {%- if has -%}
@@ -152,17 +157,29 @@ main["blocks"]["specificaties_inhuys"] = {"type": "custom_liquid", "settings": {
 main["blocks"]["advies_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": ADVIES_LIQUID}}
 main["blocks"]["uitvoeringen_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": UITVOERINGEN_LIQUID}}
 main["block_order"] = ["badge_ChqgGj", "title", "short_description_inhuys", "uitvoeringen_inhuys", "price", "variant_picker", "ai_room_preview_dygHXd", "inventory_status_wbzGXC", "buy_buttons", "shipping_VBJFtx", "trust_badge_NyBMd4", "description_d6MgGK", "specificaties_inhuys", "advies_inhuys"]
+RETOUR = "Je hebt 14 dagen bedenktijd na ontvangst. Retourneren kost je € 6,95 voor een pakket en € 49 voor een meubel; maatwerk is uitgezonderd. Alle voorwaarden staan in het <a href='/policies/refund-policy'>retourbeleid</a>."
+LEVERTIJD_LIQUID = """{%- assign levertijd = product.metafields.inhuys.levertijd -%}
+{%- if levertijd != blank -%}
+<style>.inhuys-levertijd{margin-top:16px;font-size:14px}.inhuys-levertijd p{margin:0}</style>
+<div class="inhuys-levertijd"><p><strong>Levertijd:</strong> {{ levertijd }}</p></div>
+{%- endif -%}"""
+del main["blocks"]["shipping_VBJFtx"]
+main["blocks"]["levertijd_inhuys"] = {"type": "custom_liquid", "settings": {"custom_liquid": LEVERTIJD_LIQUID}}
+main["block_order"] = ["levertijd_inhuys" if b == "shipping_VBJFtx" else b for b in main["block_order"]]
+log("templates/product.json", "B4: leverdatumblok ('Verwachte levering' met vaste 14 dagen en berekende datum) vervangen door blok 'levertijd_inhuys': toont 'Levertijd: <tekst>' uit het productmetaveld inhuys.levertijd en niets als dat leeg is; geen berekende datum. De rij 'Levertijd' is uit de specificatietabel gehaald om dubbel tonen te voorkomen.")
 ib = pj["sections"]["icon_box_9UtNky"]; ib["settings"]["heading"] = "Waarom InHuys"
 texts = [("Advies inbegrepen", "<p>Twijfel je over maat, kleur of combinatie? Plan een gratis Flitsadvies, online of in de showroom.</p>", "/pages/interieuradvies"),
-         ("Levering via onze merkpartners", "<p>De levertijd staat bij elk product. Bij een inrichting via InHuys zijn we bij de levering aanwezig.</p>", "/pages/veelgestelde-vragen"),
+         ("Levering via onze merkpartners", "<p>Bij een inrichting via InHuys zijn we bij de levering aanwezig.</p>", "/pages/veelgestelde-vragen"),
          ("Showroom in Purmerend", "<p>Kom proefzitten en voel de stalen. Op afspraak, ook 's avonds. Netwerk 124, bij Kluster.</p>", "/pages/showroom")]
 for (bid, b), (t, d, l) in zip(ib["blocks"].items(), texts): b["settings"].update({"title": t, "description": d, "button_label": "Meer", "button_link": l, "link": l})
 ct = pj["sections"]["collapsible_tabs_JndiBV"]; ct.pop("disabled", None); ct["settings"].update({"heading": "Veelgestelde vragen", "padding_top": 60, "padding_bottom": 40})
 ct["blocks"] = {"faq_product": {"type": "liquid", "settings": {"header": "Over dit product", "custom_liquid": "{%- if product.metafields.inhuys.faq != blank -%}{{ product.metafields.inhuys.faq | metafield_tag }}{%- else -%}<p>Stel je vraag via een gratis Flitsadvies; we antwoorden binnen twee werkdagen.</p>{%- endif -%}"}},
-                "faq_algemeen": {"type": "item", "settings": {"header": "Levering, retour en advies", "text_size": "h4", "content": "<p>Levertijden staan bij elk product. Retourneren kan binnen veertien dagen; maatwerk is uitgezonderd. Meer antwoorden vind je op de pagina Veelgestelde vragen.</p>", "open": False}}}
+                "faq_algemeen": {"type": "item", "settings": {"header": "Levering, retour en advies", "text_size": "h4", "content": "<p>De levertijd staat bij het product zodra die bekend is. " + RETOUR + " Meer antwoorden vind je op de pagina Veelgestelde vragen.</p>", "open": False}}}
 ct["block_order"] = ["faq_product", "faq_algemeen"]
 pj["sections"]["product-details-tabs"]["blocks"]["description"]["settings"]["header"] = "Omschrijving"
 pj["sections"]["product-details-tabs"]["blocks"]["tab"]["settings"]["header"] = "Levering en retour"
+pj["sections"]["product-details-tabs"]["blocks"]["tab"]["settings"]["content"] = "<h3>Levering & retour</h3><p>Dit item wordt geleverd via onze merkpartner. De levertijd staat bij het product zodra die bekend is. " + RETOUR + "</p>"
+log("templates/product.json", "B6: tab 'Levering en retour' en FAQ 'Levering, retour en advies' gelijkgetrokken: 14 dagen bedenktijd na ontvangst, retourkosten voor de klant (pakket € 6,95, meubel € 49), maatwerk uitgezonderd, link naar /policies/refund-policy; geen 'in originele staat'; geen 'wettelijke termijn' meer zonder getal.")
 pj["sections"]["recent-viewed-products"]["settings"]["heading"] = "Recent bekeken"
 pj["sections"]["product-recommendations"]["settings"]["heading"] = "Anderen bekeken ook"
 pj["order"] = ["breadcrumb", "main", "product-details-tabs", "collapsible_tabs_JndiBV", "product-recommendations", "icon_box_9UtNky", "recent-viewed-products"]
@@ -214,9 +231,44 @@ dump("templates/page.interieuradvies.json", pa)
 tl = open(f"{SRC}/layout/theme.liquid", encoding="utf-8").read()
 tl2 = tl.replace('<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">', '<meta name="viewport" content="width=device-width, initial-scale=1">')
 tl2 = tl2.replace("{% render 'theme-data' %}", "{% render 'theme-data' %}\n    {% render 'inhuys-schema' %}")
+tl2 = tl2.replace('<meta name="theme-color" content="{{ settings.color_primary }}">', '<meta name="theme-color" content="{{ settings.color_primary }}">\n    {% if template contains \'cart\' or template contains \'search\' %}<meta name="robots" content="noindex">{% endif %}')
+assert tl2.count('content="noindex"') == 1
 assert tl2 != tl
+log("layout/theme.liquid", "B7: noindex voor winkelwagen en zoeken (meta robots noindex als template 'cart' of 'search' bevat); zoeken en cart blijven bereikbaar, maar komen niet in de index.")
 log("layout/theme.liquid", "Viewport-meta zonder zoomblokkade (toegankelijkheidsfout uit PageSpeed); snippet 'inhuys-schema' gerenderd in de head.")
 dump("layout/theme.liquid", tl2, as_json=False)
+
+# ---------------- B7: H1 op de hero van de pagina's (interieuradvies, inspiratie) ----------------
+hero = open(f"{SRC}/sections/image-with-text-2.liquid", encoding="utf-8").read()
+hero2, n = re.subn(r'<h2( class="m-hero__title[^>]*>\s*\{\{ section\.settings\.title \}\}\s*)</h2>', r'<h1\1</h1>', hero)
+assert n == 1, n
+log("sections/image-with-text-2.liquid", "B7: de titel van de hero is nu een <h1> in plaats van <h2> (zelfde klassen, dus zelfde opmaak). Dit geeft /pages/interieuradvies ('Interieuradvies') en /pages/inspiratie een H1; op beide pagina's is de 'main'-paginasectie uitgeschakeld en staat er maar één hero aan. Er is geen page.json of andere hero-gebruiker in de kopie.")
+dump("sections/image-with-text-2.liquid", hero2, as_json=False)
+
+# ---------------- B3/B5: collectiesjablonen ----------------
+cj = load_json("templates/collection.json")
+cj["sections"].pop("brands_list_c4BqNb", None); cj["order"] = [x for x in cj["order"] if x != "brands_list_c4BqNb"]
+cj["sections"]["recent-viewed"]["settings"]["heading"] = "Recent bekeken"
+log("templates/collection.json", "B3: merkenslider (sectie brands-list met mooisa, jesper-home en 28 andere kapotte links) verwijderd; B5: 'Recently Viewed Products' wordt 'Recent bekeken'.")
+dump("templates/collection.json", cj)
+cm = load_json("templates/collection.merk-collectie.json")
+cm["sections"]["recent-viewed"]["settings"]["heading"] = "Recent bekeken"
+log("templates/collection.merk-collectie.json", "B5: 'Recently Viewed Products' wordt 'Recent bekeken'.")
+dump("templates/collection.merk-collectie.json", cm)
+
+# ---------------- B2: dubbele Organization en WebSite uit de header ----------------
+hdr = open(f"{SRC}/sections/header.liquid", encoding="utf-8").read()
+hdr2, n1 = re.subn(r'<script type="application/ld\+json">\s*\{\s*"@context": "http://schema.org",\s*"@type": "Organization".*?</script>\s*', '', hdr, count=1, flags=re.S)
+hdr2, n2 = re.subn(r"\{% if request\.page_type == 'index' %\}\s*\{% assign potential_action_target.*?\{% endif %\}\s*", '', hdr2, count=1, flags=re.S)
+assert (n1, n2) == (1, 1) and "ld+json" not in hdr2, (n1, n2)
+log("sections/header.liquid", "B2: Minimog-blokken Organization (met sameAs vol lege social-links) en WebSite uit de header verwijderd; alleen snippet inhuys-schema levert nog Organization/LocalBusiness en WebSite.")
+dump("sections/header.liquid", hdr2, as_json=False)
+
+# ---------------- B5: 'Redden' in de locale ----------------
+loc = open(f"{SRC}/locales/nl.json", encoding="utf-8").read()
+assert loc.count('"save": "Redden"') == 1
+dump("locales/nl.json", loc.replace('"save": "Redden"', '"save": "Opslaan"'), as_json=False)
+log("locales/nl.json", "B5: winkelwagenlade-knop 'Redden' (letterlijke vertaling van 'Save') wordt 'Opslaan'.")
 
 SCHEMA = """{%- comment -%} InHuys · Organization/LocalBusiness, WebSite en BreadcrumbList (fase 2) {%- endcomment -%}
 {%- liquid
@@ -228,19 +280,26 @@ SCHEMA = """{%- comment -%} InHuys · Organization/LocalBusiness, WebSite en Bre
       if c == blank
         assign c = product.collections.first
       endif
+      assign t_product = product.title | json
+      assign u_product = '/products/' | append: product.handle
       if c != blank
-        assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: c.title | json | append: ',"item":"' | append: home | append: c.url | append: '"},'
-        assign crumbs = crumbs | append: '{"@type":"ListItem","position":3,"name":' | append: product.title | json | append: ',"item":"' | append: home | append: product.url | append: '"}'
+        assign t_collection = c.title | json
+        assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: t_collection | append: ',"item":"' | append: home | append: c.url | append: '"},'
+        assign crumbs = crumbs | append: '{"@type":"ListItem","position":3,"name":' | append: t_product | append: ',"item":"' | append: home | append: u_product | append: '"}'
       else
-        assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: product.title | json | append: ',"item":"' | append: home | append: product.url | append: '"}'
+        assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: t_product | append: ',"item":"' | append: home | append: u_product | append: '"}'
       endif
     when 'collection'
-      assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: collection.title | json | append: ',"item":"' | append: home | append: collection.url | append: '"}'
+      assign t_collection = collection.title | json
+      assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: t_collection | append: ',"item":"' | append: home | append: collection.url | append: '"}'
     when 'page'
-      assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: page.title | json | append: ',"item":"' | append: home | append: page.url | append: '"}'
+      assign t_page = page.title | json
+      assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: t_page | append: ',"item":"' | append: home | append: page.url | append: '"}'
     when 'article'
-      assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: blog.title | json | append: ',"item":"' | append: home | append: blog.url | append: '"},'
-      assign crumbs = crumbs | append: '{"@type":"ListItem","position":3,"name":' | append: article.title | json | append: ',"item":"' | append: home | append: article.url | append: '"}'
+      assign t_blog = blog.title | json
+      assign t_article = article.title | json
+      assign crumbs = crumbs | append: '{"@type":"ListItem","position":2,"name":' | append: t_blog | append: ',"item":"' | append: home | append: blog.url | append: '"},'
+      assign crumbs = crumbs | append: '{"@type":"ListItem","position":3,"name":' | append: t_article | append: ',"item":"' | append: home | append: article.url | append: '"}'
   endcase
 -%}
 <script type="application/ld+json">
@@ -248,7 +307,7 @@ SCHEMA = """{%- comment -%} InHuys · Organization/LocalBusiness, WebSite en Bre
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "LocalBusiness",
+      "@type": ["Organization", "LocalBusiness"],
       "@id": "{{ home }}/#organization",
       "name": "InHuys",
       "legalName": "Kluster",
@@ -286,23 +345,27 @@ SCHEMA = """{%- comment -%} InHuys · Organization/LocalBusiness, WebSite en Bre
 }
 </script>
 """
+log("snippets/inhuys-schema.liquid", "B1: breadcrumb-JSON geldig gemaakt: de titels gaan eerst door de json-filter in een eigen variabele (t_product, t_collection, t_page, t_blog, t_article) en worden daarna aan de string toegevoegd; product-URL in de kruimel is altijd /products/<handle>. Geldt voor product, collectie, pagina en artikel.")
+log("snippets/inhuys-schema.liquid", "B2: een Organization-blok (type Organization + LocalBusiness) en een WebSite-blok; geen sameAs, want er zijn nog geen echte profielen (toevoegen zodra die er zijn).")
 log("snippets/inhuys-schema.liquid", "Nieuw: LocalBusiness-markup (naam, tagline als alternateName, adres showroom, telefoon, werkgebied), WebSite met SearchAction en BreadcrumbList voor product-, collectie-, pagina- en artikelpagina's.")
 dump("snippets/inhuys-schema.liquid", SCHEMA, as_json=False)
 
 # ---------------- batches ----------------
 files = {}
 for rel in ["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid",
-            "templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json", "templates/page.interieuradvies.json", "templates/product.json"]:
+            "templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json", "templates/page.interieuradvies.json", "templates/product.json",
+            "sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json"]:
     files[rel] = open(f"{OUT}/{rel}", encoding="utf-8").read()
 batches = [["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid"],
            ["templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json"],
-           ["templates/page.interieuradvies.json", "templates/product.json"]]
+           ["templates/page.interieuradvies.json", "templates/product.json"],
+           ["sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json"]]
 for i, b in enumerate(batches, 1):
     v = {"files": [{"filename": f, "body": {"type": "TEXT", "value": files[f]}} for f in b]}
     json.dump(v, open(f"{OUT}/../theme-vars-{i}.json", "w", encoding="utf-8"), ensure_ascii=False)
     print(f"batch {i}: {b} -> {sum(len(files[f]) for f in b)} tekens")
 # JSON-validatie van alle json-bestanden
 for rel, txt in files.items():
-    if rel.endswith(".json"): json.loads(txt)
+    if rel.endswith(".json"): json.loads(re.sub(r"^/\*.*?\*/\s*", "", txt, flags=re.S))
 print("alle JSON valide")
 open(f"{OUT}/../theme-changelog.json", "w", encoding="utf-8").write(json.dumps(LOG, ensure_ascii=False, indent=1))

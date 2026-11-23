@@ -19,9 +19,9 @@ De verzendkosten en de levertijd verschillen per merk, omdat elk merk zijn eigen
 
 | Merk | Verzendkosten | Levertijd |
 |---|---|---|
-| Pole To Pole | [AANVULLEN: volgt uit data/feiten/verzending-levertijd.md] | [AANVULLEN: volgt uit data/feiten/verzending-levertijd.md] |
-| Jupiduu | [AANVULLEN: volgt uit data/feiten/verzending-levertijd.md] | [AANVULLEN: volgt uit data/feiten/verzending-levertijd.md] |
-| Overige merken | [AANVULLEN: volgt uit data/feiten/verzending-levertijd.md] | [AANVULLEN: volgt uit data/feiten/verzending-levertijd.md] |
+| Pole To Pole | € 4,95 per bestelling in Nederland | 1 tot 3 werkdagen na verzending door Pole To Pole |
+| Jupiduu | € 4,95 per bestelling in Nederland | 2 tot 5 werkdagen na verzending door Jupiduu |
+| Overige merken | € 4,95 per bestelling in Nederland | [AANVULLEN] |
 
 Is er voor een product geen levertijd afgesproken, dan bezorgen wij het uiterlijk 30 dagen na je bestelling. Lukt dat niet, dan laten wij het je weten en mag je de koop ontbinden.
 

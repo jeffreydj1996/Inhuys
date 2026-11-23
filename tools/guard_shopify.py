@@ -58,6 +58,21 @@ def controleer(query, variables, env):
         if prod and prod <= naar_live:
             if nm == {"productUpdate"} and all(isinstance(p, dict) and set(p) == {"id", "status"} and str(p["status"]).upper() == "ACTIVE" for p in vs): return []
             if nm == {"publishablePublish"} and not re.search(r"(delete|unpublish|archive|urlredirect|theme|inventory|price|discount)", query, re.I): return []
+    # Regel 2d (besluit eigenaar 23 november 2026, /goal fase A en B): alleen de mutaties onder 'fase_ab.mutaties' in data/ids.json,
+    # en themeFilesUpsert op het live thema alleen voor de bestanden onder 'fase_ab.live_thema_bestanden'. Niets anders in dezelfde mutatie.
+    try: fab = json.load(open(IDS, encoding="utf-8")).get("fase_ab", {}) or {}
+    except Exception: fab = {}
+    if TESTMODUS: fab = json.loads(env.get("_TEST_FASE_AB", "{}"))
+    fab_mut, fab_best = set(fab.get("mutaties", [])), set(fab.get("live_thema_bestanden", []))
+    nm0 = veldnamen(query)
+    if fab_mut and nm0 and nm0 <= fab_mut and not re.search(r"(delete|archive|inventory|price|discount|themepublish|urlredirect)", query, re.I):
+        if nm0 == {"themeFilesUpsert"}:
+            namen_best = set(re.findall(r'"filename":\s*"([^"]+)"', json.dumps(variables or {})))
+            if namen_best and namen_best <= fab_best: return []
+        else:
+            return []
+    for t in set(re.findall(r"gid://shopify/OnlineStoreTheme/\d+", json.dumps(variables or {}) + query)):
+        if t != THEMA_KOPIE: fouten.append(f"thema {t} is niet de werkkopie")
     for n in veldnamen(query):
         if n not in TOEGESTAAN or VERBODEN_RE.search(n): fouten.append(f"mutatie '{n}' is niet toegestaan zonder INHUYS_GOLIVE=1")
     if VERBODEN_RE.search(query) and not fouten: fouten.append("de mutatietekst bevat een verboden term (delete/publish/redirect/...)")
@@ -129,6 +144,10 @@ def main():
                  ("naar live publiceren", 'mutation($id: ID!, $in: [PublicationInput!]!) { publishablePublish(id: $id, input: $in) { userErrors { message } } }', {"id": "gid://shopify/Product/777777777777", "in": [{"publicationId": "gid://shopify/Publication/1"}]}, False, {"_TEST_NAAR_LIVE": "gid://shopify/Product/777777777777"}),
                  ("naar live ander", upd, {"p": {"id": "gid://shopify/Product/666666666666", "status": "ACTIVE"}}, True, {"_TEST_NAAR_LIVE": "gid://shopify/Product/777777777777"}),
                  ("naar live extra", upd, {"p": {"id": "gid://shopify/Product/777777777777", "status": "ACTIVE", "title": "x"}}, True, {"_TEST_NAAR_LIVE": "gid://shopify/Product/777777777777"}),
+                 ("beleid ok", 'mutation($p: ShopPolicyInput!) { shopPolicyUpdate(shopPolicy: $p) { userErrors { message } } }', {"p": {"type": "REFUND_POLICY", "body": "<p>x</p>"}}, False, {"_TEST_FASE_AB": '{"mutaties": ["shopPolicyUpdate"]}'}),
+                 ("beleid zonder", 'mutation($p: ShopPolicyInput!) { shopPolicyUpdate(shopPolicy: $p) { userErrors { message } } }', {"p": {"type": "REFUND_POLICY", "body": "<p>x</p>"}}, True, {}),
+                 ("live thema bestand ok", 'mutation($t: ID!, $f: [OnlineStoreThemeFilesUpsertFileInput!]!) { themeFilesUpsert(themeId: $t, files: $f) { userErrors { message } } }', {"t": "gid://shopify/OnlineStoreTheme/1", "f": [{"filename": "templates/product.json", "body": {"type": "TEXT", "value": "{}"}}]}, False, {"_TEST_FASE_AB": '{"mutaties": ["themeFilesUpsert"], "live_thema_bestanden": ["templates/product.json"]}'}),
+                 ("live thema ander bestand", 'mutation($t: ID!, $f: [OnlineStoreThemeFilesUpsertFileInput!]!) { themeFilesUpsert(themeId: $t, files: $f) { userErrors { message } } }', {"t": "gid://shopify/OnlineStoreTheme/1", "f": [{"filename": "layout/theme.liquid", "body": {"type": "TEXT", "value": "x"}}]}, True, {"_TEST_FASE_AB": '{"mutaties": ["themeFilesUpsert"], "live_thema_bestanden": ["templates/product.json"]}'}),
                  ("live status", upd, {"p": {"id": LIVE, "status": "DRAFT"}}, True, {}),
                  ("live varianten", upd, {"p": {"id": LIVE, "variants": []}}, True, {}),
                  ("live tekst ok", upd, {"p": {"id": LIVE, "title": "x", "descriptionHtml": "<p>x</p>", "metafields": []}}, False, {"INHUYS_LIVE_TEKST": "1"}),
