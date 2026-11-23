@@ -113,3 +113,9 @@ Per actief product met meerdere varianten: welke foto bij welke variant hoort en
 | `zwembad` | 150 cm | Pool/grey-1 | al gekoppeld |  |
 
 Totalen: al gekoppeld 17, geen bron 29, koppelen 26, toevoegen en koppelen 35
+
+## Uitvoering 23 november 2026
+
+- Deel 1 en 2 (32 producten): beelden per kleur toegevoegd via `productUpdate(product: {id}, media: [...])` (`productCreateMedia` is verouderd in 2026-10) en gekoppeld met `productVariantAppendMedia`.
+- Herstel (9 producten: bank-londen-3-zits-ottoman-umber, bank-londen-6-zits-tan, bank-new-york, boogstoelcreme-set-van-2, breeze-stoel-beige-set-van-2, cloud-barstoel-creme, cloud-kitchen-barstoel-creme, luna-stoelcreme-set-van-2, whale-stoel-coco-set-van-2): de eerste kaart koppelde twee kleuren aan hetzelfde beeld, omdat onze eigen fase 2-concepten met alle kleuren als bron telden. Script verbeterd (alleen losse kleurproducten tellen als bron); foute koppeling losgemaakt met `productVariantDetachMedia` (regel 2e, aanvulling eigenaar), juiste kleur toegevoegd en gekoppeld.
+- Controle op de winkel (`/products/<handle>.js`, featured_image per variant): 35 van 36 producten goed; elke kleur toont een eigen beeld. Open: `lantaarn-raffles` variant XL (geen bron, niet leverbaar).
