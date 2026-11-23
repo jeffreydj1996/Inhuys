@@ -71,6 +71,22 @@ def controleer(query, variables, env):
             if namen_best and namen_best <= fab_best: return []
         else:
             return []
+    # Regel 2e (besluit eigenaar 23 november 2026): voor de producten onder 'media_varianten' in data/ids.json alleen nieuwe beelden toevoegen,
+    # beelden aan varianten koppelen en optie- of optiewaardenamen wijzigen. Niets anders in dezelfde mutatie.
+    try: mv = set(json.load(open(IDS, encoding="utf-8")).get("media_varianten", []))
+    except Exception: mv = set()
+    if TESTMODUS: mv = set(env.get("_TEST_MEDIA_VARIANTEN", "").split())
+    if mv and nm0 and nm0 <= {"productCreateMedia", "productVariantAppendMedia", "productOptionUpdate"}:
+        tekst = json.dumps(variables or {}) + query
+        prod = set(re.findall(r"gid://shopify/Product/\d+", tekst))
+        verboden_sleutels = {"optionValuesToAdd", "optionValuesToDelete", "variantStrategy", "position", "price", "sku", "inventoryQuantities", "status"}
+        def sleutels(o):
+            if isinstance(o, dict):
+                for k, v in o.items(): yield k; yield from sleutels(v)
+            elif isinstance(o, list):
+                for x in o: yield from sleutels(x)
+        if prod and prod <= mv and not (set(sleutels(variables or {})) & verboden_sleutels) and not re.search(r"(delete|archive|publish|inventory|discount)", query, re.I):
+            return []
     for t in set(re.findall(r"gid://shopify/OnlineStoreTheme/\d+", json.dumps(variables or {}) + query)):
         if t != THEMA_KOPIE: fouten.append(f"thema {t} is niet de werkkopie")
     for n in veldnamen(query):
@@ -148,6 +164,10 @@ def main():
                  ("beleid zonder", 'mutation($p: ShopPolicyInput!) { shopPolicyUpdate(shopPolicy: $p) { userErrors { message } } }', {"p": {"type": "REFUND_POLICY", "body": "<p>x</p>"}}, True, {}),
                  ("live thema bestand ok", 'mutation($t: ID!, $f: [OnlineStoreThemeFilesUpsertFileInput!]!) { themeFilesUpsert(themeId: $t, files: $f) { userErrors { message } } }', {"t": "gid://shopify/OnlineStoreTheme/1", "f": [{"filename": "templates/product.json", "body": {"type": "TEXT", "value": "{}"}}]}, False, {"_TEST_FASE_AB": '{"mutaties": ["themeFilesUpsert"], "live_thema_bestanden": ["templates/product.json"]}'}),
                  ("live thema ander bestand", 'mutation($t: ID!, $f: [OnlineStoreThemeFilesUpsertFileInput!]!) { themeFilesUpsert(themeId: $t, files: $f) { userErrors { message } } }', {"t": "gid://shopify/OnlineStoreTheme/1", "f": [{"filename": "layout/theme.liquid", "body": {"type": "TEXT", "value": "x"}}]}, True, {"_TEST_FASE_AB": '{"mutaties": ["themeFilesUpsert"], "live_thema_bestanden": ["templates/product.json"]}'}),
+                 ("media ok", 'mutation($p: ID!, $m: [CreateMediaInput!]!) { productCreateMedia(productId: $p, media: $m) { mediaUserErrors { message } } }', {"p": "gid://shopify/Product/555555555555", "m": [{"originalSource": "https://cdn.shopify.com/x.jpg", "mediaContentType": "IMAGE", "alt": "x"}]}, False, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
+                 ("media ander product", 'mutation($p: ID!, $m: [CreateMediaInput!]!) { productCreateMedia(productId: $p, media: $m) { mediaUserErrors { message } } }', {"p": "gid://shopify/Product/444444444444", "m": []}, True, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
+                 ("optie hernoemen ok", 'mutation($p: ID!, $o: OptionUpdateInput!, $v: [OptionValueUpdateInput!]) { productOptionUpdate(productId: $p, option: $o, optionValuesToUpdate: $v) { userErrors { message } } }', {"p": "gid://shopify/Product/555555555555", "o": {"id": "gid://shopify/ProductOption/1", "name": "Kleur"}, "v": [{"id": "gid://shopify/ProductOptionValue/1", "name": "Umber"}]}, False, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
+                 ("optie toevoegen", 'mutation($p: ID!, $o: OptionUpdateInput!, $a: [OptionValueCreateInput!]) { productOptionUpdate(productId: $p, option: $o, optionValuesToAdd: $a) { userErrors { message } } }', {"p": "gid://shopify/Product/555555555555", "o": {"id": "gid://shopify/ProductOption/1"}, "optionValuesToAdd": [{"name": "x"}]}, True, {"_TEST_MEDIA_VARIANTEN": "gid://shopify/Product/555555555555"}),
                  ("live status", upd, {"p": {"id": LIVE, "status": "DRAFT"}}, True, {}),
                  ("live varianten", upd, {"p": {"id": LIVE, "variants": []}}, True, {}),
                  ("live tekst ok", upd, {"p": {"id": LIVE, "title": "x", "descriptionHtml": "<p>x</p>", "metafields": []}}, False, {"INHUYS_LIVE_TEKST": "1"}),
