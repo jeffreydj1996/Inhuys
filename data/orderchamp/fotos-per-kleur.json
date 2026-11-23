@@ -1,0 +1,1400 @@
+{
+ "gid://shopify/Product/10388935672147": {
+  "handle": "artboard",
+  "product": "gid://shopify/Product/10388935672147",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/52854700704083",
+    "titel": "Multiplex",
+    "sku": "Art/Board-1",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58289311842643"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700736851",
+    "titel": "Wit",
+    "sku": "Art/Board-2",
+    "voorraad": 2,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10388933476691": {
+  "handle": "ballenbak",
+  "product": "gid://shopify/Product/10388933476691",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/52854698082643",
+    "titel": "OLIJF",
+    "sku": "JUBB3MB",
+    "voorraad": 100,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854698148179",
+    "titel": "BLAUW",
+    "sku": "JUBB5MB",
+    "voorraad": 100,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854698115411",
+    "titel": "roos",
+    "sku": "JUBB4MB",
+    "voorraad": 100,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854698049875",
+    "titel": "KAMEEL",
+    "sku": "JUBB2MB",
+    "voorraad": 100,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854698017107",
+    "titel": "beige",
+    "sku": "JUBB1MB",
+    "voorraad": 100,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10447101755731": {
+  "handle": "bank-londen-3-zits-ottoman-umber",
+  "product": "gid://shopify/Product/10447101755731",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762014732627",
+    "titel": "Bruinen",
+    "sku": "871974353296",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871382901075",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093255414099",
+    "titel": "Omber",
+    "sku": "871974353297",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871382901075",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447101985107": {
+  "handle": "bank-londen-6-zits-ottoman",
+  "product": "gid://shopify/Product/10447101985107",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55613691461971",
+    "titel": "Omber",
+    "sku": "871974353301",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093255774547",
+    "titel": "Bruinen",
+    "sku": "871974353300",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871385293139",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447102017875": {
+  "handle": "bank-londen-6-zits-tan",
+  "product": "gid://shopify/Product/10447102017875",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762019746131",
+    "titel": "Omber",
+    "sku": "871974353299",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871385424211",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093255807315",
+    "titel": "Bruinen",
+    "sku": "871974353298",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871385424211",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447101460819": {
+  "handle": "bank-new-york",
+  "product": "gid://shopify/Product/10447101460819",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762016010579",
+    "titel": "Kokos",
+    "sku": "871917285934",
+    "voorraad": 12,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871378248019",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093254267219",
+    "titel": "Beige",
+    "sku": "871917285938",
+    "voorraad": 16,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871378248019",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447099363667": {
+  "handle": "barkruk-japandi-tan-set-van-2",
+  "product": "gid://shopify/Product/10447099363667",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55818619421011",
+    "titel": "Omber",
+    "sku": "871974353232",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "japandi-bar-chair-umber-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/2ade8fec-93c7-4abd-b14c-ae6b842fa95e_1200x1200_fill.jpg?v=1771839644",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bea18452-9a8f-427a-aa87-6b76bb6c80cc_1200x1200_fill.jpg?v=1771839644",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/3e7c5d62-6192-4b3a-9ba5-facde4173954_1200x1200_fill.jpg?v=1771839644",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/404d037a-dbda-4c9b-b26e-f540e82dbad1_1200x1200_fill.jpg?v=1771839645",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0d7a1da3-79a3-4b59-8de3-fbf28c740c18_1200x1200_fill.jpg?v=1771839644"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762021253459",
+    "titel": "Oatly",
+    "sku": "872160652006",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55818619453779",
+    "titel": "Okura",
+    "sku": "871974353231",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "barkruk-japandi",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b5507219-f579-45a8-ba6f-4147efc23542_1200x1200_fill.jpg?v=1793087386",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/679fa833-c638-4a02-8fda-00aaec9784db_1200x1200_fill.jpg?v=1793087386",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/aedf7c97-c53a-4c22-a6a1-32eb437e7351_1200x1200_fill.jpg?v=1793087386",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5026e605-737d-4d2d-8448-bae5c61e9213_1200x1200_fill.jpg?v=1793087386",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8fb43d19-224e-4258-bf0f-4030f9a636ae_1200x1200_fill.jpg?v=1793087384",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/89a13a73-be1e-4ab6-9ab9-540fcce299d6_1200x1200_fill.jpg?v=1793087386"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093250072915",
+    "titel": "Bruinen",
+    "sku": "871974353233",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871351312723"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447098413395": {
+  "handle": "boogstoelcreme-set-van-2",
+  "product": "gid://shopify/Product/10447098413395",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762005000531",
+    "titel": "Karamel",
+    "sku": "871974353094",
+    "voorraad": 3,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871329587539",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093247091027",
+    "titel": "room",
+    "sku": "871974353091",
+    "voorraad": 50,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871329587539",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447090057555": {
+  "handle": "breeze-stoel-beige-set-van-2",
+  "product": "gid://shopify/Product/10447090057555",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/53093201150291",
+    "titel": "Beige",
+    "sku": "871974353020",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871215391059",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/54570012082515",
+    "titel": "Pastelroze",
+    "sku": "871974353022",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871215391059",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447096447315": {
+  "handle": "cloud-barstoel-creme",
+  "product": "gid://shopify/Product/10447096447315",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/53093227266387",
+    "titel": "room",
+    "sku": "871974353027",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871308222803",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762016076115",
+    "titel": "Karamel",
+    "sku": "871974353090",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871308222803",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447096316243": {
+  "handle": "cloud-kitchen-barstoel-creme",
+  "product": "gid://shopify/Product/10447096316243",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/53093226774867",
+    "titel": "room",
+    "sku": "871974353026",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871307043155",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762021286227",
+    "titel": "Karamel",
+    "sku": "871974353089",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871307043155",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447090254163": {
+  "handle": "draaistoel-pebble",
+  "product": "gid://shopify/Product/10447090254163",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762014339411",
+    "titel": "Beige",
+    "sku": "871974353005",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "draaistoel-pebble-beige",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b6f8d7c5-5474-4e7e-8596-400bcbf6cb02_1200x1200_fill.jpg?v=1771839055",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/10e2d9c6-609e-4403-b075-ddb95f4487e3_1200x1200_fill.jpg?v=1771839054",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f4b72856-1b4c-47d2-a74b-89d1f9e3df96_1200x1200_fill.jpg?v=1771839055",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/561b91da-ce5f-4a00-b9f7-0fcb87a6dcef_1200x1200_fill.jpg?v=1771839055",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/dd41f055-d211-4bb7-915e-522f3cea53e8_1200x1200_fill.jpg?v=1771839055"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093201510739",
+    "titel": "LATTE",
+    "sku": "871974353013",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871218012499"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447090286931": {
+  "handle": "draaistoel-storm",
+  "product": "gid://shopify/Product/10447090286931",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762021187923",
+    "titel": "Kokos",
+    "sku": "871917285737",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "draaistoel-storm-coco",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e1d7b91f-06d6-40bc-86aa-75ee5c260b3d_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bf043f18-31c5-4156-b943-91ff2272da0d_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6eafb0a2-0a8c-44d0-8af2-7805d346aceb_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d12432db-000a-48bd-aab1-bdc6e8aecf96_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b1f0c9ec-bdc5-47ca-8ec3-68570fbfc6cc_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/35878bbd-c827-40a3-bc99-3e72a7e69fe8_1200x1200_fill.jpg?v=1771839068"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093201543507",
+    "titel": "Beige",
+    "sku": "871917285524",
+    "voorraad": 186,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871218831699"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447101395283": {
+  "handle": "eetkamerstoel-avena-set-van-2",
+  "product": "gid://shopify/Product/10447101395283",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/53093254201683",
+    "titel": "room",
+    "sku": "871974353222",
+    "voorraad": 131,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871377822035"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762019844435",
+    "titel": "Karamel",
+    "sku": "871974353224",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-avena-karamel-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9ca91c11-d1d8-42e4-8ea0-54ceeaaf10d4_1200x1200_fill.jpg?v=1771839592",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/eb91c34b-61fc-46b0-afac-32b5c77e0ce2_1200x1200_fill.jpg?v=1771839592",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fff01d67-1676-44ed-8e2f-ed17ac3291e6_1200x1200_fill.jpg?v=1771839592",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5683bf07-57cf-4ea5-bb76-198983858629_1200x1200_fill.jpg?v=1771839592",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d0fa8c8a-d541-48c2-a937-7becf30c6858_1200x1200_fill.jpg?v=1771839592"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762019811667",
+    "titel": "Nerts",
+    "sku": "871974353223",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-avena-mink-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/bc315040-aecd-4da8-899f-d5bc0a510ed3_1200x1200_fill.jpg?v=1771839635",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9f14ade1-ff03-43fc-85ba-37cd852fe187_1200x1200_fill.jpg?v=1771839634",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/aa98d861-6730-4b8b-81d1-c7263cec4edc_1200x1200_fill.jpg?v=1771839634",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f2960120-b010-4141-b609-0258a4deb680_1200x1200_fill.jpg?v=1771839635",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/78286649-a263-4cc1-9702-24eb255f2efb_1200x1200_fill.jpg?v=1771839634"
+    ]
+   }
+  ]
+ },
+ "gid://shopify/Product/10447099330899": {
+  "handle": "eetkamerstoel-edo-reddish-set-van-2",
+  "product": "gid://shopify/Product/10447099330899",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762015912275",
+    "titel": "Zwart",
+    "sku": "871974353114",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-edo-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/324ec82f-8f77-42b4-a280-3611fc706140_1200x1200_fill.jpg?v=1771839569",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/491b421e-b364-4755-8e8f-184d543f13f0_1200x1200_fill.jpg?v=1771839569",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1f38333c-e8da-4aac-b4df-d618c729a251_1200x1200_fill.jpg?v=1771839568",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7da645f3-fdc0-445b-b4da-ab6bc9161c72_1200x1200_fill.jpg?v=1771839569",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/15896a8b-b33d-42b4-b23c-4b0e81507c72_1200x1200_fill.jpg?v=1771839569",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0a918ecc-f1cc-45df-adff-953616593d91_1200x1200_fill.jpg?v=1771839569"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093250040147",
+    "titel": "Roodachtig",
+    "sku": "871974353115",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871350329683"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447099003219": {
+  "handle": "eetkamerstoel-egg-set-van-2",
+  "product": "gid://shopify/Product/10447099003219",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/54570002153811",
+    "titel": "Nerts",
+    "sku": "871974353105",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093249679699",
+    "titel": "Goud",
+    "sku": "871974353106",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871347478867"
+   }
+  ]
+ },
+ "gid://shopify/Product/11031555244371": {
+  "handle": "eetkamerstoel-fuji",
+  "product": "gid://shopify/Product/11031555244371",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55817810674003",
+    "titel": "Okura",
+    "sku": "871974353311",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "fuji-stoel-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5965dff1-809f-4981-aa33-98de3c6761bd_1200x1200_fill.jpg?v=1793087389",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7fe6b384-19fa-4039-b9e7-08d2afdb5ff7_1200x1200_fill.jpg?v=1793087389",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8895ae24-e8ae-4ee2-8bc4-c10d400b2d33_1200x1200_fill.jpg?v=1793087389",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/79d9e751-09b6-4b34-ba00-96b505de1b29_1200x1200_fill.jpg?v=1793087389",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/3cb0bc24-d6af-48de-81df-f1221cccd298_1200x1200_fill.jpg?v=1793087389"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55627542462803",
+    "titel": "Bruinen",
+    "sku": "871974353313",
+    "voorraad": 116,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55817810641235",
+    "titel": "Omber",
+    "sku": "871974353312",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-fuji-umber",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/40711bea-f829-497d-afbe-a4ae8035f8a0_1200x1200_fill.jpg?v=1793087385",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/cf6e5e96-1429-4f77-abc4-594ada183781_1200x1200_fill.jpg?v=1793087385",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0739b804-5e2e-4b2b-8891-f476bc068c7e_1200x1200_fill.jpg?v=1793087385",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/35c029e7-50b9-418a-9bb1-c308a6d179ad_1200x1200_fill.jpg?v=1793087385",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6029441a-765d-44df-bc8b-d2b368f3a2b8_1200x1200_fill.jpg?v=1793087386"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55817810608467",
+    "titel": "Oatly",
+    "sku": "872160652010",
+    "voorraad": 15,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/11031554949459": {
+  "handle": "eetkamerstoel-japandi",
+  "product": "gid://shopify/Product/11031554949459",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55627542036819",
+    "titel": "Umber",
+    "sku": "871974353226",
+    "voorraad": 984,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55627542069587",
+    "titel": "Tan",
+    "sku": "871974353227",
+    "voorraad": 650,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55627542004051",
+    "titel": "Oatly",
+    "sku": "872160652004",
+    "voorraad": 107,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55627542102355",
+    "titel": "Okura",
+    "sku": "871974353225",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10447099887955": {
+  "handle": "eetkamerstoel-mera-karamel-set-van-2",
+  "product": "gid://shopify/Product/10447099887955",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/53093251580243",
+    "titel": "Karamel",
+    "sku": "871974353236",
+    "voorraad": 123,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871362584915"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762021318995",
+    "titel": "room",
+    "sku": "871974353234",
+    "voorraad": 205,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10447099920723": {
+  "handle": "eetkamerstoel-nox-umber-set-van-2",
+  "product": "gid://shopify/Product/10447099920723",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/53093251613011",
+    "titel": "Omber",
+    "sku": "871974353220",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871363109203"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762021351763",
+    "titel": "Bruinen",
+    "sku": "871974353221",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-nox-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/25a8c0a3-94e3-4423-bab9-c060b9dcc4ba_1200x1200_fill.jpg?v=1771839640",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4c47d7ce-0dd2-4891-bfa4-0a98d0acad05_1200x1200_fill.jpg?v=1771839639",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/358f4330-44e8-4fd6-95a8-ac9bd4618b3b_1200x1200_fill.jpg?v=1771839639",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/5d40e89b-0dea-467b-982f-9c05a074441e_1200x1200_fill.jpg?v=1771839639",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b21491a6-0830-42e7-a106-3cff099b4ac2_1200x1200_fill.jpg?v=1771839640"
+    ]
+   }
+  ]
+ },
+ "gid://shopify/Product/11031555080531": {
+  "handle": "eetkamerstoel-osaka",
+  "product": "gid://shopify/Product/11031555080531",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55627542266195",
+    "titel": "Bruinen",
+    "sku": "871974353310",
+    "voorraad": 193,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762012275027",
+    "titel": "Oatly",
+    "sku": "872160652009",
+    "voorraad": 191,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762012209491",
+    "titel": "Okura",
+    "sku": "871974353305",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-osaka-okura",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/31aabb96-6167-4c86-bc8c-2ba6dc47967a_1200x1200_fill.jpg?v=1793087384",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e54eb35a-1213-488e-94b5-1b9e3a656596_1200x1200_fill.jpg?v=1793087384",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/02786961-3072-418d-bd20-2204ebc12b44_1200x1200_fill.jpg?v=1793087384",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a037b711-7d70-4962-ac03-b42ea5df52cd_1200x1200_fill.jpg?v=1793087383",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0ca310d6-d1ed-4402-908f-5c684b651042_1200x1200_fill.jpg?v=1793087384"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762012242259",
+    "titel": "Omber",
+    "sku": "871974353309",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-osaka-umber",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8040e075-87b3-495d-9d49-6774b268a1c4_1200x1200_fill.jpg?v=1793087385",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8f3cf288-1dbc-4d5f-9403-747dd927f691_1200x1200_fill.jpg?v=1793087384",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1e19d426-890f-49ff-907e-1e785a3b8ba9_1200x1200_fill.jpg?v=1793087385",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/38de0798-c992-4651-b04e-6fdff68e8908_1200x1200_fill.jpg?v=1793087386",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/92702514-57b2-4b2f-99c4-7d3fc611511e_1200x1200_fill.jpg?v=1793087386"
+    ]
+   }
+  ]
+ },
+ "gid://shopify/Product/10447090975059": {
+  "handle": "eetkamerstoel-rainbow-coco-set-van-2",
+  "product": "gid://shopify/Product/10447090975059",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55761994154323",
+    "titel": "Zand Wit",
+    "sku": "871917285667",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-rainbow-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e4c8035f-c093-4ce7-a599-21e12b1d86b3_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d7aa3d24-0625-4f40-ac3e-9bf89a695164_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f88c6c3d-fa17-4a46-b58c-c73a342c8b7f_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/d2aa74b7-b3b2-4b2e-8d7c-aafd08b5e84e_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b3d3cec8-8cd9-4f97-8249-9319f711d8eb_1200x1200_fill.jpg?v=1771839068",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b8177597-6917-4863-b176-1950f8a80e6a_1200x1200_fill.jpg?v=1771839067"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093203411283",
+    "titel": "Kokos",
+    "sku": "871917285661",
+    "voorraad": 141,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871226171731"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447100510547": {
+  "handle": "eetkamerstoel-rock-set-van-2",
+  "product": "gid://shopify/Product/10447100510547",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762005197139",
+    "titel": "Karamel",
+    "sku": "871974353087",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-rock-karamel-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8f964cb8-7044-4b36-907f-55ec201824d8_1200x1200_fill.jpg?v=1771839472",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e933b373-dbb3-4c4c-9ca0-e559c2356463_1200x1200_fill.jpg?v=1771839473",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8ac037f8-3c77-4d84-b69f-86b48c3f2e40_1200x1200_fill.jpg?v=1771839472",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/1aa447d3-be79-40e7-94a8-29ae060e9f5a_1200x1200_fill.jpg?v=1771839473",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/150d783e-485a-47ae-afa9-7e2c855ae049_1200x1200_fill.jpg?v=1771839472",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/06b3d246-2a12-4f63-b066-67c17a1cd6d7_1200x1200_fill.jpg?v=1771839473"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093252202835",
+    "titel": "Beige",
+    "sku": "871917285353",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871367401811"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762005164371",
+    "titel": "Bruin",
+    "sku": "871917285449",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-rock-bruin-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/cf23458a-1ec2-42de-87d5-2e8f7766205e_1200x1200_fill.jpg?v=1771839018",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a8d3724f-54e5-4372-9a21-c0c0be97cbf3_1200x1200_fill.jpg?v=1771839017",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/36dfbdb4-54c1-4eb9-bc3a-453c95587daa_1200x1200_fill.jpg?v=1771839018",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/62467626-2a1a-41f0-bbb1-a97f9b762c73_1200x1200_fill.jpg?v=1771839018",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b4758d51-64b5-406e-bdf5-46ca964df7b4_1200x1200_fill.jpg?v=1771839019",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/efc3e99c-a6e0-4b4b-9030-583f346c5a7d_1200x1200_fill.jpg?v=1771839019"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762005131603",
+    "titel": "Taupe",
+    "sku": "871917285451",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-rock-taupe-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/8add0ca6-9344-481c-b09f-e6cae6cf1b3a_1200x1200_fill.jpg?v=1771839018",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/10108ed1-024d-48ed-a01e-594340857472_1200x1200_fill.jpg?v=1771839018",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f29a3376-e06c-4cb0-87b0-c796b08dc542_1200x1200_fill.jpg?v=1771839018",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/abb7f2fd-d2e2-4c3b-b357-8a58681e9e16_1200x1200_fill.jpg?v=1771839019",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/365c8e56-bd89-4ac8-b659-c2df66c80372_1200x1200_fill.jpg?v=1771839018",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/174479c3-5958-40bf-b5e8-a64ad7ae840f_1200x1200_fill.jpg?v=1771839019"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762005098835",
+    "titel": "room",
+    "sku": "871974353085",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-rock-creme-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/08abf60e-f116-4394-b436-b04ab10c7497_1200x1200_fill.jpg?v=1771839473",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/263b1399-2cab-4614-8af8-36c4a67bf297_1200x1200_fill.jpg?v=1771839472",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/72ecd496-ea6a-47cc-a671-29826daa0bef_1200x1200_fill.jpg?v=1771839472",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7400e8dc-75ca-481b-b3d3-dc79c7f30042_1200x1200_fill.jpg?v=1771839471",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/20961d8b-6043-42ea-bd35-0953b9cbdb24_1200x1200_fill.jpg?v=1771839472",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/f7fae6ac-f2a3-4b31-83df-51a4d4a727cb_1200x1200_fill.jpg?v=1771839472"
+    ]
+   }
+  ]
+ },
+ "gid://shopify/Product/11031555014995": {
+  "handle": "eetkamerstoel-sake",
+  "product": "gid://shopify/Product/11031555014995",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762014634323",
+    "titel": "Okura",
+    "sku": "871974353302",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "sake-stoel-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/51385c34-07e8-4a3a-9d0e-f82fad235031_1200x1200_fill.jpg?v=1793087389",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/423dac0f-3f90-40f6-a9d6-c69fb0ccbafb_1200x1200_fill.jpg?v=1793087388",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e146486c-6675-47b1-a0c0-03d1b152de63_1200x1200_fill.jpg?v=1793087388",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/fd425241-cc97-4b6d-97ee-dab3ba448e4a_1200x1200_fill.jpg?v=1793087388",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/3bbd695b-ba42-4e47-958e-c78bd1b45bf3_1200x1200_fill.jpg?v=1793087389"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762014667091",
+    "titel": "Oatly",
+    "sku": "872160652008",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762014699859",
+    "titel": "Omber",
+    "sku": "871974353303",
+    "voorraad": 174,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-sake-umber",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9ec41105-5be1-4208-8463-02779dc03440_1200x1200_fill.jpg?v=1793087383",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/4b8820a8-d8f0-454a-82fc-ec0831a88137_1200x1200_fill.jpg?v=1793087383",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a3e9ded2-aca9-42c5-95ec-7ddd9388ad3f_1200x1200_fill.jpg?v=1793087383",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/0e36cbef-d302-4112-92de-cd57e9f41874_1200x1200_fill.jpg?v=1793087383",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/81dee525-fef0-4db4-b8b0-ecf00de9adf7_1200x1200_fill.jpg?v=1793087383"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55627542200659",
+    "titel": "Bruinen",
+    "sku": "871974353304",
+    "voorraad": 127,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10388935442771": {
+  "handle": "hoes-jumpspot-binnen",
+  "product": "gid://shopify/Product/10388935442771",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/52854700474707",
+    "titel": "OLIJF",
+    "sku": "Wec-Oli",
+    "voorraad": 52,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700343635",
+    "titel": "beige",
+    "sku": "Wec-Bei",
+    "voorraad": 52,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700409171",
+    "titel": "Roos",
+    "sku": "Wec-Ros",
+    "voorraad": 83,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700441939",
+    "titel": "Kameel",
+    "sku": "Wec-Cam",
+    "voorraad": 32,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58289310138707"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700376403",
+    "titel": "BLAUW",
+    "sku": "Wec-Bla",
+    "voorraad": 82,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10388935410003": {
+  "handle": "hoes-jumpspot-buiten",
+  "product": "gid://shopify/Product/10388935410003",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/52854700310867",
+    "titel": "Braun",
+    "sku": "Tra/Bra",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700245331",
+    "titel": "Zwart",
+    "sku": "Tra/Sch",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700278099",
+    "titel": "Grau",
+    "sku": "Tra/Gra",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10388933312851": {
+  "handle": "holzrutsche-binnen",
+  "product": "gid://shopify/Product/10388933312851",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/52854697656659",
+    "titel": "Roze - \"Roze Konijn\"",
+    "sku": "VP-S4VP-W1F5",
+    "voorraad": 676,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854697722195",
+    "titel": "Blau - \"Blauwe vinvis\"",
+    "sku": "LY-TNZP-YPP6",
+    "voorraad": 490,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854697623891",
+    "titel": "Weiß - \"Witte Olifant\"",
+    "sku": "8R-6C64-Z955",
+    "voorraad": 129,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854697689427",
+    "titel": "Grün - \"Groene Uil\"",
+    "sku": "8Z-7PH1-2A2K",
+    "voorraad": 478,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10447097463123": {
+  "handle": "lantaarn-raffles",
+  "product": "gid://shopify/Product/10447097463123",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55819188339027",
+    "titel": "S",
+    "sku": "871917285785",
+    "voorraad": 28,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "lantaarn-raffles-s",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/20e20928-4c07-4215-8281-2c448eb641a9_1200x1200_fill.jpg?v=1771839400",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/e87faf93-6482-4094-a309-23a57f40028e_1200x1200_fill.jpg?v=1771839400",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/74d74a94-7912-417c-a5b2-e0e79e0facb3_1200x1200_fill.jpg?v=1771839399"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55033465864531",
+    "titel": "XL",
+    "sku": "871917285788",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093238604115",
+    "titel": "L",
+    "sku": "871917285787",
+    "voorraad": 9,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871316250963"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447099068755": {
+  "handle": "luna-stoelcreme-set-van-2",
+  "product": "gid://shopify/Product/10447099068755",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762014536019",
+    "titel": "Karamel",
+    "sku": "871974353109",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871348199763",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/54570012115283",
+    "titel": "Goud",
+    "sku": "871974353111",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093249778003",
+    "titel": "room",
+    "sku": "871974353108",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871348199763",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10447100248403": {
+  "handle": "scandi-stoel-tan-set-van-2",
+  "product": "gid://shopify/Product/10447100248403",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762003427667",
+    "titel": "Oatly",
+    "sku": "872160652011",
+    "voorraad": 180,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762003493203",
+    "titel": "Omber",
+    "sku": "871974353218",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-scandi-umber-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/aa3cdde6-4a4e-449f-86d5-2ea6bd1e0f85_1200x1200_fill.jpg?v=1771839645",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6ba28f27-322c-452d-872d-f43fb3a97c17_1200x1200_fill.jpg?v=1771839644",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/6ecb1873-a909-499d-a9aa-726c4b9dcc8b_1200x1200_fill.jpg?v=1771839644",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/535d9b9a-f5f2-474d-9155-ec5078c8df5a_1200x1200_fill.jpg?v=1771839644",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7a1ff349-4d57-4441-b8d4-36613b61ba0b_1200x1200_fill.jpg?v=1771839644"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093251973459",
+    "titel": "Bruinen",
+    "sku": "871974353219",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871365206355",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762003460435",
+    "titel": "Okura",
+    "sku": "871974353217",
+    "voorraad": 172,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-scandi-okura-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c04111c5-aeed-4ffd-9dc0-aaee9813e5a2_1200x1200_fill.jpg?v=1771839590",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/55f5c9ea-cbbc-4250-8b95-4707accb61da_1200x1200_fill.jpg?v=1771839590",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b0132262-666e-4e72-8358-278eebdb3fce_1200x1200_fill.jpg?v=1771839591",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/96b1af17-ca76-496b-87c2-f27e7efeee96_1200x1200_fill.jpg?v=1771839590",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a61a9cb9-ff36-4fd0-bfd4-c98b57564f42_1200x1200_fill.jpg?v=1771839590"
+    ]
+   }
+  ]
+ },
+ "gid://shopify/Product/10447102837075": {
+  "handle": "schelpenketting-h1",
+  "product": "gid://shopify/Product/10447102837075",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55817819128147",
+    "titel": "M",
+    "sku": "871917285804",
+    "voorraad": 47,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "schelpenketting-a2-1",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b909270f-4a56-4524-867c-fd42858aee9f_1200x1200_fill.jpg?v=1771839738",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/999dfb7f-a37c-4379-9083-b99ce7fa8e88_1200x1200_fill.jpg?v=1771839738",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/b9b80fc3-7fd7-45c3-83ca-e70c0b9c4992_1200x1200_fill.jpg?v=1771839738"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55817819160915",
+    "titel": "L",
+    "sku": "871917285819",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "a6-2-shell-ketting",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a36b474c-9cb1-4b34-b64f-9c23d8b8f3e9_1200x1200_fill.jpg?v=1771839664",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/9cdb10d5-c8eb-49cc-8eef-17212ac5e804_1200x1200_fill.jpg?v=1771839664",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/ab860aaa-50e7-465d-80f3-ba219d2ce5b7_1200x1200_fill.jpg?v=1771839664"
+    ]
+   }
+  ]
+ },
+ "gid://shopify/Product/10447097725267": {
+  "handle": "schelpentoren-pearl",
+  "product": "gid://shopify/Product/10447097725267",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55819095212371",
+    "titel": "S",
+    "sku": "871917285767",
+    "voorraad": 210,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "j72-shell-toren-parel-s",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/cf2baac2-16f9-4549-883e-324fe672828f_1200x1200_fill.jpg?v=1771839403",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c49f9fe7-9a1e-4984-97a8-70ff3ba93632_1200x1200_fill.jpg?v=1771839404",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c21c63ea-edf1-4525-a4bc-6fc11f037418_1200x1200_fill.jpg?v=1771839403",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/44c33096-fbe8-4258-90dd-856d0baf325b_1200x1200_fill.jpg?v=1771839404"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093240537427",
+    "titel": "L",
+    "sku": "871917285768",
+    "voorraad": 172,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58871318249811"
+   }
+  ]
+ },
+ "gid://shopify/Product/10388935377235": {
+  "handle": "schommel-play-chill",
+  "product": "gid://shopify/Product/10388935377235",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/52854700081491",
+    "titel": "Kameel",
+    "sku": "SWEG2",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700114259",
+    "titel": "lichtblauw",
+    "sku": "SWEG3",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700212563",
+    "titel": "beige",
+    "sku": "SWEG1",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "bron": "eigen beeld (kleur in alt)",
+    "media": "gid://shopify/MediaImage/58289309647187"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700147027",
+    "titel": "Roos",
+    "sku": "SWEG4",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854700179795",
+    "titel": "Olijf",
+    "sku": "SWEG5",
+    "voorraad": 100,
+    "gekoppeld": false,
+    "actie": "geen bron",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10388933345619": {
+  "handle": "springplek-binnen",
+  "product": "gid://shopify/Product/10388933345619",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/52854697886035",
+    "titel": "OLIJF",
+    "sku": "JUSPOL",
+    "voorraad": 194,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854697754963",
+    "titel": "Beige (bestseller)",
+    "sku": "JUSPDB",
+    "voorraad": 721,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854697787731",
+    "titel": "BLAUW",
+    "sku": "JUSPLB",
+    "voorraad": 197,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854697853267",
+    "titel": "KAMEEL",
+    "sku": "JUSPCA",
+    "voorraad": 167,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/52854697820499",
+    "titel": "roos",
+    "sku": "JUSPRO",
+    "voorraad": 135,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   }
+  ]
+ },
+ "gid://shopify/Product/10447089828179": {
+  "handle": "whale-stoel-coco-set-van-2",
+  "product": "gid://shopify/Product/10447089828179",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/55762012340563",
+    "titel": "Retro",
+    "sku": "871974353088",
+    "voorraad": 58,
+    "gekoppeld": false,
+    "actie": "toevoegen en koppelen",
+    "bron": "eetkamerstoel-whale-retro-set-van-2",
+    "urls": [
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/62d51402-43da-40f9-b941-2b7cea579928_1200x1200_fill.jpg?v=1771839477",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/899d3bf0-5e2d-4185-a99c-38f99094327d_1200x1200_fill.jpg?v=1771839477",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/42903586-7795-4990-8291-510cfc0b88a9_1200x1200_fill.jpg?v=1771839476",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/7ad42f96-df9d-405a-9ef7-ff4686c67695_1200x1200_fill.jpg?v=1771839477",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/c7aa6e0b-de6f-41d3-8634-7eccedf2b627_1200x1200_fill.jpg?v=1771839476",
+     "https://cdn.shopify.com/s/files/1/0965/8128/8275/files/a13042c4-2732-406f-b19d-97736d07a1dd_1200x1200_fill.jpg?v=1771839477"
+    ]
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53093200920915",
+    "titel": "Kokos",
+    "sku": "871917285668",
+    "voorraad": 26,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871211131219",
+    "bron": "eigen beeld"
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/55762012373331",
+    "titel": "Beige",
+    "sku": "871917285669",
+    "voorraad": 0,
+    "gekoppeld": false,
+    "actie": "koppelen",
+    "media": "gid://shopify/MediaImage/58871211131219",
+    "bron": "eigen beeld"
+   }
+  ]
+ },
+ "gid://shopify/Product/10490276741459": {
+  "handle": "zwembad",
+  "product": "gid://shopify/Product/10490276741459",
+  "varianten": [
+   {
+    "variant": "gid://shopify/ProductVariant/53267642122579",
+    "titel": "200 cm (bestseller)",
+    "sku": "Pool/grey-2",
+    "voorraad": 100,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53267642155347",
+    "titel": "250 cm",
+    "sku": "Pool/grey-3",
+    "voorraad": 100,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   },
+   {
+    "variant": "gid://shopify/ProductVariant/53267642089811",
+    "titel": "150 cm",
+    "sku": "Pool/grey-1",
+    "voorraad": 100,
+    "gekoppeld": true,
+    "actie": "al gekoppeld",
+    "bron": ""
+   }
+  ]
+ }
+}
