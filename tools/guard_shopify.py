@@ -29,6 +29,7 @@ def concept_ids():
         if k == "bestanden_eigen" and isinstance(v, list): files.update(v)
         elif k == "live_niet_aanraken": gids(v, live_blok)
         elif k == "live_tekst": gids(v, live_tekst)
+        elif k in ("media_varianten", "naar_live", "live_naar_concept"): continue   # uitzonderingslijsten voor live producten, nooit concepten
         else: gids(v, ids)
     return ids, files, live_blok, live_tekst
 

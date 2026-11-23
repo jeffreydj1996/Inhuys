@@ -1,0 +1,530 @@
+[
+ {
+  "handle": "holzrutsche-binnen",
+  "productId": "gid://shopify/Product/10388933312851",
+  "option": {
+   "id": "gid://shopify/ProductOption/13121440022867",
+   "name": "Kleur"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/7211339678035",
+    "name": "Roze"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7211339743571",
+    "name": "Blauw"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7211339645267",
+    "name": "Wit"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7211339710803",
+    "name": "Groen"
+   }
+  ]
+ },
+ {
+  "handle": "springplek-binnen",
+  "productId": "gid://shopify/Product/10388933345619",
+  "option": {
+   "id": "gid://shopify/ProductOption/13121440055635"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/7211586879827",
+    "name": "Olijf"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9801683861843",
+    "name": "Beige"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7211586781523",
+    "name": "Blauw"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7211586847059",
+    "name": "Kameel"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7211586814291",
+    "name": "Roze"
+   }
+  ]
+ },
+ {
+  "handle": "ballenbak",
+  "productId": "gid://shopify/Product/10388933476691",
+  "option": {
+   "id": "gid://shopify/ProductOption/13121440219475"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/7216583016787",
+    "name": "Olijf"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7216583082323",
+    "name": "Blauw"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7216583049555",
+    "name": "Roze"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7216582984019",
+    "name": "Kameel"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7216582951251",
+    "name": "Beige"
+   }
+  ]
+ },
+ {
+  "handle": "schommel-play-chill",
+  "productId": "gid://shopify/Product/10388935377235",
+  "option": {
+   "id": "gid://shopify/ProductOption/13121442251091",
+   "name": "Kleur"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/7078488801619",
+    "name": "Lichtblauw"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7078488899923",
+    "name": "Beige"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7078488834387",
+    "name": "Roze"
+   }
+  ]
+ },
+ {
+  "handle": "hoes-jumpspot-buiten",
+  "productId": "gid://shopify/Product/10388935410003",
+  "option": {
+   "id": "gid://shopify/ProductOption/13121442283859",
+   "name": "Kleur"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/7078488998227",
+    "name": "Bruin"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7078488965459",
+    "name": "Grijs"
+   }
+  ]
+ },
+ {
+  "handle": "hoes-jumpspot-binnen",
+  "productId": "gid://shopify/Product/10388935442771",
+  "option": {
+   "id": "gid://shopify/ProductOption/13121442316627"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/7078489162067",
+    "name": "Olijf"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7078489030995",
+    "name": "Beige"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7078489096531",
+    "name": "Roze"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/7078489063763",
+    "name": "Blauw"
+   }
+  ]
+ },
+ {
+  "handle": "artboard",
+  "productId": "gid://shopify/Product/10388935672147",
+  "option": {
+   "id": "gid://shopify/ProductOption/13121442546003",
+   "name": "Uitvoering"
+  },
+  "optionValuesToUpdate": []
+ },
+ {
+  "handle": "whale-stoel-coco-set-van-2",
+  "productId": "gid://shopify/Product/10447089828179",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190542786899"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741304529235",
+    "name": "Coco"
+   }
+  ]
+ },
+ {
+  "handle": "draaistoel-pebble",
+  "productId": "gid://shopify/Product/10447090254163",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190543212883"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/8562308219219",
+    "name": "Latte"
+   }
+  ]
+ },
+ {
+  "handle": "draaistoel-storm",
+  "productId": "gid://shopify/Product/10447090286931",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190543245651",
+   "name": "Kleur"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741310755155",
+    "name": "Coco"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-rainbow-coco-set-van-2",
+  "productId": "gid://shopify/Product/10447090975059",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190544294227"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741289750867",
+    "name": "Zandwit"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9741289718099",
+    "name": "Coco"
+   }
+  ]
+ },
+ {
+  "handle": "cloud-kitchen-barstoel-creme",
+  "productId": "gid://shopify/Product/10447096316243",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190552191315"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741310918995",
+    "name": "Crème"
+   }
+  ]
+ },
+ {
+  "handle": "cloud-barstoel-creme",
+  "productId": "gid://shopify/Product/10447096447315",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190552387923"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741307511123",
+    "name": "Crème"
+   }
+  ]
+ },
+ {
+  "handle": "boogstoelcreme-set-van-2",
+  "productId": "gid://shopify/Product/10447098413395",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190555468115"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741298499923",
+    "name": "Crème"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-egg-set-van-2",
+  "productId": "gid://shopify/Product/10447099003219",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190556156243"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/8562309103955",
+    "name": "Mink"
+   }
+  ]
+ },
+ {
+  "handle": "luna-stoelcreme-set-van-2",
+  "productId": "gid://shopify/Product/10447099068755",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190556221779"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/8562309136723",
+    "name": "Crème"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-edo-reddish-set-van-2",
+  "productId": "gid://shopify/Product/10447099330899",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190556483923",
+   "name": "Kleur"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741307281747",
+    "name": "Reddish"
+   }
+  ]
+ },
+ {
+  "handle": "barkruk-japandi-tan-set-van-2",
+  "productId": "gid://shopify/Product/10447099363667",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190556516691"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9797040243027",
+    "name": "Umber"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9797018354003",
+    "name": "Tan"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-mera-karamel-set-van-2",
+  "productId": "gid://shopify/Product/10447099887955",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190557172051",
+   "name": "Kleur"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741311050067",
+    "name": "Crème"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-nox-umber-set-van-2",
+  "productId": "gid://shopify/Product/10447099920723",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190557204819"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741311082835",
+    "name": "Umber"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9741311115603",
+    "name": "Tan"
+   }
+  ]
+ },
+ {
+  "handle": "scandi-stoel-tan-set-van-2",
+  "productId": "gid://shopify/Product/10447100248403",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190557598035"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741296927059",
+    "name": "Umber"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9741296861523",
+    "name": "Tan"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-rock-set-van-2",
+  "productId": "gid://shopify/Product/10447100510547",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190558056787",
+   "name": "Kleur"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741298729299",
+    "name": "Crème"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-avena-set-van-2",
+  "productId": "gid://shopify/Product/10447101395283",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190559334739"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741309509971",
+    "name": "Crème"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9741309575507",
+    "name": "Mink"
+   }
+  ]
+ },
+ {
+  "handle": "bank-new-york",
+  "productId": "gid://shopify/Product/10447101460819",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190559400275"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741307445587",
+    "name": "Coco"
+   }
+  ]
+ },
+ {
+  "handle": "bank-londen-3-zits-ottoman-umber",
+  "productId": "gid://shopify/Product/10447101755731",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190559727955"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741306036563",
+    "name": "Tan"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9741306003795",
+    "name": "Umber"
+   }
+  ]
+ },
+ {
+  "handle": "bank-londen-6-zits-ottoman",
+  "productId": "gid://shopify/Product/10447101985107",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190559990099"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9718948331859",
+    "name": "Umber"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9718948299091",
+    "name": "Tan"
+   }
+  ]
+ },
+ {
+  "handle": "bank-londen-6-zits-tan",
+  "productId": "gid://shopify/Product/10447102017875",
+  "option": {
+   "id": "gid://shopify/ProductOption/13190560022867"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741309378899",
+    "name": "Umber"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9741309346131",
+    "name": "Tan"
+   }
+  ]
+ },
+ {
+  "handle": "zwembad",
+  "productId": "gid://shopify/Product/10490276741459",
+  "option": {
+   "id": "gid://shopify/ProductOption/13241461244243",
+   "name": "Diameter"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/8294612271443",
+    "name": "200 cm"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-japandi",
+  "productId": "gid://shopify/Product/11031554949459",
+  "option": {
+   "id": "gid://shopify/ProductOption/13875809059155",
+   "name": "Kleur"
+  },
+  "optionValuesToUpdate": []
+ },
+ {
+  "handle": "eetkamerstoel-sake",
+  "productId": "gid://shopify/Product/11031555014995",
+  "option": {
+   "id": "gid://shopify/ProductOption/13875809124691"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741305971027",
+    "name": "Umber"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9741305872723",
+    "name": "Tan"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-osaka",
+  "productId": "gid://shopify/Product/11031555080531",
+  "option": {
+   "id": "gid://shopify/ProductOption/13875809190227"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9741303775571",
+    "name": "Tan"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9741303873875",
+    "name": "Umber"
+   }
+  ]
+ },
+ {
+  "handle": "eetkamerstoel-fuji",
+  "productId": "gid://shopify/Product/11031555244371",
+  "option": {
+   "id": "gid://shopify/ProductOption/13875809354067"
+  },
+  "optionValuesToUpdate": [
+   {
+    "id": "gid://shopify/ProductOptionValue/9796164616531",
+    "name": "Tan"
+   },
+   {
+    "id": "gid://shopify/ProductOptionValue/9796515037523",
+    "name": "Umber"
+   }
+  ]
+ }
+]
