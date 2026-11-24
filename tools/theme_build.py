@@ -545,19 +545,78 @@ for _k, _v in LOC.items(): _set(_k, _v)
 log("locales/nl.json", "Spoor A: u-vorm vervangen door je-vorm en Engelse of foute vertalingen hersteld: 'Register' (nu 'Account aanmaken'), 'Dashboard' ('Overzicht'), demotekst over 'uitverkoop en nieuwkomers' bij registreren, 'Links' voor 'nog beschikbaar', 'in kar', 'In zoomen', 'Product kwantiteit', '/ea' ('/st'), 'Dichtbij' ('Sluiten'), 'Toneelstuk' ('Afspelen'), 'Rug' ('Terug'), 'uw' en 'u' in meldingen, XR-knop en winkelwagenteksten.")
 dump("locales/nl.json", loc_head + json.dumps(loc_obj, ensure_ascii=False, indent=2) + "\n", as_json=False)
 
+# ---------------- kleurnamen (24 november): machinevertaalde optienamen en -waarden tonen vertaald ----------------
+# De gegevens in Shopify/Orderchamp blijven zoals ze zijn; het thema vertaalt alleen de getoonde tekst.
+# Waarde die naar formulier of server gaat (input value, data-value, data-option-name, variant-id) blijft de originele naam.
+# Checkout, orderbevestiging en e-mails lezen de Shopify-gegevens en zijn niet via het thema te vertalen.
+_K = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "orderchamp", "kleurnamen.json"), encoding="utf-8"))
+_tabel = {}
+for _sec in ("waarden", "opties"):
+    for _k2, _v2 in _K[_sec].items():
+        assert _tabel.get(_k2, _v2) == _v2, f"sleutel {_k2!r} dubbel met ander resultaat"
+        _tabel[_k2] = _v2
+def _lq(t):  # Liquid kent geen escapes in tekenreeksen: kies de aanhalingstekens die niet in de tekst voorkomen
+    assert "%}" not in t and "{{" not in t, t
+    if "'" not in t: return "'" + t + "'"
+    assert '"' not in t, f"naam met beide soorten aanhalingstekens: {t!r}"
+    return '"' + t + '"'
+_kn = ["{%- comment -%}Gegenereerd door tools/theme_build.py uit data/orderchamp/kleurnamen.json. Gebruik: render 'inhuys-kleurnaam' met naam: x. Onbekende naam blijft ongewijzigd. Alleen voor getoonde tekst, nooit voor de waarde die naar het formulier gaat.{%- endcomment -%}",
+       "{%- assign naam_tekst = naam | append: '' -%}", "{%- case naam_tekst -%}"]
+for _k2, _v2 in _tabel.items():
+    _kn.append("  {%- when " + _lq(_k2) + " -%}" + _v2)
+_kn += ["  {%- else -%}{{- naam_tekst -}}", "{%- endcase -%}", ""]
+dump("snippets/inhuys-kleurnaam.liquid", "\n".join(_kn), as_json=False)
+log("snippets/inhuys-kleurnaam.liquid", f"Nieuw (24 november): vertaaltabel voor machinevertaalde kleur- en optienamen ({len(_K['waarden'])} waarden, {len(_K['opties'])} optienamen) als case/when, gegenereerd uit data/orderchamp/kleurnamen.json. {{% render 'inhuys-kleurnaam', naam: x %}} geeft de vertaling, een onbekende naam blijft ongewijzigd.")
+dump("snippets/inhuys-variantnaam.liquid", "{%- comment -%}Gegenereerd door tools/theme_build.py. Vervangt variant.title in getoonde tekst: de optiewaarden van de variant, elk vertaald via inhuys-kleurnaam, met ' / ' ertussen.{%- endcomment -%}\n{%- for optie_waarde in variant.options -%}{%- unless forloop.first %} / {% endunless -%}{%- render 'inhuys-kleurnaam', naam: optie_waarde -%}{%- endfor -%}\n", as_json=False)
+log("snippets/inhuys-variantnaam.liquid", "Nieuw: variantnaam opgebouwd uit de vertaalde optiewaarden met ' / ' (vervanger van variant.title in getoonde tekst).")
+
+def _patch(rel, pairs):
+    t = open(f"{SRC}/{rel}", encoding="utf-8").read()
+    for old, new, n in pairs:
+        assert t.count(old) == n, f"{rel}: {old!r} komt {t.count(old)}x voor, verwacht {n}x"
+        t = t.replace(old, new)
+    dump(rel, t, as_json=False)
+_R = "{%- render 'inhuys-kleurnaam', naam: "
+_patch("snippets/product-variant-picker.liquid", [
+    ('<span class="option-label--title">{{ option_label }}:</span>', '<span class="option-label--title">' + _R + 'option_label -%}:</span>', 1),
+    ('<span class="option-label--selected">{{ option.selected_value }}</span>', '<span class="option-label--selected">' + _R + 'option.selected_value -%}</span>', 1)])
+log("snippets/product-variant-picker.liquid", "Kleurnamen: label (bijv. 'color:' wordt 'Kleur:') en gekozen waarde in de variantkiezer gaan door inhuys-kleurnaam; data-option-name en data-selected-value (voor de variantlogica) blijven origineel.")
+_patch("snippets/product-variant-options.liquid", [
+    ("{{ value -}}\n          {{ label_unavailable }}", "{% render 'inhuys-kleurnaam', naam: value -%}\n          {{ label_unavailable }}", 1),
+    ("{{- value -}}", _R + "value -%}", 7),
+    ('<span class="m:visually-hidden">{{ value | escape }}</span>', "{%- capture kleurnaam_getoond -%}{% render 'inhuys-kleurnaam', naam: value %}{%- endcapture -%}\n          <span class=\"m:visually-hidden\">{{ kleurnaam_getoond | escape }}</span>", 1)])
+log("snippets/product-variant-options.liquid", "Kleurnamen: knoptekst, swatch-label, tooltip, dropdown-optie en verborgen hulptekst tonen de vertaalde waarde; value=, data-value= en id's (variantkeuze) blijven origineel.")
+_patch("snippets/swatch-input.liquid", [("{{- value -}}", _R + "value -%}", 1)])
+log("snippets/swatch-input.liquid", "Kleurnamen: tooltiptekst van de swatch vertaald; input value blijft origineel.")
+_patch("snippets/sticky-atc.liquid", [("{{ variant.title }} - {{ variant.price | money }}", "{% render 'inhuys-variantnaam', variant: variant %} - {{ variant.price | money }}", 1)])
+log("snippets/sticky-atc.liquid", "Kleurnamen: de varianten in de sticky-balk (en daarmee de quick view-variant) tonen de vertaalde variantnaam; option value blijft het variant-id.")
+_patch("snippets/cart-line-item.liquid", [("<span class=\"m:font-medium\">{{ option.name }}</span>: {{ option.value }}", "<span class=\"m:font-medium\">{% render 'inhuys-kleurnaam', naam: option.name %}</span>: {% render 'inhuys-kleurnaam', naam: option.value %}", 1)])
+log("snippets/cart-line-item.liquid", "Kleurnamen: optienaam en -waarde op de winkelwagenpagina vertaald.")
+_patch("snippets/cart-drawer-item.liquid", [("{{- option.name -}}", _R + "option.name -%}", 1), ("{{- option.value -}}", _R + "option.value -%}", 1)])
+log("snippets/cart-drawer-item.liquid", "Kleurnamen: optienaam en -waarde in de winkelwagenlade vertaald.")
+
+_patch("snippets/product-card-option.liquid", [
+    ("{{- value -}}", _R + "value -%}", 9),
+    ('<span class="m:visually-hidden">{{ value | escape }}</span>', "{%- capture kleurnaam_getoond -%}{% render 'inhuys-kleurnaam', naam: value %}{%- endcapture -%}<span class=\"m:visually-hidden\">{{ kleurnaam_getoond | escape }}</span>", 1)])
+log("snippets/product-card-option.liquid", "Kleurnamen: de kleurswatches in productkaarten (o.a. 'Recent bekeken' op product- en winkelwagenpagina) tonen de vertaalde naam in label en tooltip; data-value (voor de swatch-JS) blijft origineel.")
+
 # ---------------- batches ----------------
 files = {}
 for rel in ["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid", "snippets/inhuys-uitvoeringen.liquid", "snippets/breadcrumb.liquid",
             "templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json", "templates/page.interieuradvies.json", "templates/product.json",
             "sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json",
-            "sections/slider.liquid", "snippets/collection-card.liquid", "snippets/header-logo.liquid", "templates/list-collections.json", "templates/cart.json", "templates/blog.json", "snippets/cookie-banner.liquid"]:
+            "sections/slider.liquid", "snippets/collection-card.liquid", "snippets/header-logo.liquid", "templates/list-collections.json", "templates/cart.json", "templates/blog.json", "snippets/cookie-banner.liquid",
+            "snippets/inhuys-kleurnaam.liquid", "snippets/inhuys-variantnaam.liquid", "snippets/product-variant-picker.liquid", "snippets/product-variant-options.liquid", "snippets/swatch-input.liquid", "snippets/sticky-atc.liquid", "snippets/cart-line-item.liquid", "snippets/cart-drawer-item.liquid", "snippets/product-card-option.liquid"]:
     files[rel] = open(f"{OUT}/{rel}", encoding="utf-8").read()
 batches = [["config/settings_data.json", "sections/header-group.json", "sections/footer-group.json", "layout/theme.liquid", "snippets/inhuys-schema.liquid"],
            ["templates/index.json", "templates/page.contact.json", "templates/page.collecties.json", "templates/page.inspiratie.json"],
            ["snippets/inhuys-uitvoeringen.liquid", "templates/page.interieuradvies.json", "templates/product.json"],
            ["sections/image-with-text-2.liquid", "sections/header.liquid", "templates/collection.json", "templates/collection.merk-collectie.json", "locales/nl.json"],
            ["sections/slider.liquid", "snippets/collection-card.liquid", "snippets/header-logo.liquid"],
-           ["templates/list-collections.json", "templates/cart.json", "templates/blog.json", "snippets/cookie-banner.liquid"]]
+           ["templates/list-collections.json", "templates/cart.json", "templates/blog.json", "snippets/cookie-banner.liquid"],
+           ["snippets/inhuys-kleurnaam.liquid", "snippets/inhuys-variantnaam.liquid", "snippets/product-variant-picker.liquid", "snippets/product-variant-options.liquid", "snippets/swatch-input.liquid"],
+           ["snippets/sticky-atc.liquid", "snippets/cart-line-item.liquid", "snippets/cart-drawer-item.liquid"],
+           ["snippets/product-card-option.liquid"]]
 for i, b in enumerate(batches, 1):
     v = {"files": [{"filename": f, "body": {"type": "TEXT", "value": files[f]}} for f in b]}
     json.dump(v, open(f"{OUT}/../theme-vars-{i}.json", "w", encoding="utf-8"), ensure_ascii=False)
