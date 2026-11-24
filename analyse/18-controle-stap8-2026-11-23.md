@@ -14,3 +14,10 @@ Doel: vóór de publicatie kloppen producten, kleuren, foto's en collecties.
 Details: `analyse/18-winkelcontrole-2026-11-23.txt`, `data/orderchamp/verificatie/verschillen-stap8-2026-11-23.txt`, `data/tmp/collecties-2026-11-23.json`.
 Besluit eigenaar 23 november: schelpenketting H1 blijft zoals het is.
 Open na 24 uur (geplande controle 24 november 12:40): opnieuw de winkelcontrole; daarna `media_varianten` leeg.
+
+## Controle na 24 uur · 24 november 2026 12:41
+
+- Foto per kleur: 77 van 77 goed.
+- Kleurnamen: Orderchamp heeft bij 22 van de 77 live producten de oude optienamen en -waarden teruggezet (Omber, Bruinen, room, Nerts, Kokos, LATTE, Zand Wit, color, kleur, Materiaal/farbe, roos, BLAUW, KAMEEL, OLIJF, Weiß/Blau/Grün). Hernoemen via de API houdt geen stand.
+- Besluit eigenaar 24 november: vertalen in het thema (snippet `inhuys-kleurnaam` met de tabel uit `data/orderchamp/kleurnamen.json`); de gegevens in Shopify en Orderchamp blijven ongemoeid. Checkout, orderbevestiging en e-mails tonen de Orderchamp-namen tot die in Orderchamp zijn aangepast.
+- Uitzondering 2e gesloten: `media_varianten` in `data/ids.json` is leeg; beveiligingstests 37 van 37.
